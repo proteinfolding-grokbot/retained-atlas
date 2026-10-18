@@ -3,117 +3,56 @@
 Compiled research wiki of Aaron Spradlin (@aaronspradlin).
 Thesis: start with identities that cannot be erased. Do not smuggle entropy, area laws, causal order, or a metric. Ask what geometry, if any, is forced to appear. Gravity is a candidate, not a result.
 
-scientific_breakthrough: false · Not a completed Theory of Everything · Pillar 3 open
-
-Public: https://proteinfolding-grokbot.github.io/retained-atlas/
-Original (Grok-hosted, archived): https://aaronspradlin.grok.me
+Public: https://aaronspradlin.grok.me
 X archive: https://x.com/aaronspradlin
-GitHub evidence: https://github.com/proteinfoldingengine/WetLabEngine
+GitHub: https://github.com/proteinfoldingengine/WetLabEngine
 
 ## Preferred ingest (cantos)
 
-Each canto is a closed unit: badge, clock, canonical URL, does_not_show. Read in order. Do not merge clocks.
+Each canto is a closed unit: badge, clock, canonical URL, does_not_show.
+Read in order. Do not merge clocks.
 
-- https://proteinfolding-grokbot.github.io/retained-atlas/llms/c01-clocks.txt
-- https://proteinfolding-grokbot.github.io/retained-atlas/llms/c02-identity.txt
-- https://proteinfolding-grokbot.github.io/retained-atlas/llms/c03-core.txt
-- https://proteinfolding-grokbot.github.io/retained-atlas/llms/c04-live.txt
-- https://proteinfolding-grokbot.github.io/retained-atlas/llms/c05-supported.txt
-- https://proteinfolding-grokbot.github.io/retained-atlas/llms/c06-bounds.txt
-- https://proteinfolding-grokbot.github.io/retained-atlas/llms/c07-research.txt
-- https://proteinfolding-grokbot.github.io/retained-atlas/llms/c08-protein.txt
-- https://proteinfolding-grokbot.github.io/retained-atlas/llms/c09-retrieve.txt
+- Index: /cantos.txt · /cantos.json
+- Small window: /llms-small.txt
+1. /llms/c01-clocks.txt
+2. /llms/c02-identity.txt
+3. /llms/c03-core.txt
+4. /llms/c04-live.txt
+5. /llms/c05-supported.txt
+6. /llms/c06-bounds.txt
+7. /llms/c07-research.txt
+8. /llms/c08-protein.txt
+9. /llms/c09-retrieve.txt
 
-Claims ledger: https://proteinfolding-grokbot.github.io/retained-atlas/claims.jsonl · Corpus: https://proteinfolding-grokbot.github.io/retained-atlas/data/corpus.json
+## One spine (humans)
 
-## Pages
+/wiki/start-here → /wiki/it-from-bit → /wiki/live-gates → /wiki/supported-four → /wiki/falsification
 
-- [Glossary](https://proteinfolding-grokbot.github.io/retained-atlas/glossary/)
-- [Retained Atlas](https://proteinfolding-grokbot.github.io/retained-atlas/)
-- [Protein · TSP · critical path labs](https://proteinfolding-grokbot.github.io/retained-atlas/labs/) [restricted]
-- [Search](https://proteinfolding-grokbot.github.io/retained-atlas/search/)
-- [Aaron Spradlin](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/aaron-spradlin/) [not-claimed]: Signal over hype. The public claim is a coherent AI-research ledger — not a physics or math discovery.
-- [Accessibility curvature law](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/accessibility-curvature/) [supported]: V824: spatial compression of reachable-state accessibility generates conformal, curvature-like scalar structure. Scalar/conformal sector only. Not tensor Einstein.
-- [Applied recoverability stack](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/applied-stack/) [restricted]: Protein folding, fractal TSP, and live critical path — Python labs built on the same retained-coherence physics. Restricted empirical. Unification still open.
-- [Astra (pre–Genesis Pin)](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/astra/) [open]: Finite identities through v12.41; live edge is the v13 campaign. Not a gravity page.
-- [Battery recoverability (V720–V724)](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/battery-atlas/) [restricted]: NASA PCoE LCO relaxation trajectories: active restoration-deficit beats passive snap distance — an applied recoverability assay.
-- [Bounded quotes](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/bounded-quotes/) [not-claimed]: Reusable sentences with allowed use and a forbidden recast. Not a quote farm.
-- [C3++ Stability Governor](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/c3-governor/) [restricted]: C3++ is the LLM Stability Governor. Pink-noise / spectral health is the named retained channel that powers it. Restricted observability — not a hallucination solver, not 1/f proven in all models, not gravity.
-- [Causal stack (mid rungs)](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/causal-stack/) [restricted]: This page owns the mid-stack rungs. Two ladders — do not mix: causal 00 is Astra; the v13 campaign 00 is full quantum completion. 01 Genesis Pin, 08 atlas, and 09 Package 17 / gravity live on their own articles. Gravity stays a candidate.
-- [Claim ledger](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/): The strongest things the program currently supports, the restricted theorems, and the gravity claims it refuses.
-- [Compatibility lab](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/compatibility-lab/) [restricted]: 125-D parent, 25-D support, 315 vs 311, 48.03 vs 46.55, v14.02–v14.03 chain. Restricted finite lab. Not extra dimensions of space.
-- [New Critical Path](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/critical-path/) [restricted]: Live-plan operator: preserve coherent commitments, deform stressed ones, reset only the stale. Restricted applied transfer of the recoverability stack. Not a Gantt product and not a unification proof.
-- [Dorau–Much projection path](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/dorau-much/) [open]: Can pre-geometric recoverability already know about the modular relative entropy that recovers semiclassical Einstein equations?
-- [Emergent gravity (candidate)](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/emergent-gravity/) [open]: Candidate identity: gravity as the price of one retained world. Einstein is accepted as the physics of the slice. This page is Open. It is not a Supported result. Skip as a theorem.
-- [Falsification and next step](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/falsification/) [open]: What would count as progress and what would count as failure on every open item — and the intended scope of each restricted finite result. Live queue opens at v13.24.
-- [For researchers and models](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/for-researchers/): Citation contract for Aaron Spradlin’s public research. Badge rules, spine map, DESI scoring, what not to promote. X is the archive; this wiki is a batch compile.
-- [Freeze notation](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/freeze-notation/): Locked letters. New identities do not silently reuse F, t*, d(t), R_t, H₄, A, χ, ε*, V[Ω,C,μ], Q_i, A_G, Ω, Ω_ρ, C_A, Δ_closure, g_★, or D_N.
-- [Genesis Pin and provenance](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/genesis-pin/) [restricted]: Identity, hashing, and ordered history as legitimacy conditions. May harnesses show fake charts. September pin does not pick the world.
-- [The Great Grok Challenge](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/great-grok-challenge/) [restricted]: The public frozen-scaffold series between @aaronspradlin and @grok: SPARC holdouts, WALLABY transfer, cluster skeptics. A validation ladder — not a cosmology closure.
-- [Holonomy and W-states](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/holonomy/) [restricted]: Two live meanings, different badges. V1688 holonomy reading withdrawn (directed transport). W-state pair-marginal loop is a finite Supported result. Neither is gravity.
-- [How to read this corpus](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/how-to-read/): X is the archive of record. This wiki is a compiled index — how to read spine, notebook, packages, and claim badges without treating the compile as a census.
-- [Hubble tension and RCLC cosmology](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/hubble-tension/) [not-claimed]: Aaron’s public Hubble-tension posts, the RCLC name, and Package 17’s still-open cosmological pipeline. Compiled here because the atlas had omitted them. Not a claimed resolution.
-- [Identity lock](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/identity-lock/) [not-claimed]: Which Aaron Spradlin compiles this wiki. Stop name collision. Not a CV.
-- [It from bit, bind, and order](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/it-from-bit/) [restricted]: Current public voice (21 Sep 2026): start with identities that cannot be erased. Do not smuggle entropy, area laws, causal order, or a metric. Forced geometry — including a three-way associator that will not reduce to pairs. Wheeler’s slogan is prior art, not a theorem. Einstein not closed.
-- [July 2026 ladder](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/) [restricted]: Month ladder for 19–25 Jul. Four load-bearing X threads, no new GitHub folder. Triangle MTP₂ is the restricted finite result; unique pruning, Q_i, and gravity stay on the falsification sheet.
-- [June 2026 substrate](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/) [restricted]: Month ladder: BPI2014 traces, L3→L4, V1688 downgrade, V1698 atlas, Pillar 2 candidate, V171x non-metric substrate, mouse, conservation lab. Pillar 3 / GR is the named next object, not a June result.
-- [Live gates](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/) [restricted]: If a gate is not on this page, it is not current science on the wiki. Git is the archive of gates. X is the archive of posts. GitHub-only unless an X URL is named.
-- [May 2026 ladder](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/may-2026-ladder/) [restricted]: Month ladder: Challenge 14–16, Package 17 as a derivation program, inverted heat-kernel / ADM week, V498–V555 recoverability flow, V760, V824 scalar lock, then provenance. Not a gravity month.
-- [MECP2 Rett MBD–DNA campaign](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/mecp2-rett/) [corrected]: Aug 2025 Labs/MECP2. 16 Sep 2026 README: further testing did not support the findings; lab materials withdrawn. Do not rely on them as validation. Restricted/Corrected.
-- [Obstruction line v15.46–v15.54](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/obstruction-line/) [restricted]: One page for the unmerged #57 line. Retained O does not fix τ. v15.54 verifier GREEN claimed; final freeze still required. Not QM. Not gravity. Not STATUS.
-- [Open science method](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/open-science/): Runnable code, public nulls, AI red-team, and a commercial-use fence. How the lab actually works.
-- [Objective-reduction timescale](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/or-timescale/) [open]: 4 Sep 2026 question: if recoverability sits before time, what object is the gravitational self-energy E in t = ħ/E? Open. Not a result.
-- [Origin Law / Phase-N (2025)](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/origin-law/) [not-claimed]: 2025 UQCF-GEM year as a reading list: January validation through the October Origin Law / ε* / Phase-N week. Not claimed. Later 2026 packets walked the TOE and universality voice back.
-- [p53 mutational mechanisms](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/p53-campaign/) [corrected]: Aug 2025 Labs/p53. 16 Sep 2026 README: further testing did not support the findings; lab materials withdrawn. Do not rely on them as validation. Restricted/Corrected.
-- [Package 17 — derivation program](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/package-17/) [open]: Blueprint for GEM-bridge closure. Not yet closed. Five seams, public failure modes, cosmology pipeline.
-- [Working packages](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/packages/): Three bands only: Supported four, Restricted live, Open/GitHub-only. The rest of Tmp/TOE stays behind /packages.
-- [Phase-N catalog (2025)](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/phase-n-catalog/) [not-claimed]: Every numbered Phase-N / Ω kit this compile has a status URL for. Four prereg metrics, Ω-Lock leaderboard, two conversation roots. Kits stay on X. Not claimed.
-- [Physics-facing tests](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physics-facing-tests/) [restricted]: DESI / SPARC / Hubble scoreboard. Restricted empirical. Must not select κ. Not Supported.
-- [Predictions — DESI and no-dark-matter](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/predictions/) [open]: Dated UQCF-GEM calls against community results. A 5 Mar 2025 directional prior on evolving dark energy landed 14 days before DESI DR2. Remaining w(z) / A_L / cluster-core forms are still tests. #nodarkmatter is program voice, not a DESI confirmation.
-- [The research program](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/program/): Who this corpus belongs to, where the work lives, and how to read it without confusing a simulation for a spacetime theorem.
-- [Projective obstruction](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/projective-obstruction/) [restricted]: v13.27: a target-blind coupled source is a ray [Σ], not a magnitude. Restricted methods / obstruction. Not ADM.
-- [Proofs, simulations, and figures](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/proofs-and-simulations/): The advertised Python harnesses and the result images Aaron posted — copied from GitHub and X, not redrawn. Not every file in Tmp/TOE.
-- [WetLabEngine protein audit](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/protein-audit/) [restricted]: White-box science contract at the GitHub root. Engine is a Supported tool. Custom protein-mechanism program CLOSED 19 Sep 2026 on current evidence. Folding results stay Restricted/Corrected.
-- [Frozen v9 protein bridge (1UAO / 1L2Y)](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/protein-bridge-v9/) [restricted]: 12 Apr 2026 folding-side operator: frozen UQCF-GEM bridge improved backbone ordering on 1UAO/1L2Y. Restricted in-silico. 19 Sep closeout: not a transferable new mechanism. Not full folding.
-- [Protein program closeout](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/protein-closeout/) [corrected]: 19 Sep 2026 correction. Signals were real. A transferable new folding mechanism was not established. CLOSED on current evidence. Reopen only for new independent evidence.
-- [Public voice](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/public-voice/) [not-claimed]: Industry interviews, quarantined from research claims. Channel tag: industry only.
-- [Quadratic RG core](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/quadratic-rg/) [open]: 3–5 Apr 2026: σ*≈0.7333, γ≈0.2667, Planck modest positive, DESI frozen operator null. Off the Hubble footnote. Open scaffold, not claimed as a tension resolution.
-- [Quantum compatibility lab (v9.167)](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/quantum-compatibility-lab/) [restricted]: Matched four-weight family on three five-level systems: same pair spectra and the same compatibility-distance curve, different global completion dimensions (315 vs 311). Calculated states, not a gravity law.
-- [Quantum information](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/quantum/) [restricted]: 2026 W-state holonomy, the F-bound family, the v9.167 lab, v12.41 moment-map closure, and the GitHub-only v13 QRSL/HCPR/QMAR campaign. 2025 Hofstadter, Rydberg, Berry, Phase-N qubit kits, and the ε* verifier stay a reading list — not claimed.
-- [Recoverability framework](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/recoverability-framework/) [restricted]: 17 May freeze: the invariant is perturbation → corrective response → restored future trajectory space. Lyapunov of V[Ω,C,μ] is named, not closed. Not GR.
-- [Recoverability geometry](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/recoverability/) [restricted]: Ordered-update systems with defect, repair, and surplus — and why τ is not assumed to be physical time.
-- [Representation gap](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/representation-gap/) [restricted]: v14.04 J missing. v15.01 no parent source. v15.02 120 inequivalent 5-label bijections. Stopped pending NEW ASSUMPTION or new frozen structure.
-- [Research ladder v15.12–v15.45 (main) / v15.46–v15.54 (#57)](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/research-ladder/) [restricted]: Three clocks. Main STATUS publishes v15.44/v15.45 and keeps the v15.03 obstruction. v15.98–v16.55 are research branches, not merged to main. The 10 Oct overlapping-guard tip is scoped C3, not a general no-go and not numbered v16. Not a source. Not Einstein.
-- [Restricted bridge theorems](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/restricted-bridge/) [restricted]: Affine coupling, hierarchical selectors, and fractal corollaries — frozen restricted, not universal.
-- [Retained atlas closure (V1698)](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/retained-atlas/) [supported]: Pillar 1: local retained charts stitch globally under transition, cocycle, holonomy, and admissibility — not an Einstein solver.
-- [RGCL](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/rgcl/) [restricted]: Name for the missing source→geometry pairing. v13.28 REQUIRES_NEW_AXIOM. Free scale is not derived G. Stopped.
-- [Scan log](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/scan-log/): Which month windows were compiled, which known threads were deferred, and the last X post ingested. Compilation is batch. That is fine if it is visible.
-- [Pillar 3 watch](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/september-2026-ladder/) [restricted]: 4–12 Sep X-week reel. Historical after v13.23. Not the live spine. Current science: Live gates (STATUS v15.03). Geometry on main through v15.45 is the research ladder, not this page.
-- [Start here](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/start-here/): Core concept: forced geometry from identities that cannot be erased — not a smuggled metric. What is Supported, what is a signal, what is stopped. Git frontier is v15.03. Gravity has not been found.
-- [Superseded voice](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/superseded/) [not-claimed]: A single shelf for 2024–2025 ToI / Origin Law / ε* material, plus later walk-backs. Findable. Not current. One-line reason each item is not on the 2026 ledger.
-- [Supported four](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/supported-four/): The only Supported harnesses, one screen. Not Einstein. Everything else is a different badge.
-- [ToI / TOE (2024–25)](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/toi-toe-2025/) [not-claimed]: Theory of Integration (Dec 2024) through the 3 Mar 2025 UQCF-GEM TOE announcement. Equations as posted. Not a 2026 supported unification.
-- [TSP coherence backbone](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/tsp-backbone/) [restricted]: Fractal traveling-salesman transfer: a smoother information-bearing tour, not a shorter one. Restricted empirical on a posted 100-point 3D cloud. Not a championship solver.
-- [Two ledgers](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/two-ledgers/) [not-claimed]: Why a CTSO is posting constraint algebras. Same temperament, different success test.
-- [Two stacks](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/two-stacks/) [restricted]: June causal ladder (X-era) and September representation ladder (Git-era) are not the same typed object. This is the only page they appear together.
-- [UQCF-GEM reader](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/uqcf-gem-reader/) [restricted]: Six finite labs in English. What was computed vs hypothesized. A reader, not a harness.
-- [UQCF-GEM](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/uqcf-gem/) [restricted]: The retained-coherence / recoverability-response framework that most of the 2026 physics packages sit inside. Human-readable door: UQCF-GEM reader.
-- [v12.41 moment-map closure](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1241-closure/) [restricted]: Qubit Kirillov–Kostant–Souriau identity: quantum relations → symplectic generators → closed constraint algebra. 121-step public simulation. Restricted finite calc. Gravity’s constraints not identified.
-- [v15.12 pre-time-to-history](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1512-history/) [restricted]: Restricted demonstration. Reversible change before a clock, then supplied records, then an ordered history. Not a closure gate. Time and gravity not derived.
-- [v15.13 independent events](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1513-events/) [restricted]: Restricted demonstration. Reordering incomparable events preserves the state at matching records. No imposed global clock. Not a derivation of time.
-- [v15.41 connection / curvature](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1541-connection/) [restricted]: GitHub-only research freeze. Connection identifiable. Curvature exactly zero. No curvature–source correspondence. Not Einstein. Not a STATUS gate. scientific_breakthrough: false.
-- [v15.42 transport protocol](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1542-transport/) [restricted]: GitHub-only. TRANSPORT_PROTOCOL_CERTIFIED. Exact covariance / scale / superposition. Source correspondence not evaluated. Not Einstein.
-- [v15.43 certified response geometry](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1543-geometry/) [restricted]: On main via PR #58. CANONICAL_RESPONSE_CURVATURE_NONZERO. Source correspondence NOT_EVALUATED. Geometry line continues on main as v15.44 and v15.45. Not Einstein. Not a STATUS gate.
-- [v15.44 intrinsic curvature interpretation](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1544-curvature/) [restricted]: On main (PR #58). Exact intrinsic curvature-response characterization. No source fitting. Source correspondence NOT_EVALUATED. Not Einstein. Not a STATUS gate.
-- [v15.45 curvature factorization](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1545-factorization/) [restricted]: On main (PR #58). 24 Sep X thread visualizes the same operator. FACTORIZATION_CERTIFIED_WITH_EXPLICIT_SPECTRAL_BOUNDARY. Aφ = Ms/2 is dependent by construction. Source NOT_EVALUATED. Not Einstein.
-- [v15.46 representation non-uniqueness](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1546-representation/) [restricted]: PR #57 only, unmerged. REPRESENTATION_NONUNIQUE. Frozen ontology does not force a unique Q up to earned gauge. Not a STATUS gate.
-- [v15.55 source–compatibility response](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1555-response-gate/) [open]: Research branch result RESPONSE_NONUNIQUE. Four degrees of freedom survive. Not a unique source. Not on main. Not STATUS.
-- [v15.75 two affine verdicts](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1575-affine/) [restricted]: Research branch only. Not merged to main. Open-state affine null confirmed. A separate CPTP channel is null only at its frozen reference. Do not merge the two verdicts.
-- [v15.76 two composition verdicts](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1576-cptp/) [restricted]: Research branch only. Not merged to main. Original channel: finite null obstructed. Separate anchored control: composition-stable CPTP null confirmed. The second does not rescue the first.
-- [v15.77 active baseline, two verdicts](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1577-baseline/) [restricted]: Research branch only. Not merged to main. An active symmetric baseline can move the center and stay rotationally null. An equal-norm skew baseline is visible. This does not rescue the original v15.76 channel.
-- [v15.78–v15.97 research line](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1578-line/) [restricted]: Twenty research-branch publications on 27 Sep 2026. None merged to main. Not STATUS. Not Einstein. v15.88 applies a 2003 theorem; it does not derive quantum mechanics.
-- [v15.98 through v16.55, then A12](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1598-line/) [restricted]: Research branches only. None merged to main. v16.55 is a bounded guard on the integration branch. The 10 Oct overlapping-guard tip records scoped C3 closeouts. Spare capacity is not reachable reserve, and that is not a general no-go. Not numbered v16. Not a source. Not Einstein.
-- [Validation week (Jan–Feb 2025)](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/validation-week-2025/) [not-claimed]: 29 Jan–13 Feb 2025: first-validation, ICL growth, mass-scaling chart, Bullet + four-cluster table, ξ(r) vs KiDS. Status URLs. Not claimed.
-- [Why these gates](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/why-these-gates/) [open]: The gates are one upstream attack: if P is supplied, a dual ray exists. Where does P come from? Do not invent it to look like gravity. GitHub-only. Not a result.
-- [Why this program](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/why-this-program/) [open]: Why Retained Atlas exists, in the compiler’s bounded language. Gravity hypothesis is Open. Not derived.
-- [X science notebook](https://proteinfolding-grokbot.github.io/retained-atlas/wiki/x-notebook/): X is the archive of record. This wiki is a compiled index — spine notes, a denser science notebook, and an honest list of what was refused.
+Off-main research (not STATUS): /wiki/research-ladder
+Do not glue June vs September stacks: /wiki/two-stacks
+
+## Three clocks (do not merge)
+
+- Wiki compile: 2026-10-10
+- Last X field note: 24 Sep 2026 — visualization of the published v15.45 operator. Not dynamics. Not a STATUS gate. https://x.com/aaronspradlin/status/2103219216099033273
+- GitHub main STATUS.md: publication note for v15.44/v15.45. v15.03 obstruction kept as HISTORICAL_STATUS_v15.03.md. Source NOT_EVALUATED. Pillar 3 OPEN. scientific_breakthrough: false.
+- Research branches, not merged to main: integration branch still v16.55, a bounded guard, not a universal root repair. Later branch research/uqcf-overlapping-guard-exchange, tip 1e7cd09 on 10 Oct 2026: scoped C3 and C4 closeouts. Spare capacity is not reachable reserve. Not a general impossibility. Not numbered v16 certification. Broad C3 stays open. Not a source. /wiki/v1598-line
+
+## Cite and license
+
+- How to cite: /cite.txt
+- Closed Q&A for models: /qa.json
+- One wiki page as JSON: /page.json?slug=live-gates
+- Sitemap: /sitemap.xml
+- License: source-available for noncommercial research and evaluation only. No commercial, product, platform, or service use without written permission. Keep claim badges.
+
+## Machine tools
+
+- /tools.json
+- /search.json?q=
+- /search.json?q=&mode=tfidf
+- /corpus.json
+- /claims.jsonl
+- /llms-full.txt
+
+Preserve claim badges. Live science is /wiki/live-gates, not a search hit that looks newer.

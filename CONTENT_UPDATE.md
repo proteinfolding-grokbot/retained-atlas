@@ -34,3 +34,7 @@ How an agent adds or updates pages from **WetLabEngine** (https://github.com/pro
 3. **New claim:** append one line to `claims/ledger.jsonl`, e.g. `{"id":"atlas:<slug>","status":"restricted","title":"...","text":"... not on main ..."}`.
 4. **Banner/clocks:** update `overrides/main.html` (compiled date, last X date, GitHub STATUS version) only when they actually change.
 5. Run `python scripts/build_machine_files.py && mkdocs build --strict` or plain `mkdocs build` to check, then commit and open the PR. Summarize for Aaron in plain language: what changed, and which status markers (if any) moved and why.
+
+## Checks every PR must pass
+
+`mkdocs build --strict`, `scripts/check_links.py`, and `scripts/claim_guard.py`. The guard fails if any line in `claims/protected_lines.json` disappears from its page, if `scientific_breakthrough` is anything but `false`, or if a ledger claim is removed or upgraded (to restricted or supported). If the source itself changed (WetLabEngine STATUS.md), update `claims/protected_lines.json` in the same PR and cite the commit SHA so Aaron can review it.

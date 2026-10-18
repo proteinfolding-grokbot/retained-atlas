@@ -2,60 +2,42 @@
 title: "Public voice"
 route: "/wiki/public-voice"
 source: "https://aaronspradlin.grok.me/wiki/public-voice"
+description: "Industry interviews, quarantined from research claims. Channel tag: industry only."
 date: "2026-09-13"
 claimStatus: "not-claimed"
 tags: ["industry", "interviews", "voice"]
 dek: "Industry interviews, quarantined from research claims. Channel tag: industry only."
 ---
 
-[Wiki](https://aaronspradlin.grok.me/wiki)
+[Wiki](index.md)
 
 # Public voice
 
 Industry interviews, quarantined from research claims. Channel tag: industry only.
 
-OrientationMethodNot claimed2026-09-13compiled 2026-10-101 min read[1 X source](#x-sources)
+Orientation · Method · Not claimed · 2026-09-13 · compiled 2026-10-10 · 1 min read · [1 X source](#x-sources)
 
-[Original on X](https://x.com/aaronspradlin/status/2095314028969275500)[JSON](../data/page.json)[Cite](../data/cite.txt)
+[Original on X](https://x.com/aaronspradlin/status/2095314028969275500) · [JSON](../data/page/public-voice.json) · [Cite](../cite.txt)
 
-industryinterviewsvoice
+industry · interviews · voice
 
 On this page
 
-* [Print quotes (not interviews)](#print-quotes-not-interviews)
-* [Explicit exclusion](#explicit-exclusion)
+*   [Print quotes (not interviews)](#print-quotes-not-interviews)
+*   [Explicit exclusion](#explicit-exclusion)
+
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 Industry only
 
@@ -75,79 +57,60 @@ Verified URLs: WealthTech Today episode page; G&T Sessions YouTube. Beacon Flash
 
 NotebookLM “podcast” links under WetLabEngine / TOE repos are generated explainers. They are not third-party interviews. See /wiki/x-notebook.
 
-## Print quotes (not interviews)[#](#print-quotes-not-interviews)
+## Print quotes (not interviews) {#print-quotes-not-interviews}
 
-* InvestmentNews 2014 — “prove it before you talk about it.” Industry temperament. Not a research badge.
-* Hamachi and SurgeONE 2026 releases — governed AI rollout. Industry channel. Not a [UQCF-GEM](uqcf-gem.md) result.
+*   InvestmentNews 2014 — “prove it before you talk about it.” Industry temperament. Not a research badge.
+*   Hamachi and SurgeONE 2026 releases — governed AI rollout. Industry channel. Not a [UQCF-GEM](uqcf-gem.md) result.
 
-## Explicit exclusion[#](#explicit-exclusion)
-
+## Explicit exclusion {#explicit-exclusion}
 Do not index podcasts or interviews by Tennessee [Aaron Spradlin](aaron-spradlin.md) (Pale Horse, Mission America, Michael’s Sword, Heartland Journal, airborne / anti-trafficking corpus). Those are a different person. [Identity lock](identity-lock.md) is the refuse rule.
+
+<span id="x-sources"></span>
 
 ## X sources
 
 Original posts this article was compiled from. The notebook copy is editorial; the status URL is the source.
 
-* 2026-09-03
+*   2026-09-03
 
-  ThinkAdvisor Luminaries finalist
+    ThinkAdvisor Luminaries finalist
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#luminaries-2026-09-03)[Open original post](https://x.com/aaronspradlin/status/2095314028969275500)
+    [In the notebook](../notes.md#luminaries-2026-09-03) · [Open original post](https://x.com/aaronspradlin/status/2095314028969275500)
 
-[PreviousTwo ledgers](two-ledgers.md)[NextBounded quotes](bounded-quotes.md)
+[Previous Two ledgers](two-ledgers.md)[Next Bounded quotes](bounded-quotes.md)
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 On this page
 
-* [Print quotes (not interviews)](#print-quotes-not-interviews)
-* [Explicit exclusion](#explicit-exclusion)
+*   [Print quotes (not interviews)](#print-quotes-not-interviews)
+*   [Explicit exclusion](#explicit-exclusion)
 
 [X sources](#x-sources)
 
 Related articles
 
-* [X science notebook](x-notebook.md)
-* [Open science method](open-science.md)
-* [Aaron Spradlin](aaron-spradlin.md)
-* [Identity lock](identity-lock.md)
-* [Two ledgers](two-ledgers.md)
+*   [X science notebook](x-notebook.md)
+*   [Open science method](open-science.md)
+*   [Aaron Spradlin](aaron-spradlin.md)
+*   [Identity lock](identity-lock.md)
+*   [Two ledgers](two-ledgers.md)
 
 Field notes
 
-* [ThinkAdvisor Luminaries finalist](https://aaronspradlin.grok.me/notes#luminaries-2026-09-03)
+*   [ThinkAdvisor Luminaries finalist](../notes.md#luminaries-2026-09-03)
 
-  2026-09-03
+    2026-09-03
 
-  [On X](https://x.com/aaronspradlin/status/2095314028969275500)
+    [On X](https://x.com/aaronspradlin/status/2095314028969275500)

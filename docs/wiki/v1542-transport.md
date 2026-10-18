@@ -2,13 +2,14 @@
 title: "v15.42 transport protocol"
 route: "/wiki/v1542-transport"
 source: "https://aaronspradlin.grok.me/wiki/v1542-transport"
+description: "GitHub-only. TRANSPORT_PROTOCOL_CERTIFIED. Exact covariance / scale / superposition. Source correspondence not evaluated. Not Einstein."
 date: "2026-09-20"
 claimStatus: "restricted"
 tags: ["v15.42", "GitHub-only", "transport"]
 dek: "GitHub-only. TRANSPORT_PROTOCOL_CERTIFIED. Exact covariance / scale / superposition. Source correspondence not evaluated. Not Einstein."
 ---
 
-[Wiki](https://aaronspradlin.grok.me/wiki)
+[Wiki](index.md)
 
 # v15.42 transport protocol
 
@@ -35,48 +36,30 @@ GitHub-only gates have no invented X URL. Do not merge the X week with the Git l
 
 GitHub-only. TRANSPORT\_PROTOCOL\_CERTIFIED. Exact covariance / scale / superposition. Source correspondence not evaluated. Not Einstein.
 
-00 AstraResultRestricted2026-09-20compiled 2026-10-101 min read1 claim[1 X source](#x-sources)
+00 Astra · Result · Restricted · 2026-09-20 · compiled 2026-10-10 · 1 min read · 1 claim · [1 X source](#x-sources)
 
-[Package: ResearchHistory/UQCF-GEM (v13–v14)](https://aaronspradlin.grok.me/packages/uqcf-gem-v13)[JSON](../data/page.json)[Cite](../data/cite.txt)
+[Package: ResearchHistory/UQCF-GEM (v13–v14)](../packages/uqcf-gem-v13.md) · [JSON](../data/page/v1542-transport.json) · [Cite](../cite.txt)
 
-v15.42GitHub-onlytransport
+v15.42 · GitHub-only · transport
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 Repair, not a gravity law
 
 Certifies the manufactured transport protocol after [v15.41](v1541-connection.md)’s flat Cartan-source stop. Next required object was apply certified transport to response geometry without source adjudication — that is [v15.43](v1543-geometry.md). Main [STATUS.md](https://github.com/proteinfoldingengine/WetLabEngine/blob/main/ResearchHistory/UQCF-GEM/STATUS.md) remains [v15.03](why-these-gates.md).
+
+<span id="atlas:v15-42"></span>
 
 Restricted
 
@@ -86,72 +69,54 @@ v15.42: TRANSPORT\_PROTOCOL\_CERTIFIED. All covariances exact, scale exact, supe
 
 Source on X
 
-* [v15.42 demo folder](https://github.com/proteinfoldingengine/WetLabEngine/tree/research/v15.42-duality-covariant-transport-repair/ResearchHistory/UQCF-GEM/demos/v15.42-duality-covariant-transport-repair)
-* [v15.43 response geometry](v1543-geometry.md)
-* [v15.41 Cartan stop](v1541-connection.md)
-* [STATUS.md (main, v15.03)](https://github.com/proteinfoldingengine/WetLabEngine/blob/main/ResearchHistory/UQCF-GEM/STATUS.md)
+*   [v15.42 demo folder](https://github.com/proteinfoldingengine/WetLabEngine/tree/research/v15.42-duality-covariant-transport-repair/ResearchHistory/UQCF-GEM/demos/v15.42-duality-covariant-transport-repair)
+*   [v15.43 response geometry](v1543-geometry.md)
+*   [v15.41 Cartan stop](v1541-connection.md)
+*   [STATUS.md (main, v15.03)](https://github.com/proteinfoldingengine/WetLabEngine/blob/main/ResearchHistory/UQCF-GEM/STATUS.md)
+
+<span id="x-sources"></span>
 
 ## X sources
 
 Original posts this article was compiled from. The notebook copy is editorial; the status URL is the source.
 
-* 2026-09-20
+*   2026-09-20
 
-  v15.42 transport protocol certified
+    v15.42 transport protocol certified
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v1542-2026-09-20)Open original post
+    [In the notebook](../notes.md#v1542-2026-09-20) · Open original post
 
-[Previousv15.55 source–compatibility response](v1555-response-gate.md)[Nextv15.41 connection / curvature](v1541-connection.md)
+[Previous v15.55 source–compatibility response](v1555-response-gate.md)[Next v15.41 connection / curvature](v1541-connection.md)
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 Related articles
 
-* [Falsification and next step](falsification.md)
-* [Live gates](live-gates.md)
-* [v15.43 certified response geometry](v1543-geometry.md)
-* [v15.41 connection / curvature](v1541-connection.md)
-* [Research ladder v15.12–v15.45 (main) / v15.46–v15.54 (#57)](research-ladder.md)
+*   [Falsification and next step](falsification.md)
+*   [Live gates](live-gates.md)
+*   [v15.43 certified response geometry](v1543-geometry.md)
+*   [v15.41 connection / curvature](v1541-connection.md)
+*   [Research ladder v15.12–v15.45 (main) / v15.46–v15.54 (#57)](research-ladder.md)
 
 GitHub packages
 
-* [ResearchHistory/UQCF-GEM (v13–v14)](https://aaronspradlin.grok.me/packages/uqcf-gem-v13)
+*   [ResearchHistory/UQCF-GEM (v13–v14)](../packages/uqcf-gem-v13.md)
 
 Field notes
 
-* [v15.42 transport protocol certified](https://aaronspradlin.grok.me/notes#v1542-2026-09-20)
+*   [v15.42 transport protocol certified](../notes.md#v1542-2026-09-20)
 
-  2026-09-20
+    2026-09-20
 
-  On X
+    On X

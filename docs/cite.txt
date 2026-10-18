@@ -1,0 +1,22 @@
+Retained Atlas — how to cite
+
+Spradlin, Aaron Glenn. Retained Atlas. Compiled 2026-10-10.
+https://aaronspradlin.grok.me
+
+Required pieces:
+- wiki slug (example: live-gates)
+- compile date (2026-10-10)
+- original X status URL when the claim is a field note
+- GitHub package folder when the badge lives in Tmp/TOE or ResearchHistory/UQCF-GEM
+- claim badge in the same sentence (supported | restricted | open | not-claimed | corrected)
+
+Example:
+Spradlin, A. (2026-10-10). Live gates [restricted]. Retained Atlas.
+https://aaronspradlin.grok.me/wiki/live-gates
+Main STATUS.md publishes v15.44/v15.45 and keeps the v15.03 obstruction. scientific_breakthrough: false.
+v15.76 is not merged. Do not collapse its two verdicts.
+
+License: Source-available for noncommercial research and evaluation only. No commercial, product, platform, or service use without written permission.
+
+Do not cite this wiki as a journal, as Einstein derived, or as a completed Theory of Everything.
+Machine: /qa.json · /page.json?slug= · /cantos.txt · /llms.txt

@@ -1,4 +1,4 @@
-"""Regenerate docs/llms.txt and docs/claims.jsonl from docs/**/*.md front matter + claims/ledger.jsonl.
+"""Regenerate docs/data/llms-site.txt and docs/data/claims-pages.jsonl from docs/**/*.md front matter + claims/ledger.jsonl.
 Run before `mkdocs build` (the Actions workflow does this)."""
 import json,glob,os,re
 BASE=os.environ.get('SITE_URL','https://proteinfolding-grokbot.github.io/retained-atlas/').rstrip('/')
@@ -14,8 +14,7 @@ for f in sorted(glob.glob('docs/**/*.md',recursive=True)):
     p=f[5:-3]; url=BASE+'/'+('' if p=='index' else p+'/')
     pages.append((p,fm,url))
 claims=[json.loads(l) for l in open('claims/ledger.jsonl') if l.strip()]
-with open('docs/claims.jsonl','w') as o:
-    for c in claims: o.write(json.dumps(c,ensure_ascii=False)+'\n')
+with open('docs/data/claims-pages.jsonl','w') as o:  # docs/claims.jsonl stays byte-identical to the original
     for p,fm,url in pages:
         if fm.get('claimStatus'):
             o.write(json.dumps({'id':'page:'+p,'status':fm['claimStatus'],'title':fm.get('title'),'text':fm.get('dek',''),'url':url,'date':fm.get('date')},ensure_ascii=False)+'\n')
@@ -27,5 +26,6 @@ f'Public: {BASE}/','Original (Grok-hosted, archived): https://aaronspradlin.grok
 L+=[f'- {BASE}/llms/{os.path.basename(x)}' for x in sorted(glob.glob('docs/llms/*.txt'))]
 L+=['',f'Claims ledger: {BASE}/claims.jsonl · Corpus: {BASE}/data/corpus.json','','## Pages','']
 L+=[f"- [{fm.get('title',p)}]({url})"+(f" [{fm['claimStatus']}]" if fm.get('claimStatus') else '')+(f": {fm['dek']}" if fm.get('dek') else '') for p,fm,url in pages]
-open('docs/llms.txt','w').write('\n'.join(L)+'\n')
+# docs/llms.txt stays byte-identical to the original
+open('docs/data/llms-site.txt','w').write('\n'.join(L)+'\n')
 print(len(pages),'pages,',len(claims),'ledger claims')

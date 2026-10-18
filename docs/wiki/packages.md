@@ -2,55 +2,36 @@
 title: "Working packages"
 route: "/wiki/packages"
 source: "https://aaronspradlin.grok.me/wiki/packages"
+description: "Three bands only: Supported four, Restricted live, Open/GitHub-only. The rest of Tmp/TOE stays behind /packages."
 date: "2026-09-13"
 tags: ["GitHub", "packages", "Tmp/TOE"]
 dek: "Three bands only: Supported four, Restricted live, Open/GitHub-only. The rest of Tmp/TOE stays behind /packages."
 ---
 
-[Wiki](https://aaronspradlin.grok.me/wiki)
+[Wiki](index.md)
 
 # Working packages
 
 Three bands only: Supported four, Restricted live, Open/GitHub-only. The rest of Tmp/TOE stays behind /packages.
 
-MethodMethod2026-09-13compiled 2026-10-101 min read
+Method · Method · 2026-09-13 · compiled 2026-10-10 · 1 min read
 
-[Package: WetLabEngine (root)](https://aaronspradlin.grok.me/packages/wetlab-root)[JSON](../data/page.json)[Cite](../data/cite.txt)
+[Package: WetLabEngine (root)](../packages/wetlab-root.md) · [JSON](../data/page/packages.json) · [Cite](../cite.txt)
 
-GitHubpackagesTmp/TOE
+GitHub · packages · Tmp/TOE
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 The interesting object is [Supported four](supported-four.md) plus this week’s GitHub-only gate, not 72 folders. Archive the rest behind the GitHub catalog.
 
@@ -78,7 +59,7 @@ GitHub catalog is the package index. Wiki articles cite the load-bearing named h
 | WetLabEngine (root) | supported | Protein-audit engine; not a folding oracle |
 | Einstein Phase 1 / [V824](accessibility-curvature.md) | supported | Accessibility-curvature, scalar/conformal only |
 | Einstein\_12 [V1698](retained-atlas.md) | supported | Five-chart atlas closure, residual ~3.27×10⁻¹⁶ |
-| uqcf\_w\_holonomy\_replication | supported | [W-state](holonomy.md) [BKM](uqcf-gem.md) spectrum {−1,+1,+1} |
+| uqcf\_w\_holonomy\_replication | supported | [W-state](holonomy.md) [BKM](uqcf-gem.md) spectrum \{−1,+1,+1\} |
 | uqcf\_codazzi\_proof | supported | Finite [Codazzi](uqcf-gem.md) identities + genericity |
 | UQCF\_Quantum\_Compatibility\_Lab | restricted | [v9.167](quantum-compatibility-lab.md) [matched four-weight](quantum-compatibility-lab.md): [315 vs 311](quantum-compatibility-lab.md); not [v9](protein-bridge-v9.md).156; gravity not established |
 | Einstein 11 [V1688](holonomy.md) | corrected | Directed transport, not path-dependent [holonomy](holonomy.md) |
@@ -89,58 +70,38 @@ GitHub catalog is the package index. Wiki articles cite the load-bearing named h
 
 Load-bearing named harnesses. Full enumerated Tmp/TOE list, including working dirs, is the GitHub catalog.
 
-* [GitHub catalog (full stubs)](https://aaronspradlin.grok.me/packages)
-* [Proofs & figures](proofs-and-simulations.md)
-* [Claim ledger](claim-ledger.md)
-* [Tmp/TOE on GitHub](https://github.com/proteinfoldingengine/WetLabEngine/tree/main/Tmp/TOE)
+*   [GitHub catalog (full stubs)](../packages/index.md)
+*   [Proofs & figures](proofs-and-simulations.md)
+*   [Claim ledger](claim-ledger.md)
+*   [Tmp/TOE on GitHub](https://github.com/proteinfoldingengine/WetLabEngine/tree/main/Tmp/TOE)
 
-[PreviousX science notebook](x-notebook.md)[NextOpen science method](open-science.md)
+[Previous X science notebook](x-notebook.md)[Next Open science method](open-science.md)
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 Related articles
 
-* [The research program](program.md)
-* [Claim ledger](claim-ledger.md)
-* [Proofs, simulations, and figures](proofs-and-simulations.md)
-* [Open science method](open-science.md)
+*   [The research program](program.md)
+*   [Claim ledger](claim-ledger.md)
+*   [Proofs, simulations, and figures](proofs-and-simulations.md)
+*   [Open science method](open-science.md)
 
 GitHub packages
 
-* [WetLabEngine (root)](https://aaronspradlin.grok.me/packages/wetlab-root)
-* [Einstein Phase 1](https://aaronspradlin.grok.me/packages/einstein-phase-1)
-* [uqcf\_w\_holonomy\_replication](https://aaronspradlin.grok.me/packages/uqcf-w-holonomy-replication)
-* [uqcf\_codazzi\_proof](https://aaronspradlin.grok.me/packages/uqcf-codazzi-proof)
-* [package17\_bundle](https://aaronspradlin.grok.me/packages/package17-bundle)
-* [UQCF\_Quantum\_Compatibility\_Lab](https://aaronspradlin.grok.me/packages/uqcf-quantum-compatibility-lab)
+*   [WetLabEngine (root)](../packages/wetlab-root.md)
+*   [Einstein Phase 1](../packages/einstein-phase-1.md)
+*   [uqcf\_w\_holonomy\_replication](../packages/uqcf-w-holonomy-replication.md)
+*   [uqcf\_codazzi\_proof](../packages/uqcf-codazzi-proof.md)
+*   [package17\_bundle](../packages/package17-bundle.md)
+*   [UQCF\_Quantum\_Compatibility\_Lab](../packages/uqcf-quantum-compatibility-lab.md)

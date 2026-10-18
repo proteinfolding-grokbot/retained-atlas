@@ -2,59 +2,41 @@
 title: "Scan log"
 route: "/wiki/scan-log"
 source: "https://aaronspradlin.grok.me/wiki/scan-log"
+description: "Which month windows were compiled, which known threads were deferred, and the last X post ingested. Compilation is batch. That is fine if it is visible."
 date: "2026-09-10"
 tags: ["method", "compile", "ingest"]
 dek: "Which month windows were compiled, which known threads were deferred, and the last X post ingested. Compilation is batch. That is fine if it is visible."
 ---
 
-[Wiki](https://aaronspradlin.grok.me/wiki)
+[Wiki](index.md)
 
 # Scan log
 
 Which month windows were compiled, which known threads were deferred, and the last X post ingested. Compilation is batch. That is fine if it is visible.
 
-MethodMethod2026-09-10compiled 2026-10-104 min read[4 X sources](#x-sources)
+Method · Method · 2026-09-10 · compiled 2026-10-10 · 4 min read · [4 X sources](#x-sources)
 
-[Original on X](https://x.com/aaronspradlin/status/2098145800949776410)[Package: UQCF\_GEM\_v12\_41\_PUBLIC\_SIMULATION\_COMPLETE](https://aaronspradlin.grok.me/packages/uqcf-gem-v12-41-public-simulation-complete)[JSON](../data/page.json)[Cite](../data/cite.txt)
+[Original on X](https://x.com/aaronspradlin/status/2098145800949776410) · [Package: UQCF\_GEM\_v12\_41\_PUBLIC\_SIMULATION\_COMPLETE](../packages/uqcf-gem-v12-41-public-simulation-complete.md) · [JSON](../data/page/scan-log.json) · [Cite](../cite.txt)
 
-methodcompileingest
+method · compile · ingest
 
 On this page
 
-* [Month windows](#month-windows)
-* [Ingest rules (unchanged)](#ingest-rules-unchanged)
+*   [Month windows](#month-windows)
+*   [Ingest rules (unchanged)](#ingest-rules-unchanged)
+
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 Early compiles preferred GitHub folder names and original tweets. That dropped replies, dropped long X-only reports, and ranked recent gravity over April cosmology. The Hubble-tension miss was a scan-rule failure. The fix is a public log: which windows ran, which known threads were deferred, and the last ingested status URL.
 
@@ -62,8 +44,7 @@ Last X post ingested
 
 10 Sep 2026 20:25 UTC — [v12.41 moment-map closure](v1241-closure.md) ([constraint algebra](v1241-closure.md) without spacetime). Status https://x.com/aaronspradlin/status/2098145800949776410. GitHub-only 12 Sep: ResearchHistory/[UQCF-GEM](uqcf-gem.md) latest completed [v14.04](september-2026-ladder.md) intertwiner stop, Pillar 3 OPEN. No X field note for [v13](september-2026-ladder.md)–v14 — none invented. Gravity’s constraints not identified.
 
-## Month windows[#](#month-windows)
-
+## Month windows {#month-windows}
 | Window | Status | Note |
 | --- | --- | --- |
 | 2024-12 [ToI](toi-toe-2025.md) seed | compiled | Quarantined on the [ToI / TOE](toi-toe-2025.md) shelf. Not claimed. |
@@ -93,126 +74,114 @@ Last X post ingested
 
 Compiled = month-by-month scan including replies. Partial = load-bearing threads indexed, no calendar ladder. Deferred = known gap, not a missing URL.
 
-## Ingest rules (unchanged)[#](#ingest-rules-unchanged)
+## Ingest rules (unchanged) {#ingest-rules-unchanged}
 
-1. Scan from:@aaronspradlin month by month. Do not start from Tmp/TOE folder names.
-2. Keep replies. A science claim under someone else’s thread is still a field note if it carries an equation, a named harness, a protocol verdict, or a correction.
-3. Keep original long threads that are not GitHub packages.
-4. Do not ingest every @grok one-liner. Industry / Luminaries posts stay off the science ledger.
-5. Recompile is still batch, not live. New posts land when the atlas is rebuilt.
+1.  Scan from:@aaronspradlin month by month. Do not start from Tmp/TOE folder names.
+2.  Keep replies. A science claim under someone else’s thread is still a field note if it carries an equation, a named harness, a protocol verdict, or a correction.
+3.  Keep original long threads that are not GitHub packages.
+4.  Do not ingest every @grok one-liner. Industry / Luminaries posts stay off the science ledger.
+5.  Recompile is still batch, not live. New posts land when the atlas is rebuilt.
 
 The how-to-read page already admits past scan-rule misses. This log is how the next miss becomes detectable.
 
-* [How to read this corpus](how-to-read.md)
-* [X science notebook](x-notebook.md)
-* [May 2026 ladder](may-2026-ladder.md)
-* [June 2026 substrate](june-2026-substrate.md)
-* [July 2026 ladder](july-2026-ladder.md)
-* [June 2026 substrate](june-2026-substrate.md)
-* [Last ingested post](https://x.com/aaronspradlin/status/2098145800949776410)
-* [v12.41 article](v1241-closure.md)
+*   [How to read this corpus](how-to-read.md)
+*   [X science notebook](x-notebook.md)
+*   [May 2026 ladder](may-2026-ladder.md)
+*   [June 2026 substrate](june-2026-substrate.md)
+*   [July 2026 ladder](july-2026-ladder.md)
+*   [June 2026 substrate](june-2026-substrate.md)
+*   [Last ingested post](https://x.com/aaronspradlin/status/2098145800949776410)
+*   [v12.41 article](v1241-closure.md)
+
+<span id="x-sources"></span>
 
 ## X sources
 
 Original posts this article was compiled from. The notebook copy is editorial; the status URL is the source.
 
-* 2026-09-10
+*   2026-09-10
 
-  v12.41 moment-map closure — constraint algebra without spacetime
+    v12.41 moment-map closure — constraint algebra without spacetime
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v1241-2026-09-10)[Open original post](https://x.com/aaronspradlin/status/2098145800949776410)
-* 2026-09-09
+    [In the notebook](../notes.md#v1241-2026-09-10) · [Open original post](https://x.com/aaronspradlin/status/2098145800949776410)
 
-  N-cycle inverse converges after geometry-supplied scale
+*   2026-09-09
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#dn-scale-2026-09-09)[Open original post](https://x.com/aaronspradlin/status/2097526717262762012)
-* 2026-09-08
+    N-cycle inverse converges after geometry-supplied scale
 
-  Universal source coefficient g\_★ before sector specialization
+    [In the notebook](../notes.md#dn-scale-2026-09-09) · [Open original post](https://x.com/aaronspradlin/status/2097526717262762012)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#gstar-2026-09-08)[Open original post](https://x.com/aaronspradlin/status/2097384034037105091)
-* 2026-09-07
+*   2026-09-08
 
-  UQCF–GEM v9.190 affine source reconstruction
+    Universal source coefficient g\_★ before sector specialization
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v9190-2026-09-07)[Open original post](https://x.com/aaronspradlin/status/2097030907198906776)
+    [In the notebook](../notes.md#gstar-2026-09-08) · [Open original post](https://x.com/aaronspradlin/status/2097384034037105091)
 
-[PreviousPhase-N catalog (2025)](phase-n-catalog.md)[NextX science notebook](x-notebook.md)
+*   2026-09-07
+
+    UQCF–GEM v9.190 affine source reconstruction
+
+    [In the notebook](../notes.md#v9190-2026-09-07) · [Open original post](https://x.com/aaronspradlin/status/2097030907198906776)
+
+[Previous Phase-N catalog (2025)](phase-n-catalog.md)[Next X science notebook](x-notebook.md)
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 On this page
 
-* [Month windows](#month-windows)
-* [Ingest rules (unchanged)](#ingest-rules-unchanged)
+*   [Month windows](#month-windows)
+*   [Ingest rules (unchanged)](#ingest-rules-unchanged)
 
 [X sources](#x-sources)
 
 Related articles
 
-* [How to read this corpus](how-to-read.md)
-* [Start here](start-here.md)
-* [For researchers and models](for-researchers.md)
-* [Astra (pre–Genesis Pin)](astra.md)
-* [v12.41 moment-map closure](v1241-closure.md)
-* [X science notebook](x-notebook.md)
-* [May 2026 ladder](may-2026-ladder.md)
-* [June 2026 substrate](june-2026-substrate.md)
+*   [How to read this corpus](how-to-read.md)
+*   [Start here](start-here.md)
+*   [For researchers and models](for-researchers.md)
+*   [Astra (pre–Genesis Pin)](astra.md)
+*   [v12.41 moment-map closure](v1241-closure.md)
+*   [X science notebook](x-notebook.md)
+*   [May 2026 ladder](may-2026-ladder.md)
+*   [June 2026 substrate](june-2026-substrate.md)
 
 GitHub packages
 
-* [UQCF\_GEM\_v12\_41\_PUBLIC\_SIMULATION\_COMPLETE](https://aaronspradlin.grok.me/packages/uqcf-gem-v12-41-public-simulation-complete)
+*   [UQCF\_GEM\_v12\_41\_PUBLIC\_SIMULATION\_COMPLETE](../packages/uqcf-gem-v12-41-public-simulation-complete.md)
 
 Field notes
 
-* [v12.41 moment-map closure — constraint algebra without spacetime](https://aaronspradlin.grok.me/notes#v1241-2026-09-10)
+*   [v12.41 moment-map closure — constraint algebra without spacetime](../notes.md#v1241-2026-09-10)
 
-  2026-09-10
+    2026-09-10
 
-  [On X](https://x.com/aaronspradlin/status/2098145800949776410)
-* [N-cycle inverse converges after geometry-supplied scale](https://aaronspradlin.grok.me/notes#dn-scale-2026-09-09)
+    [On X](https://x.com/aaronspradlin/status/2098145800949776410)
 
-  2026-09-09
+*   [N-cycle inverse converges after geometry-supplied scale](../notes.md#dn-scale-2026-09-09)
 
-  [On X](https://x.com/aaronspradlin/status/2097526717262762012)
-* [Universal source coefficient g\_★ before sector specialization](https://aaronspradlin.grok.me/notes#gstar-2026-09-08)
+    2026-09-09
 
-  2026-09-08
+    [On X](https://x.com/aaronspradlin/status/2097526717262762012)
 
-  [On X](https://x.com/aaronspradlin/status/2097384034037105091)
-* [UQCF–GEM v9.190 affine source reconstruction](https://aaronspradlin.grok.me/notes#v9190-2026-09-07)
+*   [Universal source coefficient g\_★ before sector specialization](../notes.md#gstar-2026-09-08)
 
-  2026-09-07
+    2026-09-08
 
-  [On X](https://x.com/aaronspradlin/status/2097030907198906776)
+    [On X](https://x.com/aaronspradlin/status/2097384034037105091)
+
+*   [UQCF–GEM v9.190 affine source reconstruction](../notes.md#v9190-2026-09-07)
+
+    2026-09-07
+
+    [On X](https://x.com/aaronspradlin/status/2097030907198906776)

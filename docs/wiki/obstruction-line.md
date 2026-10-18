@@ -2,13 +2,14 @@
 title: "Obstruction line v15.46–v15.54"
 route: "/wiki/obstruction-line"
 source: "https://aaronspradlin.grok.me/wiki/obstruction-line"
+description: "One page for the unmerged #57 line. Retained O does not fix τ. v15.54 verifier GREEN claimed; final freeze still required. Not QM. Not gravity. Not STATUS."
 date: "2026-09-24"
 claimStatus: "restricted"
 tags: ["v15.54", "PR57", "obstruction"]
 dek: "One page for the unmerged #57 line. Retained O does not fix τ. v15.54 verifier GREEN claimed; final freeze still required. Not QM. Not gravity. Not STATUS."
 ---
 
-[Wiki](https://aaronspradlin.grok.me/wiki)
+[Wiki](index.md)
 
 # Obstruction line v15.46–v15.54
 
@@ -35,44 +36,24 @@ GitHub-only gates have no invented X URL. Do not merge the X week with the Git l
 
 One page for the unmerged #57 line. Retained O does not fix τ. v15.54 verifier GREEN claimed; final freeze still required. Not QM. Not gravity. Not STATUS.
 
-00 AstraResultRestricted2026-09-24compiled 2026-10-101 min read1 claim
+00 Astra · Result · Restricted · 2026-09-24 · compiled 2026-10-10 · 1 min read · 1 claim
 
-[Package: ResearchHistory/UQCF-GEM (v13–v14)](https://aaronspradlin.grok.me/packages/uqcf-gem-v13)[JSON](../data/page.json)[Cite](../data/cite.txt)
+[Package: ResearchHistory/UQCF-GEM (v13–v14)](../packages/uqcf-gem-v13.md) · [JSON](../data/page/obstruction-line.json) · [Cite](../cite.txt)
 
-v15.54PR57obstruction
+v15.54 · PR57 · obstruction
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 Research branch / draft PR — not a staircase of STATUS gates
 
@@ -88,6 +69,8 @@ PR #57 is unmerged. v15.54 and [v15.55](v1555-response-gate.md) are not on main.
 
 Do not grow a fake STATUS staircase. No gravitational source is claimed here.
 
+<span id="atlas:v15-54-obstruction"></span>
+
 Restricted
 
 atlas:v15-54-obstruction
@@ -96,55 +79,35 @@ v15.54: CERTIFIED\_OPERATIONAL\_NONCLASSICAL\_OBSTRUCTION is scoped to lying out
 
 The retained description O does not uniquely fix a deeper realization τ (v15.46–53, #57). v15.54 asks whether that gap survives a frozen classical comparator. A green verifier is necessary and is not the final certificate. Do not call a comparator score a gravitational source.
 
-* [PR #57 (unmerged)](https://github.com/proteinfoldingengine/WetLabEngine/pull/57)
-* [v15.46 page](v1546-representation.md)
-* [v15.55 proposed gate](v1555-response-gate.md)
-* [STATUS.md](https://github.com/proteinfoldingengine/WetLabEngine/blob/main/ResearchHistory/UQCF-GEM/STATUS.md)
+*   [PR #57 (unmerged)](https://github.com/proteinfoldingengine/WetLabEngine/pull/57)
+*   [v15.46 page](v1546-representation.md)
+*   [v15.55 proposed gate](v1555-response-gate.md)
+*   [STATUS.md](https://github.com/proteinfoldingengine/WetLabEngine/blob/main/ResearchHistory/UQCF-GEM/STATUS.md)
 
-[Previousv15.43 certified response geometry](v1543-geometry.md)[Nextv15.46 representation non-uniqueness](v1546-representation.md)
+[Previous v15.43 certified response geometry](v1543-geometry.md)[Next v15.46 representation non-uniqueness](v1546-representation.md)
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 Related articles
 
-* [Falsification and next step](falsification.md)
-* [Live gates](live-gates.md)
-* [v15.45 curvature factorization](v1545-factorization.md)
-* [v15.46 representation non-uniqueness](v1546-representation.md)
-* [v15.55 source–compatibility response](v1555-response-gate.md)
-* [Research ladder v15.12–v15.45 (main) / v15.46–v15.54 (#57)](research-ladder.md)
+*   [Falsification and next step](falsification.md)
+*   [Live gates](live-gates.md)
+*   [v15.45 curvature factorization](v1545-factorization.md)
+*   [v15.46 representation non-uniqueness](v1546-representation.md)
+*   [v15.55 source–compatibility response](v1555-response-gate.md)
+*   [Research ladder v15.12–v15.45 (main) / v15.46–v15.54 (#57)](research-ladder.md)
 
 GitHub packages
 
-* [ResearchHistory/UQCF-GEM (v13–v14)](https://aaronspradlin.grok.me/packages/uqcf-gem-v13)
+*   [ResearchHistory/UQCF-GEM (v13–v14)](../packages/uqcf-gem-v13.md)

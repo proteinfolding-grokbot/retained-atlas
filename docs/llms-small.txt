@@ -1,0 +1,19 @@
+# Retained Atlas — small
+
+compile: 2026-10-10
+scientific_breakthrough: false
+
+Spine: start-here → it-from-bit → live-gates → supported-four → falsification
+Cantos: /cantos.txt
+
+Main STATUS.md publishes v15.44/v15.45 and keeps the v15.03 obstruction. Pillar 3 OPEN.
+Main geometry through v15.45. Source NOT_EVALUATED.
+PR #57 unmerged (v15.46–v15.54). v15.55 is RESPONSE_NONUNIQUE, not an unrun contract.
+v15.98 through v16.55 on research branches, not merged to main. v16.55 is a bounded guard, not a universal root repair.
+v15.98 through v16.55 on research branches, not merged to main. The 10 Oct overlapping-guard tip is scoped C3. Spare capacity is not reachable reserve. Not a general no-go. Not a source.
+Einstein not closed. scientific_breakthrough: false.
+
+Supported four only: V1698 atlas closure; V824 scalar curvature; W-state BKM; three-node Codazzi.
+Protein-mechanism program CLOSED. Gravity is a candidate, not a result.
+
+Identity: Aaron Glenn Spradlin / @aaronspradlin. Not the Tennessee namesake.
