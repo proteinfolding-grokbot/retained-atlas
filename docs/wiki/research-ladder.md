@@ -139,6 +139,7 @@ Related articles
 *   [v15.77 active baseline, two verdicts](v1577-baseline.md)
 *   [v15.78–v15.97 research line](v1578-line.md)
 *   [v15.98 through v16.55, then A12](v1598-line.md)
+*   [Physical-bridge constructions, Oct 2026 (research branch, Restricted)](physical-bridge-constructions.md)
 
 GitHub packages
 
