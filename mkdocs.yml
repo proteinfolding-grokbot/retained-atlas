@@ -14,8 +14,11 @@ theme:
   features: [search.suggest, search.highlight, navigation.top, content.code.copy]
 plugins:
   - search
-markdown_extensions: [def_list, tables, toc, attr_list, admonition]
+markdown_extensions: [def_list, tables, toc, attr_list, admonition, md_in_html]
+extra_css:
+  - https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css
+  - assets/extra.css
 validation:
-  links: {not_found: info, unrecognized_links: info, anchors: info}
+  links: {not_found: warn, unrecognized_links: info, anchors: warn}
   omitted_files: info
 copyright: "Compiled 2026-10-10 from @aaronspradlin and proteinfoldingengine/WetLabEngine. Last ingested 2026-09-24. Source-available for noncommercial research and evaluation only. No commercial, product, platform, or service use without written permission."

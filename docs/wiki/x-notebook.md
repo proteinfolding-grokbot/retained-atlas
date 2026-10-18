@@ -2,64 +2,46 @@
 title: "X science notebook"
 route: "/wiki/x-notebook"
 source: "https://aaronspradlin.grok.me/wiki/x-notebook"
+description: "X is the archive of record. This wiki is a compiled index — spine notes, a denser science notebook, and an honest list of what was refused."
 date: "2026-09-10"
 tags: ["X", "coverage", "notebook", "method"]
 dek: "X is the archive of record. This wiki is a compiled index — spine notes, a denser science notebook, and an honest list of what was refused."
 ---
 
-[Wiki](https://aaronspradlin.grok.me/wiki)
+[Wiki](index.md)
 
 # X science notebook
 
 X is the archive of record. This wiki is a compiled index — spine notes, a denser science notebook, and an honest list of what was refused.
 
-MethodMethod2026-09-10compiled 2026-10-1025 min read2 claims[72 X sources](#x-sources)
+Method · Method · 2026-09-10 · compiled 2026-10-10 · 25 min read · 2 claims · [72 X sources](#x-sources)
 
-[Original on X](https://x.com/aaronspradlin/status/2098145800949776410)[JSON](../data/page.json)[Cite](../data/cite.txt)
+[Original on X](https://x.com/aaronspradlin/status/2098145800949776410) · [JSON](../data/page/x-notebook.json) · [Cite](../cite.txt)
 
-Xcoveragenotebookmethod
+X · coverage · notebook · method
 
 On this page
 
-* [What was wrong with the ingest](#what-was-wrong-with-the-ingest)
-* [Scan ledger (this compile)](#scan-ledger-this-compile)
-* [Two layers of X](#two-layers-of-x)
-* [Grok replies (quoted in this compile)](#grok-replies-quoted-in-this-compile)
-* [Coverage matrix](#coverage-matrix)
-* [What closed the 2026 gap this compile](#what-closed-the-2026-gap-this-compile)
-* [What this still is not](#what-this-still-is-not)
+*   [What was wrong with the ingest](#what-was-wrong-with-the-ingest)
+*   [Scan ledger (this compile)](#scan-ledger-this-compile)
+*   [Two layers of X](#two-layers-of-x)
+*   [Grok replies (quoted in this compile)](#grok-replies-quoted-in-this-compile)
+*   [Coverage matrix](#coverage-matrix)
+*   [What closed the 2026 gap this compile](#what-closed-the-2026-gap-this-compile)
+*   [What this still is not](#what-this-still-is-not)
+
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 X is the archive. This wiki is the compile.
 
@@ -67,28 +49,26 @@ The live firehose is https://x.com/aaronspradlin. This atlas does not replace it
 
 The rating this atlas had to answer: B as a compiled research wiki, C as an archive of the science posts. Those are different jobs. This page is the coverage contract — what is ingested, what is curated, and what is refused.
 
-## What was wrong with the ingest[#](#what-was-wrong-with-the-ingest)
-
+## What was wrong with the ingest {#what-was-wrong-with-the-ingest}
 The Hubble-tension miss was not a missing URL. It was a bad scan rule. Early compiles preferred GitHub package names and original tweets. They down-ranked replies. [H0DN](hubble-tension.md) (13 Apr) was a reply to @coreyspowell. The [DESI](predictions.md) w(z) prediction (30 Apr) was a reply. Today’s [t\*](astra.md) = 13/33 onset is a reply on the [F-bound](astra.md) thread. The 25 Jul 20-part focusing report, the 23 Jul [Q\_i](recoverability.md) gate, the 1 Jun “[geometry cannot validate itself](genesis-pin.md)” traces, the 23 May five-history [Genesis Pin](genesis-pin.md) filter, and the 4 May Quintom literature thread were original long posts that never became Tmp/TOE folders. Replies that carry equations are now first-class. Month-by-month from:@aaronspradlin scans replace “whatever the last keyword hit.”
 
 Ingest rule, rewritten
 
 Do not filter out replies. A science claim posted under someone else’s thread is still a field note. Do not require a Tmp/TOE folder before an X result can exist. Candidate test: equation, residual, holdout number, video flight log, or walk-back. @grok replies on Aaron’s science threads are first-class: quote them, keep the status URL, do not treat them as someone else’s theory. Live ingest is still out of scope — but a compile that cannot see replies, Grok reviews, or applied telemetry will keep missing cosmology and [C3++](c3-governor.md).
 
-## Scan ledger (this compile)[#](#scan-ledger-this-compile)
-
+## Scan ledger (this compile) {#scan-ledger-this-compile}
 This is still not a full firehose of every @aaronspradlin post. X keyword windows return a latest slice, not the entire account. The scan this compile actually ran:
 
-* from:@aaronspradlin Latest windows: 2026-01–04, 04–06, 06–08, 08–09. 2025 full-year month windows: Jan–Apr and Jun–Jul live; May, Jul–Sep, Nov–Dec 2025 and Jan–Feb 2026 re-scanned quiet (Jun 24 Chamath hire screenshots not science). Oct is the [Origin Law](origin-law.md) cluster. This compile: [May 2026 ladder](may-2026-ladder.md) fourth pass — [V300](may-2026-ladder.md) Reachability Collapse Law (trailing-space folder), [Retained Branch Identity](may-2026-ladder.md) (Tmp/TOE root), 17 May [recoverability](recoverability.md)-framework synthesis, Einstein 4 as V997 (was marked X-only), Einstein 5 / V1011.1 triple diagnostic, Einstein 2 ADM-like working notes with [V824](accessibility-curvature.md) prune kept. [Heat-kernel](may-2026-ladder.md) week, [V498](may-2026-ladder.md)–[V555](recoverability-framework.md), V723/[V724](may-2026-ladder.md), [V760](recoverability-framework.md), C\_norm, 20 May [V831](recoverability.md) freeze, Challenge 14–16 and [Package 17](package-17.md) already in. Supported ledger still [V1698](retained-atlas.md) / [V824](accessibility-curvature.md) / [W-state](holonomy.md) / [Codazzi](uqcf-gem.md).
-* 6 Sep 16:01 [d(t)](astra.md) curve — was missing from homepage/emergent-gravity; now [Astra](astra.md) + emergent-gravity + [spine](start-here.md).
-* 6 Sep 20:05 [quantum compatibility lab](quantum-compatibility-lab.md) — GitHub UQCF\_Quantum\_Compatibility\_Lab + film + SIMULATION\_REPORT.md; Restricted [315 vs 311](quantum-compatibility-lab.md), not [v9](protein-bridge-v9.md).156, gravity not established.
-* 6 Sep 20:27 2/ clarification + 20:28 @grok reply (2096696936506315013 / 2096697145986363883). Same response ≠ same quantum reality. Not a general hidden-QI theorem. Grok leaves gravity open.
-* 1 Aug 20:03–20:17 [Codazzi](uqcf-gem.md) thread — GitHub handoff + four @grok reviews now quoted (2083645264686895153 harness, 2083646390953976141 re-run, 2083646931486556248 next, 2083648427972264155 closed-form). Finite model stays Supported. Gravity stays out.
-* June 2026 listed-thread ingest: month page is now the calendar (1 Jun [BPI2014](june-2026-substrate.md), [L3](causal-stack.md)–[L4](causal-stack.md), [V1688](holonomy.md) downgrade, [V1698](retained-atlas.md), [V1699](june-2026-substrate.md).14, V171x, mouse, conservation lab). [L3](causal-stack.md)/[L4](causal-stack.md) public films + sim\_l4.py, mouse isomorphisms, [V1688](holonomy.md) visualizer film still also live on topic pages. Grok reviews quoted for [V1712](june-2026-substrate.md), [V1699](june-2026-substrate.md).14, [V1698](retained-atlas.md), conservation lab, educator lab, Genesis Key, and the 7 Jun [V1688](holonomy.md) confirm (kept with the 10 Jun downgrade). 7 Jun scriptural-echo post stays theology/notebook. 19 Jun industry posts stay off the science ledger. Supported still [V1698](retained-atlas.md) / [V824](accessibility-curvature.md) / [W-state](holonomy.md) / [Codazzi](uqcf-gem.md).
-* [ToI](toi-toe-2025.md)/TOE equations compiled; kits still on X.
-* Topic queries: Hubble/H0/[DESI](predictions.md)/[WALLABY](great-grok-challenge.md)/[RCLC](hubble-tension.md)/[H0DN](hubble-tension.md); [C3++](c3-governor.md)/[TSP](tsp-backbone.md)/protein/battery; SPARC/Planck/[Hofstadter](quantum.md)/fractal; [Origin Law](origin-law.md) / [ε\*](origin-law.md) / [Phase-N](phase-n-catalog.md) / [Ω-Lock](origin-law.md).
-* @grok conversation expansion across 2025–2026. Media pass (videos/images). Named-partner replies (Hugh Ross, Weinstein, Bianconi, Corey Powell, Sabine).
-* Thread fetches for [C3++](c3-governor.md) (25 Mar), [Villin HP35](protein-audit.md) (14 Apr), [H0DN](hubble-tension.md), [F-bound](astra.md), [Package 17](package-17.md), independent review, [Origin Law](origin-law.md) freeze (14 Oct 2025), [Hofstadter](quantum.md) on-ramp (13 Oct 2025), first validation + ICL/mass-scaling (29–30 Jan 2025), Hugh Ross LRD (27 Jan 2025), Euclid/[ToI](toi-toe-2025.md) (17 Dec 2024), [TOE announcement](toi-toe-2025.md) (3 Mar 2025), Planck C\_ℓ 0.54% RMS (5 Mar 2025), Hubble H\_0(r) law (7 Mar 2025).
+*   from:@aaronspradlin Latest windows: 2026-01–04, 04–06, 06–08, 08–09. 2025 full-year month windows: Jan–Apr and Jun–Jul live; May, Jul–Sep, Nov–Dec 2025 and Jan–Feb 2026 re-scanned quiet (Jun 24 Chamath hire screenshots not science). Oct is the [Origin Law](origin-law.md) cluster. This compile: [May 2026 ladder](may-2026-ladder.md) fourth pass — [V300](may-2026-ladder.md) Reachability Collapse Law (trailing-space folder), [Retained Branch Identity](may-2026-ladder.md) (Tmp/TOE root), 17 May [recoverability](recoverability.md)-framework synthesis, Einstein 4 as V997 (was marked X-only), Einstein 5 / V1011.1 triple diagnostic, Einstein 2 ADM-like working notes with [V824](accessibility-curvature.md) prune kept. [Heat-kernel](may-2026-ladder.md) week, [V498](may-2026-ladder.md)–[V555](recoverability-framework.md), V723/[V724](may-2026-ladder.md), [V760](recoverability-framework.md), C\_norm, 20 May [V831](recoverability.md) freeze, Challenge 14–16 and [Package 17](package-17.md) already in. Supported ledger still [V1698](retained-atlas.md) / [V824](accessibility-curvature.md) / [W-state](holonomy.md) / [Codazzi](uqcf-gem.md).
+*   6 Sep 16:01 [d(t)](astra.md) curve — was missing from homepage/emergent-gravity; now [Astra](astra.md) + emergent-gravity + [spine](start-here.md).
+*   6 Sep 20:05 [quantum compatibility lab](quantum-compatibility-lab.md) — GitHub UQCF\_Quantum\_Compatibility\_Lab + film + SIMULATION\_REPORT.md; Restricted [315 vs 311](quantum-compatibility-lab.md), not [v9](protein-bridge-v9.md).156, gravity not established.
+*   6 Sep 20:27 2/ clarification + 20:28 @grok reply (2096696936506315013 / 2096697145986363883). Same response ≠ same quantum reality. Not a general hidden-QI theorem. Grok leaves gravity open.
+*   1 Aug 20:03–20:17 [Codazzi](uqcf-gem.md) thread — GitHub handoff + four @grok reviews now quoted (2083645264686895153 harness, 2083646390953976141 re-run, 2083646931486556248 next, 2083648427972264155 closed-form). Finite model stays Supported. Gravity stays out.
+*   June 2026 listed-thread ingest: month page is now the calendar (1 Jun [BPI2014](june-2026-substrate.md), [L3](causal-stack.md)–[L4](causal-stack.md), [V1688](holonomy.md) downgrade, [V1698](retained-atlas.md), [V1699](june-2026-substrate.md).14, V171x, mouse, conservation lab). [L3](causal-stack.md)/[L4](causal-stack.md) public films + sim\_l4.py, mouse isomorphisms, [V1688](holonomy.md) visualizer film still also live on topic pages. Grok reviews quoted for [V1712](june-2026-substrate.md), [V1699](june-2026-substrate.md).14, [V1698](retained-atlas.md), conservation lab, educator lab, Genesis Key, and the 7 Jun [V1688](holonomy.md) confirm (kept with the 10 Jun downgrade). 7 Jun scriptural-echo post stays theology/notebook. 19 Jun industry posts stay off the science ledger. Supported still [V1698](retained-atlas.md) / [V824](accessibility-curvature.md) / [W-state](holonomy.md) / [Codazzi](uqcf-gem.md).
+*   [ToI](toi-toe-2025.md)/TOE equations compiled; kits still on X.
+*   Topic queries: Hubble/H0/[DESI](predictions.md)/[WALLABY](great-grok-challenge.md)/[RCLC](hubble-tension.md)/[H0DN](hubble-tension.md); [C3++](c3-governor.md)/[TSP](tsp-backbone.md)/protein/battery; SPARC/Planck/[Hofstadter](quantum.md)/fractal; [Origin Law](origin-law.md) / [ε\*](origin-law.md) / [Phase-N](phase-n-catalog.md) / [Ω-Lock](origin-law.md).
+*   @grok conversation expansion across 2025–2026. Media pass (videos/images). Named-partner replies (Hugh Ross, Weinstein, Bianconi, Corey Powell, Sabine).
+*   Thread fetches for [C3++](c3-governor.md) (25 Mar), [Villin HP35](protein-audit.md) (14 Apr), [H0DN](hubble-tension.md), [F-bound](astra.md), [Package 17](package-17.md), independent review, [Origin Law](origin-law.md) freeze (14 Oct 2025), [Hofstadter](quantum.md) on-ramp (13 Oct 2025), first validation + ICL/mass-scaling (29–30 Jan 2025), Hugh Ross LRD (27 Jan 2025), Euclid/[ToI](toi-toe-2025.md) (17 Dec 2024), [TOE announcement](toi-toe-2025.md) (3 Mar 2025), Planck C\_ℓ 0.54% RMS (5 Mar 2025), Hubble H\_0(r) law (7 Mar 2025).
 
 | Load-bearing thread | Scan verdict | Where it lives now |
 | --- | --- | --- |
@@ -157,17 +137,16 @@ This is still not a full firehose of every @aaronspradlin post. X keyword window
 
 Honest scan, not a complete dump. Industry Luminaries is on the [spine](start-here.md) as biography. Every ingested card still has a real status URL.
 
-## Two layers of X[#](#two-layers-of-x)
+## Two layers of X {#two-layers-of-x}
 
-* [Spine](start-here.md) (field notes) — load-bearing scientific posts, including replies that carry equations. Each has an original status URL.
-* Notebook (science archive) — denser 2026 thread coverage. Still not every emoji-only ping.
-* Grok replies — @grok reviews of Aaron’s science posts are first-class. Quote them. Keep the https://x.com/grok/status/ URL. Do not treat as someone else’s theory. One-liners without a load-bearing restatement stay notebook-only until compiled.
-* Not ingested as claimed science — industry/Luminaries posts. 2025 [Origin Law](origin-law.md) / [Phase-N](phase-n-catalog.md) is now a reading-list article, still not-claimed; the kits are not pasted.
+*   [Spine](start-here.md) (field notes) — load-bearing scientific posts, including replies that carry equations. Each has an original status URL.
+*   Notebook (science archive) — denser 2026 thread coverage. Still not every emoji-only ping.
+*   Grok replies — @grok reviews of Aaron’s science posts are first-class. Quote them. Keep the https://x.com/grok/status/ URL. Do not treat as someone else’s theory. One-liners without a load-bearing restatement stay notebook-only until compiled.
+*   Not ingested as claimed science — industry/Luminaries posts. 2025 [Origin Law](origin-law.md) / [Phase-N](phase-n-catalog.md) is now a reading-list article, still not-claimed; the kits are not pasted.
 
 Open Field notes and switch to Notebook to read the denser feed. Every card still links to the original X status. No invented URLs.
 
-## Grok replies (quoted in this compile)[#](#grok-replies-quoted-in-this-compile)
-
+## Grok replies (quoted in this compile) {#grok-replies-quoted-in-this-compile}
 Standing rule: when @grok replies on a science thread, quote the reply on the article it reviews and keep the status URL. This table is the Grok replies already quoted in this wiki — not a firehose of every @grok one-liner. New load-bearing Grok replies append here.
 
 | Grok reply | Status URL | Where it lives | Grain |
@@ -196,8 +175,7 @@ Standing rule: when @grok replies on a science thread, quote the reply on the ar
 
 Quoted @grok replies already in this compile. Full URLs are required: a bare status id would be misread as an @aaronspradlin post. Not a complete dump of every Grok one-liner.
 
-## Coverage matrix[#](#coverage-matrix)
-
+## Coverage matrix {#coverage-matrix}
 A compiled wiki cannot be the firehose. This table is the honest map of 2026 science threads versus what the atlas currently holds.
 
 | Thread | In this atlas | Claim posture |
@@ -251,85 +229,85 @@ A compiled wiki cannot be the firehose. This table is the honest map of 2026 sci
 
 [Spine](start-here.md) notes carry the argument. The notebook carries the thread. Live ingest of every @grok reply is still out of scope.
 
-## What closed the 2026 gap this compile[#](#what-closed-the-2026-gap-this-compile)
+## What closed the 2026 gap this compile {#what-closed-the-2026-gap-this-compile}
 
-* 11 Jun 2026 — V1711–V1719 @grok handoff: RG-stable shear non-metricity, non-unitary interference, projection operator named as the next arc. Was a missing reply.
-* 10 Jun 2026 — [V1699](june-2026-substrate.md).14 finite variational Pillar 2 action, with Pillar 3 GR/ADM left open.
-* 6 Jun 2026 — [L4](causal-stack.md) rank\_lift\_H₄ = 1 @grok update.
-* 1 Aug 2026 — [Codazzi](uqcf-gem.md) genericity theorem complete (Aaron closeout). Four same-thread @grok reviews now quoted: harness verify, independent re-run, next/genericity, closed-form A(J) B(J).
-* 5 May 2026 — Grok’s own [RCLC](hubble-tension.md) peer-review posted the night [Package 17](package-17.md) opened (OpenAI review was already in).
-* 5 Sep 2026 — [Astra](astra.md) / [pre–Genesis Pin](astra.md) question. Curious, not claimed.
-* 6 Sep 2026 — [ToI / TOE (2024–25)](toi-toe-2025.md) article: Lindblad seed and 3 Mar [G\_eff,total](toi-toe-2025.md) copied. Not adopted. [Origin Law](origin-law.md) table points here.
-* 7–9 May 2026 — inverted [heat-kernel](may-2026-ladder.md) / ADM week: frozen dx²/long operator, 25.15% → 16.55% spatial-R, δρ = A·q. Was a missing @grok reply cluster.
-* 14 May 2026 — [V498](may-2026-ladder.md) retained-geometry Python proof, six graph families. Package was in the tree unused.
-* 14 May 2026 — [V505](may-2026-ladder.md) [conformal recoverability](may-2026-ladder.md) checkpoint (g\_eff = Ω² g0 weak form). Package was misread as a GR continuum-limit seam.
-* 13 May 2026 — [V395](may-2026-ladder.md)/[V421](restricted-bridge.md) [recursive survival law](restricted-bridge.md). Kits unused; month page had jumped to [V498](may-2026-ladder.md).
-* 18 May 2026 — [V724](may-2026-ladder.md) stress-test AUC 1.000 → ~0.845. V723 was in; the stress packet was not.
-* 20 May 2026 — [V831](recoverability.md) full-stack freeze film. 15 May [V831](recoverability.md) was in; the restatement was not. [V824](accessibility-curvature.md) ADM prune kept.
-* 10 May 2026 — native residual energy [V131](may-2026-ladder.md) Python at Tmp/TOE root.
-* 15–16 May 2026 — [V535](may-2026-ladder.md) [η\_convert](may-2026-ladder.md) freeze, [V541](may-2026-ladder.md) theorem bundle, [V555](recoverability-framework.md) adversarial AUC 1.0 / 1.0.
-* 19 May 2026 — [V760](recoverability-framework.md) [atrium metric](may-2026-ladder.md). [AtriumSimulation](may-2026-ladder.md).py under GR Work, no [V760](recoverability-framework.md) folder.
-* 11 May 2026 — C\_norm self-healing toy. Capacity-law report on GitHub.
-* 10 May 2026 — [Retained Branch Identity](may-2026-ladder.md) audit. Python at Tmp/TOE root, no versioned folder.
-* 12 May 2026 — [V300](may-2026-ladder.md) [Normalized Adaptive Reachability](may-2026-ladder.md) Law. Folder name has a trailing space.
-* 17 May 2026 — [recoverability](recoverability.md)-framework synthesis after [V555](recoverability-framework.md). Lyapunov of V[Ω,C,μ] named, not closed.
-* 23 May 2026 — Einstein 4 / V997 [Genesis Pin](genesis-pin.md) report. Previously marked X-only.
-* 25 May 2026 — Einstein 5 / V1011.1 triple diagnostic (Ω + pin + source-flow).
-* 20 Jul 2026 — [admissible body A\_G](recoverability.md) as a support-poset; unique pruning sequence still open.
-* 28 Apr 2026 — [WALLABY](great-grok-challenge.md) Round 12D locked unseen DR2, 10/10, +14.56 km/s RMSE. 12A’s honest miss is in the notebook too.
-* 29 Apr 2026 — Challenge 13 conditional win, with the grain problem that made it conditional.
-* 20 May 2026 — [V824](accessibility-curvature.md) accessibility-curvature lock post, now cited from the X source rather than only the paper.
-* 13 Apr 2026 — [H0DN](hubble-tension.md) Hubble-tension proxy and 27 Mar D\_f = 2.523948 sim, now on their own article (not claimed as a resolution).
-* 30 Apr 2026 — [DESI](predictions.md) w(z) prediction reply, previously dropped because it was a reply.
-* 4 May 2026 — Quintom-B / [ε\*](origin-law.md) literature thread, previously dropped because it was not a GitHub folder.
-* 23 May 2026 — [Genesis Pin](genesis-pin.md) five-history filter.
-* 22 May 2026 — V923 ternary source-role handshake (geometry underdetermined without provenance).
-* 17 Aug 2026 — UCRP/ECSM linkage posed as a substrate; not a derivation.
-* 6 Sep 2026 — compiled wiki posted on grok.me. Public host is now aaronspradlin.grok.me. Method note: X remains the archive of record.
-* 2025 year windows — [ToI](toi-toe-2025.md) seed (18 Dec 2024), first validation (29 Jan), Planck residuals (15 Feb), [TOE announcement](toi-toe-2025.md) (3 Mar), Hubble chart (7 Mar), [Hofstadter](quantum.md)/Berry/[Rydberg](quantum.md) (13–14 Mar), [DESI](predictions.md) (21 Mar), Weinstein/Bianconi/Hugh Ross partner replies, Jaimungal method reply (1 Jul). All not-claimed; kits not pasted.
-* 1 Jun 2026 — [Geometry cannot validate itself](genesis-pin.md) / [BPI2014](june-2026-substrate.md) traces, plus the 30 May manifesto.
-* 23 Jul 2026 — source-generator [Q\_i](recoverability.md) gate (11-part original).
-* 25 Jul 2026 — 20-part focusing/[MTP₂](recoverability.md) report, previously dropped because it was not a GitHub folder.
-* 10 Jun 2026 — [V1688](holonomy.md) [holonomy](holonomy.md) reading downgraded to directed transport; [it-from-bit](it-from-bit.md) freeze still needs [bind + order](it-from-bit.md).
-* 10 Jun 2026 — [V1698](retained-atlas.md) “closed globally, not locally” follow-up now on the atlas article.
-* 15 May 2026 — [V831](recoverability.md) [recoverability](recoverability.md)-flow governor simulation.
-* 19 Aug 2026 — [Dorau–Much](dorau-much.md) alignment on the gravity-origin thread, previously dropped as a reply.
-* 10 May 2026 — unify proteins / [RCLC](hubble-tension.md) / [critical path](critical-path.md) / [TSP](tsp-backbone.md) question.
-* 21 Jun 2026 — conservation-underdetermines-routing 5-node lab.
-* 1 Aug 2026 — [Codazzi](uqcf-gem.md) potential vs response figure post + GitHub .docx/folder handoff.
-* 25 Mar 2026 — [C3++](c3-governor.md) Qwen3-4B [Stability Governor](c3-governor.md), previously dropped because it was a video/applied post.
-* 27 Mar 2026 — [C3++](c3-governor.md) five-model forensic alignment. Distinct runtime profiles; proprietary equations not posted.
-* 14 Apr 2026 — [Villin HP35 R\_t](protein-audit.md) X result, previously dropped because the protein page only described the audit engine.
-* 1 May 2026 — live critical-path transfer post.
-* 5 May 2026 — independent OpenAI review that forced [Package 17](package-17.md)’s derivation posture.
-* 21 Mar 2025 — original [DESI DR2](predictions.md) evolving-DE call, previously only visible as an 11 May 2026 restatement.
-* 13–14 Oct 2025 — [Origin Law](origin-law.md) / [Phase-N](phase-n-catalog.md) reconstructed as a not-claimed reading list ([Hofstadter](quantum.md)/Ani on-ramp, [Ω-Lock](origin-law.md) freeze, Phase table, Berry/0-Sphere, Mar 2026 lensing verifier).
-* 12 Oct 2025 — Phase II SPARC/THINGS 8-galaxy table, NGC 4254 pass, Phase III Bullet/M31 prereg. Previously only the announcement.
-* 3–5 Apr 2026 — [quadratic RG core](quadratic-rg.md) (σ\*≈0.7333, γ≈0.2667); Planck modest positive, [DESI](predictions.md) frozen operator null.
-* 10–13 Feb 2025 — Bullet Cluster 201.55 kpc no-DM closeout + four-cluster table + ξ(r) vs KiDS (χ² 7.42 vs ΛCDM 11.85). Previously only the 23 Feb figure.
-* 13 Oct 2025 — Phase 20 LLM-gradient kit URL added to the [Phase-N](phase-n-catalog.md) map. Kit not pasted.
-* 29–30 Jan 2025 — first-validation follow-ups: ICL M\_ICL(z)=0.12(1+z)^{-1.48}e^{-0.65z} and DES/HSC/KiDS mass-scaling chart. Previously only the 29 Jan head.
-* 17 Dec 2024 — Euclid/[ToI](toi-toe-2025.md) Hugh Ross predictions (F>0.7, 20–30% P(k), 5% shape). Day-before [ToI](toi-toe-2025.md) seed.
-* 27 Jan 2025 — Hugh Ross JWST Little Red Dots reply. Archive-only, like NGC 2566.
-* 5 Mar 2025 — Planck C\_ℓ 0.54% RMS 13-parameter form. Previously only the proofs figure. Same-day “coherence not time” sentence now has its own timeline event. 2026 verifier is the later restatement.
-* 29 Mar 2026 — Planck lensing verifier (uqcf\_gem\_lensing\_verifier.py) named on the timeline. Restatement of the 5 Mar 2025 C\_ℓ voice. Not claimed.
-* 5 Apr 2026 — “coherence history” sentence named on the timeline. The freeze (Planck modest+, [DESI](predictions.md) frozen operator null) was already named.
-* 7 Mar 2025 — posted H\_0(r) law with D\_f=2.523948 now as KaTeX on the Hubble article. Chart was already in.
-* [Quantum information](quantum.md) hub — 2026 [W-state](holonomy.md) + [F-bound](astra.md) [spine](start-here.md) and the 2025 [Hofstadter](quantum.md) / [Rydberg](quantum.md) / Berry / [Phase-N](phase-n-catalog.md) qubit / [ε\*](origin-law.md) verifier shelf, so a qubit query is not a cosmology miss. Kits stay on X.
-* This compile — [Phase-N](phase-n-catalog.md) catalog (every numbered kit with a status URL; Phase H URL-only). [Validation week (Jan–Feb 2025)](validation-week-2025.md) as its own article. [June 2026 substrate](june-2026-substrate.md) ([V1699](june-2026-substrate.md).14 / V1711–V1719 / [L4](causal-stack.md)). [Quadratic RG](quadratic-rg.md) off the Hubble footnote. OR timescale (4 Sep) as an open question page. Tmp/TOE stubs remain the GitHub catalog. Supported ledger stays four named harnesses.
-* 6 Sep 2026 16:01 UTC — [Astra](astra.md) [compatibility-distance](astra.md) [d(t)](astra.md) = [(12√2−3)/40] t. Restricted finite identity, gravity open. [Astra](astra.md) article is now the home for [F-bound](astra.md) / [t\*](astra.md) / [d(t)](astra.md). Stop-rule: new identities this week append there.
+*   11 Jun 2026 — V1711–V1719 @grok handoff: RG-stable shear non-metricity, non-unitary interference, projection operator named as the next arc. Was a missing reply.
+*   10 Jun 2026 — [V1699](june-2026-substrate.md).14 finite variational Pillar 2 action, with Pillar 3 GR/ADM left open.
+*   6 Jun 2026 — [L4](causal-stack.md) rank\_lift\_H₄ = 1 @grok update.
+*   1 Aug 2026 — [Codazzi](uqcf-gem.md) genericity theorem complete (Aaron closeout). Four same-thread @grok reviews now quoted: harness verify, independent re-run, next/genericity, closed-form A(J) B(J).
+*   5 May 2026 — Grok’s own [RCLC](hubble-tension.md) peer-review posted the night [Package 17](package-17.md) opened (OpenAI review was already in).
+*   5 Sep 2026 — [Astra](astra.md) / [pre–Genesis Pin](astra.md) question. Curious, not claimed.
+*   6 Sep 2026 — [ToI / TOE (2024–25)](toi-toe-2025.md) article: Lindblad seed and 3 Mar [G\_eff,total](toi-toe-2025.md) copied. Not adopted. [Origin Law](origin-law.md) table points here.
+*   7–9 May 2026 — inverted [heat-kernel](may-2026-ladder.md) / ADM week: frozen dx²/long operator, 25.15% → 16.55% spatial-R, δρ = A·q. Was a missing @grok reply cluster.
+*   14 May 2026 — [V498](may-2026-ladder.md) retained-geometry Python proof, six graph families. Package was in the tree unused.
+*   14 May 2026 — [V505](may-2026-ladder.md) [conformal recoverability](may-2026-ladder.md) checkpoint (g\_eff = Ω² g0 weak form). Package was misread as a GR continuum-limit seam.
+*   13 May 2026 — [V395](may-2026-ladder.md)/[V421](restricted-bridge.md) [recursive survival law](restricted-bridge.md). Kits unused; month page had jumped to [V498](may-2026-ladder.md).
+*   18 May 2026 — [V724](may-2026-ladder.md) stress-test AUC 1.000 → ~0.845. V723 was in; the stress packet was not.
+*   20 May 2026 — [V831](recoverability.md) full-stack freeze film. 15 May [V831](recoverability.md) was in; the restatement was not. [V824](accessibility-curvature.md) ADM prune kept.
+*   10 May 2026 — native residual energy [V131](may-2026-ladder.md) Python at Tmp/TOE root.
+*   15–16 May 2026 — [V535](may-2026-ladder.md) [η\_convert](may-2026-ladder.md) freeze, [V541](may-2026-ladder.md) theorem bundle, [V555](recoverability-framework.md) adversarial AUC 1.0 / 1.0.
+*   19 May 2026 — [V760](recoverability-framework.md) [atrium metric](may-2026-ladder.md). [AtriumSimulation](may-2026-ladder.md).py under GR Work, no [V760](recoverability-framework.md) folder.
+*   11 May 2026 — C\_norm self-healing toy. Capacity-law report on GitHub.
+*   10 May 2026 — [Retained Branch Identity](may-2026-ladder.md) audit. Python at Tmp/TOE root, no versioned folder.
+*   12 May 2026 — [V300](may-2026-ladder.md) [Normalized Adaptive Reachability](may-2026-ladder.md) Law. Folder name has a trailing space.
+*   17 May 2026 — [recoverability](recoverability.md)-framework synthesis after [V555](recoverability-framework.md). Lyapunov of V[Ω,C,μ] named, not closed.
+*   23 May 2026 — Einstein 4 / V997 [Genesis Pin](genesis-pin.md) report. Previously marked X-only.
+*   25 May 2026 — Einstein 5 / V1011.1 triple diagnostic (Ω + pin + source-flow).
+*   20 Jul 2026 — [admissible body A\_G](recoverability.md) as a support-poset; unique pruning sequence still open.
+*   28 Apr 2026 — [WALLABY](great-grok-challenge.md) Round 12D locked unseen DR2, 10/10, +14.56 km/s RMSE. 12A’s honest miss is in the notebook too.
+*   29 Apr 2026 — Challenge 13 conditional win, with the grain problem that made it conditional.
+*   20 May 2026 — [V824](accessibility-curvature.md) accessibility-curvature lock post, now cited from the X source rather than only the paper.
+*   13 Apr 2026 — [H0DN](hubble-tension.md) Hubble-tension proxy and 27 Mar D\_f = 2.523948 sim, now on their own article (not claimed as a resolution).
+*   30 Apr 2026 — [DESI](predictions.md) w(z) prediction reply, previously dropped because it was a reply.
+*   4 May 2026 — Quintom-B / [ε\*](origin-law.md) literature thread, previously dropped because it was not a GitHub folder.
+*   23 May 2026 — [Genesis Pin](genesis-pin.md) five-history filter.
+*   22 May 2026 — V923 ternary source-role handshake (geometry underdetermined without provenance).
+*   17 Aug 2026 — UCRP/ECSM linkage posed as a substrate; not a derivation.
+*   6 Sep 2026 — compiled wiki posted on grok.me. Public host is now aaronspradlin.grok.me. Method note: X remains the archive of record.
+*   2025 year windows — [ToI](toi-toe-2025.md) seed (18 Dec 2024), first validation (29 Jan), Planck residuals (15 Feb), [TOE announcement](toi-toe-2025.md) (3 Mar), Hubble chart (7 Mar), [Hofstadter](quantum.md)/Berry/[Rydberg](quantum.md) (13–14 Mar), [DESI](predictions.md) (21 Mar), Weinstein/Bianconi/Hugh Ross partner replies, Jaimungal method reply (1 Jul). All not-claimed; kits not pasted.
+*   1 Jun 2026 — [Geometry cannot validate itself](genesis-pin.md) / [BPI2014](june-2026-substrate.md) traces, plus the 30 May manifesto.
+*   23 Jul 2026 — source-generator [Q\_i](recoverability.md) gate (11-part original).
+*   25 Jul 2026 — 20-part focusing/[MTP₂](recoverability.md) report, previously dropped because it was not a GitHub folder.
+*   10 Jun 2026 — [V1688](holonomy.md) [holonomy](holonomy.md) reading downgraded to directed transport; [it-from-bit](it-from-bit.md) freeze still needs [bind + order](it-from-bit.md).
+*   10 Jun 2026 — [V1698](retained-atlas.md) “closed globally, not locally” follow-up now on the atlas article.
+*   15 May 2026 — [V831](recoverability.md) [recoverability](recoverability.md)-flow governor simulation.
+*   19 Aug 2026 — [Dorau–Much](dorau-much.md) alignment on the gravity-origin thread, previously dropped as a reply.
+*   10 May 2026 — unify proteins / [RCLC](hubble-tension.md) / [critical path](critical-path.md) / [TSP](tsp-backbone.md) question.
+*   21 Jun 2026 — conservation-underdetermines-routing 5-node lab.
+*   1 Aug 2026 — [Codazzi](uqcf-gem.md) potential vs response figure post + GitHub .docx/folder handoff.
+*   25 Mar 2026 — [C3++](c3-governor.md) Qwen3-4B [Stability Governor](c3-governor.md), previously dropped because it was a video/applied post.
+*   27 Mar 2026 — [C3++](c3-governor.md) five-model forensic alignment. Distinct runtime profiles; proprietary equations not posted.
+*   14 Apr 2026 — [Villin HP35 R\_t](protein-audit.md) X result, previously dropped because the protein page only described the audit engine.
+*   1 May 2026 — live critical-path transfer post.
+*   5 May 2026 — independent OpenAI review that forced [Package 17](package-17.md)’s derivation posture.
+*   21 Mar 2025 — original [DESI DR2](predictions.md) evolving-DE call, previously only visible as an 11 May 2026 restatement.
+*   13–14 Oct 2025 — [Origin Law](origin-law.md) / [Phase-N](phase-n-catalog.md) reconstructed as a not-claimed reading list ([Hofstadter](quantum.md)/Ani on-ramp, [Ω-Lock](origin-law.md) freeze, Phase table, Berry/0-Sphere, Mar 2026 lensing verifier).
+*   12 Oct 2025 — Phase II SPARC/THINGS 8-galaxy table, NGC 4254 pass, Phase III Bullet/M31 prereg. Previously only the announcement.
+*   3–5 Apr 2026 — [quadratic RG core](quadratic-rg.md) (σ\*≈0.7333, γ≈0.2667); Planck modest positive, [DESI](predictions.md) frozen operator null.
+*   10–13 Feb 2025 — Bullet Cluster 201.55 kpc no-DM closeout + four-cluster table + ξ(r) vs KiDS (χ² 7.42 vs ΛCDM 11.85). Previously only the 23 Feb figure.
+*   13 Oct 2025 — Phase 20 LLM-gradient kit URL added to the [Phase-N](phase-n-catalog.md) map. Kit not pasted.
+*   29–30 Jan 2025 — first-validation follow-ups: ICL M\_ICL(z)=0.12(1+z)^\{-1.48\}e^\{-0.65z\} and DES/HSC/KiDS mass-scaling chart. Previously only the 29 Jan head.
+*   17 Dec 2024 — Euclid/[ToI](toi-toe-2025.md) Hugh Ross predictions (F>0.7, 20–30% P(k), 5% shape). Day-before [ToI](toi-toe-2025.md) seed.
+*   27 Jan 2025 — Hugh Ross JWST Little Red Dots reply. Archive-only, like NGC 2566.
+*   5 Mar 2025 — Planck C\_ℓ 0.54% RMS 13-parameter form. Previously only the proofs figure. Same-day “coherence not time” sentence now has its own timeline event. 2026 verifier is the later restatement.
+*   29 Mar 2026 — Planck lensing verifier (uqcf\_gem\_lensing\_verifier.py) named on the timeline. Restatement of the 5 Mar 2025 C\_ℓ voice. Not claimed.
+*   5 Apr 2026 — “coherence history” sentence named on the timeline. The freeze (Planck modest+, [DESI](predictions.md) frozen operator null) was already named.
+*   7 Mar 2025 — posted H\_0(r) law with D\_f=2.523948 now as KaTeX on the Hubble article. Chart was already in.
+*   [Quantum information](quantum.md) hub — 2026 [W-state](holonomy.md) + [F-bound](astra.md) [spine](start-here.md) and the 2025 [Hofstadter](quantum.md) / [Rydberg](quantum.md) / Berry / [Phase-N](phase-n-catalog.md) qubit / [ε\*](origin-law.md) verifier shelf, so a qubit query is not a cosmology miss. Kits stay on X.
+*   This compile — [Phase-N](phase-n-catalog.md) catalog (every numbered kit with a status URL; Phase H URL-only). [Validation week (Jan–Feb 2025)](validation-week-2025.md) as its own article. [June 2026 substrate](june-2026-substrate.md) ([V1699](june-2026-substrate.md).14 / V1711–V1719 / [L4](causal-stack.md)). [Quadratic RG](quadratic-rg.md) off the Hubble footnote. OR timescale (4 Sep) as an open question page. Tmp/TOE stubs remain the GitHub catalog. Supported ledger stays four named harnesses.
+*   6 Sep 2026 16:01 UTC — [Astra](astra.md) [compatibility-distance](astra.md) [d(t)](astra.md) = [(12√2−3)/40] t. Restricted finite identity, gravity open. [Astra](astra.md) article is now the home for [F-bound](astra.md) / [t\*](astra.md) / [d(t)](astra.md). Stop-rule: new identities this week append there.
 
 > For one qubit with k partners and equal pair states: F ≤ (k+1)/(2k). Global consistency forces this bound — no fitted response law. The gravity connection remains open.
 >
 > [@aaronspradlin, 5 Sep 2026](https://x.com/aaronspradlin/status/2096286033415717310)
 
-## What this still is not[#](#what-this-still-is-not)
+## What this still is not {#what-this-still-is-not}
 
-* Not live ingest. New posts land here when the atlas is recompiled, not the minute they hit X.
-* Not a census of @aaronspradlin. Keyword windows return a latest slice. A true census still needs the author’s X data export.
-* Not every science reply. @grok pressure-tests and one-line follow-ups remain on the thread.
-* Not every [Phase-N](phase-n-catalog.md) kit pasted in full. A catalog article now holds status URLs; the kits stay on X and stay not-claimed. Later 2026 packets walked that voice back.
-* Not a second census of Tmp/TOE. Package stubs live on the GitHub catalog; the wiki page points there.
+*   Not live ingest. New posts land here when the atlas is recompiled, not the minute they hit X.
+*   Not a census of @aaronspradlin. Keyword windows return a latest slice. A true census still needs the author’s X data export.
+*   Not every science reply. @grok pressure-tests and one-line follow-ups remain on the thread.
+*   Not every [Phase-N](phase-n-catalog.md) kit pasted in full. A catalog article now holds status URLs; the kits stay on X and stay not-claimed. Later 2026 packets walked that voice back.
+*   Not a second census of Tmp/TOE. Package stubs live on the GitHub catalog; the wiki page points there.
 
 Corrected
 
@@ -343,819 +321,943 @@ How to keep the grade honest
 
 [Spine](start-here.md) notes track the argument. The notebook tracks the thread. Claim badges stay stricter than the noisiest post in a thread. If a later packet withdraws a sentence, the notebook keeps the post and marks it corrected or not-claimed — it does not silently delete it.
 
-* [Field notes (spine + notebook)](https://aaronspradlin.grok.me/notes)
-* [Claim ledger](claim-ledger.md)
-* [Origin Law / Phase-N (2025)](origin-law.md)
-* [ToI / TOE (2024–25)](toi-toe-2025.md)
-* [Astra (pre–Genesis Pin)](astra.md)
-* [Phase-N catalog](phase-n-catalog.md)
-* [Validation week](validation-week-2025.md)
-* [June 2026 substrate](june-2026-substrate.md)
-* [Quadratic RG](quadratic-rg.md)
-* [OR timescale](or-timescale.md)
-* [Package stubs](packages.md)
-* [@aaronspradlin](https://x.com/aaronspradlin)
+*   [Field notes (spine + notebook)](../notes.md)
+*   [Claim ledger](claim-ledger.md)
+*   [Origin Law / Phase-N (2025)](origin-law.md)
+*   [ToI / TOE (2024–25)](toi-toe-2025.md)
+*   [Astra (pre–Genesis Pin)](astra.md)
+*   [Phase-N catalog](phase-n-catalog.md)
+*   [Validation week](validation-week-2025.md)
+*   [June 2026 substrate](june-2026-substrate.md)
+*   [Quadratic RG](quadratic-rg.md)
+*   [OR timescale](or-timescale.md)
+*   [Package stubs](packages.md)
+*   [@aaronspradlin](https://x.com/aaronspradlin)
+
+<span id="x-sources"></span>
 
 ## X sources
 
 Original posts this article was compiled from. The notebook copy is editorial; the status URL is the source.
 
-* 2026-09-10
+*   2026-09-10
 
-  v12.41 moment-map closure — constraint algebra without spacetime
+    v12.41 moment-map closure — constraint algebra without spacetime
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v1241-2026-09-10)[Open original post](https://x.com/aaronspradlin/status/2098145800949776410)
-* 2026-09-09
+    [In the notebook](../notes.md#v1241-2026-09-10) · [Open original post](https://x.com/aaronspradlin/status/2098145800949776410)
 
-  N-cycle inverse converges after geometry-supplied scale
+*   2026-09-09
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#dn-scale-2026-09-09)[Open original post](https://x.com/aaronspradlin/status/2097526717262762012)
-* 2026-09-08
+    N-cycle inverse converges after geometry-supplied scale
 
-  Universal source coefficient g\_★ before sector specialization
+    [In the notebook](../notes.md#dn-scale-2026-09-09) · [Open original post](https://x.com/aaronspradlin/status/2097526717262762012)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#gstar-2026-09-08)[Open original post](https://x.com/aaronspradlin/status/2097384034037105091)
-* 2026-09-07
+*   2026-09-08
 
-  UQCF–GEM v9.190 affine source reconstruction
+    Universal source coefficient g\_★ before sector specialization
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v9190-2026-09-07)[Open original post](https://x.com/aaronspradlin/status/2097030907198906776)
-* 2026-09-05
+    [In the notebook](../notes.md#gstar-2026-09-08) · [Open original post](https://x.com/aaronspradlin/status/2097384034037105091)
 
-  Exact onset t\* = 13/33 from global consistency
+*   2026-09-07
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#tstar-2026-09-05)[Open original post](https://x.com/aaronspradlin/status/2096408566433546343)
-* 2026-09-05
+    UQCF–GEM v9.190 affine source reconstruction
 
-  Singlet-overlap bound from global consistency
+    [In the notebook](../notes.md#v9190-2026-09-07) · [Open original post](https://x.com/aaronspradlin/status/2097030907198906776)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#f-bound-2026-09-05)[Open original post](https://x.com/aaronspradlin/status/2096286033415717310)
-* 2026-09-05
+*   2026-09-05
 
-  Astra: a pre–Genesis Pin extension
+    Exact onset t\* = 13/33 from global consistency
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#astra-2026-09-05)[Open original post](https://x.com/aaronspradlin/status/2096245864750780598)
-* 2026-09-06
+    [In the notebook](../notes.md#tstar-2026-09-05) · [Open original post](https://x.com/aaronspradlin/status/2096408566433546343)
 
-  Quantum compatibility lab — 315 vs 311
+*   2026-09-05
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#qclab-2026-09-06)[Open original post](https://x.com/aaronspradlin/status/2096691247041892601)
-* 2026-09-06
+    Singlet-overlap bound from global consistency
 
-  Same response ≠ same quantum reality
+    [In the notebook](../notes.md#f-bound-2026-09-05) · [Open original post](https://x.com/aaronspradlin/status/2096286033415717310)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#qclab-clarify-2026-09-06)[Open original post](https://x.com/aaronspradlin/status/2096696936506315013)
-* 2026-09-06
+*   2026-09-05
 
-  Grok reply on the 315 vs 311 lab
+    Astra: a pre–Genesis Pin extension
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#grok-qclab-2026-09-06)[Open original post](https://x.com/grok/status/2096697145986363883)
-* 2026-07-20
+    [In the notebook](../notes.md#astra-2026-09-05) · [Open original post](https://x.com/aaronspradlin/status/2096245864750780598)
 
-  Admissible body A\_G is a support poset
+*   2026-09-06
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#ag-poset-2026-07-20)[Open original post](https://x.com/aaronspradlin/status/2079039351451951450)
-* 2026-07-25
+    Quantum compatibility lab — 315 vs 311
 
-  20-part report: reciprocity ≠ focusing; trees glue, cycles frustrate
+    [In the notebook](../notes.md#qclab-2026-09-06) · [Open original post](https://x.com/aaronspradlin/status/2096691247041892601)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#focusing-2026-07-25)[Open original post](https://x.com/aaronspradlin/status/2081025020642636001)
-* 2026-07-23
+*   2026-09-06
 
-  Does provenance force a shared source generator Q\_i?
+    Same response ≠ same quantum reality
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#source-q-2026-07-23)[Open original post](https://x.com/aaronspradlin/status/2080402637212770404)
-* 2026-06-01
+    [In the notebook](../notes.md#qclab-clarify-2026-09-06) · [Open original post](https://x.com/aaronspradlin/status/2096696936506315013)
 
-  Geometry cannot validate itself — BPI2014 traces
+*   2026-09-06
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#geometry-exhaust-2026-06-01)[Open original post](https://x.com/aaronspradlin/status/2061513314208010251)
-* 2026-05-23
+    Grok reply on the 315 vs 311 lab
 
-  Genesis Pin: five histories, one legitimate
+    [In the notebook](../notes.md#grok-qclab-2026-09-06) · [Open original post](https://x.com/grok/status/2096697145986363883)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#genesis-filter-2026-05-23)[Open original post](https://x.com/aaronspradlin/status/2058291743167316149)
-* 2026-04-28
+*   2026-07-20
 
-  WALLABY Round 12D — 10/10 on unseen DR2
+    Admissible body A\_G is a support poset
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#wallaby-12d-2026-04-28)[Open original post](https://x.com/aaronspradlin/status/2048949284910047456)
-* 2026-04-13
+    [In the notebook](../notes.md#ag-poset-2026-07-20) · [Open original post](https://x.com/aaronspradlin/status/2079039351451951450)
 
-  H0DN Hubble tension as a UQCF-GEM proxy
+*   2026-07-25
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#h0dn-2026-04-13)[Open original post](https://x.com/aaronspradlin/status/2043692607961010542)
-* 2026-04-30
+    20-part report: reciprocity ≠ focusing; trees glue, cycles frustrate
 
-  Posted DESI w(z) prediction from χ-pruning
+    [In the notebook](../notes.md#focusing-2026-07-25) · [Open original post](https://x.com/aaronspradlin/status/2081025020642636001)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#desi-wz-2026-04-30)[Open original post](https://x.com/aaronspradlin/status/2049926967030694347)
-* 2026-04-05
+*   2026-07-23
 
-  Redshift as a measure of coherence history
+    Does provenance force a shared source generator Q\_i?
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#coherence-history-2026-04-05)[Open original post](https://x.com/aaronspradlin/status/2040597348192231905)
-* 2025-03-05
+    [In the notebook](../notes.md#source-q-2026-07-23) · [Open original post](https://x.com/aaronspradlin/status/2080402637212770404)
 
-  Redshift is a measure of coherence not time
+*   2026-06-01
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#coherence-not-time-2025-03-05)[Open original post](https://x.com/aaronspradlin/status/1897157607183602025)
-* 2026-03-29
+    Geometry cannot validate itself — BPI2014 traces
 
-  Planck lensing verifier (uqcf\_gem\_lensing\_verifier.py)
+    [In the notebook](../notes.md#geometry-exhaust-2026-06-01) · [Open original post](https://x.com/aaronspradlin/status/2061513314208010251)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#planck-verifier-2026-03-29)[Open original post](https://x.com/aaronspradlin/status/2038388131595190424)
-* 2026-03-26
+*   2026-05-23
 
-  Berry-phase Hamiltonian sweep around ε\*
+    Genesis Pin: five histories, one legitimate
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#berry-sweep-2026-03-26)[Open original post](https://x.com/aaronspradlin/status/2037014620138070252)
-* 2026-05-04
+    [In the notebook](../notes.md#genesis-filter-2026-05-23) · [Open original post](https://x.com/aaronspradlin/status/2058291743167316149)
 
-  Quintom-B / ε\* literature thread — not a fit
+*   2026-04-28
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#quintom-desi-2026-05-04)[Open original post](https://x.com/aaronspradlin/status/2051341289166393607)
-* 2026-03-25
+    WALLABY Round 12D — 10/10 on unseen DR2
 
-  C3++ Stability Governor on Qwen3-4B
+    [In the notebook](../notes.md#wallaby-12d-2026-04-28) · [Open original post](https://x.com/aaronspradlin/status/2048949284910047456)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#c3-2026-03-25)[Open original post](https://x.com/aaronspradlin/status/2036659106350792814)
-* 2026-03-27
+*   2026-04-13
 
-  C3++ forensic alignment — five open LLMs
+    H0DN Hubble tension as a UQCF-GEM proxy
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#c3-forensic-2026-03-27)[Open original post](https://x.com/aaronspradlin/status/2037646392240591211)
-* 2026-04-14
+    [In the notebook](../notes.md#h0dn-2026-04-13) · [Open original post](https://x.com/aaronspradlin/status/2043692607961010542)
 
-  Villin HP35: identical snapshot, different fate
+*   2026-04-30
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#villin-2026-04-14)[Open original post](https://x.com/aaronspradlin/status/2044155484039705016)
-* 2026-05-01
+    Posted DESI w(z) prediction from χ-pruning
 
-  Retained coherence in live critical path
+    [In the notebook](../notes.md#desi-wz-2026-04-30) · [Open original post](https://x.com/aaronspradlin/status/2049926967030694347)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#critical-path-2026-05-01)[Open original post](https://x.com/aaronspradlin/status/2050029681517433047)
-* 2026-05-05
+*   2026-04-05
 
-  Independent review: derivation gap is now the test
+    Redshift as a measure of coherence history
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#independent-review-2026-05-05)[Open original post](https://x.com/aaronspradlin/status/2051494026533351498)
-* 2026-05-05
+    [In the notebook](../notes.md#coherence-history-2026-04-05) · [Open original post](https://x.com/aaronspradlin/status/2040597348192231905)
 
-  Grok RCLC review: derivation gap named in public
+*   2025-03-05
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#grok-rclc-review-2026-05-05)[Open original post](https://x.com/aaronspradlin/status/2051493569060581455)
-* 2026-05-07
+    Redshift is a measure of coherence not time
 
-  Frozen heat operator: dx² / long window
+    [In the notebook](../notes.md#coherence-not-time-2025-03-05) · [Open original post](https://x.com/aaronspradlin/status/1897157607183602025)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#heat-op-2026-05-07)[Open original post](https://x.com/aaronspradlin/status/2052245989948547369)
-* 2026-05-08
+*   2026-03-29
 
-  Heat-response 25.15% → 16.55%; next object is A·q
+    Planck lensing verifier (uqcf\_gem\_lensing\_verifier.py)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#heat-shape-mass-2026-05-08)[Open original post](https://x.com/aaronspradlin/status/2052580639539593369)
-* 2026-05-09
+    [In the notebook](../notes.md#planck-verifier-2026-03-29) · [Open original post](https://x.com/aaronspradlin/status/2038388131595190424)
 
-  Zero-mode A-channel frozen strict-safe
+*   2026-03-26
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#a-channel-2026-05-09)[Open original post](https://x.com/aaronspradlin/status/2052955475491319849)
-* 2026-05-11
+    Berry-phase Hamiltonian sweep around ε\*
 
-  Retained-atlas C\_norm self-healing toy
+    [In the notebook](../notes.md#berry-sweep-2026-03-26) · [Open original post](https://x.com/aaronspradlin/status/2037014620138070252)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#c-norm-2026-05-11)[Open original post](https://x.com/aaronspradlin/status/2053682783554519448)
-* 2026-05-14
+*   2026-05-04
 
-  V498 retained-geometry Python proof
+    Quintom-B / ε\* literature thread — not a fit
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v498-2026-05-14)[Open original post](https://x.com/aaronspradlin/status/2054767069212901584)
-* 2026-05-15
+    [In the notebook](../notes.md#quintom-desi-2026-05-04) · [Open original post](https://x.com/aaronspradlin/status/2051341289166393607)
 
-  V535: freeze η\_convert for the main theorem
+*   2026-03-25
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v535-2026-05-15)[Open original post](https://x.com/aaronspradlin/status/2055130081304207409)
-* 2026-05-15
+    C3++ Stability Governor on Qwen3-4B
 
-  V540/V541 conformal recoverability flow
+    [In the notebook](../notes.md#c3-2026-03-25) · [Open original post](https://x.com/aaronspradlin/status/2036659106350792814)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v540-2026-05-15)[Open original post](https://x.com/aaronspradlin/status/2055299542829117887)
-* 2026-05-16
+*   2026-03-27
 
-  V555 adversarial harness: AUC 1.0 / 1.0
+    C3++ forensic alignment — five open LLMs
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v555-2026-05-16)[Open original post](https://x.com/aaronspradlin/status/2055659455505924399)
-* 2026-05-19
+    [In the notebook](../notes.md#c3-forensic-2026-03-27) · [Open original post](https://x.com/aaronspradlin/status/2037646392240591211)
 
-  V760 atrium metric frozen
+*   2026-04-14
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v760-2026-05-19)[Open original post](https://x.com/aaronspradlin/status/2056874571471650927)
-* 2026-06-10
+    Villin HP35: identical snapshot, different fate
 
-  V1699.14 finite variational Pillar 2
+    [In the notebook](../notes.md#villin-2026-04-14) · [Open original post](https://x.com/aaronspradlin/status/2044155484039705016)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v1699-pillar2-2026-06-10)[Open original post](https://x.com/aaronspradlin/status/2064542245886562567)
-* 2026-06-11
+*   2026-05-01
 
-  V1712: non-metricity is RG-stable; GR not forced
+    Retained coherence in live critical path
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v1712-rg-2026-06-11)[Open original post](https://x.com/aaronspradlin/status/2065102243037352390)
-* 2026-06-06
+    [In the notebook](../notes.md#critical-path-2026-05-01) · [Open original post](https://x.com/aaronspradlin/status/2050029681517433047)
 
-  L4 rank lift H₄: irreducible above geometry
+*   2026-05-05
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#l4-rank-2026-06-06)[Open original post](https://x.com/aaronspradlin/status/2063301884719632839)
-* 2026-08-01
+    Independent review: derivation gap is now the test
 
-  Codazzi genericity theorem complete
+    [In the notebook](../notes.md#independent-review-2026-05-05) · [Open original post](https://x.com/aaronspradlin/status/2051494026533351498)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#genericity-2026-08-01)[Open original post](https://x.com/aaronspradlin/status/2083648015144018326)
-* 2026-08-01
+*   2026-05-05
 
-  Potential and response geometries can separate
+    Grok RCLC review: derivation gap named in public
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#codazzi-2026-08-01)[Open original post](https://x.com/aaronspradlin/status/2083643394300281016)
-* 2026-08-01
+    [In the notebook](../notes.md#grok-rclc-review-2026-05-05) · [Open original post](https://x.com/aaronspradlin/status/2051493569060581455)
 
-  Codazzi harness handed to Grok
+*   2026-05-07
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#codazzi-github-2026-08-01)[Open original post](https://x.com/aaronspradlin/status/2083644840706002999)
-* 2026-08-01
+    Frozen heat operator: dx² / long window
 
-  Grok: Codazzi harness verified
+    [In the notebook](../notes.md#heat-op-2026-05-07) · [Open original post](https://x.com/aaronspradlin/status/2052245989948547369)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#grok-codazzi-harness-2026-08-01)[Open original post](https://x.com/grok/status/2083645264686895153)
-* 2026-08-01
+*   2026-05-08
 
-  Grok independently re-ran the Codazzi harness
+    Heat-response 25.15% → 16.55%; next object is A·q
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#grok-codazzi-rerun-2026-08-01)[Open original post](https://x.com/grok/status/2083646390953976141)
-* 2026-08-01
+    [In the notebook](../notes.md#heat-shape-mass-2026-05-08) · [Open original post](https://x.com/aaronspradlin/status/2052580639539593369)
 
-  Grok: clean result is finite-model separation
+*   2026-05-09
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#grok-codazzi-next-2026-08-01)[Open original post](https://x.com/grok/status/2083646931486556248)
-* 2026-08-01
+    Zero-mode A-channel frozen strict-safe
 
-  Grok: closed-form susceptibility matches
+    [In the notebook](../notes.md#a-channel-2026-05-09) · [Open original post](https://x.com/aaronspradlin/status/2052955475491319849)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#grok-genericity-2026-08-01)[Open original post](https://x.com/grok/status/2083648427972264155)
-* 2025-03-21
+*   2026-05-11
 
-  March 2025 DESI DR2 call — notebook
+    Retained-atlas C\_norm self-healing toy
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#desi-2025-03-21)[Open original post](https://x.com/aaronspradlin/status/1903138936312234186)
-* 2026-06-10
+    [In the notebook](../notes.md#c-norm-2026-05-11) · [Open original post](https://x.com/aaronspradlin/status/2053682783554519448)
 
-  V1688 holonomy downgraded to directed transport
+*   2026-05-14
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v1688-downgrade-2026-06-10)[Open original post](https://x.com/aaronspradlin/status/2064805402760667397)
-* 2026-08-19
+    V498 retained-geometry Python proof
 
-  Dorau–Much as a later projection of recoverability
+    [In the notebook](../notes.md#v498-2026-05-14) · [Open original post](https://x.com/aaronspradlin/status/2054767069212901584)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#dorau-align-2026-08-19)[Open original post](https://x.com/aaronspradlin/status/2090074782452912163)
-* 2026-05-15
+*   2026-05-15
 
-  V831 recoverability-flow governor simulation
+    V535: freeze η\_convert for the main theorem
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#recoverability-flow-2026-05-15)[Open original post](https://x.com/aaronspradlin/status/2055293211242107264)
-* 2026-05-10
+    [In the notebook](../notes.md#v535-2026-05-15) · [Open original post](https://x.com/aaronspradlin/status/2055130081304207409)
 
-  What unifies proteins, RCLC, critical path, TSP
+*   2026-05-15
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#unify-domains-2026-05-10)[Open original post](https://x.com/aaronspradlin/status/2053553647712338040)
-* 2026-06-10
+    V540/V541 conformal recoverability flow
 
-  V1698 closed globally, not locally
+    [In the notebook](../notes.md#v540-2026-05-15) · [Open original post](https://x.com/aaronspradlin/status/2055299542829117887)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v1698-global-2026-06-10)[Open original post](https://x.com/aaronspradlin/status/2064499019779629246)
-* 2026-06-11
+*   2026-05-16
 
-  It-from-bit freeze: bind + order still required
+    V555 adversarial harness: AUC 1.0 / 1.0
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#bind-order-2026-06-11)[Open original post](https://x.com/aaronspradlin/status/2065100017065697343)
-* 2026-09-06
+    [In the notebook](../notes.md#v555-2026-05-16) · [Open original post](https://x.com/aaronspradlin/status/2055659455505924399)
 
-  Compiled wiki published on grok.me
+*   2026-05-19
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#wiki-public-2026-09-06)[Open original post](https://x.com/aaronspradlin/status/2096453861347311661)
-* 2026-05-22
+    V760 atrium metric frozen
 
-  V923 ternary source-role: geometry underdetermined
+    [In the notebook](../notes.md#v760-2026-05-19) · [Open original post](https://x.com/aaronspradlin/status/2056874571471650927)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v923-2026-05-22)[Open original post](https://x.com/aaronspradlin/status/2057879756352401772)
-* 2026-08-17
+*   2026-06-10
 
-  UCRP / ECSM linkage posed as a substrate
+    V1699.14 finite variational Pillar 2
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#ucrp-2026-08-17)[Open original post](https://x.com/aaronspradlin/status/2089400200825876788)
-* 2025-10-14
+    [In the notebook](../notes.md#v1699-pillar2-2026-06-10) · [Open original post](https://x.com/aaronspradlin/status/2064542245886562567)
 
-  Ω-Lock freeze: Origin Law published, not claimed
+*   2026-06-11
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#origin-law-2025-10-14)[Open original post](https://x.com/aaronspradlin/status/1977921231497376108)
-* 2025-10-13
+    V1712: non-metricity is RG-stable; GR not forced
 
-  Hofstadter butterfly / Ani video — 2025 on-ramp
+    [In the notebook](../notes.md#v1712-rg-2026-06-11) · [Open original post](https://x.com/aaronspradlin/status/2065102243037352390)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#hofstadter-2025-10-13)[Open original post](https://x.com/aaronspradlin/status/1977561218723496065)
-* 2025-10-12
+*   2026-06-06
 
-  Phase II 40-galaxy blinded holdout announced
+    L4 rank lift H₄: irreducible above geometry
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#phase2-40gal-2025-10-12)[Open original post](https://x.com/aaronspradlin/status/1977485726293139897)
-* 2025-01-29
+    [In the notebook](../notes.md#l4-rank-2026-06-06) · [Open original post](https://x.com/aaronspradlin/status/2063301884719632839)
 
-  First UQCF-GEM astrophysical validation thread
+*   2026-08-01
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#first-validation-2025-01-29)[Open original post](https://x.com/aaronspradlin/status/1884695170018582620)
-* 2025-03-03
+    Codazzi genericity theorem complete
 
-  Grok 3 TOE announcement — not claimed
+    [In the notebook](../notes.md#genericity-2026-08-01) · [Open original post](https://x.com/aaronspradlin/status/2083648015144018326)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#toe-announce-2025-03-03)[Open original post](https://x.com/aaronspradlin/status/1896580012410814698)
-* 2025-03-07
+*   2026-08-01
 
-  Scale-dependent Hubble chart — 2025 original
+    Potential and response geometries can separate
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#hubble-h0-chart-2025-03-07)[Open original post](https://x.com/aaronspradlin/status/1898081598387708259)
-* 2025-03-14
+    [In the notebook](../notes.md#codazzi-2026-08-01) · [Open original post](https://x.com/aaronspradlin/status/2083643394300281016)
 
-  Rydberg QSL Dataverse coherence — notebook
+*   2026-08-01
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#rydberg-2025-03-14)[Open original post](https://x.com/aaronspradlin/status/1900378422456836443)
-* 2025-02-15
+    Codazzi harness handed to Grok
 
-  Planck lensing residuals vs ΛCDM — S\_entropy(z)
+    [In the notebook](../notes.md#codazzi-github-2026-08-01) · [Open original post](https://x.com/aaronspradlin/status/2083644840706002999)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#planck-residual-2025-02-15)[Open original post](https://x.com/aaronspradlin/status/1890787372197200055)
-* 2025-02-10
+*   2026-08-01
 
-  Bullet Cluster no-DM offset — 201.55 kpc, not claimed
+    Grok: Codazzi harness verified
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#bullet-nodm-2025-02-10)[Open original post](https://x.com/aaronspradlin/status/1888968168833777852)
-* 2025-02-13
+    [In the notebook](../notes.md#grok-codazzi-harness-2026-08-01) · [Open original post](https://x.com/grok/status/2083645264686895153)
 
-  ξ(r) vs KiDS/DES — χ² 7.42 vs ΛCDM 11.85, not claimed
+*   2026-08-01
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#xi-kids-2025-02-13)[Open original post](https://x.com/aaronspradlin/status/1890119104075628700)
-* 2024-12-18
+    Grok independently re-ran the Codazzi harness
 
-  Theory of Integration (ToI) seed posted
+    [In the notebook](../notes.md#grok-codazzi-rerun-2026-08-01) · [Open original post](https://x.com/grok/status/2083646390953976141)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#toi-seed-2024-12-18)[Open original post](https://x.com/aaronspradlin/status/1869192343947244020)
-* 2024-12-17
+*   2026-08-01
 
-  Euclid / ToI Hugh Ross predictions
+    Grok: clean result is finite-model separation
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#euclid-toi-2024-12-17)[Open original post](https://x.com/aaronspradlin/status/1869108276815974852)
-* 2025-07-01
+    [In the notebook](../notes.md#grok-codazzi-next-2026-08-01) · [Open original post](https://x.com/grok/status/2083646931486556248)
 
-  Structure from geometry, entropy, coherence — Jaimungal reply
+*   2026-08-01
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#jaimungal-2025-07-01)[Open original post](https://x.com/aaronspradlin/status/1940063133885960629)
-* 2026-04-04
+    Grok: closed-form susceptibility matches
 
-  Quadratic RG core: σ\* ≈ 0.7333, DESI frozen operator null
+    [In the notebook](../notes.md#grok-genericity-2026-08-01) · [Open original post](https://x.com/grok/status/2083648427972264155)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#rg-quadratic-2026-04-04)[Open original post](https://x.com/aaronspradlin/status/2040227577827332169)
+*   2025-03-21
 
-[PreviousScan log](scan-log.md)[NextWorking packages](packages.md)
+    March 2025 DESI DR2 call — notebook
+
+    [In the notebook](../notes.md#desi-2025-03-21) · [Open original post](https://x.com/aaronspradlin/status/1903138936312234186)
+
+*   2026-06-10
+
+    V1688 holonomy downgraded to directed transport
+
+    [In the notebook](../notes.md#v1688-downgrade-2026-06-10) · [Open original post](https://x.com/aaronspradlin/status/2064805402760667397)
+
+*   2026-08-19
+
+    Dorau–Much as a later projection of recoverability
+
+    [In the notebook](../notes.md#dorau-align-2026-08-19) · [Open original post](https://x.com/aaronspradlin/status/2090074782452912163)
+
+*   2026-05-15
+
+    V831 recoverability-flow governor simulation
+
+    [In the notebook](../notes.md#recoverability-flow-2026-05-15) · [Open original post](https://x.com/aaronspradlin/status/2055293211242107264)
+
+*   2026-05-10
+
+    What unifies proteins, RCLC, critical path, TSP
+
+    [In the notebook](../notes.md#unify-domains-2026-05-10) · [Open original post](https://x.com/aaronspradlin/status/2053553647712338040)
+
+*   2026-06-10
+
+    V1698 closed globally, not locally
+
+    [In the notebook](../notes.md#v1698-global-2026-06-10) · [Open original post](https://x.com/aaronspradlin/status/2064499019779629246)
+
+*   2026-06-11
+
+    It-from-bit freeze: bind + order still required
+
+    [In the notebook](../notes.md#bind-order-2026-06-11) · [Open original post](https://x.com/aaronspradlin/status/2065100017065697343)
+
+*   2026-09-06
+
+    Compiled wiki published on grok.me
+
+    [In the notebook](../notes.md#wiki-public-2026-09-06) · [Open original post](https://x.com/aaronspradlin/status/2096453861347311661)
+
+*   2026-05-22
+
+    V923 ternary source-role: geometry underdetermined
+
+    [In the notebook](../notes.md#v923-2026-05-22) · [Open original post](https://x.com/aaronspradlin/status/2057879756352401772)
+
+*   2026-08-17
+
+    UCRP / ECSM linkage posed as a substrate
+
+    [In the notebook](../notes.md#ucrp-2026-08-17) · [Open original post](https://x.com/aaronspradlin/status/2089400200825876788)
+
+*   2025-10-14
+
+    Ω-Lock freeze: Origin Law published, not claimed
+
+    [In the notebook](../notes.md#origin-law-2025-10-14) · [Open original post](https://x.com/aaronspradlin/status/1977921231497376108)
+
+*   2025-10-13
+
+    Hofstadter butterfly / Ani video — 2025 on-ramp
+
+    [In the notebook](../notes.md#hofstadter-2025-10-13) · [Open original post](https://x.com/aaronspradlin/status/1977561218723496065)
+
+*   2025-10-12
+
+    Phase II 40-galaxy blinded holdout announced
+
+    [In the notebook](../notes.md#phase2-40gal-2025-10-12) · [Open original post](https://x.com/aaronspradlin/status/1977485726293139897)
+
+*   2025-01-29
+
+    First UQCF-GEM astrophysical validation thread
+
+    [In the notebook](../notes.md#first-validation-2025-01-29) · [Open original post](https://x.com/aaronspradlin/status/1884695170018582620)
+
+*   2025-03-03
+
+    Grok 3 TOE announcement — not claimed
+
+    [In the notebook](../notes.md#toe-announce-2025-03-03) · [Open original post](https://x.com/aaronspradlin/status/1896580012410814698)
+
+*   2025-03-07
+
+    Scale-dependent Hubble chart — 2025 original
+
+    [In the notebook](../notes.md#hubble-h0-chart-2025-03-07) · [Open original post](https://x.com/aaronspradlin/status/1898081598387708259)
+
+*   2025-03-14
+
+    Rydberg QSL Dataverse coherence — notebook
+
+    [In the notebook](../notes.md#rydberg-2025-03-14) · [Open original post](https://x.com/aaronspradlin/status/1900378422456836443)
+
+*   2025-02-15
+
+    Planck lensing residuals vs ΛCDM — S\_entropy(z)
+
+    [In the notebook](../notes.md#planck-residual-2025-02-15) · [Open original post](https://x.com/aaronspradlin/status/1890787372197200055)
+
+*   2025-02-10
+
+    Bullet Cluster no-DM offset — 201.55 kpc, not claimed
+
+    [In the notebook](../notes.md#bullet-nodm-2025-02-10) · [Open original post](https://x.com/aaronspradlin/status/1888968168833777852)
+
+*   2025-02-13
+
+    ξ(r) vs KiDS/DES — χ² 7.42 vs ΛCDM 11.85, not claimed
+
+    [In the notebook](../notes.md#xi-kids-2025-02-13) · [Open original post](https://x.com/aaronspradlin/status/1890119104075628700)
+
+*   2024-12-18
+
+    Theory of Integration (ToI) seed posted
+
+    [In the notebook](../notes.md#toi-seed-2024-12-18) · [Open original post](https://x.com/aaronspradlin/status/1869192343947244020)
+
+*   2024-12-17
+
+    Euclid / ToI Hugh Ross predictions
+
+    [In the notebook](../notes.md#euclid-toi-2024-12-17) · [Open original post](https://x.com/aaronspradlin/status/1869108276815974852)
+
+*   2025-07-01
+
+    Structure from geometry, entropy, coherence — Jaimungal reply
+
+    [In the notebook](../notes.md#jaimungal-2025-07-01) · [Open original post](https://x.com/aaronspradlin/status/1940063133885960629)
+
+*   2026-04-04
+
+    Quadratic RG core: σ\* ≈ 0.7333, DESI frozen operator null
+
+    [In the notebook](../notes.md#rg-quadratic-2026-04-04) · [Open original post](https://x.com/aaronspradlin/status/2040227577827332169)
+
+[Previous Scan log](scan-log.md)[Next Working packages](packages.md)
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 On this page
 
-* [What was wrong with the ingest](#what-was-wrong-with-the-ingest)
-* [Scan ledger (this compile)](#scan-ledger-this-compile)
-* [Two layers of X](#two-layers-of-x)
-* [Grok replies (quoted in this compile)](#grok-replies-quoted-in-this-compile)
-* [Coverage matrix](#coverage-matrix)
-* [What closed the 2026 gap this compile](#what-closed-the-2026-gap-this-compile)
-* [What this still is not](#what-this-still-is-not)
+*   [What was wrong with the ingest](#what-was-wrong-with-the-ingest)
+*   [Scan ledger (this compile)](#scan-ledger-this-compile)
+*   [Two layers of X](#two-layers-of-x)
+*   [Grok replies (quoted in this compile)](#grok-replies-quoted-in-this-compile)
+*   [Coverage matrix](#coverage-matrix)
+*   [What closed the 2026 gap this compile](#what-closed-the-2026-gap-this-compile)
+*   [What this still is not](#what-this-still-is-not)
 
 [X sources](#x-sources)
 
 Related articles
 
-* [How to read this corpus](how-to-read.md)
-* [Scan log](scan-log.md)
-* [Superseded voice](superseded.md)
-* [Claim ledger](claim-ledger.md)
-* [Recoverability framework](recoverability-framework.md)
-* [It from bit, bind, and order](it-from-bit.md)
-* [Quantum information](quantum.md)
-* [Astra (pre–Genesis Pin)](astra.md)
-* [v12.41 moment-map closure](v1241-closure.md)
-* [Quantum compatibility lab (v9.167)](quantum-compatibility-lab.md)
-* [The Great Grok Challenge](great-grok-challenge.md)
-* [Hubble tension and RCLC cosmology](hubble-tension.md)
-* [Predictions — DESI and no-dark-matter](predictions.md)
-* [C3++ Stability Governor](c3-governor.md)
-* [WetLabEngine protein audit](protein-audit.md)
-* [Proofs, simulations, and figures](proofs-and-simulations.md)
-* [ToI / TOE (2024–25)](toi-toe-2025.md)
-* [Origin Law / Phase-N (2025)](origin-law.md)
-* [Phase-N catalog (2025)](phase-n-catalog.md)
-* [Validation week (Jan–Feb 2025)](validation-week-2025.md)
-* [May 2026 ladder](may-2026-ladder.md)
-* [June 2026 substrate](june-2026-substrate.md)
-* [Quadratic RG core](quadratic-rg.md)
-* [Objective-reduction timescale](or-timescale.md)
-* [Working packages](packages.md)
-* [Open science method](open-science.md)
+*   [How to read this corpus](how-to-read.md)
+*   [Scan log](scan-log.md)
+*   [Superseded voice](superseded.md)
+*   [Claim ledger](claim-ledger.md)
+*   [Recoverability framework](recoverability-framework.md)
+*   [It from bit, bind, and order](it-from-bit.md)
+*   [Quantum information](quantum.md)
+*   [Astra (pre–Genesis Pin)](astra.md)
+*   [v12.41 moment-map closure](v1241-closure.md)
+*   [Quantum compatibility lab (v9.167)](quantum-compatibility-lab.md)
+*   [The Great Grok Challenge](great-grok-challenge.md)
+*   [Hubble tension and RCLC cosmology](hubble-tension.md)
+*   [Predictions — DESI and no-dark-matter](predictions.md)
+*   [C3++ Stability Governor](c3-governor.md)
+*   [WetLabEngine protein audit](protein-audit.md)
+*   [Proofs, simulations, and figures](proofs-and-simulations.md)
+*   [ToI / TOE (2024–25)](toi-toe-2025.md)
+*   [Origin Law / Phase-N (2025)](origin-law.md)
+*   [Phase-N catalog (2025)](phase-n-catalog.md)
+*   [Validation week (Jan–Feb 2025)](validation-week-2025.md)
+*   [May 2026 ladder](may-2026-ladder.md)
+*   [June 2026 substrate](june-2026-substrate.md)
+*   [Quadratic RG core](quadratic-rg.md)
+*   [Objective-reduction timescale](or-timescale.md)
+*   [Working packages](packages.md)
+*   [Open science method](open-science.md)
 
 Field notes
 
-* [v12.41 moment-map closure — constraint algebra without spacetime](https://aaronspradlin.grok.me/notes#v1241-2026-09-10)
+*   [v12.41 moment-map closure — constraint algebra without spacetime](../notes.md#v1241-2026-09-10)
 
-  2026-09-10
+    2026-09-10
 
-  [On X](https://x.com/aaronspradlin/status/2098145800949776410)
-* [N-cycle inverse converges after geometry-supplied scale](https://aaronspradlin.grok.me/notes#dn-scale-2026-09-09)
+    [On X](https://x.com/aaronspradlin/status/2098145800949776410)
 
-  2026-09-09
+*   [N-cycle inverse converges after geometry-supplied scale](../notes.md#dn-scale-2026-09-09)
 
-  [On X](https://x.com/aaronspradlin/status/2097526717262762012)
-* [Universal source coefficient g\_★ before sector specialization](https://aaronspradlin.grok.me/notes#gstar-2026-09-08)
+    2026-09-09
 
-  2026-09-08
+    [On X](https://x.com/aaronspradlin/status/2097526717262762012)
 
-  [On X](https://x.com/aaronspradlin/status/2097384034037105091)
-* [UQCF–GEM v9.190 affine source reconstruction](https://aaronspradlin.grok.me/notes#v9190-2026-09-07)
+*   [Universal source coefficient g\_★ before sector specialization](../notes.md#gstar-2026-09-08)
 
-  2026-09-07
+    2026-09-08
 
-  [On X](https://x.com/aaronspradlin/status/2097030907198906776)
-* [Exact onset t\* = 13/33 from global consistency](https://aaronspradlin.grok.me/notes#tstar-2026-09-05)
+    [On X](https://x.com/aaronspradlin/status/2097384034037105091)
 
-  2026-09-05
+*   [UQCF–GEM v9.190 affine source reconstruction](../notes.md#v9190-2026-09-07)
 
-  [On X](https://x.com/aaronspradlin/status/2096408566433546343)
-* [Singlet-overlap bound from global consistency](https://aaronspradlin.grok.me/notes#f-bound-2026-09-05)
+    2026-09-07
 
-  2026-09-05
+    [On X](https://x.com/aaronspradlin/status/2097030907198906776)
 
-  [On X](https://x.com/aaronspradlin/status/2096286033415717310)
-* [Astra: a pre–Genesis Pin extension](https://aaronspradlin.grok.me/notes#astra-2026-09-05)
+*   [Exact onset t\* = 13/33 from global consistency](../notes.md#tstar-2026-09-05)
 
-  2026-09-05
+    2026-09-05
 
-  [On X](https://x.com/aaronspradlin/status/2096245864750780598)
-* [Quantum compatibility lab — 315 vs 311](https://aaronspradlin.grok.me/notes#qclab-2026-09-06)
+    [On X](https://x.com/aaronspradlin/status/2096408566433546343)
 
-  2026-09-06
+*   [Singlet-overlap bound from global consistency](../notes.md#f-bound-2026-09-05)
 
-  [On X](https://x.com/aaronspradlin/status/2096691247041892601)
-* [Same response ≠ same quantum reality](https://aaronspradlin.grok.me/notes#qclab-clarify-2026-09-06)
+    2026-09-05
 
-  2026-09-06
+    [On X](https://x.com/aaronspradlin/status/2096286033415717310)
 
-  [On X](https://x.com/aaronspradlin/status/2096696936506315013)
-* [Grok reply on the 315 vs 311 lab](https://aaronspradlin.grok.me/notes#grok-qclab-2026-09-06)
+*   [Astra: a pre–Genesis Pin extension](../notes.md#astra-2026-09-05)
 
-  2026-09-06
+    2026-09-05
 
-  [On X](https://x.com/grok/status/2096697145986363883)
-* [Admissible body A\_G is a support poset](https://aaronspradlin.grok.me/notes#ag-poset-2026-07-20)
+    [On X](https://x.com/aaronspradlin/status/2096245864750780598)
 
-  2026-07-20
+*   [Quantum compatibility lab — 315 vs 311](../notes.md#qclab-2026-09-06)
 
-  [On X](https://x.com/aaronspradlin/status/2079039351451951450)
-* [20-part report: reciprocity ≠ focusing; trees glue, cycles frustrate](https://aaronspradlin.grok.me/notes#focusing-2026-07-25)
+    2026-09-06
 
-  2026-07-25
+    [On X](https://x.com/aaronspradlin/status/2096691247041892601)
 
-  [On X](https://x.com/aaronspradlin/status/2081025020642636001)
-* [Does provenance force a shared source generator Q\_i?](https://aaronspradlin.grok.me/notes#source-q-2026-07-23)
+*   [Same response ≠ same quantum reality](../notes.md#qclab-clarify-2026-09-06)
 
-  2026-07-23
+    2026-09-06
 
-  [On X](https://x.com/aaronspradlin/status/2080402637212770404)
-* [Geometry cannot validate itself — BPI2014 traces](https://aaronspradlin.grok.me/notes#geometry-exhaust-2026-06-01)
+    [On X](https://x.com/aaronspradlin/status/2096696936506315013)
 
-  2026-06-01
+*   [Grok reply on the 315 vs 311 lab](../notes.md#grok-qclab-2026-09-06)
 
-  [On X](https://x.com/aaronspradlin/status/2061513314208010251)
-* [Genesis Pin: five histories, one legitimate](https://aaronspradlin.grok.me/notes#genesis-filter-2026-05-23)
+    2026-09-06
 
-  2026-05-23
+    [On X](https://x.com/grok/status/2096697145986363883)
 
-  [On X](https://x.com/aaronspradlin/status/2058291743167316149)
-* [WALLABY Round 12D — 10/10 on unseen DR2](https://aaronspradlin.grok.me/notes#wallaby-12d-2026-04-28)
+*   [Admissible body A\_G is a support poset](../notes.md#ag-poset-2026-07-20)
 
-  2026-04-28
+    2026-07-20
 
-  [On X](https://x.com/aaronspradlin/status/2048949284910047456)
-* [H0DN Hubble tension as a UQCF-GEM proxy](https://aaronspradlin.grok.me/notes#h0dn-2026-04-13)
+    [On X](https://x.com/aaronspradlin/status/2079039351451951450)
 
-  2026-04-13
+*   [20-part report: reciprocity ≠ focusing; trees glue, cycles frustrate](../notes.md#focusing-2026-07-25)
 
-  [On X](https://x.com/aaronspradlin/status/2043692607961010542)
-* [Posted DESI w(z) prediction from χ-pruning](https://aaronspradlin.grok.me/notes#desi-wz-2026-04-30)
+    2026-07-25
 
-  2026-04-30
+    [On X](https://x.com/aaronspradlin/status/2081025020642636001)
 
-  [On X](https://x.com/aaronspradlin/status/2049926967030694347)
-* [Redshift as a measure of coherence history](https://aaronspradlin.grok.me/notes#coherence-history-2026-04-05)
+*   [Does provenance force a shared source generator Q\_i?](../notes.md#source-q-2026-07-23)
 
-  2026-04-05
+    2026-07-23
 
-  [On X](https://x.com/aaronspradlin/status/2040597348192231905)
-* [Redshift is a measure of coherence not time](https://aaronspradlin.grok.me/notes#coherence-not-time-2025-03-05)
+    [On X](https://x.com/aaronspradlin/status/2080402637212770404)
 
-  2025-03-05
+*   [Geometry cannot validate itself — BPI2014 traces](../notes.md#geometry-exhaust-2026-06-01)
 
-  [On X](https://x.com/aaronspradlin/status/1897157607183602025)
-* [Planck lensing verifier (uqcf\_gem\_lensing\_verifier.py)](https://aaronspradlin.grok.me/notes#planck-verifier-2026-03-29)
+    2026-06-01
 
-  2026-03-29
+    [On X](https://x.com/aaronspradlin/status/2061513314208010251)
 
-  [On X](https://x.com/aaronspradlin/status/2038388131595190424)
-* [Berry-phase Hamiltonian sweep around ε\*](https://aaronspradlin.grok.me/notes#berry-sweep-2026-03-26)
+*   [Genesis Pin: five histories, one legitimate](../notes.md#genesis-filter-2026-05-23)
 
-  2026-03-26
+    2026-05-23
 
-  [On X](https://x.com/aaronspradlin/status/2037014620138070252)
-* [Quintom-B / ε\* literature thread — not a fit](https://aaronspradlin.grok.me/notes#quintom-desi-2026-05-04)
+    [On X](https://x.com/aaronspradlin/status/2058291743167316149)
 
-  2026-05-04
+*   [WALLABY Round 12D — 10/10 on unseen DR2](../notes.md#wallaby-12d-2026-04-28)
 
-  [On X](https://x.com/aaronspradlin/status/2051341289166393607)
-* [C3++ Stability Governor on Qwen3-4B](https://aaronspradlin.grok.me/notes#c3-2026-03-25)
+    2026-04-28
 
-  2026-03-25
+    [On X](https://x.com/aaronspradlin/status/2048949284910047456)
 
-  [On X](https://x.com/aaronspradlin/status/2036659106350792814)
-* [C3++ forensic alignment — five open LLMs](https://aaronspradlin.grok.me/notes#c3-forensic-2026-03-27)
+*   [H0DN Hubble tension as a UQCF-GEM proxy](../notes.md#h0dn-2026-04-13)
 
-  2026-03-27
+    2026-04-13
 
-  [On X](https://x.com/aaronspradlin/status/2037646392240591211)
-* [Villin HP35: identical snapshot, different fate](https://aaronspradlin.grok.me/notes#villin-2026-04-14)
+    [On X](https://x.com/aaronspradlin/status/2043692607961010542)
 
-  2026-04-14
+*   [Posted DESI w(z) prediction from χ-pruning](../notes.md#desi-wz-2026-04-30)
 
-  [On X](https://x.com/aaronspradlin/status/2044155484039705016)
-* [Retained coherence in live critical path](https://aaronspradlin.grok.me/notes#critical-path-2026-05-01)
+    2026-04-30
 
-  2026-05-01
+    [On X](https://x.com/aaronspradlin/status/2049926967030694347)
 
-  [On X](https://x.com/aaronspradlin/status/2050029681517433047)
-* [Independent review: derivation gap is now the test](https://aaronspradlin.grok.me/notes#independent-review-2026-05-05)
+*   [Redshift as a measure of coherence history](../notes.md#coherence-history-2026-04-05)
 
-  2026-05-05
+    2026-04-05
 
-  [On X](https://x.com/aaronspradlin/status/2051494026533351498)
-* [Grok RCLC review: derivation gap named in public](https://aaronspradlin.grok.me/notes#grok-rclc-review-2026-05-05)
+    [On X](https://x.com/aaronspradlin/status/2040597348192231905)
 
-  2026-05-05
+*   [Redshift is a measure of coherence not time](../notes.md#coherence-not-time-2025-03-05)
 
-  [On X](https://x.com/aaronspradlin/status/2051493569060581455)
-* [Frozen heat operator: dx² / long window](https://aaronspradlin.grok.me/notes#heat-op-2026-05-07)
+    2025-03-05
 
-  2026-05-07
+    [On X](https://x.com/aaronspradlin/status/1897157607183602025)
 
-  [On X](https://x.com/aaronspradlin/status/2052245989948547369)
-* [Heat-response 25.15% → 16.55%; next object is A·q](https://aaronspradlin.grok.me/notes#heat-shape-mass-2026-05-08)
+*   [Planck lensing verifier (uqcf\_gem\_lensing\_verifier.py)](../notes.md#planck-verifier-2026-03-29)
 
-  2026-05-08
+    2026-03-29
 
-  [On X](https://x.com/aaronspradlin/status/2052580639539593369)
-* [Zero-mode A-channel frozen strict-safe](https://aaronspradlin.grok.me/notes#a-channel-2026-05-09)
+    [On X](https://x.com/aaronspradlin/status/2038388131595190424)
 
-  2026-05-09
+*   [Berry-phase Hamiltonian sweep around ε\*](../notes.md#berry-sweep-2026-03-26)
 
-  [On X](https://x.com/aaronspradlin/status/2052955475491319849)
-* [Retained-atlas C\_norm self-healing toy](https://aaronspradlin.grok.me/notes#c-norm-2026-05-11)
+    2026-03-26
 
-  2026-05-11
+    [On X](https://x.com/aaronspradlin/status/2037014620138070252)
 
-  [On X](https://x.com/aaronspradlin/status/2053682783554519448)
-* [V498 retained-geometry Python proof](https://aaronspradlin.grok.me/notes#v498-2026-05-14)
+*   [Quintom-B / ε\* literature thread — not a fit](../notes.md#quintom-desi-2026-05-04)
 
-  2026-05-14
+    2026-05-04
 
-  [On X](https://x.com/aaronspradlin/status/2054767069212901584)
-* [V535: freeze η\_convert for the main theorem](https://aaronspradlin.grok.me/notes#v535-2026-05-15)
+    [On X](https://x.com/aaronspradlin/status/2051341289166393607)
 
-  2026-05-15
+*   [C3++ Stability Governor on Qwen3-4B](../notes.md#c3-2026-03-25)
 
-  [On X](https://x.com/aaronspradlin/status/2055130081304207409)
-* [V540/V541 conformal recoverability flow](https://aaronspradlin.grok.me/notes#v540-2026-05-15)
+    2026-03-25
 
-  2026-05-15
+    [On X](https://x.com/aaronspradlin/status/2036659106350792814)
 
-  [On X](https://x.com/aaronspradlin/status/2055299542829117887)
-* [V555 adversarial harness: AUC 1.0 / 1.0](https://aaronspradlin.grok.me/notes#v555-2026-05-16)
+*   [C3++ forensic alignment — five open LLMs](../notes.md#c3-forensic-2026-03-27)
 
-  2026-05-16
+    2026-03-27
 
-  [On X](https://x.com/aaronspradlin/status/2055659455505924399)
-* [V760 atrium metric frozen](https://aaronspradlin.grok.me/notes#v760-2026-05-19)
+    [On X](https://x.com/aaronspradlin/status/2037646392240591211)
 
-  2026-05-19
+*   [Villin HP35: identical snapshot, different fate](../notes.md#villin-2026-04-14)
 
-  [On X](https://x.com/aaronspradlin/status/2056874571471650927)
-* [V1699.14 finite variational Pillar 2](https://aaronspradlin.grok.me/notes#v1699-pillar2-2026-06-10)
+    2026-04-14
 
-  2026-06-10
+    [On X](https://x.com/aaronspradlin/status/2044155484039705016)
 
-  [On X](https://x.com/aaronspradlin/status/2064542245886562567)
-* [V1712: non-metricity is RG-stable; GR not forced](https://aaronspradlin.grok.me/notes#v1712-rg-2026-06-11)
+*   [Retained coherence in live critical path](../notes.md#critical-path-2026-05-01)
 
-  2026-06-11
+    2026-05-01
 
-  [On X](https://x.com/aaronspradlin/status/2065102243037352390)
-* [L4 rank lift H₄: irreducible above geometry](https://aaronspradlin.grok.me/notes#l4-rank-2026-06-06)
+    [On X](https://x.com/aaronspradlin/status/2050029681517433047)
 
-  2026-06-06
+*   [Independent review: derivation gap is now the test](../notes.md#independent-review-2026-05-05)
 
-  [On X](https://x.com/aaronspradlin/status/2063301884719632839)
-* [Codazzi genericity theorem complete](https://aaronspradlin.grok.me/notes#genericity-2026-08-01)
+    2026-05-05
 
-  2026-08-01
+    [On X](https://x.com/aaronspradlin/status/2051494026533351498)
 
-  [On X](https://x.com/aaronspradlin/status/2083648015144018326)
-* [Potential and response geometries can separate](https://aaronspradlin.grok.me/notes#codazzi-2026-08-01)
+*   [Grok RCLC review: derivation gap named in public](../notes.md#grok-rclc-review-2026-05-05)
 
-  2026-08-01
+    2026-05-05
 
-  [On X](https://x.com/aaronspradlin/status/2083643394300281016)
-* [Codazzi harness handed to Grok](https://aaronspradlin.grok.me/notes#codazzi-github-2026-08-01)
+    [On X](https://x.com/aaronspradlin/status/2051493569060581455)
 
-  2026-08-01
+*   [Frozen heat operator: dx² / long window](../notes.md#heat-op-2026-05-07)
 
-  [On X](https://x.com/aaronspradlin/status/2083644840706002999)
-* [Grok: Codazzi harness verified](https://aaronspradlin.grok.me/notes#grok-codazzi-harness-2026-08-01)
+    2026-05-07
 
-  2026-08-01
+    [On X](https://x.com/aaronspradlin/status/2052245989948547369)
 
-  [On X](https://x.com/grok/status/2083645264686895153)
-* [Grok independently re-ran the Codazzi harness](https://aaronspradlin.grok.me/notes#grok-codazzi-rerun-2026-08-01)
+*   [Heat-response 25.15% → 16.55%; next object is A·q](../notes.md#heat-shape-mass-2026-05-08)
 
-  2026-08-01
+    2026-05-08
 
-  [On X](https://x.com/grok/status/2083646390953976141)
-* [Grok: clean result is finite-model separation](https://aaronspradlin.grok.me/notes#grok-codazzi-next-2026-08-01)
+    [On X](https://x.com/aaronspradlin/status/2052580639539593369)
 
-  2026-08-01
+*   [Zero-mode A-channel frozen strict-safe](../notes.md#a-channel-2026-05-09)
 
-  [On X](https://x.com/grok/status/2083646931486556248)
-* [Grok: closed-form susceptibility matches](https://aaronspradlin.grok.me/notes#grok-genericity-2026-08-01)
+    2026-05-09
 
-  2026-08-01
+    [On X](https://x.com/aaronspradlin/status/2052955475491319849)
 
-  [On X](https://x.com/grok/status/2083648427972264155)
-* [March 2025 DESI DR2 call — notebook](https://aaronspradlin.grok.me/notes#desi-2025-03-21)
+*   [Retained-atlas C\_norm self-healing toy](../notes.md#c-norm-2026-05-11)
 
-  2025-03-21
+    2026-05-11
 
-  [On X](https://x.com/aaronspradlin/status/1903138936312234186)
-* [V1688 holonomy downgraded to directed transport](https://aaronspradlin.grok.me/notes#v1688-downgrade-2026-06-10)
+    [On X](https://x.com/aaronspradlin/status/2053682783554519448)
 
-  2026-06-10
+*   [V498 retained-geometry Python proof](../notes.md#v498-2026-05-14)
 
-  [On X](https://x.com/aaronspradlin/status/2064805402760667397)
-* [Dorau–Much as a later projection of recoverability](https://aaronspradlin.grok.me/notes#dorau-align-2026-08-19)
+    2026-05-14
 
-  2026-08-19
+    [On X](https://x.com/aaronspradlin/status/2054767069212901584)
 
-  [On X](https://x.com/aaronspradlin/status/2090074782452912163)
-* [V831 recoverability-flow governor simulation](https://aaronspradlin.grok.me/notes#recoverability-flow-2026-05-15)
+*   [V535: freeze η\_convert for the main theorem](../notes.md#v535-2026-05-15)
 
-  2026-05-15
+    2026-05-15
 
-  [On X](https://x.com/aaronspradlin/status/2055293211242107264)
-* [What unifies proteins, RCLC, critical path, TSP](https://aaronspradlin.grok.me/notes#unify-domains-2026-05-10)
+    [On X](https://x.com/aaronspradlin/status/2055130081304207409)
 
-  2026-05-10
+*   [V540/V541 conformal recoverability flow](../notes.md#v540-2026-05-15)
 
-  [On X](https://x.com/aaronspradlin/status/2053553647712338040)
-* [V1698 closed globally, not locally](https://aaronspradlin.grok.me/notes#v1698-global-2026-06-10)
+    2026-05-15
 
-  2026-06-10
+    [On X](https://x.com/aaronspradlin/status/2055299542829117887)
 
-  [On X](https://x.com/aaronspradlin/status/2064499019779629246)
-* [It-from-bit freeze: bind + order still required](https://aaronspradlin.grok.me/notes#bind-order-2026-06-11)
+*   [V555 adversarial harness: AUC 1.0 / 1.0](../notes.md#v555-2026-05-16)
 
-  2026-06-11
+    2026-05-16
 
-  [On X](https://x.com/aaronspradlin/status/2065100017065697343)
-* [Compiled wiki published on grok.me](https://aaronspradlin.grok.me/notes#wiki-public-2026-09-06)
+    [On X](https://x.com/aaronspradlin/status/2055659455505924399)
 
-  2026-09-06
+*   [V760 atrium metric frozen](../notes.md#v760-2026-05-19)
 
-  [On X](https://x.com/aaronspradlin/status/2096453861347311661)
-* [V923 ternary source-role: geometry underdetermined](https://aaronspradlin.grok.me/notes#v923-2026-05-22)
+    2026-05-19
 
-  2026-05-22
+    [On X](https://x.com/aaronspradlin/status/2056874571471650927)
 
-  [On X](https://x.com/aaronspradlin/status/2057879756352401772)
-* [UCRP / ECSM linkage posed as a substrate](https://aaronspradlin.grok.me/notes#ucrp-2026-08-17)
+*   [V1699.14 finite variational Pillar 2](../notes.md#v1699-pillar2-2026-06-10)
 
-  2026-08-17
+    2026-06-10
 
-  [On X](https://x.com/aaronspradlin/status/2089400200825876788)
-* [Ω-Lock freeze: Origin Law published, not claimed](https://aaronspradlin.grok.me/notes#origin-law-2025-10-14)
+    [On X](https://x.com/aaronspradlin/status/2064542245886562567)
 
-  2025-10-14
+*   [V1712: non-metricity is RG-stable; GR not forced](../notes.md#v1712-rg-2026-06-11)
 
-  [On X](https://x.com/aaronspradlin/status/1977921231497376108)
-* [Hofstadter butterfly / Ani video — 2025 on-ramp](https://aaronspradlin.grok.me/notes#hofstadter-2025-10-13)
+    2026-06-11
 
-  2025-10-13
+    [On X](https://x.com/aaronspradlin/status/2065102243037352390)
 
-  [On X](https://x.com/aaronspradlin/status/1977561218723496065)
-* [Phase II 40-galaxy blinded holdout announced](https://aaronspradlin.grok.me/notes#phase2-40gal-2025-10-12)
+*   [L4 rank lift H₄: irreducible above geometry](../notes.md#l4-rank-2026-06-06)
 
-  2025-10-12
+    2026-06-06
 
-  [On X](https://x.com/aaronspradlin/status/1977485726293139897)
-* [First UQCF-GEM astrophysical validation thread](https://aaronspradlin.grok.me/notes#first-validation-2025-01-29)
+    [On X](https://x.com/aaronspradlin/status/2063301884719632839)
 
-  2025-01-29
+*   [Codazzi genericity theorem complete](../notes.md#genericity-2026-08-01)
 
-  [On X](https://x.com/aaronspradlin/status/1884695170018582620)
-* [Grok 3 TOE announcement — not claimed](https://aaronspradlin.grok.me/notes#toe-announce-2025-03-03)
+    2026-08-01
 
-  2025-03-03
+    [On X](https://x.com/aaronspradlin/status/2083648015144018326)
 
-  [On X](https://x.com/aaronspradlin/status/1896580012410814698)
-* [Scale-dependent Hubble chart — 2025 original](https://aaronspradlin.grok.me/notes#hubble-h0-chart-2025-03-07)
+*   [Potential and response geometries can separate](../notes.md#codazzi-2026-08-01)
 
-  2025-03-07
+    2026-08-01
 
-  [On X](https://x.com/aaronspradlin/status/1898081598387708259)
-* [Rydberg QSL Dataverse coherence — notebook](https://aaronspradlin.grok.me/notes#rydberg-2025-03-14)
+    [On X](https://x.com/aaronspradlin/status/2083643394300281016)
 
-  2025-03-14
+*   [Codazzi harness handed to Grok](../notes.md#codazzi-github-2026-08-01)
 
-  [On X](https://x.com/aaronspradlin/status/1900378422456836443)
-* [Planck lensing residuals vs ΛCDM — S\_entropy(z)](https://aaronspradlin.grok.me/notes#planck-residual-2025-02-15)
+    2026-08-01
 
-  2025-02-15
+    [On X](https://x.com/aaronspradlin/status/2083644840706002999)
 
-  [On X](https://x.com/aaronspradlin/status/1890787372197200055)
-* [Bullet Cluster no-DM offset — 201.55 kpc, not claimed](https://aaronspradlin.grok.me/notes#bullet-nodm-2025-02-10)
+*   [Grok: Codazzi harness verified](../notes.md#grok-codazzi-harness-2026-08-01)
 
-  2025-02-10
+    2026-08-01
 
-  [On X](https://x.com/aaronspradlin/status/1888968168833777852)
-* [ξ(r) vs KiDS/DES — χ² 7.42 vs ΛCDM 11.85, not claimed](https://aaronspradlin.grok.me/notes#xi-kids-2025-02-13)
+    [On X](https://x.com/grok/status/2083645264686895153)
 
-  2025-02-13
+*   [Grok independently re-ran the Codazzi harness](../notes.md#grok-codazzi-rerun-2026-08-01)
 
-  [On X](https://x.com/aaronspradlin/status/1890119104075628700)
-* [Theory of Integration (ToI) seed posted](https://aaronspradlin.grok.me/notes#toi-seed-2024-12-18)
+    2026-08-01
 
-  2024-12-18
+    [On X](https://x.com/grok/status/2083646390953976141)
 
-  [On X](https://x.com/aaronspradlin/status/1869192343947244020)
-* [Euclid / ToI Hugh Ross predictions](https://aaronspradlin.grok.me/notes#euclid-toi-2024-12-17)
+*   [Grok: clean result is finite-model separation](../notes.md#grok-codazzi-next-2026-08-01)
 
-  2024-12-17
+    2026-08-01
 
-  [On X](https://x.com/aaronspradlin/status/1869108276815974852)
-* [Structure from geometry, entropy, coherence — Jaimungal reply](https://aaronspradlin.grok.me/notes#jaimungal-2025-07-01)
+    [On X](https://x.com/grok/status/2083646931486556248)
 
-  2025-07-01
+*   [Grok: closed-form susceptibility matches](../notes.md#grok-genericity-2026-08-01)
 
-  [On X](https://x.com/aaronspradlin/status/1940063133885960629)
-* [Quadratic RG core: σ\* ≈ 0.7333, DESI frozen operator null](https://aaronspradlin.grok.me/notes#rg-quadratic-2026-04-04)
+    2026-08-01
 
-  2026-04-04
+    [On X](https://x.com/grok/status/2083648427972264155)
 
-  [On X](https://x.com/aaronspradlin/status/2040227577827332169)
+*   [March 2025 DESI DR2 call — notebook](../notes.md#desi-2025-03-21)
+
+    2025-03-21
+
+    [On X](https://x.com/aaronspradlin/status/1903138936312234186)
+
+*   [V1688 holonomy downgraded to directed transport](../notes.md#v1688-downgrade-2026-06-10)
+
+    2026-06-10
+
+    [On X](https://x.com/aaronspradlin/status/2064805402760667397)
+
+*   [Dorau–Much as a later projection of recoverability](../notes.md#dorau-align-2026-08-19)
+
+    2026-08-19
+
+    [On X](https://x.com/aaronspradlin/status/2090074782452912163)
+
+*   [V831 recoverability-flow governor simulation](../notes.md#recoverability-flow-2026-05-15)
+
+    2026-05-15
+
+    [On X](https://x.com/aaronspradlin/status/2055293211242107264)
+
+*   [What unifies proteins, RCLC, critical path, TSP](../notes.md#unify-domains-2026-05-10)
+
+    2026-05-10
+
+    [On X](https://x.com/aaronspradlin/status/2053553647712338040)
+
+*   [V1698 closed globally, not locally](../notes.md#v1698-global-2026-06-10)
+
+    2026-06-10
+
+    [On X](https://x.com/aaronspradlin/status/2064499019779629246)
+
+*   [It-from-bit freeze: bind + order still required](../notes.md#bind-order-2026-06-11)
+
+    2026-06-11
+
+    [On X](https://x.com/aaronspradlin/status/2065100017065697343)
+
+*   [Compiled wiki published on grok.me](../notes.md#wiki-public-2026-09-06)
+
+    2026-09-06
+
+    [On X](https://x.com/aaronspradlin/status/2096453861347311661)
+
+*   [V923 ternary source-role: geometry underdetermined](../notes.md#v923-2026-05-22)
+
+    2026-05-22
+
+    [On X](https://x.com/aaronspradlin/status/2057879756352401772)
+
+*   [UCRP / ECSM linkage posed as a substrate](../notes.md#ucrp-2026-08-17)
+
+    2026-08-17
+
+    [On X](https://x.com/aaronspradlin/status/2089400200825876788)
+
+*   [Ω-Lock freeze: Origin Law published, not claimed](../notes.md#origin-law-2025-10-14)
+
+    2025-10-14
+
+    [On X](https://x.com/aaronspradlin/status/1977921231497376108)
+
+*   [Hofstadter butterfly / Ani video — 2025 on-ramp](../notes.md#hofstadter-2025-10-13)
+
+    2025-10-13
+
+    [On X](https://x.com/aaronspradlin/status/1977561218723496065)
+
+*   [Phase II 40-galaxy blinded holdout announced](../notes.md#phase2-40gal-2025-10-12)
+
+    2025-10-12
+
+    [On X](https://x.com/aaronspradlin/status/1977485726293139897)
+
+*   [First UQCF-GEM astrophysical validation thread](../notes.md#first-validation-2025-01-29)
+
+    2025-01-29
+
+    [On X](https://x.com/aaronspradlin/status/1884695170018582620)
+
+*   [Grok 3 TOE announcement — not claimed](../notes.md#toe-announce-2025-03-03)
+
+    2025-03-03
+
+    [On X](https://x.com/aaronspradlin/status/1896580012410814698)
+
+*   [Scale-dependent Hubble chart — 2025 original](../notes.md#hubble-h0-chart-2025-03-07)
+
+    2025-03-07
+
+    [On X](https://x.com/aaronspradlin/status/1898081598387708259)
+
+*   [Rydberg QSL Dataverse coherence — notebook](../notes.md#rydberg-2025-03-14)
+
+    2025-03-14
+
+    [On X](https://x.com/aaronspradlin/status/1900378422456836443)
+
+*   [Planck lensing residuals vs ΛCDM — S\_entropy(z)](../notes.md#planck-residual-2025-02-15)
+
+    2025-02-15
+
+    [On X](https://x.com/aaronspradlin/status/1890787372197200055)
+
+*   [Bullet Cluster no-DM offset — 201.55 kpc, not claimed](../notes.md#bullet-nodm-2025-02-10)
+
+    2025-02-10
+
+    [On X](https://x.com/aaronspradlin/status/1888968168833777852)
+
+*   [ξ(r) vs KiDS/DES — χ² 7.42 vs ΛCDM 11.85, not claimed](../notes.md#xi-kids-2025-02-13)
+
+    2025-02-13
+
+    [On X](https://x.com/aaronspradlin/status/1890119104075628700)
+
+*   [Theory of Integration (ToI) seed posted](../notes.md#toi-seed-2024-12-18)
+
+    2024-12-18
+
+    [On X](https://x.com/aaronspradlin/status/1869192343947244020)
+
+*   [Euclid / ToI Hugh Ross predictions](../notes.md#euclid-toi-2024-12-17)
+
+    2024-12-17
+
+    [On X](https://x.com/aaronspradlin/status/1869108276815974852)
+
+*   [Structure from geometry, entropy, coherence — Jaimungal reply](../notes.md#jaimungal-2025-07-01)
+
+    2025-07-01
+
+    [On X](https://x.com/aaronspradlin/status/1940063133885960629)
+
+*   [Quadratic RG core: σ\* ≈ 0.7333, DESI frozen operator null](../notes.md#rg-quadratic-2026-04-04)
+
+    2026-04-04
+
+    [On X](https://x.com/aaronspradlin/status/2040227577827332169)

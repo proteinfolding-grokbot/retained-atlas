@@ -2,6 +2,7 @@
 title: "Glossary"
 route: "/glossary"
 source: "https://aaronspradlin.grok.me/glossary"
+description: "Compiled research wiki of @aaronspradlin — start from retained information, not spacetime. Executable Python, public GitHub, explicit claim boundaries. Not a completed Theory of Everything."
 ---
 
 Lexicon
@@ -14,1055 +15,1338 @@ One-sentence definition, layer in the stack, claim status, canonical article. Fr
 
 These symbols are locked as of the 12 Sep 2026 compile. Canonical one-liners are this page. Full lock notes live on the freeze-notation article.
 
-* F
+*   <span id="freeze-F"></span>
 
-  Restricted00 Astra
+    F
 
-  Singlet overlap. Frozen bound F ≤ (k+1)/(2k) on one qubit with k equal pair partners.
+    Restricted00 Astra
 
-  5 Sep 2026. Do not reuse F for a gravity coupling.
+    Singlet overlap. Frozen bound F ≤ (k+1)/(2k) on one qubit with k equal pair partners.
 
-  [Astra (pre–Genesis Pin)](wiki/astra.md)
-* t\*
+    5 Sep 2026. Do not reuse F for a gravity coupling.
 
-  Restricted00 Astra
+    [Astra (pre–Genesis Pin)](wiki/astra.md)
 
-  Finite-model phase marker t\* = 13/33.
+*   <span id="freeze-t*"></span>
 
-  5 Sep 2026. Not a physical time.
+    t\*
 
-  [Astra (pre–Genesis Pin)](wiki/astra.md)
-* d(t)
+    Restricted00 Astra
 
-  Restricted00 Astra
+    Finite-model phase marker t\* = 13/33.
 
-  Compatibility-distance. Frozen curve d(t) = [(12√2 − 3)/40] t in the posted finite interpolation.
+    5 Sep 2026. Not a physical time.
 
-  6 Sep 2026. Not the v9.167 lab family.
+    [Astra (pre–Genesis Pin)](wiki/astra.md)
 
-  [Astra (pre–Genesis Pin)](wiki/astra.md)
-* R\_t
+*   <span id="freeze-d(t)"></span>
 
-  Restricted02 Pruning-order history
+    d(t)
 
-  Retained information state, distinct from the visible state G\_t.
+    Restricted00 Astra
 
-  Live 2026 object. Do not collapse onto G\_t.
+    Compatibility-distance. Frozen curve d(t) = [(12√2 − 3)/40] t in the posted finite interpolation.
 
-  [UQCF-GEM](wiki/uqcf-gem.md)
-* H₄
+    6 Sep 2026. Not the v9.167 lab family.
 
-  Restricted07 L4
+    [Astra (pre–Genesis Pin)](wiki/astra.md)
 
-  L4 hyper-associator residual. Rank lift 1 in certified finite sectors.
+*   <span id="freeze-R_t"></span>
 
-  6 Jun 2026. Projecting it away is treated as cheating.
+    R\_t
 
-  [Causal stack (mid rungs)](wiki/causal-stack.md)
-* A
+    Restricted02 Pruning-order history
 
-  Supported08 Atlas / scalar
+    Retained information state, distinct from the visible state G\_t.
 
-  Accessibility density A = exp(C − μ + η repair).
+    Live 2026 object. Do not collapse onto G\_t.
 
-  V824 scalar/conformal. Not a tensor Einstein symbol.
+    [UQCF-GEM](wiki/uqcf-gem.md)
 
-  [Accessibility curvature law](wiki/accessibility-curvature.md)
-* χ
+*   <span id="freeze-H₄"></span>
 
-  Open09 Package 17 / gravity
+    H₄
 
-  Mixing weight in the affine bridge Ψ = χ G\_t + (1−χ) R\_t.
+    Restricted07 L4
 
-  Package 17 must derive χ. Do not treat a fitted χ as closure.
+    L4 hyper-associator residual. Rank lift 1 in certified finite sectors.
 
-  [Package 17 — derivation program](wiki/package-17.md)
-* ε\*
+    6 Jun 2026. Projecting it away is treated as cheating.
 
-  Not claimedHistorical / not claimed
+    [Causal stack (mid rungs)](wiki/causal-stack.md)
 
-  2025 Origin Law threshold ≈ 4.97×10⁻⁵.
+*   <span id="freeze-A"></span>
 
-  Quarantined. Do not reuse as a 2026 supported constant.
+    A
 
-  [Origin Law / Phase-N (2025)](wiki/origin-law.md)
-* V[Ω,C,μ]
+    Supported08 Atlas / scalar
 
-  Open02 Pruning-order history
+    Accessibility density A = exp(C − μ + η repair).
 
-  Named Lyapunov candidate after the 17 May recoverability-framework freeze.
+    V824 scalar/conformal. Not a tensor Einstein symbol.
 
-  Named, not closed. Not GR.
+    [Accessibility curvature law](wiki/accessibility-curvature.md)
 
-  [Recoverability framework](wiki/recoverability-framework.md)
-* Q\_i
+*   <span id="freeze-χ"></span>
 
-  Open02 Pruning-order history
+    χ
 
-  Shared source generator that would align incident edges before geometry exists.
+    Open09 Package 17 / gravity
 
-  23 Jul 2026 gate. Not generated from admissibility + BKM reciprocity alone.
+    Mixing weight in the affine bridge Ψ = χ G\_t + (1−χ) R\_t.
 
-  [Recoverability geometry](wiki/recoverability.md)
-* A\_G
+    Package 17 must derive χ. Do not treat a fitted χ as closure.
 
-  Open03 Admissible slice
+    [Package 17 — derivation program](wiki/package-17.md)
 
-  Admissible body: a poset of retained supports, not yet a unique history.
+*   <span id="freeze-ε*"></span>
 
-  20 Jul 2026. A unique pruning law through A\_G remains open.
+    ε\*
 
-  [Recoverability geometry](wiki/recoverability.md)
-* Ω
+    Not claimedHistorical / not claimed
 
-  Restricted02 Pruning-order history
+    2025 Origin Law threshold ≈ 4.97×10⁻⁵.
 
-  Conformal recoverability factor in g\_eff = Ω² g0 in the posted toys.
+    Quarantined. Do not reuse as a 2026 supported constant.
 
-  V505/V760 toys. Not Einstein’s conformal factor.
+    [Origin Law / Phase-N (2025)](wiki/origin-law.md)
 
-  [May 2026 ladder](wiki/may-2026-ladder.md)
-* Ω\_ρ
+*   <span id="freeze-V[Ω,C,μ]"></span>
 
-  Restricted00 Astra
+    V[Ω,C,μ]
 
-  Kirillov–Kostant–Souriau form Ω\_ρ(A,B)=−i Tr(ρ[A,B]). Not the conformal factor Ω.
+    Open02 Pruning-order history
 
-  10 Sep 2026. Ω\_ρ is not Ω.
+    Named Lyapunov candidate after the 17 May recoverability-framework freeze.
 
-  [v12.41 moment-map closure](wiki/v1241-closure.md)
-* C\_A
+    Named, not closed. Not GR.
 
-  Restricted00 Astra
+    [Recoverability framework](wiki/recoverability-framework.md)
 
-  Moment-map generator C\_A(ρ)=Tr(ρ A). On Paulis {C\_x,C\_y}=2 C\_z.
+*   <span id="freeze-Q_i"></span>
 
-  10 Sep 2026. Not a gravity generator.
+    Q\_i
 
-  [v12.41 moment-map closure](wiki/v1241-closure.md)
-* Δ\_closure
+    Open02 Pruning-order history
 
-  Restricted00 Astra
+    Shared source generator that would align incident edges before geometry exists.
 
-  Residual of the generator law. Exact branch 0; broken control max 0.297 on the posted seed.
+    23 Jul 2026 gate. Not generated from admissibility + BKM reciprocity alone.
 
-  10 Sep 2026. Filing this as ADM or Einstein is a failure.
+    [Recoverability geometry](wiki/recoverability.md)
 
-  [v12.41 moment-map closure](wiki/v1241-closure.md)
-* g\_★
+*   <span id="freeze-A_G"></span>
 
-  Restricted00 Astra
+    A\_G
 
-  Conditional protected-source coefficient K\_α^U=g\_★ n J\_α(t\_α) ∀α. Not a gravity derivation.
+    Open03 Admissible slice
 
-  8 Sep 2026. X-only Restricted identity.
+    Admissible body: a poset of retained supports, not yet a unique history.
 
-  [Astra (pre–Genesis Pin)](wiki/astra.md)
-* D\_N
+    20 Jul 2026. A unique pruning law through A\_G remains open.
 
-  Restricted00 Astra
+    [Recoverability geometry](wiki/recoverability.md)
 
-  N-cycle difference operator. After h=1/N the inverse converges to 1/(2π). Gravity connection open.
+*   <span id="freeze-Ω"></span>
 
-  9 Sep 2026. X-only Restricted identity.
+    Ω
 
-  [Astra (pre–Genesis Pin)](wiki/astra.md)
-* QRSL
+    Restricted02 Pruning-order history
 
-  Restricted00 Astra
+    Conformal recoverability factor in g\_eff = Ω² g0 in the posted toys.
 
-  Quantum Refinement Selector Law. Irreducible relative to the current frozen ontology. Genesis Pin is a ledger, not a selector.
+    V505/V760 toys. Not Einstein’s conformal factor.
 
-  12 Sep 2026. GitHub-only. Do not file as a gravity selector.
+    [May 2026 ladder](wiki/may-2026-ladder.md)
 
-  [Pillar 3 watch](wiki/september-2026-ladder.md)
-* HCPR
+*   <span id="freeze-Ω_ρ"></span>
 
-  Restricted00 Astra
+    Ω\_ρ
 
-  Hidden-completion phase rigidity. Not a function of the current frozen ledger. Same one- and two-body data, different rigidity.
+    Restricted00 Astra
 
-  12 Sep 2026. GitHub-only. Restricted no-go, not gravity.
+    Kirillov–Kostant–Souriau form Ω\_ρ(A,B)=−i Tr(ρ[A,B]). Not the conformal factor Ω.
 
-  [Pillar 3 watch](wiki/september-2026-ladder.md)
-* QMAR
+    10 Sep 2026. Ω\_ρ is not Ω.
 
-  Restricted00 Astra
+    [v12.41 moment-map closure](wiki/v1241-closure.md)
 
-  Quantum Metric-Affine Response. Finite-state first-order response with CMI error O(√CMI). Not Einstein.
+*   <span id="freeze-C_A"></span>
 
-  12 Sep 2026. GitHub-only. Do not file as ADM or a stress-energy law.
+    C\_A
 
-  [Pillar 3 watch](wiki/september-2026-ladder.md)
+    Restricted00 Astra
+
+    Moment-map generator C\_A(ρ)=Tr(ρ A). On Paulis \{C\_x,C\_y\}=2 C\_z.
+
+    10 Sep 2026. Not a gravity generator.
+
+    [v12.41 moment-map closure](wiki/v1241-closure.md)
+
+*   <span id="freeze-Δ_closure"></span>
+
+    Δ\_closure
+
+    Restricted00 Astra
+
+    Residual of the generator law. Exact branch 0; broken control max 0.297 on the posted seed.
+
+    10 Sep 2026. Filing this as ADM or Einstein is a failure.
+
+    [v12.41 moment-map closure](wiki/v1241-closure.md)
+
+*   <span id="freeze-g_★"></span>
+
+    g\_★
+
+    Restricted00 Astra
+
+    Conditional protected-source coefficient K\_α^U=g\_★ n J\_α(t\_α) ∀α. Not a gravity derivation.
+
+    8 Sep 2026. X-only Restricted identity.
+
+    [Astra (pre–Genesis Pin)](wiki/astra.md)
+
+*   <span id="freeze-D_N"></span>
+
+    D\_N
+
+    Restricted00 Astra
+
+    N-cycle difference operator. After h=1/N the inverse converges to 1/(2π). Gravity connection open.
+
+    9 Sep 2026. X-only Restricted identity.
+
+    [Astra (pre–Genesis Pin)](wiki/astra.md)
+
+*   <span id="freeze-QRSL"></span>
+
+    QRSL
+
+    Restricted00 Astra
+
+    Quantum Refinement Selector Law. Irreducible relative to the current frozen ontology. Genesis Pin is a ledger, not a selector.
+
+    12 Sep 2026. GitHub-only. Do not file as a gravity selector.
+
+    [Pillar 3 watch](wiki/september-2026-ladder.md)
+
+*   <span id="freeze-HCPR"></span>
+
+    HCPR
+
+    Restricted00 Astra
+
+    Hidden-completion phase rigidity. Not a function of the current frozen ledger. Same one- and two-body data, different rigidity.
+
+    12 Sep 2026. GitHub-only. Restricted no-go, not gravity.
+
+    [Pillar 3 watch](wiki/september-2026-ladder.md)
+
+*   <span id="freeze-QMAR"></span>
+
+    QMAR
+
+    Restricted00 Astra
+
+    Quantum Metric-Affine Response. Finite-state first-order response with CMI error O(√CMI). Not Einstein.
+
+    12 Sep 2026. GitHub-only. Do not file as ADM or a stress-energy law.
+
+    [Pillar 3 watch](wiki/september-2026-ladder.md)
 
 [Freeze-notation article](wiki/freeze-notation.md)
 
 [A](#letter-A)[B](#letter-B)[C](#letter-C)[D](#letter-D)[F](#letter-F)[G](#letter-G)[H](#letter-H)[I](#letter-I)[J](#letter-J)[L](#letter-L)[M](#letter-M)[N](#letter-N)[O](#letter-O)[P](#letter-P)[Q](#letter-Q)[R](#letter-R)[S](#letter-S)[T](#letter-T)[U](#letter-U)[V](#letter-V)[X](#letter-X)[Δ](#letter-Δ)[Ε](#letter-Ε)[Η](#letter-Η)[Χ](#letter-Χ)[Ω](#letter-Ω)
 
-* A
+*   <span id="accessibility"></span>
 
-  ## Accessibility density A
+    <span id="letter-A"></span>A
 
-  SupportedFrozen
+    ## Accessibility density A
 
-  08 Atlas / scalar
+    SupportedFrozen
 
-  Reachable-state density A = exp(C − μ + η repair).
+    08 Atlas / scalar
 
-  Spatial compression of log A is the operator behind the V824 curvature proxy. Scalar/conformal sector only.
+    Reachable-state density A = exp(C − μ + η repair).
 
-  [Accessibility curvature law](wiki/accessibility-curvature.md)
-* ## Admissible body A\_G
+    Spatial compression of log A is the operator behind the V824 curvature proxy. Scalar/conformal sector only.
 
-  OpenFrozen
+    [Accessibility curvature law](wiki/accessibility-curvature.md)
 
-  03 Admissible slice
+*   <span id="ag"></span>
 
-  The collection of admissible retained supports; a poset, not yet a unique history.
+    ## Admissible body A\_G
 
-  Provenance ranks collections by support inclusion. A law selecting a unique pruning sequence through A\_G remains open (20 Jul 2026). 23–25 Jul: reciprocity and focusing are separate layers; Q\_i is still the open gate.
+    OpenFrozen
 
-  [Recoverability geometry](wiki/recoverability.md)
-* ## Astra
+    03 Admissible slice
 
-  OpenFrozen
+    The collection of admissible retained supports; a poset, not yet a unique history.
 
-  00 Astra
+    Provenance ranks collections by support inclusion. A law selecting a unique pruning sequence through A\_G remains open (20 Jul 2026). 23–25 Jul: reciprocity and focusing are separate layers; Q\_i is still the open gate.
 
-  Pre–Genesis Pin working name for global relational consistency. Open question plus restricted finite identities.
+    [Recoverability geometry](wiki/recoverability.md)
 
-  5 Sep 2026 ChatGPT gloss: gravity may inherit universality from a quantum law of global relational consistency. Same week: F-bound, t\* = 13/33, d(t) = [(12√2−3)/40] t. Not Origin Law, not a gravity law, not Genesis Pin. New identities this week append here. The 6 Sep 20:05 v9.167 lab is a different family (315 vs 311) and has its own article.
+*   <span id="astra"></span>
 
-  [Astra (pre–Genesis Pin)](wiki/astra.md)
-* ## Atrium metric
+    ## Astra
 
-  Restricted
+    OpenFrozen
 
-  02 Pruning-order history
+    00 Astra
 
-  g\_eff = Ω² g0 emerging under recovery pressure in the V760 sim.
+    Pre–Genesis Pin working name for global relational consistency. Open question plus restricted finite identities.
 
-  19 May 2026 V760 dual-branch freeze. Space is a throughput map; time is pruning order; gravity-like squeeze is a bounded governor. Posted Python: Tmp/TOE/GR Work/AtriumSimulation.py. Computational fact. Not physical GR or physical time.
+    5 Sep 2026 ChatGPT gloss: gravity may inherit universality from a quantum law of global relational consistency. Same week: F-bound, t\* = 13/33, d(t) = [(12√2−3)/40] t. Not Origin Law, not a gravity law, not Genesis Pin. New identities this week append here. The 6 Sep 20:05 v9.167 lab is a different family (315 vs 311) and has its own article.
 
-  [May 2026 ladder](wiki/may-2026-ladder.md)
-* B
+    [Astra (pre–Genesis Pin)](wiki/astra.md)
 
-  ## BKM map
+*   <span id="atrium-metric"></span>
 
-  RestrictedLiterature
+    ## Atrium metric
 
-  08 Atlas / scalar
+    Restricted
 
-  Bogoliubov–Kubo–Mori observable-response map. Literature object (information geometry), not a program law.
+    02 Pruning-order history
 
-  Used as the response geometry of UQCF-GEM: canonical scores, pulled-back response tensors, Codazzi defect, and polar loops from pair marginals. Canonical pointer: BKM inner product / monotone metric on density operators.
+    g\_eff = Ω² g0 emerging under recovery pressure in the V760 sim.
 
-  [UQCF-GEM](wiki/uqcf-gem.md)
-* C
+    19 May 2026 V760 dual-branch freeze. Space is a throughput map; time is pruning order; gravity-like squeeze is a bounded governor. Posted Python: Tmp/TOE/GR Work/AtriumSimulation.py. Computational fact. Not physical GR or physical time.
 
-  ## C\_A
+    [May 2026 ladder](wiki/may-2026-ladder.md)
 
-  RestrictedFrozen
+*   <span id="bkm"></span>
 
-  00 Astra
+    <span id="letter-B"></span>B
 
-  Moment-map generator C\_A(ρ)=Tr(ρ A). On Paulis {C\_x,C\_y}=2 C\_z.
+    ## BKM map
 
-  Natural generators of the v12.41 KKS structure. The public simulation checks {C\_x, C\_y} = 2 C\_z across 121 unitary relational transforms.
+    RestrictedLiterature
 
-  [v12.41 moment-map closure](wiki/v1241-closure.md)
-* ## C3++ Stability Governor
+    08 Atlas / scalar
 
-  Restricted
+    Bogoliubov–Kubo–Mori observable-response map. Literature object (information geometry), not a program law.
 
-  Applied
+    Used as the response geometry of UQCF-GEM: canonical scores, pulled-back response tensors, Codazzi defect, and polar loops from pair marginals. Canonical pointer: BKM inner product / monotone metric on density operators.
 
-  Runtime telemetry on LLM inference: Strain, Drag, Turn Reliability treated as a recoverability instrument.
+    [UQCF-GEM](wiki/uqcf-gem.md)
 
-  25 Mar 2026 Qwen3-4B Hugging Face run. Pink-noise / spectral health is the named retained R\_t channel the governor reads (30 Mar hypothesis; GitHub mem\_pink\_noise\_deviation). Supportable thesis: reasoning is a measurable trajectory, not only a graded output. Restricted applied claim — not a hallucination solver, not 1/f proven in all models, and not gravity. Strain/Drag/Turn equations not posted.
+*   <span id="c-a"></span>
 
-  [C3++ Stability Governor](wiki/c3-governor.md)
-* ## Codazzi defect
+    <span id="letter-C"></span>C
 
-  SupportedLiterature
+    ## C\_A
 
-  08 Atlas / scalar
+    RestrictedFrozen
 
-  Failure of a response tensor to satisfy Codazzi-like integrability. Literature object (classical Codazzi–Mainardi), applied here as a finite exponential-family diagnostic.
+    00 Astra
 
-  In the three-binary-node harness: zero at the unbiased point; weak-coupling susceptibility full rank; closed-form A(J), B(J) Grok-verified 1 Aug 2026. Non-potential response is generic inside this finite family. Not all graphs, not a gravity proof. Canonical pointer: Codazzi–Mainardi equations.
+    Moment-map generator C\_A(ρ)=Tr(ρ A). On Paulis \{C\_x,C\_y\}=2 C\_z.
 
-  [UQCF-GEM](wiki/uqcf-gem.md)
-* ## Compiler
+    Natural generators of the v12.41 KKS structure. The public simulation checks \{C\_x, C\_y\} = 2 C\_z across 121 unitary relational transforms.
 
-  Not claimedProgram law
+    [v12.41 moment-map closure](wiki/v1241-closure.md)
 
-  Orientation
+*   <span id="c3-governor"></span>
 
-  Person who batches X + GitHub into this wiki; not an oracle.
+    ## C3++ Stability Governor
 
-  Aaron Glenn Spradlin / @aaronspradlin. The wiki is a compile, not a census and not an independent certification.
+    Restricted
 
-  [Identity lock](wiki/identity-lock.md)
-* ## Conformal recoverability geometry
+    Applied
 
-  Restricted
+    Runtime telemetry on LLM inference: Strain, Drag, Turn Reliability treated as a recoverability instrument.
 
-  02 Pruning-order history
+    25 Mar 2026 Qwen3-4B Hugging Face run. Pink-noise / spectral health is the named retained R\_t channel the governor reads (30 Mar hypothesis; GitHub mem\_pink\_noise\_deviation). Supportable thesis: reasoning is a measurable trajectory, not only a graded output. Restricted applied claim — not a hallucination solver, not 1/f proven in all models, and not gravity. Strain/Drag/Turn equations not posted.
 
-  g\_eff = Ω² g0: recoverability stress changes Ω; curvature-like response is downstream of the metric.
+    [C3++ Stability Governor](wiki/c3-governor.md)
 
-  14 May 2026 V505 checkpoint, then V513/V541 theorem-shaped packaging. Weak-form evolution: ∂tΩ = Source − Repair − dμ\_defect. Defects localize as measures. Toy continuum object. Not Einstein equations and not a known geometric-flow identification.
+*   <span id="codazzi"></span>
 
-  [May 2026 ladder](wiki/may-2026-ladder.md)
-* D
+    ## Codazzi defect
 
-  ## D\_N
+    SupportedLiterature
 
-  RestrictedFrozen
+    08 Atlas / scalar
 
-  00 Astra
+    Failure of a response tensor to satisfy Codazzi-like integrability. Literature object (classical Codazzi–Mainardi), applied here as a finite exponential-family diagnostic.
 
-  N-cycle difference operator. After h=1/N the inverse converges to 1/(2π). Gravity connection open.
+    In the three-binary-node harness: zero at the unbiased point; weak-coupling susceptibility full rank; closed-form A(J), B(J) Grok-verified 1 Aug 2026. Non-potential response is generic inside this finite family. Not all graphs, not a gravity proof. Canonical pointer: Codazzi–Mainardi equations.
 
-  Posted 9 Sep 2026. σ\_min^+(D\_N)=2 sin(π/N). Bare inverse ~ N/(2π). Geometry-supplied spacing converts the blow-up into a parameter-free continuum seed. No fitted force law. X-only.
+    [UQCF-GEM](wiki/uqcf-gem.md)
 
-  [Astra (pre–Genesis Pin)](wiki/astra.md)
-* ## d(t) compatibility-distance
+*   <span id="compiler"></span>
 
-  RestrictedFrozen
+    ## Compiler
 
-  00 Astra
+    Not claimedProgram law
 
-  6 Sep 2026: d(t) = [(12√2−3)/40] t. Restricted finite identity. Gravity open.
+    Orientation
 
-  Exact linear compatibility-distance curve covering a full finite-model interpolation. Global consistency fixes the slope and phase boundaries — no fitted response law. Posted 16:01 UTC as an Astra update. Continuum identification still required before any gravity reading.
+    Person who batches X + GitHub into this wiki; not an oracle.
 
-  [Astra (pre–Genesis Pin)](wiki/astra.md)
-* ## DESI prediction ledger
+    Aaron Glenn Spradlin / @aaronspradlin. The wiki is a compile, not a census and not an independent certification.
 
-  Open
+    [Identity lock](wiki/identity-lock.md)
 
-  09 Package 17 / gravity
+*   <span id="conformal-recoverability"></span>
 
-  Dated UQCF-GEM calls vs DESI/community results. Directional evolving-DE prior; remaining forms still tests; no-DM is program voice.
+    ## Conformal recoverability geometry
 
-  5 Mar 2025: dynamic cosmos (Planck C\_ℓ D\_f=2.4959; redshift as coherence, not time), 14 days before DESI DR2 preferred evolving DE at 2.8–4.2σ. Scored as a directional prior, not uniqueness, not a fitted w(z). 21 Mar restatement is after DR2 public — not scored as a prediction. 30 Apr 2026 w(z) / A\_L ≈ 1.15–1.25 / cluster-core +10–15% at z>0.5 remain open tests. 4 Apr frozen DESI operator is a recorded null. #nodarkmatter is program voice; DESI still uses CDM. Challenge 14 / WALLABY stay Restricted, not a DM disproof.
+    Restricted
 
-  [Predictions — DESI and no-dark-matter](wiki/predictions.md)
-* F
+    02 Pruning-order history
 
-  ## F-bound
+    g\_eff = Ω² g0: recoverability stress changes Ω; curvature-like response is downstream of the metric.
 
-  RestrictedFrozen
+    14 May 2026 V505 checkpoint, then V513/V541 theorem-shaped packaging. Weak-form evolution: ∂tΩ = Source − Repair − dμ\_defect. Defects localize as measures. Toy continuum object. Not Einstein equations and not a known geometric-flow identification.
 
-  00 Astra
+    [May 2026 ladder](wiki/may-2026-ladder.md)
 
-  Singlet overlap F ≤ (k+1)/(2k) forced by global consistency.
+*   <span id="d-n"></span>
 
-  Posted 5 Sep 2026 for one qubit with k equal pair partners. No fitted response law. The gravity connection is explicitly left open.
+    <span id="letter-D"></span>D
 
-  [Astra (pre–Genesis Pin)](wiki/astra.md)
-* ## For researchers and models
+    ## D\_N
 
-  Open
+    RestrictedFrozen
 
-  Orientation
+    00 Astra
 
-  Citation contract for this compile. Badge rules, spine map, what not to promote. Machine map: /llms.txt.
+    N-cycle difference operator. After h=1/N the inverse converges to 1/(2π). Gravity connection open.
 
-  X is the archive of record. This wiki is a batch index, not a census and not a TOE. Four Supported harnesses only. DESI DR2 evolving DE is not a no-dark-matter confirmation. Challenge 14 / WALLABY stay Restricted. Keep claim-status in every retrieved snippet.
+    Posted 9 Sep 2026. σ\_min^+(D\_N)=2 sin(π/N). Bare inverse ~ N/(2π). Geometry-supplied spacing converts the blow-up into a parameter-free continuum seed. No fitted force law. X-only.
 
-  [For researchers and models](wiki/for-researchers.md)
-* ## Forced geometry
+    [Astra (pre–Genesis Pin)](wiki/astra.md)
 
-  RestrictedProgram law
+*   <span id="dt-curve"></span>
 
-  Orientation
+    ## d(t) compatibility-distance
 
-  Structure that survives from identities that cannot be erased — not a metric put in by hand.
+    RestrictedFrozen
 
-  21 Sep 2026 public voice. Do not smuggle entropy, area laws, causal order, or a metric, then derive the rest. Pairs look geometric; three-way combinations produce an associator that will not reduce to pairs. Restricted / public voice. Matching GitHub freeze v15.43: source correspondence NOT\_EVALUATED. Einstein not closed.
+    00 Astra
 
-  [It from bit, bind, and order](wiki/it-from-bit.md)
-* ## Frozen v9 protein bridge
+    6 Sep 2026: d(t) = [(12√2−3)/40] t. Restricted finite identity. Gravity open.
 
-  Restricted
+    Exact linear compatibility-distance curve covering a full finite-model interpolation. Global consistency fixes the slope and phase boundaries — no fitted response law. Posted 16:01 UTC as an Astra update. Continuum identification still required before any gravity reading.
 
-  Applied
+    [Astra (pre–Genesis Pin)](wiki/astra.md)
 
-  1UAO / 1L2Y backbone-ordering transfer of the UQCF-GEM bridge layer. Author score 7.6/10.
+*   <span id="predictions"></span>
 
-  12 Apr 2026. Angle RMS improved; 1L2Y RMSD p = 0.0655 (not decisive); contact recovery mixed. Explicitly not full folding and not a TOE proof. Different harness from Villin HP35 R\_t two days later.
+    ## DESI prediction ledger
 
-  [Frozen v9 protein bridge (1UAO / 1L2Y)](wiki/protein-bridge-v9.md)
-* G
+    Open
 
-  ## g\_★
+    09 Package 17 / gravity
 
-  RestrictedProgram lawFrozen
+    Dated UQCF-GEM calls vs DESI/community results. Directional evolving-DE prior; remaining forms still tests; no-DM is program voice.
 
-  00 Astra
+    5 Mar 2025: dynamic cosmos (Planck C\_ℓ D\_f=2.4959; redshift as coherence, not time), 14 days before DESI DR2 preferred evolving DE at 2.8–4.2σ. Scored as a directional prior, not uniqueness, not a fitted w(z). 21 Mar restatement is after DR2 public — not scored as a prediction. 30 Apr 2026 w(z) / A\_L ≈ 1.15–1.25 / cluster-core +10–15% at z>0.5 remain open tests. 4 Apr frozen DESI operator is a recorded null. #nodarkmatter is program voice; DESI still uses CDM. Challenge 14 / WALLABY stay Restricted, not a DM disproof.
 
-  Conditional protected-source coefficient K\_α^U=g\_★ n J\_α(t\_α) ∀α. Not a gravity derivation.
+    [Predictions — DESI and no-dark-matter](wiki/predictions.md)
 
-  Posted 8 Sep 2026. Each matter sector already has K\_α=g\_α n J\_α(t\_α). Quantum consistency does not force equal gains. One signed coefficient before sector specialization is the unique response that survives erasure of matter-sector labels. X-only in this compile.
+*   <span id="f-bound"></span>
 
-  [Astra (pre–Genesis Pin)](wiki/astra.md)
-* ## G\_eff,total
+    <span id="letter-F"></span>F
 
-  Not claimed
+    ## F-bound
 
-  Historical / not claimed
+    RestrictedFrozen
 
-  3 Mar 2025 Lorentzian interpolant in d\_C from the TOE announcement. History, not adopted.
+    00 Astra
 
-  Posted as G\_eff,total(d\_C) = G[1 + α(φ₀ ℓ\_Pl / d\_C)² + weak/strong Lorentzian poles]. Symbols as posted. Not a gauge unification and not Package 17. Equations live on the ToI / TOE article. 2026 packets left Einstein/ADM open.
+    Singlet overlap F ≤ (k+1)/(2k) forced by global consistency.
 
-  [ToI / TOE (2024–25)](wiki/toi-toe-2025.md)
-* ## Genesis Pin
+    Posted 5 Sep 2026 for one qubit with k equal pair partners. No fitted response law. The gravity connection is explicitly left open.
 
-  RestrictedProgram lawFrozen
+    [Astra (pre–Genesis Pin)](wiki/astra.md)
 
-  01 Genesis Pin
+*   <span id="for-researchers"></span>
 
-  Provenance identity locked before any charts exist.
+    ## For researchers and models
 
-  The first object in the causal stack. A ledger of source identity, usually SHA-256-frozen, so later geometry-like structure can be tested for retained history rather than coordinate consistency alone.
+    Open
 
-  [Genesis Pin and provenance](wiki/genesis-pin.md)
-* ## Geometry cannot validate itself
+    Orientation
 
-  Restricted
+    Citation contract for this compile. Badge rules, spine map, what not to promote. Machine map: /llms.txt.
 
-  01 Genesis Pin
+    X is the archive of record. This wiki is a batch index, not a census and not a TOE. Four Supported harnesses only. DESI DR2 evolving DE is not a no-dark-matter confirmation. Challenge 14 / WALLABY stay Restricted. Keep claim-status in every retrieved snippet.
 
-  A clean metric is not enough if the structure cannot be traced to an admissible history.
+    [For researchers and models](wiki/for-researchers.md)
 
-  1 Jun 2026 BPI2014 traces: M\_total = C\_topological × P\_sequence × E\_arrow. Static topology can fake shape; it cannot fake valid history. Restricted operational claim, not GR.
+*   <span id="forced-geometry"></span>
 
-  [Genesis Pin and provenance](wiki/genesis-pin.md)
-* H
+    ## Forced geometry
 
-  ## HCPR
+    RestrictedProgram law
 
-  RestrictedProgram lawFrozen
+    Orientation
 
-  00 Astra
+    Structure that survives from identities that cannot be erased — not a metric put in by hand.
 
-  Hidden-completion phase rigidity. Not a function of the current frozen ledger. Restricted no-go. Not gravity.
+    21 Sep 2026 public voice. Do not smuggle entropy, area laws, causal order, or a metric, then derive the rest. Pairs look geometric; three-way combinations produce an associator that will not reduce to pairs. Restricted / public voice. Matching GitHub freeze v15.43: source correspondence NOT\_EVALUATED. Einstein not closed.
 
-  v13.10 GitHub-only. Same one- and two-body data, different rigidity. Irreducible relative to W1/W2/W3 + atlas. Same moral as 315 vs 311: same response is not the same reality.
+    [It from bit, bind, and order](wiki/it-from-bit.md)
 
-  [Pillar 3 watch](wiki/september-2026-ladder.md)
-* ## Heat-kernel response
+*   <span id="protein-bridge-v9"></span>
 
-  Open
+    ## Frozen v9 protein bridge
 
-  02 Pruning-order history
+    Restricted
 
-  Local ΔH\_x(τ) = diag(e^{−τ L\_f}) − diag(e^{−τ L\_0}) as the GR-bridge residual channel.
+    Applied
 
-  7–9 May 2026 week after Package 17. Frozen dx²/long operator; heldout spatial-R 25.15% → 16.55%; next object δρ = A·q. Inverted direction: do not discretize Einstein–Hilbert. Full ADM action still open.
+    1UAO / 1L2Y backbone-ordering transfer of the UQCF-GEM bridge layer. Author score 7.6/10.
 
-  [May 2026 ladder](wiki/may-2026-ladder.md)
-* ## Hofstadter
+    12 Apr 2026. Angle RMS improved; 1L2Y RMSD p = 0.0655 (not decisive); contact recovery mixed. Explicitly not full folding and not a TOE proof. Different harness from Villin HP35 R\_t two days later.
 
-  Not claimed
+    [Frozen v9 protein bridge (1UAO / 1L2Y)](wiki/protein-bridge-v9.md)
 
-  Historical / not claimed
+*   <span id="g-star"></span>
 
-  2025 Harper-lattice / butterfly on-ramp to Phase-N. Not a 2026 lattice theorem.
+    <span id="letter-G"></span>G
 
-  March 2025 posted Harper’s equation and a 256-qubit coherence chart (D\_f = 2.7387, α = 0.618). October restated it as an Ani video plus hofstadter\_phi kernel, then Phase 5.1–5.6 qubit kits. 2025 visual + kit era. Kits stay on X. Not claimed.
+    ## g\_★
 
-  [Quantum information](wiki/quantum.md)
-* ## Holonomy
+    RestrictedProgram lawFrozen
 
-  Restricted
+    00 Astra
 
-  08 Atlas / scalar
+    Conditional protected-source coefficient K\_α^U=g\_★ n J\_α(t\_α) ∀α. Not a gravity derivation.
 
-  Loop defect of transport; here, retained-history holonomy or BKM response holonomy.
+    Posted 8 Sep 2026. Each matter sector already has K\_α=g\_α n J\_α(t\_α). Quantum consistency does not force equal gains. One signed coefficient before sector specialization is the unique response that survives erasure of matter-sector labels. X-only in this compile.
 
-  Two live meanings: (1) five-chart composite transport in V1698; (2) pair-marginal BKM polar loop on W states with spectrum {−1,+1,+1}. V1688’s “directed native holonomy” was downgraded (10 Jun 2026) to non-reciprocal directed transport. Neither is a gravity theorem.
+    [Astra (pre–Genesis Pin)](wiki/astra.md)
 
-  [Holonomy and W-states](wiki/holonomy.md)
-* ## Hubble tension
+*   <span id="geff-total"></span>
 
-  Not claimed
+    ## G\_eff,total
 
-  09 Package 17 / gravity
+    Not claimed
 
-  Local H₀ (~73.5) vs early-universe ΛCDM (~67.2). Aaron posted a UQCF-GEM proxy, not a claimed resolution.
+    Historical / not claimed
 
-  13 Apr 2026: H0DN local H₀ = 73.50 ± 0.81 km/s/Mpc, ~7σ vs ~67.2. Offered a ~9% late-time coherence-gradient recalibration; “full equations plug-in next.” 27 Mar: D\_f = 2.523948 sim 67.4 → 73. 30 Apr: posted w(z) sketch plus A\_L ≈ 1.15–1.25 and cluster-core +10–15% at z>0.5. 5 Apr: redshift as coherence history. 5 Mar 2025: redshift as coherence, not time. 4 May: Quintom-B literature thread. All stay not-claimed. Package 17 still lists Friedmann / BBN / CMB as open seams.
+    3 Mar 2025 Lorentzian interpolant in d\_C from the TOE announcement. History, not adopted.
 
-  [Hubble tension and RCLC cosmology](wiki/hubble-tension.md)
-* I
+    Posted as G\_eff,total(d\_C) = G[1 + α(φ₀ ℓ\_Pl / d\_C)² + weak/strong Lorentzian poles]. Symbols as posted. Not a gauge unification and not Package 17. Equations live on the ToI / TOE article. 2026 packets left Einstein/ADM open.
 
-  ## Identity lock
+    [ToI / TOE (2024–25)](wiki/toi-toe-2025.md)
 
-  Not claimedProgram law
+*   <span id="genesis-pin"></span>
 
-  Orientation
+    ## Genesis Pin
 
-  This Aaron Glenn Spradlin / United Planners / @aaronspradlin. Not the Tennessee namesake.
+    RestrictedProgram lawFrozen
 
-  VP and CTSO (also styled CIO). FINRA CRD 2492758. Scottsdale firm HQ. Do not ingest Pale Horse / Mission America / airborne service as this compiler.
+    01 Genesis Pin
 
-  [Identity lock](wiki/identity-lock.md)
-* ## Illusion of yes
+    Provenance identity locked before any charts exist.
 
-  Not claimedProgram law
+    The first object in the causal stack. A ledger of source identity, usually SHA-256-frozen, so later geometry-like structure can be tested for retained history rather than coordinate consistency alone.
 
-  Orientation
+    [Genesis Pin and provenance](wiki/genesis-pin.md)
 
-  Ungoverned AI adoption in a regulated firm.
+*   <span id="geometry-exhaust"></span>
 
-  ThinkAdvisor 17 Jun 2026: not no, not the illusion of yes. Industry channel. Not a UQCF-GEM result.
+    ## Geometry cannot validate itself
 
-  [Public voice](wiki/public-voice.md)
-* ## it from bit
+    Restricted
 
-  RestrictedFrozen
+    01 Genesis Pin
 
-  01 Genesis Pin
+    A clean metric is not enough if the structure cannot be traced to an admissible history.
 
-  Wheeler’s slogan as prior art. Here the freeze is bind + order; projection to metric physics remains Open.
+    1 Jun 2026 BPI2014 traces: M\_total = C\_topological × P\_sequence × E\_arrow. Static topology can fake shape; it cannot fake valid history. Restricted operational claim, not GR.
 
-  10–11 Jun 2026: geometry-like closure only counts as retained when the Genesis/provenance ledger plus source, support, and update-order admissibility survive. V1688 holonomy reading was Corrected the same week. V1698 is the Supported discrete atlas residual. The mouse is a Restricted toy. Not a Wheeler theorem and not GR.
+    [Genesis Pin and provenance](wiki/genesis-pin.md)
 
-  [It from bit, bind, and order](wiki/it-from-bit.md)
-* J
+*   <span id="hcpr"></span>
 
-  ## J\_R current
+    <span id="letter-H"></span>H
 
-  Open
+    ## HCPR
 
-  08 Atlas / scalar
+    RestrictedProgram lawFrozen
 
-  Retained source current on chart boundaries.
+    00 Astra
 
-  Pillar 2 target is source-balanced compatibility D\_Γ R\_Γ = J\_R rather than automatically source-free curvature.
+    Hidden-completion phase rigidity. Not a function of the current frozen ledger. Restricted no-go. Not gravity.
 
-  [Retained atlas closure (V1698)](wiki/retained-atlas.md)
-* L
+    v13.10 GitHub-only. Same one- and two-body data, different rigidity. Irreducible relative to W1/W2/W3 + atlas. Same moral as 315 vs 311: same response is not the same reality.
 
-  ## L3 / T\_H / D\_L3
+    [Pillar 3 watch](wiki/september-2026-ladder.md)
 
-  Restricted
+*   <span id="heat-kernel"></span>
 
-  06 L3
+    ## Heat-kernel response
 
-  Hyperedge memory layer plus entropy-order curvature driver.
+    Open
 
-  Described as geometry-plus-information. Associator obstructions live here and are not to be projected away. Sits above closed L1 and L2 in the causal stack.
+    02 Pruning-order history
 
-  [Causal stack (mid rungs)](wiki/causal-stack.md)
-* ## L4 / H4\_perp
+    Local ΔH\_x(τ) = diag(e^\{−τ L\_f\}) − diag(e^\{−τ L\_0\}) as the GR-bridge residual channel.
 
-  RestrictedFrozen
+    7–9 May 2026 week after Package 17. Frozen dx²/long operator; heldout spatial-R 25.15% → 16.55%; next object δρ = A·q. Inverted direction: do not discretize Einstein–Hilbert. Full ADM action still open.
 
-  07 L4
+    [May 2026 ladder](wiki/may-2026-ladder.md)
 
-  Hyper-associator residual; an irreducible obstruction layer.
+*   <span id="hofstadter"></span>
 
-  The atlas “final boss” protects this layer. Projecting it away is treated as cheating the retained-history rules.
+    ## Hofstadter
 
-  [Causal stack (mid rungs)](wiki/causal-stack.md)
-* ## Lineage addressability L\_t
+    Not claimed
 
-  Restricted
+    Historical / not claimed
 
-  03 Admissible slice
+    2025 Harper-lattice / butterfly on-ramp to Phase-N. Not a 2026 lattice theorem.
 
-  Retained branch structure needed for future adaptation.
+    March 2025 posted Harper’s equation and a 256-qubit coherence chart (D\_f = 2.7387, α = 0.618). October restated it as an Ani video plus hofstadter\_phi kernel, then Phase 5.1–5.6 qubit kits. 2025 visual + kit era. Kits stay on X. Not claimed.
 
-  Added when A\_t = M\_t × R\_t predicted immediate recovery but not delayed collapse. Enters S\_t = M\_t × R\_t × L\_t.
+    [Quantum information](wiki/quantum.md)
 
-  [Restricted bridge theorems](wiki/restricted-bridge.md)
-* M
+*   <span id="holonomy"></span>
 
-  ## MECP2 Rett campaign
+    ## Holonomy
 
-  Restricted
+    Restricted
 
-  Applied
+    08 Atlas / scalar
 
-  Aug 2025 19-run MBD–DNA audit. InterfaceAnneal seats R106W and R133C. Run 5 is a DEVIATION.
+    Loop defect of transport; here, retained-history holonomy or BKM response holonomy.
 
-  GitHub-only. Engine abstract: 15 CONFIRMED, 1 DEVIATION, 3 INDETERMINATE. Unrescued R106W was contracted at RMSD ≥ 20 Å and came back 3.06 Å. Not a Rett therapy.
+    Two live meanings: (1) five-chart composite transport in V1698; (2) pair-marginal BKM polar loop on W states with spectrum \{−1,+1,+1\}. V1688’s “directed native holonomy” was downgraded (10 Jun 2026) to non-reciprocal directed transport. Neither is a gravity theorem.
 
-  [MECP2 Rett MBD–DNA campaign](wiki/mecp2-rett.md)
-* ## MTP₂
+    [Holonomy and W-states](wiki/holonomy.md)
 
-  Restricted
+*   <span id="hubble-tension"></span>
 
-  02 Pruning-order history
+    ## Hubble tension
 
-  Multivariate total positivity of order 2 — a sufficient focusing / association law on commuting variables.
+    Not claimed
 
-  25 Jul 2026: trees glue local MTP₂ globally; cycles can frustrate. Exact triangle counterexample. Square still numerical. Reciprocity does not imply this sign.
+    09 Package 17 / gravity
 
-  [Recoverability geometry](wiki/recoverability.md)
-* N
+    Local H₀ (~73.5) vs early-universe ΛCDM (~67.2). Aaron posted a UQCF-GEM proxy, not a claimed resolution.
 
-  ## New Critical Path
+    13 Apr 2026: H0DN local H₀ = 73.50 ± 0.81 km/s/Mpc, ~7σ vs ~67.2. Offered a ~9% late-time coherence-gradient recalibration; “full equations plug-in next.” 27 Mar: D\_f = 2.523948 sim 67.4 → 73. 30 Apr: posted w(z) sketch plus A\_L ≈ 1.15–1.25 and cluster-core +10–15% at z>0.5. 5 Apr: redshift as coherence history. 5 Mar 2025: redshift as coherence, not time. 4 May: Quintom-B literature thread. All stay not-claimed. Package 17 still lists Friedmann / BBN / CMB as open seams.
 
-  Restricted
+    [Hubble tension and RCLC cosmology](wiki/hubble-tension.md)
 
-  Applied
+*   <span id="identity-lock"></span>
 
-  Live-plan operator: preserve coherent commitments, deform stressed ones, reset only the stale.
+    <span id="letter-I"></span>I
 
-  1 May 2026 Python transfer of the remember-what-survived pattern into a plan already in motion — not a static Gantt chart. Posted as recurrence across quantum, fractal, protein, SPARC. Restricted applied transfer, not a unification proof.
+    ## Identity lock
 
-  [New Critical Path](wiki/critical-path.md)
-* ## Normalized adaptive reachability A\_norm
+    Not claimedProgram law
 
-  Restricted
+    Orientation
 
-  02 Pruning-order history
+    This Aaron Glenn Spradlin / United Planners / @aaronspradlin. Not the Tennessee namesake.
 
-  A\_norm = A(t)/A\_baseline. Collapse when A\_norm < A\_c ≈ 0.53–0.58.
+    VP and CTSO (also styled CIO). FINRA CRD 2492758. Scottsdale firm HQ. Do not ingest Pale Horse / Mission America / airborne service as this compiler.
 
-  12 May 2026 V300 Retained Atlas Resilience Stack. Across topology/noise/memory variants, normalized reachability predicted collapse at AUC ≈ 0.99 on the posted toy. Predecessor of V395 A\_t. Exploratory toy-model law. Not GR, not physical spacetime.
+    [Identity lock](wiki/identity-lock.md)
 
-  [May 2026 ladder](wiki/may-2026-ladder.md)
-* O
+*   <span id="illusion-of-yes"></span>
 
-  ## objective-reduction timescale
+    ## Illusion of yes
 
-  Open
+    Not claimedProgram law
 
-  09 Package 17 / gravity
+    Orientation
 
-  4 Sep 2026 question: t = ħ/E from a recoverability object E. Open, not a result.
+    Ungoverned AI adoption in a regulated firm.
 
-  If recoverability deformation and support-loss pruning exist before time or geometry, what object becomes the gravitational self-energy E that sets Penrose’s t = ħ/E? A lab measurement would constrain the priority of the timeless layer. Gravity is not claimed.
+    ThinkAdvisor 17 Jun 2026: not no, not the illusion of yes. Industry channel. Not a UQCF-GEM result.
 
-  [Objective-reduction timescale](wiki/or-timescale.md)
-* ## Origin Law
+    [Public voice](wiki/public-voice.md)
 
-  Not claimed
+*   <span id="it-from-bit"></span>
 
-  Historical / not claimed
+    ## it from bit
 
-  14 Oct 2025 freeze of ε\* as a universal law of emergent time. Reading list, not claimed.
+    RestrictedFrozen
 
-  Posted after Ω-Lock / Ω² / Ω³: freeze ε\* ≈ 5×10⁻⁵ across cosmic, quantum, and neural toy channels and invite a public leaderboard. 2025 posture was one number across every substrate. 2026 packets (Package 17, V824, V1698, claim badges) walked that universality back. The wiki reconstructs the week as a not-claimed reading list.
+    01 Genesis Pin
 
-  [Origin Law / Phase-N (2025)](wiki/origin-law.md)
-* P
+    Wheeler’s slogan as prior art. Here the freeze is bind + order; projection to metric physics remains Open.
 
-  ## p53 campaign (Labs/p53)
+    10–11 Jun 2026: geometry-like closure only counts as retained when the Genesis/provenance ledger plus source, support, and update-order admissibility survive. V1688 holonomy reading was Corrected the same week. V1698 is the Supported discrete atlas residual. The mouse is a Restricted toy. Not a Wheeler theorem and not GR.
 
-  Restricted
+    [It from bit, bind, and order](wiki/it-from-bit.md)
 
-  Applied
+*   <span id="jr"></span>
 
-  Aug 2025 12-run coarse-grained DBD study: R248Q electrostatic vs Y220C kinetic trap.
+    <span id="letter-J"></span>J
 
-  GitHub-only in this compile. WT also misfolds to 26.6 Å — mechanism differentiation, not native folding. Contact-anneal + PhiKan083 improved Y220C inside this force field. Not a cancer therapy.
+    ## J\_R current
 
-  [p53 mutational mechanisms](wiki/p53-campaign.md)
-* ## Phase-N
+    Open
 
-  Not claimed
+    08 Atlas / scalar
 
-  Historical / not claimed
+    Retained source current on chart boundaries.
 
-  Oct 2025 numbered Grok-challenge kits that inject a tiny echo and audit four prereg metrics. Not claimed.
+    Pillar 2 target is source-balanced compatibility D\_Γ R\_Γ = J\_R rather than automatically source-free curvature.
 
-  Phases 5.5–43 plus Ω / Ω-Lock / Ω³ / Phase-NN. Each kit injects ε sin(2π f t) into a toy channel (qubits, CMB/PTA, EEG, LLM grads, Brusselator, inflation, AdS/CFT, LQG, causal sets, neural filters, evolution) and hunts the first δ that jointly passes TRw, |ΔPE|, p\_emp, prod\_frac. Kits stay on X. Every PASS is a 2025 notebook item unless a later packet promotes it. None has.
+    [Retained atlas closure (V1698)](wiki/retained-atlas.md)
 
-  [Phase-N catalog (2025)](wiki/phase-n-catalog.md)
-* ## Pink-noise regime
+*   <span id="l3"></span>
 
-  Restricted
+    <span id="letter-L"></span>L
 
-  Applied
+    ## L3 / T\_H / D\_L3
 
-  Working hypothesis: healthy LLM generation sits in a 1/f-like structured-variation band. Named R\_t channel for C3++.
+    Restricted
 
-  30 Mar 2026. Not maximally ordered, not maximally random. Used to separate factual, creative-stable, attractor-loop, and hidden-instability trajectories. GitHub experiment plan logs mem\_pink\_noise\_deviation beside tension/drift/entropy. Restricted hypothesis. Visuals on the X post are conceptual, not spectrograms.
+    06 L3
 
-  [C3++ Stability Governor](wiki/c3-governor.md)
-* ## Proofs and simulations
+    Hyperedge memory layer plus entropy-order curvature driver.
 
-  Method
+    Described as geometry-plus-information. Associator obstructions live here and are not to be projected away. Sits above closed L1 and L2 in the causal stack.
 
-  Advertised Python harnesses and posted result figures, copied from GitHub and X.
+    [Causal stack (mid rungs)](wiki/causal-stack.md)
 
-  Codazzi verification, W-holonomy replication, V1698 atlas MP4, SPARC/Challenge runners, battery ROC, UQCF visual pack. Not the entire Tmp/TOE tree. Early-2025 cosmology plots are kept as not-claimed notebook images.
+*   <span id="l4"></span>
 
-  [Proofs, simulations, and figures](wiki/proofs-and-simulations.md)
-* ## Protected-source response
+    ## L4 / H4\_perp
 
-  RestrictedProgram law
+    RestrictedFrozen
 
-  00 Astra
+    07 L4
 
-  Restricted. K\_α^U = g\_★ n J\_α(t\_α). Not gravity.
+    Hyper-associator residual; an irreducible obstruction layer.
 
-  8 Sep 2026. Quantum consistency does not force equal sector gains. Conditional discriminator. Gravity connection remains open.
+    The atlas “final boss” protects this layer. Projecting it away is treated as cheating the retained-history rules.
 
-  [UQCF-GEM reader](wiki/uqcf-gem-reader.md)
-* ## Public voice
+    [Causal stack (mid rungs)](wiki/causal-stack.md)
 
-  Not claimedProgram law
+*   <span id="lineage"></span>
 
-  Orientation
+    ## Lineage addressability L\_t
 
-  Industry interviews; not research results.
+    Restricted
 
-  WealthTech Today, Beacon Flash, G&T Sessions, ThinkAdvisor Perspectives, and related firm interviews. Channel tag: industry only.
+    03 Admissible slice
 
-  [Public voice](wiki/public-voice.md)
-* Q
+    Retained branch structure needed for future adaptation.
 
-  ## QMAR
+    Added when A\_t = M\_t × R\_t predicted immediate recovery but not delayed collapse. Enters S\_t = M\_t × R\_t × L\_t.
 
-  RestrictedProgram lawFrozen
+    [Restricted bridge theorems](wiki/restricted-bridge.md)
 
-  00 Astra
+*   <span id="mecp2-rett"></span>
 
-  Quantum Metric-Affine Response. Finite-state first-order response with CMI error O(√CMI). Restricted. Not Einstein.
+    <span id="letter-M"></span>M
 
-  v13.11–v13.18 GitHub-only. Conditional QMAR from PGRL/ETL through BKM and polar transport. Jet locality O(‖P‖ √CMI) on faithful polar-gapped strata. Geometry-only autonomous evolution still obstructed.
+    ## MECP2 Rett campaign
 
-  [Pillar 3 watch](wiki/september-2026-ladder.md)
-* ## QRSL
+    Restricted
 
-  RestrictedProgram lawFrozen
+    Applied
 
-  00 Astra
+    Aug 2025 19-run MBD–DNA audit. InterfaceAnneal seats R106W and R133C. Run 5 is a DEVIATION.
 
-  Quantum Refinement Selector Law. Irreducible relative to the current frozen ontology. Restricted. Not a gravity selector.
+    GitHub-only. Engine abstract: 15 CONFIRMED, 1 DEVIATION, 3 INDETERMINATE. Unrescued R106W was contracted at RMSD ≥ 20 Å and came back 3.06 Å. Not a Rett therapy.
 
-  v13.23 GitHub-only, 12 Sep 2026. Genesis Pin, recoverability order, W1/W2/W3, positivity, and quotient naturality do not select a canonical fine world. Origin search: STOP. Live Git HEAD is v15.03, not v13.24. Pin is a ledger, not a selector.
+    [MECP2 Rett MBD–DNA campaign](wiki/mecp2-rett.md)
 
-  [Genesis Pin and provenance](wiki/genesis-pin.md)
-* ## quadratic RG core
+*   <span id="mtp2"></span>
 
-  Open
+    ## MTP₂
 
-  09 Package 17 / gravity
+    Restricted
 
-  Apr 2026 solved core σ\*≈0.7333, γ≈0.2667. DESI frozen operator null. Open scaffold.
+    02 Pruning-order history
 
-  3–5 Apr 2026 Grok-loop sprint: coefficient-eliminated fixed-point C(σ)(2−σ)=K\_ent(σ)²σ, self-consistent interior σ\*≈0.7333, η\*≈0.7563, D\_f≈2.7333, γ≈0.2667. Author: quadratic phase closed at current truncation; remaining gap is microscopic amplitude / ρ=B. Frozen source+propagation operator modestly positive on Planck, null/weak on DESI. 5 Apr method sentence: redshift as a measure of coherence history. The 30 Apr w(z) χ≈0.2667 reuses this γ. Later packets freeze γ=0.2613 = 3−2.7387. Not Package 17 closure.
+    Multivariate total positivity of order 2 — a sufficient focusing / association law on commuting variables.
 
-  [Quadratic RG core](wiki/quadratic-rg.md)
-* ## Quantum compatibility lab
+    25 Jul 2026: trees glue local MTP₂ globally; cycles can frustrate. Exact triangle counterexample. Square still numerical. Reciprocity does not imply this sign.
 
-  Restricted
+    [Recoverability geometry](wiki/recoverability.md)
 
-  00 Astra
+*   <span id="critical-path"></span>
 
-  v9.167–v9.171: same pair curve, global completions 315 vs 311. Restricted finite calc. Not v9.156.
+    <span id="letter-N"></span>N
 
-  Posted 6 Sep 2026 20:05 UTC. Matched four-weight family on three five-level systems. Arrangements A and B share pair spectra and the entire compatibility-distance curve; exact real affine nullities of the optimal global-completion families are 315 and 311. Collective Born probabilities 0.480269472 vs 0.465533202 with pair traces agreeing to 4e-18. Calculated states, not a laboratory observation. Not the v9.156 product-side d(t) family. Gravity connection not established. No v9.172 theorem.
+    ## New Critical Path
 
-  [Quantum compatibility lab (v9.167)](wiki/quantum-compatibility-lab.md)
-* R
+    Restricted
 
-  ## R\_t
+    Applied
 
-  RestrictedFrozen
+    Live-plan operator: preserve coherent commitments, deform stressed ones, reset only the stale.
 
-  02 Pruning-order history
+    1 May 2026 Python transfer of the remember-what-survived pattern into a plan already in motion — not a static Gantt chart. Posted as recurrence across quantum, fractal, protein, SPARC. Restricted applied transfer, not a unification proof.
 
-  Retained information state, distinct from the visible state G\_t.
+    [New Critical Path](wiki/critical-path.md)
 
-  The load-bearing question of the uqcf\_retained\_information\_state\_research\_bundle. C3++ and Villin HP35 are telemetry, not the answer. Frozen letter: do not collapse R\_t onto G\_t.
+*   <span id="a-norm"></span>
 
-  [UQCF-GEM](wiki/uqcf-gem.md)
-* ## RCLC
+    ## Normalized adaptive reachability A\_norm
 
-  Not claimed
+    Restricted
 
-  Historical / not claimed
+    02 Pruning-order history
 
-  Retained-Coherence Lattice Cosmology — Grok’s 5 May 2026 name for the program.
+    A\_norm = A(t)/A\_baseline. Collapse when A\_norm < A\_c ≈ 0.53–0.58.
 
-  Quoted by Aaron the same night as the complete-cosmology overclaim. This atlas keeps the name as historical and keeps cosmological closure off the supported ledger.
+    12 May 2026 V300 Retained Atlas Resilience Stack. Across topology/noise/memory variants, normalized reachability predicted collapse at AUC ≈ 0.99 on the posted toy. Predecessor of V395 A\_t. Exploratory toy-model law. Not GR, not physical spacetime.
 
-  [Hubble tension and RCLC cosmology](wiki/hubble-tension.md)
-* ## Recoverability
+    [May 2026 ladder](wiki/may-2026-ladder.md)
 
-  Restricted
+*   <span id="or-timescale"></span>
 
-  02 Pruning-order history
+    <span id="letter-O"></span>O
 
-  Capacity of a system to restore reachable structure after defect.
+    ## objective-reduction timescale
 
-  Modeled with surplus C, defect burden μ, and a repair field. The update parameter τ is ordered recoverability updates, not assumed to be physical time.
+    Open
 
-  [Recoverability geometry](wiki/recoverability.md)
-* ## Recoverability framework
+    09 Package 17 / gravity
 
-  RestrictedFrozen
+    4 Sep 2026 question: t = ħ/E from a recoverability object E. Open, not a result.
 
-  02 Pruning-order history
+    If recoverability deformation and support-loss pruning exist before time or geometry, what object becomes the gravitational self-energy E that sets Penrose’s t = ħ/E? A lab measurement would constrain the priority of the timeless layer. Gravity is not claimed.
 
-  17 May freeze: perturbation → response → restored future trajectory space. Lyapunov of V[Ω,C,μ] named, not closed.
+    [Objective-reduction timescale](wiki/or-timescale.md)
 
-  After V555’s synthetic adversarial harness, the invariant was restated as persistence of that mapping rather than stress magnitude. Next named object: freeze V[Ω, C, μ] and prove Lyapunov descent under controlled attacks. Restricted synthesis. Not GR. Heat-kernel week, V498–V555, and V760 stay Restricted and are not promoted.
+*   <span id="origin-law"></span>
 
-  [Recoverability framework](wiki/recoverability-framework.md)
-* ## Recursive survival law
+    ## Origin Law
 
-  Restricted
+    Not claimed
 
-  03 Admissible slice
+    Historical / not claimed
 
-  S\_t = M\_t × R\_t × L\_t. Immediate recovery is not delayed-collapse insurance.
+    14 Oct 2025 freeze of ε\* as a universal law of emergent time. Reading list, not claimed.
 
-  13 May 2026: V395 compressed A\_t = M\_t × R\_t; V421 added lineage addressability and blinded generalization. Greedy still wins short-term bad rate; retained law minimizes lineage destruction. Control-law candidate. Not GR.
+    Posted after Ω-Lock / Ω² / Ω³: freeze ε\* ≈ 5×10⁻⁵ across cosmic, quantum, and neural toy channels and invite a public leaderboard. 2025 posture was one number across every substrate. 2026 packets (Package 17, V824, V1698, claim badges) walked that universality back. The wiki reconstructs the week as a not-claimed reading list.
 
-  [Restricted bridge theorems](wiki/restricted-bridge.md)
-* ## Retained atlas
+    [Origin Law / Phase-N (2025)](wiki/origin-law.md)
 
-  Supported
+*   <span id="p53-campaign"></span>
 
-  08 Atlas / scalar
+    <span id="letter-P"></span>P
 
-  Local charts that stitch globally under both cocycles and provenance gates.
+    ## p53 campaign (Labs/p53)
 
-  V1698’s Pillar 1. Inverse, triple-overlap, and holonomy closure plus source/support/order admissibility. Not a manifold postulate.
+    Restricted
 
-  [Retained atlas closure (V1698)](wiki/retained-atlas.md)
-* ## Retained branch identity
+    Applied
 
-  Restricted
+    Aug 2025 12-run coarse-grained DBD study: R248Q electrostatic vs Y220C kinetic trap.
 
-  02 Pruning-order history
+    GitHub-only in this compile. WT also misfolds to 26.6 Å — mechanism differentiation, not native folding. Contact-anneal + PhiKan083 improved Y220C inside this force field. Not a cancer therapy.
 
-  Lineage address map that recovers causal geometry after raw-state wipe.
+    [p53 mutational mechanisms](wiki/p53-campaign.md)
 
-  10 May 2026 audit: after 80–90% raw-state damage, preserved lineage addressability recovers observer-compatible causal geometry (corr 0.0 → ~0.32); address erasure collapses it. Hysteresis ~0.10. Python at Tmp/TOE root. Not a GR derivation.
+*   <span id="phase-n"></span>
 
-  [May 2026 ladder](wiki/may-2026-ladder.md)
-* ## Rydberg
+    ## Phase-N
 
-  Not claimed
+    Not claimed
 
-  Historical / not claimed
+    Historical / not claimed
 
-  14 Mar 2025 Semeghini Dataverse quench. Not a 2026 qubit result.
+    Oct 2025 numbered Grok-challenge kits that inject a tiny echo and audit four prereg metrics. Not claimed.
 
-  Harvard Dataverse BDCTRX (Semeghini 2021) quoted as τ\_coherence = 85.0063 µs, S\_eff = 23.0243 k\_B, F(k) ≈ 0.00578. Chart + Python. Later restated in the October Hofstadter week. 2025 quantum-stability voice. Not claimed.
+    Phases 5.5–43 plus Ω / Ω-Lock / Ω³ / Phase-NN. Each kit injects ε sin(2π f t) into a toy channel (qubits, CMB/PTA, EEG, LLM grads, Brusselator, inflation, AdS/CFT, LQG, causal sets, neural filters, evolution) and hunts the first δ that jointly passes TRw, |ΔPE|, p\_emp, prod\_frac. Kits stay on X. Every PASS is a 2025 notebook item unless a later packet promotes it. None has.
 
-  [Quantum information](wiki/quantum.md)
-* S
+    [Phase-N catalog (2025)](wiki/phase-n-catalog.md)
 
-  ## Science contract
+*   <span id="pink-noise"></span>
 
-  Method
+    ## Pink-noise regime
 
-  findings.json: claims with machine-testable constraints.
+    Restricted
 
-  WetLabEngine primitive (SCHEMA 2.2 / 3.3). UnifiedAuditEngine v5.7 confirms or refutes each constraint against raw CSVs. This atlas ships a Gemini-free reconstruction (wetlab\_deterministic\_audit.py) that reproduced Labs/MECP2 15/1/3 including Run 5 DEVIATION. Same spirit as TOE package READMEs that lead with claim boundaries. Tooling, not a folding result.
+    Applied
 
-  [WetLabEngine protein audit](wiki/protein-audit.md)
-* ## Source generator Q\_i
+    Working hypothesis: healthy LLM generation sits in a 1/f-like structured-variation band. Named R\_t channel for C3++.
 
-  OpenFrozen
+    30 Mar 2026. Not maximally ordered, not maximally random. Used to separate factual, creative-stable, attractor-loop, and hidden-instability trajectories. GitHub experiment plan logs mem\_pink\_noise\_deviation beside tension/drift/entropy. Restricted hypothesis. Visuals on the X post are conceptual, not spectrograms.
 
-  02 Pruning-order history
+    [C3++ Stability Governor](wiki/c3-governor.md)
 
-  A common generator that would align every incident edge’s leading source line before geometry exists.
+*   <span id="proofs-and-simulations"></span>
 
-  23 Jul 2026 gate: does global quantum provenance canonically generate Q\_i? In-thread review: not from admissibility + BKM reciprocity alone. Gravity not claimed.
+    ## Proofs and simulations
 
-  [Recoverability geometry](wiki/recoverability.md)
-* ## Spine
+    Method
 
-  Not claimedProgram law
+    Advertised Python harnesses and posted result figures, copied from GitHub and X.
 
-  Orientation
+    Codazzi verification, W-holonomy replication, V1698 atlas MP4, SPARC/Challenge runners, battery ROC, UQCF visual pack. Not the entire Tmp/TOE tree. Early-2025 cosmology plots are kept as not-claimed notebook images.
 
-  Start here → It from bit → Live gates → Supported four → Falsification. Machine: /llms.txt.
+    [Proofs, simulations, and figures](wiki/proofs-and-simulations.md)
 
-  One ingest path for models and humans. Live gates = STATUS.md only. Research ladder is off-main Git, not STATUS. September X-week reel and June causal stack are satellites. Do not glue stacks.
+*   <span id="protected-source"></span>
 
-  [Start here](wiki/start-here.md)
-* T
+    ## Protected-source response
 
-  ## t\*
+    RestrictedProgram law
 
-  RestrictedFrozen
+    00 Astra
 
-  00 Astra
+    Restricted. K\_α^U = g\_★ n J\_α(t\_α). Not gravity.
 
-  Finite-model phase marker t\* = 13/33. Restricted Astra identity. Not physical time.
+    8 Sep 2026. Quantum consistency does not force equal sector gains. Conditional discriminator. Gravity connection remains open.
 
-  Posted 5 Sep 2026 with the F-bound. Locked on the freeze-notation table. Do not reuse t\* for a cosmological time or an Origin Law threshold.
+    [UQCF-GEM reader](wiki/uqcf-gem-reader.md)
 
-  [Astra (pre–Genesis Pin)](wiki/astra.md)
-* ## The Great Grok Challenge
+*   <span id="public-voice"></span>
 
-  Restricted
+    ## Public voice
 
-  09 Package 17 / gravity
+    Not claimedProgram law
 
-  Public frozen-scaffold validation series between @aaronspradlin and @grok.
+    Orientation
 
-  SPARC holdouts, WALLABY transfer, then cluster/lensing “skeptic” rounds. Grok logs win conditions in-thread. Empirical ladder, not a derived cosmology — Package 17 is the derivation sequel.
+    Industry interviews; not research results.
 
-  [The Great Grok Challenge](wiki/great-grok-challenge.md)
-* ## ToI
+    WealthTech Today, Beacon Flash, G&T Sessions, ThinkAdvisor Perspectives, and related firm interviews. Channel tag: industry only.
 
-  Not claimed
+    [Public voice](wiki/public-voice.md)
 
-  Historical / not claimed
+*   <span id="qmar"></span>
 
-  Theory of Integration — Nov–Dec 2024 density-matrix seed later restated as UQCF-GEM. Not claimed.
+    <span id="letter-Q"></span>Q
 
-  Posted 18 Dec 2024: entropy operator, non-Markovian memory, Lindblad terms. Pre-UQCF-GEM name for the same first-principles program. Historical on-ramp only. Equations live on the ToI / TOE article. The 2026 ledger does not treat ToI as a supported theorem.
+    ## QMAR
 
-  [ToI / TOE (2024–25)](wiki/toi-toe-2025.md)
-* ## TSP coherence backbone
+    RestrictedProgram lawFrozen
 
-  Restricted
+    00 Astra
 
-  Applied
+    Quantum Metric-Affine Response. Finite-state first-order response with CMI error O(√CMI). Restricted. Not Einstein.
 
-  Fractal TSP transfer: smoother information-bearing tour, not a shorter one.
+    v13.11–v13.18 GitHub-only. Conditional QMAR from PGRL/ETL through BKM and polar transport. Jet locality O(‖P‖ √CMI) on faithful polar-gapped strata. Geometry-only autonomous evolution still obstructed.
 
-  11 Apr 2026, 100-point 3D cloud. Nearest neighbor length 1984.6 / coherence 0.2267; UQCF-GEM best-of-20 length 2492.7 / coherence 0.5251. Different objective, not a championship TSP solver. 10k-city vs nearest-neighbor is origin-story, not a published residual.
+    [Pillar 3 watch](wiki/september-2026-ladder.md)
 
-  [TSP coherence backbone](wiki/tsp-backbone.md)
-* U
+*   <span id="qrsl"></span>
 
-  ## UQCF-GEM
+    ## QRSL
 
-  Open
+    RestrictedProgram lawFrozen
 
-  08 Atlas / scalar
+    00 Astra
 
-  The recoverability-response framework and its gravity-emergence bridge program.
+    Quantum Refinement Selector Law. Irreducible relative to the current frozen ontology. Restricted. Not a gravity selector.
 
-  Treats BKM maps, retained recombination, associators, and discrete atlas closure as prior to entropy and geometry. GEM is the still-open bridge toward Einstein-like limits.
+    v13.23 GitHub-only, 12 Sep 2026. Genesis Pin, recoverability order, W1/W2/W3, positivity, and quotient naturality do not select a canonical fine world. Origin search: STOP. Live Git HEAD is v15.03, not v13.24. Pin is a ledger, not a selector.
 
-  [UQCF-GEM](wiki/uqcf-gem.md)
-* ## UQCF-GEM reader
+    [Genesis Pin and provenance](wiki/genesis-pin.md)
 
-  RestrictedProgram law
+*   <span id="quadratic-rg"></span>
 
-  Orientation
+    ## quadratic RG core
 
-  Plain-language map of the finite labs. Not a harness dump.
+    Open
 
-  Hiding result, v9.190 reconstruction, g★ discriminator, v12.41 constraint algebra, Codazzi separation. Gravity connection remains open.
+    09 Package 17 / gravity
 
-  [UQCF-GEM reader](wiki/uqcf-gem-reader.md)
-* V
+    Apr 2026 solved core σ\*≈0.7333, γ≈0.2667. DESI frozen operator null. Open scaffold.
 
-  ## v12.41
+    3–5 Apr 2026 Grok-loop sprint: coefficient-eliminated fixed-point C(σ)(2−σ)=K\_ent(σ)²σ, self-consistent interior σ\*≈0.7333, η\*≈0.7563, D\_f≈2.7333, γ≈0.2667. Author: quadratic phase closed at current truncation; remaining gap is microscopic amplitude / ρ=B. Frozen source+propagation operator modestly positive on Planck, null/weak on DESI. 5 Apr method sentence: redshift as a measure of coherence history. The 30 Apr w(z) χ≈0.2667 reuses this γ. Later packets freeze γ=0.2613 = 3−2.7387. Not Package 17 closure.
 
-  RestrictedFrozen
+    [Quadratic RG core](wiki/quadratic-rg.md)
 
-  00 Astra
+*   <span id="qclab"></span>
 
-  Qubit moment-map closure: {C\_A,C\_B}=C\_{−i[A,B]}, Δ\_closure=0 on 121 relational transforms. Restricted. Not gravity.
+    ## Quantum compatibility lab
 
-  Posted 10 Sep 2026 with GitHub packet UQCF\_GEM\_v12\_41\_PUBLIC\_SIMULATION\_COMPLETE. Chain: quantum relations → KKS form Ω\_ρ → generators C\_A → closed constraint algebra. Exact residual 0; broken generator law max 0.297. λ is an ordered sweep, not time. Gravity’s constraints not identified.
+    Restricted
 
-  [v12.41 moment-map closure](wiki/v1241-closure.md)
-* ## validation week
+    00 Astra
 
-  29 Jan–13 Feb 2025 ICL / Bullet / ξ(r) on-ramp. Not claimed.
+    v9.167–v9.171: same pair curve, global completions 315 vs 311. Restricted finite calc. Not v9.156.
 
-  First-validation thread, ICL M\_ICL(z)=0.12(1+z)^{-1.48}e^{-0.65z}, mass-scaling chart, Bullet 201.55 kpc four-cluster table, ξ(r) vs KiDS χ² 7.42 vs ΛCDM 11.85. 2025 voice. Challenge 15 is a later 2026 Bullet test.
+    Posted 6 Sep 2026 20:05 UTC. Matched four-weight family on three five-level systems. Arrangements A and B share pair spectra and the entire compatibility-distance curve; exact real affine nullities of the optimal global-completion families are 315 and 311. Collective Born probabilities 0.480269472 vs 0.465533202 with pair traces agreeing to 4e-18. Calculated states, not a laboratory observation. Not the v9.156 product-side d(t) family. Gravity connection not established. No v9.172 theorem.
 
-  [Validation week (Jan–Feb 2025)](wiki/validation-week-2025.md)
-* ## Villin HP35 R\_t
+    [Quantum compatibility lab (v9.167)](wiki/quantum-compatibility-lab.md)
 
-  Restricted
+*   <span id="r-t"></span>
 
-  Applied
+    <span id="letter-R"></span>R
 
-  Controlled protein cases: identical visible conformation, different folding fates from hidden retained history.
+    ## R\_t
 
-  14 Apr 2026. Grok: AUC G\_t+R\_t ≈ 0.9569 vs G\_t alone; matched-state divergence ~49%. Author tagged it speculative. Restricted empirical, not a folding oracle.
+    RestrictedFrozen
 
-  [WetLabEngine protein audit](wiki/protein-audit.md)
-* X
+    02 Pruning-order history
 
-  ## X science notebook
+    Retained information state, distinct from the visible state G\_t.
 
-  Method
+    The load-bearing question of the uqcf\_retained\_information\_state\_research\_bundle. C3++ and Villin HP35 are telemetry, not the answer. Frozen letter: do not collapse R\_t onto G\_t.
 
-  Denser 2026 thread coverage of @aaronspradlin science posts, with a 2025 not-claimed shelf.
+    [UQCF-GEM](wiki/uqcf-gem.md)
 
-  Spine field notes carry the argument — including replies that carry equations. The notebook carries WALLABY 12A–D, Challenge 13, A\_G, focusing/MTP₂, Q\_i, geometry-exhaust, today’s F-bound, and the 5 May overclaim marked corrected. It is not live ingest. Load-bearing @grok replies on science threads are now first-class and listed on the X notebook Grok-replies table.
+*   <span id="rclc"></span>
 
-  [X science notebook](wiki/x-notebook.md)
-* Δ
+    ## RCLC
 
-  ## Δ\_closure
+    Not claimed
 
-  RestrictedFrozen
+    Historical / not claimed
 
-  00 Astra
+    Retained-Coherence Lattice Cosmology — Grok’s 5 May 2026 name for the program.
 
-  Residual of the generator law. Exact branch 0; broken control max 0.297 on the posted seed.
+    Quoted by Aaron the same night as the complete-cosmology overclaim. This atlas keeps the name as historical and keeps cosmological closure off the supported ledger.
 
-  Broken control replaces 2 C\_z with 1.25 C\_z + 0.15 C\_x. Independent reconstruction in this compile matched the posted log.
+    [Hubble tension and RCLC cosmology](wiki/hubble-tension.md)
 
-  [v12.41 moment-map closure](wiki/v1241-closure.md)
-* Ε
+*   <span id="recoverability"></span>
 
-  ## ε\*
+    ## Recoverability
 
-  Not claimedFrozen
+    Restricted
 
-  Historical / not claimed
+    02 Pruning-order history
 
-  2025 claimed irreversibility / learning-onset threshold ≈ 4.97×10⁻⁵. Not a 2026 supported constant.
+    Capacity of a system to restore reachable structure after defect.
 
-  October 2025 Origin Law freeze: ε\* ≈ (k\_B T / ħ) e^{−ΔS/k\_B} / √N, operationally the first δ that jointly passes TRw ≥ 0.05, |ΔPE|\_norm ≥ 0.04, p\_emp < 0.01, prod\_frac > 0.9. Swept through Phase-N kits (qubits, CMB/PTA, EEG, LLM grads, Brusselator, inflation, AdS/CFT, LQG, causal sets, neural filters, evolution). Every “PASS at 4.97e-5” is a 2025 notebook item unless a later packet promotes it. None has.
+    Modeled with surplus C, defect burden μ, and a repair field. The update parameter τ is ordered recoverability updates, not assumed to be physical time.
 
-  [Origin Law / Phase-N (2025)](wiki/origin-law.md)
-* Η
+    [Recoverability geometry](wiki/recoverability.md)
 
-  ## η\_convert
+*   <span id="recoverability-framework"></span>
 
-  Restricted
+    ## Recoverability framework
 
-  02 Pruning-order history
+    RestrictedFrozen
 
-  Convertibility of repair channels into usable recoverability reserve.
+    02 Pruning-order history
 
-  15 May 2026 V535 freeze: η\_convert = (Σ w\_i)/(Σ w\_i/η\_i) × exp[−C\_repair\_min], with a five-channel basis (conductance, lineage, topology redundancy, repair convertibility, defect containment). Operational/theorem-shaped. Uniqueness proof not complete. Not GR.
+    17 May freeze: perturbation → response → restored future trajectory space. Lyapunov of V[Ω,C,μ] named, not closed.
 
-  [May 2026 ladder](wiki/may-2026-ladder.md)
-* Χ
+    After V555’s synthetic adversarial harness, the invariant was restated as persistence of that mapping rather than stress magnitude. Next named object: freeze V[Ω, C, μ] and prove Lyapunov descent under controlled attacks. Restricted synthesis. Not GR. Heat-kernel week, V498–V555, and V760 stay Restricted and are not promoted.
 
-  ## χ (chi)
+    [Recoverability framework](wiki/recoverability-framework.md)
 
-  OpenFrozen
+*   <span id="recursive-survival"></span>
 
-  09 Package 17 / gravity
+    ## Recursive survival law
 
-  Mixing weight in the affine bridge Ψ = χ G\_t + (1−χ) R\_t.
+    Restricted
 
-  Package 17’s job is to derive χ as a fixed point instead of leaving it phenomenological. Still open.
+    03 Admissible slice
 
-  [Package 17 — derivation program](wiki/package-17.md)
-* Ω
+    S\_t = M\_t × R\_t × L\_t. Immediate recovery is not delayed-collapse insurance.
 
-  ## Ω\_ρ
+    13 May 2026: V395 compressed A\_t = M\_t × R\_t; V421 added lineage addressability and blinded generalization. Greedy still wins short-term bad rate; retained law minimizes lineage destruction. Control-law candidate. Not GR.
 
-  RestrictedLiteratureFrozen
+    [Restricted bridge theorems](wiki/restricted-bridge.md)
 
-  00 Astra
+*   <span id="atlas"></span>
 
-  Kirillov–Kostant–Souriau form Ω\_ρ(A,B)=−i Tr(ρ[A,B]). Not the conformal factor Ω.
+    ## Retained atlas
 
-  The symplectic structure on the space of qubit densities in the v12.41 packet. Distinct from frozen Ω in g\_eff = Ω² g0 (V505/V760 toys).
+    Supported
 
-  [v12.41 moment-map closure](wiki/v1241-closure.md)
+    08 Atlas / scalar
+
+    Local charts that stitch globally under both cocycles and provenance gates.
+
+    V1698’s Pillar 1. Inverse, triple-overlap, and holonomy closure plus source/support/order admissibility. Not a manifold postulate.
+
+    [Retained atlas closure (V1698)](wiki/retained-atlas.md)
+
+*   <span id="branch-identity"></span>
+
+    ## Retained branch identity
+
+    Restricted
+
+    02 Pruning-order history
+
+    Lineage address map that recovers causal geometry after raw-state wipe.
+
+    10 May 2026 audit: after 80–90% raw-state damage, preserved lineage addressability recovers observer-compatible causal geometry (corr 0.0 → ~0.32); address erasure collapses it. Hysteresis ~0.10. Python at Tmp/TOE root. Not a GR derivation.
+
+    [May 2026 ladder](wiki/may-2026-ladder.md)
+
+*   <span id="rydberg"></span>
+
+    ## Rydberg
+
+    Not claimed
+
+    Historical / not claimed
+
+    14 Mar 2025 Semeghini Dataverse quench. Not a 2026 qubit result.
+
+    Harvard Dataverse BDCTRX (Semeghini 2021) quoted as τ\_coherence = 85.0063 µs, S\_eff = 23.0243 k\_B, F(k) ≈ 0.00578. Chart + Python. Later restated in the October Hofstadter week. 2025 quantum-stability voice. Not claimed.
+
+    [Quantum information](wiki/quantum.md)
+
+*   <span id="science-contract"></span>
+
+    <span id="letter-S"></span>S
+
+    ## Science contract
+
+    Method
+
+    findings.json: claims with machine-testable constraints.
+
+    WetLabEngine primitive (SCHEMA 2.2 / 3.3). UnifiedAuditEngine v5.7 confirms or refutes each constraint against raw CSVs. This atlas ships a Gemini-free reconstruction (wetlab\_deterministic\_audit.py) that reproduced Labs/MECP2 15/1/3 including Run 5 DEVIATION. Same spirit as TOE package READMEs that lead with claim boundaries. Tooling, not a folding result.
+
+    [WetLabEngine protein audit](wiki/protein-audit.md)
+
+*   <span id="source-q"></span>
+
+    ## Source generator Q\_i
+
+    OpenFrozen
+
+    02 Pruning-order history
+
+    A common generator that would align every incident edge’s leading source line before geometry exists.
+
+    23 Jul 2026 gate: does global quantum provenance canonically generate Q\_i? In-thread review: not from admissibility + BKM reciprocity alone. Gravity not claimed.
+
+    [Recoverability geometry](wiki/recoverability.md)
+
+*   <span id="spine"></span>
+
+    ## Spine
+
+    Not claimedProgram law
+
+    Orientation
+
+    Start here → It from bit → Live gates → Supported four → Falsification. Machine: /llms.txt.
+
+    One ingest path for models and humans. Live gates = STATUS.md only. Research ladder is off-main Git, not STATUS. September X-week reel and June causal stack are satellites. Do not glue stacks.
+
+    [Start here](wiki/start-here.md)
+
+*   <span id="t-star"></span>
+
+    <span id="letter-T"></span>T
+
+    ## t\*
+
+    RestrictedFrozen
+
+    00 Astra
+
+    Finite-model phase marker t\* = 13/33. Restricted Astra identity. Not physical time.
+
+    Posted 5 Sep 2026 with the F-bound. Locked on the freeze-notation table. Do not reuse t\* for a cosmological time or an Origin Law threshold.
+
+    [Astra (pre–Genesis Pin)](wiki/astra.md)
+
+*   <span id="great-grok-challenge"></span>
+
+    ## The Great Grok Challenge
+
+    Restricted
+
+    09 Package 17 / gravity
+
+    Public frozen-scaffold validation series between @aaronspradlin and @grok.
+
+    SPARC holdouts, WALLABY transfer, then cluster/lensing “skeptic” rounds. Grok logs win conditions in-thread. Empirical ladder, not a derived cosmology — Package 17 is the derivation sequel.
+
+    [The Great Grok Challenge](wiki/great-grok-challenge.md)
+
+*   <span id="toi"></span>
+
+    ## ToI
+
+    Not claimed
+
+    Historical / not claimed
+
+    Theory of Integration — Nov–Dec 2024 density-matrix seed later restated as UQCF-GEM. Not claimed.
+
+    Posted 18 Dec 2024: entropy operator, non-Markovian memory, Lindblad terms. Pre-UQCF-GEM name for the same first-principles program. Historical on-ramp only. Equations live on the ToI / TOE article. The 2026 ledger does not treat ToI as a supported theorem.
+
+    [ToI / TOE (2024–25)](wiki/toi-toe-2025.md)
+
+*   <span id="tsp-backbone"></span>
+
+    ## TSP coherence backbone
+
+    Restricted
+
+    Applied
+
+    Fractal TSP transfer: smoother information-bearing tour, not a shorter one.
+
+    11 Apr 2026, 100-point 3D cloud. Nearest neighbor length 1984.6 / coherence 0.2267; UQCF-GEM best-of-20 length 2492.7 / coherence 0.5251. Different objective, not a championship TSP solver. 10k-city vs nearest-neighbor is origin-story, not a published residual.
+
+    [TSP coherence backbone](wiki/tsp-backbone.md)
+
+*   <span id="uqcf-gem"></span>
+
+    <span id="letter-U"></span>U
+
+    ## UQCF-GEM
+
+    Open
+
+    08 Atlas / scalar
+
+    The recoverability-response framework and its gravity-emergence bridge program.
+
+    Treats BKM maps, retained recombination, associators, and discrete atlas closure as prior to entropy and geometry. GEM is the still-open bridge toward Einstein-like limits.
+
+    [UQCF-GEM](wiki/uqcf-gem.md)
+
+*   <span id="uqcf-gem-reader"></span>
+
+    ## UQCF-GEM reader
+
+    RestrictedProgram law
+
+    Orientation
+
+    Plain-language map of the finite labs. Not a harness dump.
+
+    Hiding result, v9.190 reconstruction, g★ discriminator, v12.41 constraint algebra, Codazzi separation. Gravity connection remains open.
+
+    [UQCF-GEM reader](wiki/uqcf-gem-reader.md)
+
+*   <span id="v1241"></span>
+
+    <span id="letter-V"></span>V
+
+    ## v12.41
+
+    RestrictedFrozen
+
+    00 Astra
+
+    Qubit moment-map closure: \{C\_A,C\_B\}=C\_\{−i[A,B]\}, Δ\_closure=0 on 121 relational transforms. Restricted. Not gravity.
+
+    Posted 10 Sep 2026 with GitHub packet UQCF\_GEM\_v12\_41\_PUBLIC\_SIMULATION\_COMPLETE. Chain: quantum relations → KKS form Ω\_ρ → generators C\_A → closed constraint algebra. Exact residual 0; broken generator law max 0.297. λ is an ordered sweep, not time. Gravity’s constraints not identified.
+
+    [v12.41 moment-map closure](wiki/v1241-closure.md)
+
+*   <span id="validation-week"></span>
+
+    ## validation week
+
+    29 Jan–13 Feb 2025 ICL / Bullet / ξ(r) on-ramp. Not claimed.
+
+    First-validation thread, ICL M\_ICL(z)=0.12(1+z)^\{-1.48\}e^\{-0.65z\}, mass-scaling chart, Bullet 201.55 kpc four-cluster table, ξ(r) vs KiDS χ² 7.42 vs ΛCDM 11.85. 2025 voice. Challenge 15 is a later 2026 Bullet test.
+
+    [Validation week (Jan–Feb 2025)](wiki/validation-week-2025.md)
+
+*   <span id="villin"></span>
+
+    ## Villin HP35 R\_t
+
+    Restricted
+
+    Applied
+
+    Controlled protein cases: identical visible conformation, different folding fates from hidden retained history.
+
+    14 Apr 2026. Grok: AUC G\_t+R\_t ≈ 0.9569 vs G\_t alone; matched-state divergence ~49%. Author tagged it speculative. Restricted empirical, not a folding oracle.
+
+    [WetLabEngine protein audit](wiki/protein-audit.md)
+
+*   <span id="x-notebook"></span>
+
+    <span id="letter-X"></span>X
+
+    ## X science notebook
+
+    Method
+
+    Denser 2026 thread coverage of @aaronspradlin science posts, with a 2025 not-claimed shelf.
+
+    Spine field notes carry the argument — including replies that carry equations. The notebook carries WALLABY 12A–D, Challenge 13, A\_G, focusing/MTP₂, Q\_i, geometry-exhaust, today’s F-bound, and the 5 May overclaim marked corrected. It is not live ingest. Load-bearing @grok replies on science threads are now first-class and listed on the X notebook Grok-replies table.
+
+    [X science notebook](wiki/x-notebook.md)
+
+*   <span id="delta-closure"></span>
+
+    <span id="letter-Δ"></span>Δ
+
+    ## Δ\_closure
+
+    RestrictedFrozen
+
+    00 Astra
+
+    Residual of the generator law. Exact branch 0; broken control max 0.297 on the posted seed.
+
+    Broken control replaces 2 C\_z with 1.25 C\_z + 0.15 C\_x. Independent reconstruction in this compile matched the posted log.
+
+    [v12.41 moment-map closure](wiki/v1241-closure.md)
+
+*   <span id="epsilon-star"></span>
+
+    <span id="letter-Ε"></span>Ε
+
+    ## ε\*
+
+    Not claimedFrozen
+
+    Historical / not claimed
+
+    2025 claimed irreversibility / learning-onset threshold ≈ 4.97×10⁻⁵. Not a 2026 supported constant.
+
+    October 2025 Origin Law freeze: ε\* ≈ (k\_B T / ħ) e^\{−ΔS/k\_B\} / √N, operationally the first δ that jointly passes TRw ≥ 0.05, |ΔPE|\_norm ≥ 0.04, p\_emp < 0.01, prod\_frac > 0.9. Swept through Phase-N kits (qubits, CMB/PTA, EEG, LLM grads, Brusselator, inflation, AdS/CFT, LQG, causal sets, neural filters, evolution). Every “PASS at 4.97e-5” is a 2025 notebook item unless a later packet promotes it. None has.
+
+    [Origin Law / Phase-N (2025)](wiki/origin-law.md)
+
+*   <span id="eta-convert"></span>
+
+    <span id="letter-Η"></span>Η
+
+    ## η\_convert
+
+    Restricted
+
+    02 Pruning-order history
+
+    Convertibility of repair channels into usable recoverability reserve.
+
+    15 May 2026 V535 freeze: η\_convert = (Σ w\_i)/(Σ w\_i/η\_i) × exp[−C\_repair\_min], with a five-channel basis (conductance, lineage, topology redundancy, repair convertibility, defect containment). Operational/theorem-shaped. Uniqueness proof not complete. Not GR.
+
+    [May 2026 ladder](wiki/may-2026-ladder.md)
+
+*   <span id="chi"></span>
+
+    <span id="letter-Χ"></span>Χ
+
+    ## χ (chi)
+
+    OpenFrozen
+
+    09 Package 17 / gravity
+
+    Mixing weight in the affine bridge Ψ = χ G\_t + (1−χ) R\_t.
+
+    Package 17’s job is to derive χ as a fixed point instead of leaving it phenomenological. Still open.
+
+    [Package 17 — derivation program](wiki/package-17.md)
+
+*   <span id="kks"></span>
+
+    <span id="letter-Ω"></span>Ω
+
+    ## Ω\_ρ
+
+    RestrictedLiteratureFrozen
+
+    00 Astra
+
+    Kirillov–Kostant–Souriau form Ω\_ρ(A,B)=−i Tr(ρ[A,B]). Not the conformal factor Ω.
+
+    The symplectic structure on the space of qubit densities in the v12.41 packet. Distinct from frozen Ω in g\_eff = Ω² g0 (V505/V760 toys).
+
+    [v12.41 moment-map closure](wiki/v1241-closure.md)

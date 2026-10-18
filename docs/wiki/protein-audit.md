@@ -2,64 +2,46 @@
 title: "WetLabEngine protein audit"
 route: "/wiki/protein-audit"
 source: "https://aaronspradlin.grok.me/wiki/protein-audit"
+description: "White-box science contract at the GitHub root. Engine is a Supported tool. Custom protein-mechanism program CLOSED 19 Sep 2026 on current evidence. Folding results stay Restricted/Corrected."
 date: "2026-09-19"
 claimStatus: "restricted"
 tags: ["protein", "audit", "biophysics", "Villin", "WetLabEngine"]
 dek: "White-box science contract at the GitHub root. Engine is a Supported tool. Custom protein-mechanism program CLOSED 19 Sep 2026 on current evidence. Folding results stay Restricted/Corrected."
 ---
 
-[Wiki](https://aaronspradlin.grok.me/wiki)
+[Wiki](index.md)
 
 # WetLabEngine protein audit
 
 White-box science contract at the GitHub root. Engine is a Supported tool. Custom protein-mechanism program CLOSED 19 Sep 2026 on current evidence. Folding results stay Restricted/Corrected.
 
-AppliedAppliedRestricted2026-09-19compiled 2026-10-107 min read3 claims[6 X sources](#x-sources)
+Applied · Applied · Restricted · 2026-09-19 · compiled 2026-10-10 · 7 min read · 3 claims · [6 X sources](#x-sources)
 
-[Original on X](https://x.com/aaronspradlin/status/2044155484039705016)[Package: WetLabEngine (root)](https://aaronspradlin.grok.me/packages/wetlab-root)[JSON](../data/page.json)[Cite](../data/cite.txt)
+[Original on X](https://x.com/aaronspradlin/status/2044155484039705016) · [Package: WetLabEngine (root)](../packages/wetlab-root.md) · [JSON](../data/page/protein-audit.json) · [Cite](../cite.txt)
 
-proteinauditbiophysicsVillinWetLabEngine
+protein · audit · biophysics · Villin · WetLabEngine
 
 On this page
 
-* [Repository map](#repository-map)
-* [The engine](#the-engine)
-* [Run this first](#run-this-first)
-* [Villin HP35 — the X result](#villin-hp35-the-x-result)
-* [X ledger versus GitHub-only labs](#x-ledger-versus-github-only-labs)
-* [Same pattern, other domains](#same-pattern-other-domains)
+*   [Repository map](#repository-map)
+*   [The engine](#the-engine)
+*   [Run this first](#run-this-first)
+*   [Villin HP35 — the X result](#villin-hp35-the-x-result)
+*   [X ledger versus GitHub-only labs](#x-ledger-versus-github-only-labs)
+*   [Same pattern, other domains](#same-pattern-other-domains)
+
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 19 Sep 2026 — program CLOSED on current evidence
 
@@ -71,8 +53,7 @@ Do not mix the tool with the science
 
 The engine can confirm or refute a numeric constraint in findings.json. That is a Supported tooling claim. [p53](p53-campaign.md), [MECP2](mecp2-rett.md), Villin HP35, and frozen [v9](protein-bridge-v9.md) on [1UAO](protein-bridge-v9.md)/[1L2Y](protein-bridge-v9.md) are Restricted in-silico results. None of them is a folding oracle, a cancer or [Rett](mecp2-rett.md) therapy, AlphaFold refuted, or a TOE confirmation.
 
-## Repository map[#](#repository-map)
-
+## Repository map {#repository-map}
 | Path | What it is | Wiki | Badge |
 | --- | --- | --- | --- |
 | / | UnifiedAuditEngine.py v5.7, SCHEMA.md (findings.json 2.2), ManuscriptBuilder.py, Colab notebook | protein-audit | supported (tool) |
@@ -85,15 +66,14 @@ The engine can confirm or refute a numeric constraint in findings.json. That is 
 
 Start at the root README. Labs/ PNG and PDB files are Git LFS; markdown reports, CSVs, and findings.json are in the ordinary tree. Tmp/TOE is a separate program that happens to live in the same repo.
 
-## The engine[#](#the-engine)
-
+## The engine {#the-engine}
 WetLabEngine is an open-source audit engine for protein simulation campaigns. A JSON manifest (findings.json) defines experiments, human-readable claims, and machine-testable constraints (for example best\_final\_RMSD\_A ≤ 20.0). UnifiedAuditEngine.py (v5.7 in the current tree) checks those constraints against CSVs, PDBs, and images, then optionally sends artifacts to Gemini for qualitative review. Output is Biophysics\_Final\_Report.md plus machine-readable JSON. ManuscriptBuilder.py writes the prose body; the appendix is assembled deterministically from the verification report so the AI cannot rewrite the verdict table.
 
-* Science contract: SCHEMA.md, findings.json v2.2 ([p53](p53-campaign.md)) / v3.3 ([MECP2](mecp2-rett.md)). Every metric in a constraint must be declared in metrics\_vocabulary.
-* Deterministic verdicts: CONFIRMED, DEVIATION, INDETERMINATE. Tail-median RMSD from diagnostics\_timeseries.csv is the preferred single source of truth.
-* AI peer review is qualitative and does not override the numeric verdict. Claim-integrity and cross-artifact triage are logged beside it.
-* Thesis block: count\_runs\_meeting aggregation across the campaign. The engine can fail a thesis even if individual runs pass.
-* License on the repo: CC BY-NC-SA 4.0, plus Spradlin’s later commercial-use restriction on the public research stream.
+*   Science contract: SCHEMA.md, findings.json v2.2 ([p53](p53-campaign.md)) / v3.3 ([MECP2](mecp2-rett.md)). Every metric in a constraint must be declared in metrics\_vocabulary.
+*   Deterministic verdicts: CONFIRMED, DEVIATION, INDETERMINATE. Tail-median RMSD from diagnostics\_timeseries.csv is the preferred single source of truth.
+*   AI peer review is qualitative and does not override the numeric verdict. Claim-integrity and cross-artifact triage are logged beside it.
+*   Thesis block: count\_runs\_meeting aggregation across the campaign. The engine can fail a thesis even if individual runs pass.
+*   License on the repo: CC BY-NC-SA 4.0, plus Spradlin’s later commercial-use restriction on the public research stream.
 
 Minimal findings.json constraint (SCHEMA 2.2)
 
@@ -113,24 +93,23 @@ Supported
 
 As a tool: claims written into findings.json can be numerically confirmed or refuted against the bound raw artifacts. That is the engine’s job. It is not a folding oracle and not a TOE.
 
-## Run this first[#](#run-this-first)
-
+## Run this first {#run-this-first}
 GitHub is the working copy. This page is the cheapest entry. Start with Labs/[MECP2](mecp2-rett.md), not Villin and not a new disease protein. The posted UnifiedAuditEngine.py is Colab-oriented: it hardcodes PROJECT\_NAME = [MECP2](mecp2-rett.md), clones ProteinFoldingEngine/Results-AI-Audit-Engine, looks for Projects/[MECP2](mecp2-rett.md)/findings.json, and exits if a Gemini key is missing. Do not expect python UnifiedAuditEngine.py to score Labs/[MECP2](mecp2-rett.md) as a local folder.
 
 Two entries, one contract
 
 Full engine (his README): Colab + API\_KEY.txt + Gemini qualitative review. Deterministic half (this atlas): a stdlib script that reads findings.json and tail-median RMSD from diagnostics\_timeseries.csv. PNG/PDB Git LFS files are not required. This compile ran the deterministic half on 7 Sep 2026. Gemini peer review was not rerun.
 
-1. Clone only Labs/[MECP2](mecp2-rett.md). Skip git lfs pull — CSVs and findings.json are ordinary files.
-2. Download wetlab\_deterministic\_audit.py from this page (Open source). It is a pedagogical reconstruction of verdict\_from\_constraint, not a dump of UnifiedAuditEngine.py.
-3. python3 wetlab\_deterministic\_audit.py Labs/[MECP2](mecp2-rett.md)
-4. Green: CONFIRMED 15, DEVIATION 1, INDETERMINATE 3, and smoke PASS on Run 5.
-5. Optional: python3 wetlab\_deterministic\_audit.py Labs/[p53](p53-campaign.md) --no-smoke. Expect Run 9 INDETERMINATE if the ContactAnneal folder is missing.
-6. To run his full engine, follow the repo README in Colab with a Gemini key. That path clones a different data repo.
+1.  Clone only Labs/[MECP2](mecp2-rett.md). Skip git lfs pull — CSVs and findings.json are ordinary files.
+2.  Download wetlab\_deterministic\_audit.py from this page (Open source). It is a pedagogical reconstruction of verdict\_from\_constraint, not a dump of UnifiedAuditEngine.py.
+3.  python3 wetlab\_deterministic\_audit.py Labs/[MECP2](mecp2-rett.md)
+4.  Green: CONFIRMED 15, DEVIATION 1, INDETERMINATE 3, and smoke PASS on Run 5.
+5.  Optional: python3 wetlab\_deterministic\_audit.py Labs/[p53](p53-campaign.md) --no-smoke. Expect Run 9 INDETERMINATE if the ContactAnneal folder is missing.
+6.  To run his full engine, follow the repo README in Colab with a Gemini key. That path clones a different data repo.
 
 Labs/MECP2 deterministic smoke
 
-[Open source](../data/artifacts/py/wetlab_deterministic_audit.py)
+[Open source](../artifacts/py/wetlab_deterministic_audit.py)
 
 ```
 git clone --depth 1 --filter=blob:none --sparse https://github.com/proteinfoldingengine/WetLabEngine.git
@@ -155,20 +134,19 @@ smoke PASS: Run 5 is DEVIATION (tail-median RMSD 3.06 Å vs contracted ≥ 20 Å
 
 Stdlib tail-median of diagnostics\_timeseries.csv versus findings.json constraints. [MECP2](mecp2-rett.md) matches the campaign abstract. [p53](p53-campaign.md) matches Table 1 in order (WT/[R248Q](p53-campaign.md) 26.71 vs 26.6 Å; native-start 3.82 vs 4.0 Å) except Run 9, which this tree cannot score.
 
-* Run 5 is the smoke test that the engine can fail a claim. If it comes back CONFIRMED, stop and inspect — do not drop the DEVIATION.
-* Thesis count\_runs\_meeting can pass while a run-level claim fails: Run 5’s 3.06 Å still counts toward RMSD ≤ 4.5.
-* dataset\_root in findings.json is a Colab path (/content/Results-AI-Audit-Engine/Projects/[MECP2](mecp2-rett.md)). The smoke script ignores it and resolves source\_folder under the campaign directory you cloned.
-* Live /labs is a [recoverability](recoverability.md) toy. It is not this auditor.
+*   Run 5 is the smoke test that the engine can fail a claim. If it comes back CONFIRMED, stop and inspect — do not drop the DEVIATION.
+*   Thesis count\_runs\_meeting can pass while a run-level claim fails: Run 5’s 3.06 Å still counts toward RMSD ≤ 4.5.
+*   dataset\_root in findings.json is a Colab path (/content/Results-AI-Audit-Engine/Projects/[MECP2](mecp2-rett.md)). The smoke script ignores it and resolves source\_folder under the campaign directory you cloned.
+*   Live /labs is a [recoverability](recoverability.md) toy. It is not this auditor.
 
 Supported
 
 This compile independently scored Labs/[MECP2](mecp2-rett.md)/findings.json against the bound diagnostics CSVs: 15 CONFIRMED, 1 DEVIATION (Run 5, 3.06 Å vs ≥ 20 Å), 3 INDETERMINATE. Thesis count\_runs\_meeting passed (16 ≥ 3). That is a tooling reproduction. It is not a Gemini rerun, not a [Rett](mecp2-rett.md) therapy, and not native folding.
 
-## Villin HP35 — the X result[#](#villin-hp35-the-x-result)
-
+## Villin HP35 — the X result {#villin-hp35-the-x-result}
 On 14 Apr 2026 Aaron asked Grok to peer-review a Villin HP35 claim from the WetLabEngine pipeline. The posted numbers: two chains with identical visible conformation can still have different folding fates because of hidden retained history [R\_t](uqcf-gem.md). G\_t-only models miss it. Grok’s in-thread review treated the pipeline as working on controlled/sample cases. A 26 Apr follow-up used stronger AlphaFold language; this atlas keeps the 14 Apr speculative tag as the governing voice.
 
-AUC(Gt​+Rt​)≈0.9569vsGt​ alone
+<div class="ra-math"><span class="katex-display"><span class="katex"><span aria-hidden="true" class="katex-html"><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord"><span class="mord mathrm">AUC</span></span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal">G</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.2806em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.0077em;">R</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.2806em;"><span style="top:-2.55em;margin-left:-0.0077em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≈</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.8444em;vertical-align:-0.15em;"></span><span class="mord">0.9569</span><span class="mspace" style="margin-right:1em;"></span><span class="mord text"><span class="mord">vs</span></span><span class="mspace" style="margin-right:1em;"></span><span class="mord"><span class="mord mathnormal">G</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.2806em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">alone</span></span></span></span></span></span></div>
 
 > The ROC lift (AUC G\_t + [R\_t](uqcf-gem.md) ≈ 0.9569 vs G\_t alone) shows real predictive signal from [R\_t](uqcf-gem.md). The matched-state divergence (50.2 % far-[R\_t](uqcf-gem.md) vs 1.3 % close-[R\_t](uqcf-gem.md), +48.9 % spread) directly falsifies pure visible-state completeness.
 >
@@ -184,8 +162,7 @@ On the posted Villin HP35 controlled cases, adding retained state [R\_t](uqcf-ge
 
 [Source on X](https://x.com/aaronspradlin/status/2044155484039705016)
 
-## X ledger versus GitHub-only labs[#](#x-ledger-versus-github-only-labs)
-
+## X ledger versus GitHub-only labs {#x-ledger-versus-github-only-labs}
 | Date | Object | Where it lives | What to cite |
 | --- | --- | --- | --- |
 | 22–23 Aug 2025 | [p53](p53-campaign.md) DBD campaign (12 runs) | GitHub Labs/[p53](p53-campaign.md) — no load-bearing X field note in this compile | [p53](p53-campaign.md)-campaign + findings.json |
@@ -198,155 +175,146 @@ On the posted Villin HP35 controlled cases, adding retained state [R\_t](uqcf-ge
 
 X is the archive of record for posted results. GitHub Labs/ campaigns that never became field notes are still part of the working tree and must be indexed honestly, not promoted to X-posted science.
 
-## Same pattern, other domains[#](#same-pattern-other-domains)
-
+## Same pattern, other domains {#same-pattern-other-domains}
 The 1 May 2026 critical-path post treats protein folding, [fractal TSP](tsp-backbone.md), SPARC holdouts, and live project plans as rhyming [recoverability](recoverability.md) problems: preserve what remained coherent, deform what is stressed, reset only what went stale. Recurrence is not a unification proof. The 10 May question — what unifies proteins, [RCLC](hubble-tension.md), [critical path](critical-path.md), and [TSP](tsp-backbone.md) — is still open. The [C3++](c3-governor.md) governor is the LLM-side instrument of the same idea. The [applied recoverability stack](applied-stack.md) is the hub for those three Python labs.
 
-* [p53 campaign (Labs/p53)](p53-campaign.md)
-* [MECP2 Rett campaign (Labs/MECP2)](mecp2-rett.md)
-* [Frozen v9 on 1UAO / 1L2Y](protein-bridge-v9.md)
-* [Live protein lab](../labs.md)
-* [Applied recoverability stack](applied-stack.md)
-* [Deterministic auditor (this atlas)](../data/artifacts/py/wetlab_deterministic_audit.py)
-* [UnifiedAuditEngine.py v5.7](https://github.com/proteinfoldingengine/WetLabEngine/blob/main/UnifiedAuditEngine.py)
-* [SCHEMA.md](https://github.com/proteinfoldingengine/WetLabEngine/blob/main/SCHEMA.md)
-* [WetLabEngine on GitHub](https://github.com/proteinfoldingengine/WetLabEngine)
-* [Labs/p53](https://github.com/proteinfoldingengine/WetLabEngine/tree/main/Labs/p53)
-* [Labs/MECP2](https://github.com/proteinfoldingengine/WetLabEngine/tree/main/Labs/MECP2)
+*   [p53 campaign (Labs/p53)](p53-campaign.md)
+*   [MECP2 Rett campaign (Labs/MECP2)](mecp2-rett.md)
+*   [Frozen v9 on 1UAO / 1L2Y](protein-bridge-v9.md)
+*   [Live protein lab](../labs.md)
+*   [Applied recoverability stack](applied-stack.md)
+*   [Deterministic auditor (this atlas)](../artifacts/py/wetlab_deterministic_audit.py)
+*   [UnifiedAuditEngine.py v5.7](https://github.com/proteinfoldingengine/WetLabEngine/blob/main/UnifiedAuditEngine.py)
+*   [SCHEMA.md](https://github.com/proteinfoldingengine/WetLabEngine/blob/main/SCHEMA.md)
+*   [WetLabEngine on GitHub](https://github.com/proteinfoldingengine/WetLabEngine)
+*   [Labs/p53](https://github.com/proteinfoldingengine/WetLabEngine/tree/main/Labs/p53)
+*   [Labs/MECP2](https://github.com/proteinfoldingengine/WetLabEngine/tree/main/Labs/MECP2)
+
+<span id="x-sources"></span>
 
 ## X sources
 
 Original posts this article was compiled from. The notebook copy is editorial; the status URL is the source.
 
-* 2026-09-19
+*   2026-09-19
 
-  Protein-mechanism program CLOSED on current evidence
+    Protein-mechanism program CLOSED on current evidence
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#protein-closeout-2026-09-19)[Open original post](https://x.com/aaronspradlin/status/2101337128169034035)
-* 2026-04-12
+    [In the notebook](../notes.md#protein-closeout-2026-09-19) · [Open original post](https://x.com/aaronspradlin/status/2101337128169034035)
 
-  Frozen v9 protein bridge on 1UAO / 1L2Y
+*   2026-04-12
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#bridge-v9-2026-04-12)[Open original post](https://x.com/aaronspradlin/status/2043198645147967753)
-* 2026-04-14
+    Frozen v9 protein bridge on 1UAO / 1L2Y
 
-  Villin HP35: identical snapshot, different fate
+    [In the notebook](../notes.md#bridge-v9-2026-04-12) · [Open original post](https://x.com/aaronspradlin/status/2043198645147967753)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#villin-2026-04-14)[Open original post](https://x.com/aaronspradlin/status/2044155484039705016)
-* 2026-05-01
+*   2026-04-14
 
-  Retained coherence in live critical path
+    Villin HP35: identical snapshot, different fate
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#critical-path-2026-05-01)[Open original post](https://x.com/aaronspradlin/status/2050029681517433047)
-* 2026-03-25
+    [In the notebook](../notes.md#villin-2026-04-14) · [Open original post](https://x.com/aaronspradlin/status/2044155484039705016)
 
-  C3++ Stability Governor on Qwen3-4B
+*   2026-05-01
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#c3-2026-03-25)[Open original post](https://x.com/aaronspradlin/status/2036659106350792814)
-* 2026-05-10
+    Retained coherence in live critical path
 
-  What unifies proteins, RCLC, critical path, TSP
+    [In the notebook](../notes.md#critical-path-2026-05-01) · [Open original post](https://x.com/aaronspradlin/status/2050029681517433047)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#unify-domains-2026-05-10)[Open original post](https://x.com/aaronspradlin/status/2053553647712338040)
+*   2026-03-25
 
-[PreviousProtein program closeout](protein-closeout.md)[NextMECP2 Rett MBD–DNA campaign](mecp2-rett.md)
+    C3++ Stability Governor on Qwen3-4B
+
+    [In the notebook](../notes.md#c3-2026-03-25) · [Open original post](https://x.com/aaronspradlin/status/2036659106350792814)
+
+*   2026-05-10
+
+    What unifies proteins, RCLC, critical path, TSP
+
+    [In the notebook](../notes.md#unify-domains-2026-05-10) · [Open original post](https://x.com/aaronspradlin/status/2053553647712338040)
+
+[Previous Protein program closeout](protein-closeout.md)[Next MECP2 Rett MBD–DNA campaign](mecp2-rett.md)
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 On this page
 
-* [Repository map](#repository-map)
-* [The engine](#the-engine)
-* [Run this first](#run-this-first)
-* [Villin HP35 — the X result](#villin-hp35-the-x-result)
-* [X ledger versus GitHub-only labs](#x-ledger-versus-github-only-labs)
-* [Same pattern, other domains](#same-pattern-other-domains)
+*   [Repository map](#repository-map)
+*   [The engine](#the-engine)
+*   [Run this first](#run-this-first)
+*   [Villin HP35 — the X result](#villin-hp35-the-x-result)
+*   [X ledger versus GitHub-only labs](#x-ledger-versus-github-only-labs)
+*   [Same pattern, other domains](#same-pattern-other-domains)
 
 [X sources](#x-sources)
 
 Related articles
 
-* [The research program](program.md)
-* [For researchers and models](for-researchers.md)
-* [Recoverability geometry](recoverability.md)
-* [Applied recoverability stack](applied-stack.md)
-* [TSP coherence backbone](tsp-backbone.md)
-* [New Critical Path](critical-path.md)
-* [C3++ Stability Governor](c3-governor.md)
-* [p53 mutational mechanisms](p53-campaign.md)
-* [MECP2 Rett MBD–DNA campaign](mecp2-rett.md)
-* [Frozen v9 protein bridge (1UAO / 1L2Y)](protein-bridge-v9.md)
-* [X science notebook](x-notebook.md)
-* [Open science method](open-science.md)
-* [Protein program closeout](protein-closeout.md)
+*   [The research program](program.md)
+*   [For researchers and models](for-researchers.md)
+*   [Recoverability geometry](recoverability.md)
+*   [Applied recoverability stack](applied-stack.md)
+*   [TSP coherence backbone](tsp-backbone.md)
+*   [New Critical Path](critical-path.md)
+*   [C3++ Stability Governor](c3-governor.md)
+*   [p53 mutational mechanisms](p53-campaign.md)
+*   [MECP2 Rett MBD–DNA campaign](mecp2-rett.md)
+*   [Frozen v9 protein bridge (1UAO / 1L2Y)](protein-bridge-v9.md)
+*   [X science notebook](x-notebook.md)
+*   [Open science method](open-science.md)
+*   [Protein program closeout](protein-closeout.md)
 
 GitHub packages
 
-* [WetLabEngine (root)](https://aaronspradlin.grok.me/packages/wetlab-root)
-* [Labs/p53](https://aaronspradlin.grok.me/packages/labs-p53)
-* [Labs/MECP2](https://aaronspradlin.grok.me/packages/labs-mecp2)
-* [uqcf\_bridge\_v9\_update\_bundle](https://aaronspradlin.grok.me/packages/uqcf-bridge-v9-update-bundle)
+*   [WetLabEngine (root)](../packages/wetlab-root.md)
+*   [Labs/p53](../packages/labs-p53.md)
+*   [Labs/MECP2](../packages/labs-mecp2.md)
+*   [uqcf\_bridge\_v9\_update\_bundle](../packages/uqcf-bridge-v9-update-bundle.md)
 
 Field notes
 
-* [Protein-mechanism program CLOSED on current evidence](https://aaronspradlin.grok.me/notes#protein-closeout-2026-09-19)
+*   [Protein-mechanism program CLOSED on current evidence](../notes.md#protein-closeout-2026-09-19)
 
-  2026-09-19
+    2026-09-19
 
-  [On X](https://x.com/aaronspradlin/status/2101337128169034035)
-* [Frozen v9 protein bridge on 1UAO / 1L2Y](https://aaronspradlin.grok.me/notes#bridge-v9-2026-04-12)
+    [On X](https://x.com/aaronspradlin/status/2101337128169034035)
 
-  2026-04-12
+*   [Frozen v9 protein bridge on 1UAO / 1L2Y](../notes.md#bridge-v9-2026-04-12)
 
-  [On X](https://x.com/aaronspradlin/status/2043198645147967753)
-* [Villin HP35: identical snapshot, different fate](https://aaronspradlin.grok.me/notes#villin-2026-04-14)
+    2026-04-12
 
-  2026-04-14
+    [On X](https://x.com/aaronspradlin/status/2043198645147967753)
 
-  [On X](https://x.com/aaronspradlin/status/2044155484039705016)
-* [Retained coherence in live critical path](https://aaronspradlin.grok.me/notes#critical-path-2026-05-01)
+*   [Villin HP35: identical snapshot, different fate](../notes.md#villin-2026-04-14)
 
-  2026-05-01
+    2026-04-14
 
-  [On X](https://x.com/aaronspradlin/status/2050029681517433047)
-* [C3++ Stability Governor on Qwen3-4B](https://aaronspradlin.grok.me/notes#c3-2026-03-25)
+    [On X](https://x.com/aaronspradlin/status/2044155484039705016)
 
-  2026-03-25
+*   [Retained coherence in live critical path](../notes.md#critical-path-2026-05-01)
 
-  [On X](https://x.com/aaronspradlin/status/2036659106350792814)
-* [What unifies proteins, RCLC, critical path, TSP](https://aaronspradlin.grok.me/notes#unify-domains-2026-05-10)
+    2026-05-01
 
-  2026-05-10
+    [On X](https://x.com/aaronspradlin/status/2050029681517433047)
 
-  [On X](https://x.com/aaronspradlin/status/2053553647712338040)
+*   [C3++ Stability Governor on Qwen3-4B](../notes.md#c3-2026-03-25)
+
+    2026-03-25
+
+    [On X](https://x.com/aaronspradlin/status/2036659106350792814)
+
+*   [What unifies proteins, RCLC, critical path, TSP](../notes.md#unify-domains-2026-05-10)
+
+    2026-05-10
+
+    [On X](https://x.com/aaronspradlin/status/2053553647712338040)

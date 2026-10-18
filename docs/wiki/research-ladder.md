@@ -2,13 +2,14 @@
 title: "Research ladder v15.12–v15.45 (main) / v15.46–v15.54 (#57)"
 route: "/wiki/research-ladder"
 source: "https://aaronspradlin.grok.me/wiki/research-ladder"
+description: "Three clocks. Main STATUS publishes v15.44/v15.45 and keeps the v15.03 obstruction. v15.98–v16.55 are research branches, not merged to main. The 10 Oct overlapping-guard tip is scoped C3, not a general no-go and not numbered v16. Not a source. Not Einstein."
 date: "2026-10-01"
 claimStatus: "restricted"
 tags: ["v15.45", "v15.54", "ladder"]
 dek: "Three clocks. Main STATUS publishes v15.44/v15.45 and keeps the v15.03 obstruction. v15.98–v16.55 are research branches, not merged to main. The 10 Oct overlapping-guard tip is scoped C3, not a general no-go and not numbered v16. Not a source. Not Einstein."
 ---
 
-[Wiki](https://aaronspradlin.grok.me/wiki)
+[Wiki](index.md)
 
 # Research ladder v15.12–v15.45 (main) / v15.46–v15.54 (#57)
 
@@ -35,44 +36,24 @@ GitHub-only gates have no invented X URL. Do not merge the X week with the Git l
 
 Three clocks. Main STATUS publishes v15.44/v15.45 and keeps the v15.03 obstruction. v15.98–v16.55 are research branches, not merged to main. The 10 Oct overlapping-guard tip is scoped C3, not a general no-go and not numbered v16. Not a source. Not Einstein.
 
-00 AstraMethodRestricted2026-10-01compiled 2026-10-104 min read
+00 Astra · Method · Restricted · 2026-10-01 · compiled 2026-10-10 · 4 min read
 
-[Package: ResearchHistory/UQCF-GEM (v13–v14)](https://aaronspradlin.grok.me/packages/uqcf-gem-v13)[JSON](../data/page.json)[Cite](../data/cite.txt)
+[Package: ResearchHistory/UQCF-GEM (v13–v14)](../packages/uqcf-gem-v13.md) · [JSON](../data/page/research-ladder.json) · [Cite](../cite.txt)
 
-v15.45v15.54ladder
+v15.45 · v15.54 · ladder
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 Three clocks — do not merge
 
@@ -109,7 +90,7 @@ Three clocks — do not merge
 | [v16.51](v1598-line.md) | one ternary root | PR #99, not main | Hitting number 2. Repeated ternary composition still open at this gate. |
 | [v16.52](v1598-line.md) | binary and ternary recursion | PR #100, not main | Total excursion at most 1. Not a component census. |
 | [v16.53](v1598-line.md) | arity 2, 3, or 4 | PR #101, not main | Arity 5 out. Counts are not the theorem. |
-| [v16.54](v1598-line.md) | floor-two connectivity | PR #102, not main | Hitting number stays in {q-1, q}. Higher floors OPEN. |
+| [v16.54](v1598-line.md) | floor-two connectivity | PR #102, not main | Hitting number stays in \{q-1, q\}. Higher floors OPEN. |
 | [v16.55](v1598-line.md) | bounded renewable guard | PR #103, not main | R1–R5 only. Not universal X15U. |
 | [A11.X59](v1598-line.md)–X61 | analytical checkpoints | overlapping-guard branch, not main | Not numbered v16. X60 is not arbitrary-root repair. X62–X64 are not closed. |
 | [A12.1](v1598-line.md)–A12.5 | self-contained closeout | issue #104, not main | Not numbered v16. Not physical validation. Graph-descriptor impossibility withdrawn as unproved. |
@@ -122,63 +103,43 @@ Behind [STATUS.md](https://github.com/proteinfoldingengine/WetLabEngine/blob/mai
 
 Retained records can support a curvature-like operator ([v15.45](v1545-factorization.md), main). Ordinary state perturbation cannot move the exterior world if [A\_G](recoverability.md) is frozen. The retained description O does not uniquely fix a deeper realization τ (v15.46–53, #57). v15.54 asks whether that gap survives a frozen classical comparator; independent verifier GREEN is necessary but not the final certificate. [v15.55](v1555-response-gate.md) ran on its research branch. RESULTS.json says [RESPONSE\_NONUNIQUE](v1555-response-gate.md): seven coefficients, branch-swap rank 3, composition and naturality add no further rank, four degrees of freedom survive. The next missing object is a first-principles selector or a richer defect structure. That is not a unique source. [v16.36](v1598-line.md) does not supply one. A unit barrier bound does not either, and it also does not prove that the retained structure cannot contribute.
 
-* [v15.45 factorization](v1545-factorization.md)
-* [v15.44 interpretation](v1544-curvature.md)
-* [v15.43](v1543-geometry.md)
-* [Obstruction line](obstruction-line.md)
-* [v15.78–v15.97 line](v1578-line.md)
-* [v15.77 active baseline](v1577-baseline.md)
-* [v15.76 two verdicts](v1576-cptp.md)
-* [v15.75 affine null](v1575-affine.md)
-* [v15.55 proposed](v1555-response-gate.md)
-* [Live gates (STATUS)](live-gates.md)
-* [PR #58 (merged)](https://github.com/proteinfoldingengine/WetLabEngine/pull/58)
-* [PR #57 (unmerged)](https://github.com/proteinfoldingengine/WetLabEngine/pull/57)
+*   [v15.45 factorization](v1545-factorization.md)
+*   [v15.44 interpretation](v1544-curvature.md)
+*   [v15.43](v1543-geometry.md)
+*   [Obstruction line](obstruction-line.md)
+*   [v15.78–v15.97 line](v1578-line.md)
+*   [v15.77 active baseline](v1577-baseline.md)
+*   [v15.76 two verdicts](v1576-cptp.md)
+*   [v15.75 affine null](v1575-affine.md)
+*   [v15.55 proposed](v1555-response-gate.md)
+*   [Live gates (STATUS)](live-gates.md)
+*   [PR #58 (merged)](https://github.com/proteinfoldingengine/WetLabEngine/pull/58)
+*   [PR #57 (unmerged)](https://github.com/proteinfoldingengine/WetLabEngine/pull/57)
 
-[PreviousLive gates](live-gates.md)[Nextv15.45 curvature factorization](v1545-factorization.md)
+[Previous Live gates](live-gates.md)[Next v15.45 curvature factorization](v1545-factorization.md)
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 Related articles
 
-* [Falsification and next step](falsification.md)
-* [Live gates](live-gates.md)
-* [v15.45 curvature factorization](v1545-factorization.md)
-* [v15.77 active baseline, two verdicts](v1577-baseline.md)
-* [v15.78–v15.97 research line](v1578-line.md)
-* [v15.98 through v16.55, then A12](v1598-line.md)
+*   [Falsification and next step](falsification.md)
+*   [Live gates](live-gates.md)
+*   [v15.45 curvature factorization](v1545-factorization.md)
+*   [v15.77 active baseline, two verdicts](v1577-baseline.md)
+*   [v15.78–v15.97 research line](v1578-line.md)
+*   [v15.98 through v16.55, then A12](v1598-line.md)
 
 GitHub packages
 
-* [ResearchHistory/UQCF-GEM (v13–v14)](https://aaronspradlin.grok.me/packages/uqcf-gem-v13)
+*   [ResearchHistory/UQCF-GEM (v13–v14)](../packages/uqcf-gem-v13.md)

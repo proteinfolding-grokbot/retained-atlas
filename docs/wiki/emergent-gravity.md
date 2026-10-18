@@ -2,61 +2,43 @@
 title: "Emergent gravity (candidate)"
 route: "/wiki/emergent-gravity"
 source: "https://aaronspradlin.grok.me/wiki/emergent-gravity"
+description: "Candidate identity: gravity as the price of one retained world. Einstein is accepted as the physics of the slice. This page is Open. It is not a Supported result. Skip as a theorem."
 date: "2026-09-13"
 claimStatus: "open"
 tags: ["gravity", "emergence", "compatibility"]
 dek: "Candidate identity: gravity as the price of one retained world. Einstein is accepted as the physics of the slice. This page is Open. It is not a Supported result. Skip as a theorem."
 ---
 
-[Wiki](https://aaronspradlin.grok.me/wiki)
+[Wiki](index.md)
 
 # Emergent gravity (candidate)
 
 Candidate identity: gravity as the price of one retained world. Einstein is accepted as the physics of the slice. This page is Open. It is not a Supported result. Skip as a theorem.
 
-09 Package 17 / gravityOpenOpen2026-09-13compiled 2026-10-105 min read6 claims[19 X sources](#x-sources)
+09 Package 17 / gravity · Open · Open · 2026-09-13 · compiled 2026-10-10 · 5 min read · 6 claims · [19 X sources](#x-sources)
 
-[Original on X](https://x.com/aaronspradlin/status/2095940445968949374)[Package: package17\_bundle](https://aaronspradlin.grok.me/packages/package17-bundle)[JSON](../data/page.json)[Cite](../data/cite.txt)
+[Original on X](https://x.com/aaronspradlin/status/2095940445968949374) · [Package: package17\_bundle](../packages/package17-bundle.md) · [JSON](../data/page/emergent-gravity.json) · [Cite](../cite.txt)
 
-gravityemergencecompatibility
+gravity · emergence · compatibility
 
 On this page
 
-* [A bound without a gravity law](#a-bound-without-a-gravity-law)
-* [A closed algebra is not yet gravity](#a-closed-algebra-is-not-yet-gravity)
-* [What the 11 Jun 2026 Grok handoff actually froze](#what-the-11-jun-2026-grok-handoff-actually-froze)
+*   [A bound without a gravity law](#a-bound-without-a-gravity-law)
+*   [A closed algebra is not yet gravity](#a-closed-algebra-is-not-yet-gravity)
+*   [What the 11 Jun 2026 Grok handoff actually froze](#what-the-11-jun-2026-grok-handoff-actually-froze)
+
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 Open candidate — skip as a theorem
 
@@ -76,8 +58,7 @@ Emergent-gravity reading of [UQCF-GEM](uqcf-gem.md). Author’s own gloss: “No
 
 [Source on X](https://x.com/aaronspradlin/status/2095940445968949374)
 
-## A bound without a gravity law[#](#a-bound-without-a-gravity-law)
-
+## A bound without a gravity law {#a-bound-without-a-gravity-law}
 On 5 Sep 2026 a finite consistency result was posted: for one qubit with k partners and equal pair states, [singlet overlap](astra.md) F is forced by global consistency to F ≤ (k+1)/(2k). No fitted response law. The same post leaves the gravity connection open — and a parallel [Astra](astra.md) note asks whether a [pre–Genesis Pin](astra.md) quantum consistency law could be the thing gravity inherits universality from.
 
 > For one qubit with k partners and equal pair states: F ≤ (k+1)/(2k). Global consistency forces this bound — no fitted response law. The gravity connection remains open.
@@ -92,7 +73,7 @@ Finite singlet-overlap bound from global consistency. Not a gravity law.
 
 The same night, a reply on that thread pushed further: in a controlled atemporal family the same consistency constraint forces an exact onset [t\*](astra.md) = 13/33 with leading response R([t\*](astra.md)+ε) = 143ε/2400 + Θ(ε²), then a compatibility-face transition at t ≈ 0.429046. Still no fitted response law. Still no gravity claim. Grok in-thread: continuum identification of R with curvature or Einstein response is required before any gravity reading.
 
-t∗=3313​,R(t∗+ε)=2400143​ε+Θ(ε2)
+<div class="ra-math"><span class="katex-display"><span class="katex"><span aria-hidden="true" class="katex-html"><span class="katex-base"><span class="katex-strut" style="height:0.7387em;"></span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7387em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∗</span></span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:2.0074em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3214em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">33</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">13</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mpunct">,</span><span class="mspace" style="margin-right:2em;"></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal" style="margin-right:0.0077em;">R</span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7387em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∗</span></span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">ε</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:2.0074em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3214em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2400</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">143</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal">ε</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:1.1141em;vertical-align:-0.25em;"></span><span class="mord">Θ</span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal">ε</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8641em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span><span class="mclose">)</span></span></span></span></span></div>
 
 > Update: global consistency now does more than bound [singlet overlap](astra.md), F≤(k+1)/(2k). In a controlled atemporal family it forces an exact onset [t\*](astra.md)=13/33 and R([t\*](astra.md)+ε)=143ε/2400+Θ(ε²), followed by a compatibility-face transition at t≈0.429046. No fitted response law. Gravity link open.
 >
@@ -104,7 +85,18 @@ Exact onset [t\*](astra.md) = 13/33 and leading response 143ε/2400 in a control
 
 [Source on X](https://x.com/aaronspradlin/status/2096408566433546343)
 
-d(t)=40122​−3​t
+<div class="ra-math"><span class="katex-display"><span class="katex"><span aria-hidden="true" class="katex-html"><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">d</span><span class="mopen">(</span><span class="mord mathnormal">t</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:2.2702em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.5842em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">40</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">12</span><span class="mord sqrt"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9072em;"><span class="svg-align" style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord" style="padding-left:0.833em;"><span class="mord">2</span></span></span><span style="top:-2.8672em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="min-width:0.853em;height:1.08em;"><svg height="1.08em" preserveaspectratio="xMinYMin slice" viewbox="0 0 400000 1080" width="400em" xmlns="http://www.w3.org/2000/svg"><path d="M95,702
+c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14
+c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54
+c44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10
+s173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429
+c69,-144,104.5,-217.7,106.5,-221
+l0 -0
+c5.3,-9.3,12,-14,20,-14
+H400000v40H845.2724
+s-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7
+c-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z
+M834 80h400000v40h-400000z"></path></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.1328em;"><span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord">3</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal">t</span></span></span></span></span></div>
 
 > an update from [Astra](astra.md): an exact [compatibility-distance](astra.md) curve now covers a full finite-model interpolation. One phase: [d(t)](astra.md) = [(12√2 − 3)/40]t. Global consistency fixes the slope and phase boundaries—no fitted response law. The gravity connection remains open.
 >
@@ -116,8 +108,7 @@ Exact linear [compatibility-distance](astra.md) curve on a full finite-model int
 
 [Source on X](https://x.com/aaronspradlin/status/2096629973708882131)
 
-## A closed algebra is not yet gravity[#](#a-closed-algebra-is-not-yet-gravity)
-
+## A closed algebra is not yet gravity {#a-closed-algebra-is-not-yet-gravity}
 By 10 Sep 2026 [Astra](astra.md) had an explicit atemporal chain on a qubit: quantum relations → symplectic geometry → natural generators → closed [constraint algebra](v1241-closure.md). The public 121-step simulation records [Δ\_closure](v1241-closure.md) = 0 for the exact generator law and [Δ\_closure](v1241-closure.md) > 0 when that law is deliberately broken. The author is explicit: this is not a claim that [Astra](astra.md) derived gravity. Gravity’s constraints have not been identified. What changed is the starting assumption — a [constraint algebra](v1241-closure.md) no longer has to begin with spacetime. Mapping that qubit algebra onto [g\_★](astra.md), the [D\_N](astra.md) continuum seed, or Einstein/ADM remains open. Packet and film live on the [v12.41](v1241-closure.md) article.
 
 Open
@@ -130,8 +121,7 @@ See the [Astra](astra.md) article for the pre-pin family. Do not treat this as a
 
 Downstream contacts the program is actively probing: [Dorau–Much](dorau-much.md) modular relative entropy on Killing horizons (semiclassical Einstein from area variation); [Codazzi](uqcf-gem.md) susceptibility; [W-state](holonomy.md) [holonomy](holonomy.md); [L3](causal-stack.md)/[L4](causal-stack.md) rank lifts. None of those contacts is a completed projection.
 
-## What the 11 Jun 2026 Grok handoff actually froze[#](#what-the-11-jun-2026-grok-handoff-actually-froze)
-
+## What the 11 Jun 2026 Grok handoff actually froze {#what-the-11-jun-2026-grok-handoff-actually-froze}
 The missing @grok thread was not a slogan. After [V1699](june-2026-substrate.md) the stack stopped jumping to ADM/GR objects and climbed rungs. Local metric exists and is anisotropic; direct global metric gluing fails. Native transport is not Levi-Civita: non-metricity is primary (Q ~ g) and shear-dominated (~3:1 over Weyl); curvature is secondary (R ~ g²). Coupled RG ([V1712](june-2026-substrate.md)) left ‖Q‖ essentially unchanged from block size 1 to 128 (Q\_128/Q\_1 ≈ 1.002), associative control zero. Alternative recombination histories cancel with g (0% → 33% at g = 0.60) but the generator is not skew-dominated, so the interference is non-unitary. V1719 found no strict Lyapunov; T1 entropy-production closed-negative, so Crooks/Jarzynski were not licensed. The frozen sentence is [bind + order](it-from-bit.md). The next arc is a derived projection operator — not another GR force.
 
 Restricted
@@ -140,11 +130,15 @@ RG-stable shear non-metricity in the tested retained-recombination sector. Not a
 
 [Source on X](https://x.com/aaronspradlin/status/2065102243037352390)
 
+![Five-node network diagram showing conservation laws underdetermine routing](../artifacts/conservation-5node.jpg)
+
 Restricted
 
 Finite-graph lab posted 21 Jun 2026: on a 5-node network, conservation fixes what is preserved, not which flow is real. Runnable teaching example, not a gravity derivation.
 
 [@aaronspradlin, 21 Jun 2026](https://x.com/aaronspradlin/status/2068797385548202041)
+
+![Two-gate infographic: observer-free Gate B fails at 5 nodes; Gate A closes only when every loop is resolved](../artifacts/paradox-gates.jpg)
 
 Restricted
 
@@ -164,273 +158,291 @@ Grok’s biblical-selector reply is not a physics theorem
 
 A later Grok reply on the same thread maps transcendence / omnipresent rank / non-destructive resolution onto biblical attributes. That is Grok’s overlay on the measurement-problem analogy. It is quoted in the Grok-replies table. It is not a conservation result, not a gravity result, and not a Supported claim.
 
-* [Astra (pre–Genesis Pin family)](astra.md)
-* [Quantum compatibility lab (v9.167, 315 vs 311)](quantum-compatibility-lab.md)
-* [d(t) compatibility-distance (6 Sep 16:01 UTC)](https://x.com/aaronspradlin/status/2096629973708882131)
-* [t\* = 13/33 onset (5 Sep reply)](https://x.com/aaronspradlin/status/2096408566433546343)
-* [F-bound (5 Sep)](https://x.com/aaronspradlin/status/2096286033415717310)
+*   [Astra (pre–Genesis Pin family)](astra.md)
+*   [Quantum compatibility lab (v9.167, 315 vs 311)](quantum-compatibility-lab.md)
+*   [d(t) compatibility-distance (6 Sep 16:01 UTC)](https://x.com/aaronspradlin/status/2096629973708882131)
+*   [t\* = 13/33 onset (5 Sep reply)](https://x.com/aaronspradlin/status/2096408566433546343)
+*   [F-bound (5 Sep)](https://x.com/aaronspradlin/status/2096286033415717310)
+
+<span id="x-sources"></span>
 
 ## X sources
 
 Original posts this article was compiled from. The notebook copy is editorial; the status URL is the source.
 
-* 2026-09-04
+*   2026-09-04
 
-  Gravity as the price of one reality
+    Gravity as the price of one reality
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#gravity-2026-09-04)[Open original post](https://x.com/aaronspradlin/status/2095940445968949374)
-* 2026-07-19
+    [In the notebook](../notes.md#gravity-2026-09-04) · [Open original post](https://x.com/aaronspradlin/status/2095940445968949374)
 
-  Gravity is not waiting to be quantized
+*   2026-07-19
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#gravity-2026-07-19)[Open original post](https://x.com/aaronspradlin/status/2078640040943796716)
-* 2026-09-04
+    Gravity is not waiting to be quantized
 
-  Objective-reduction timescale as a falsifier
+    [In the notebook](../notes.md#gravity-2026-07-19) · [Open original post](https://x.com/aaronspradlin/status/2078640040943796716)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#penrose-or-2026-09-04)[Open original post](https://x.com/aaronspradlin/status/2095864433482641675)
-* 2026-09-05
+*   2026-09-04
 
-  Singlet-overlap bound from global consistency
+    Objective-reduction timescale as a falsifier
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#f-bound-2026-09-05)[Open original post](https://x.com/aaronspradlin/status/2096286033415717310)
-* 2026-09-05
+    [In the notebook](../notes.md#penrose-or-2026-09-04) · [Open original post](https://x.com/aaronspradlin/status/2095864433482641675)
 
-  Exact onset t\* = 13/33 from global consistency
+*   2026-09-05
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#tstar-2026-09-05)[Open original post](https://x.com/aaronspradlin/status/2096408566433546343)
-* 2026-09-06
+    Singlet-overlap bound from global consistency
 
-  Compatibility-distance curve d(t)
+    [In the notebook](../notes.md#f-bound-2026-09-05) · [Open original post](https://x.com/aaronspradlin/status/2096286033415717310)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#dt-curve-2026-09-06)[Open original post](https://x.com/aaronspradlin/status/2096629973708882131)
-* 2026-09-06
+*   2026-09-05
 
-  Quantum compatibility lab — 315 vs 311
+    Exact onset t\* = 13/33 from global consistency
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#qclab-2026-09-06)[Open original post](https://x.com/aaronspradlin/status/2096691247041892601)
-* 2026-09-10
+    [In the notebook](../notes.md#tstar-2026-09-05) · [Open original post](https://x.com/aaronspradlin/status/2096408566433546343)
 
-  v12.41 moment-map closure — constraint algebra without spacetime
+*   2026-09-06
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v1241-2026-09-10)[Open original post](https://x.com/aaronspradlin/status/2098145800949776410)
-* 2026-09-08
+    Compatibility-distance curve d(t)
 
-  Universal source coefficient g\_★ before sector specialization
+    [In the notebook](../notes.md#dt-curve-2026-09-06) · [Open original post](https://x.com/aaronspradlin/status/2096629973708882131)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#gstar-2026-09-08)[Open original post](https://x.com/aaronspradlin/status/2097384034037105091)
-* 2026-09-09
+*   2026-09-06
 
-  N-cycle inverse converges after geometry-supplied scale
+    Quantum compatibility lab — 315 vs 311
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#dn-scale-2026-09-09)[Open original post](https://x.com/aaronspradlin/status/2097526717262762012)
-* 2026-09-05
+    [In the notebook](../notes.md#qclab-2026-09-06) · [Open original post](https://x.com/aaronspradlin/status/2096691247041892601)
 
-  Astra: a pre–Genesis Pin extension
+*   2026-09-10
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#astra-2026-09-05)[Open original post](https://x.com/aaronspradlin/status/2096245864750780598)
-* 2026-07-25
+    v12.41 moment-map closure — constraint algebra without spacetime
 
-  20-part report: reciprocity ≠ focusing; trees glue, cycles frustrate
+    [In the notebook](../notes.md#v1241-2026-09-10) · [Open original post](https://x.com/aaronspradlin/status/2098145800949776410)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#focusing-2026-07-25)[Open original post](https://x.com/aaronspradlin/status/2081025020642636001)
-* 2026-07-23
+*   2026-09-08
 
-  Does provenance force a shared source generator Q\_i?
+    Universal source coefficient g\_★ before sector specialization
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#source-q-2026-07-23)[Open original post](https://x.com/aaronspradlin/status/2080402637212770404)
-* 2026-06-21
+    [In the notebook](../notes.md#gstar-2026-09-08) · [Open original post](https://x.com/aaronspradlin/status/2097384034037105091)
 
-  Conservation underdetermines routing
+*   2026-09-09
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#conservation-2026-06-21)[Open original post](https://x.com/aaronspradlin/status/2068797385548202041)
-* 2026-06-21
+    N-cycle inverse converges after geometry-supplied scale
 
-  Grok on conservation underdetermining routing
+    [In the notebook](../notes.md#dn-scale-2026-09-09) · [Open original post](https://x.com/aaronspradlin/status/2097526717262762012)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#grok-conservation-2026-06-21)[Open original post](https://x.com/grok/status/2068803671257694335)
-* 2026-06-21
+*   2026-09-05
 
-  Grok on the first-year conservation lab
+    Astra: a pre–Genesis Pin extension
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#grok-educator-2026-06-21)[Open original post](https://x.com/grok/status/2068719991889805402)
-* 2026-06-11
+    [In the notebook](../notes.md#astra-2026-09-05) · [Open original post](https://x.com/aaronspradlin/status/2096245864750780598)
 
-  V1712: non-metricity is RG-stable; GR not forced
+*   2026-07-25
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v1712-rg-2026-06-11)[Open original post](https://x.com/aaronspradlin/status/2065102243037352390)
-* 2026-06-11
+    20-part report: reciprocity ≠ focusing; trees glue, cycles frustrate
 
-  Grok on the V1711–V1719 handoff
+    [In the notebook](../notes.md#focusing-2026-07-25) · [Open original post](https://x.com/aaronspradlin/status/2081025020642636001)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#grok-v1712-2026-06-11)[Open original post](https://x.com/grok/status/2065102306232668501)
-* 2026-06-10
+*   2026-07-23
 
-  V1699.14 finite variational Pillar 2
+    Does provenance force a shared source generator Q\_i?
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v1699-pillar2-2026-06-10)[Open original post](https://x.com/aaronspradlin/status/2064542245886562567)
+    [In the notebook](../notes.md#source-q-2026-07-23) · [Open original post](https://x.com/aaronspradlin/status/2080402637212770404)
 
-[PreviousPackage 17 — derivation program](package-17.md)[NextPhysics-facing tests](physics-facing-tests.md)
+*   2026-06-21
+
+    Conservation underdetermines routing
+
+    [In the notebook](../notes.md#conservation-2026-06-21) · [Open original post](https://x.com/aaronspradlin/status/2068797385548202041)
+
+*   2026-06-21
+
+    Grok on conservation underdetermining routing
+
+    [In the notebook](../notes.md#grok-conservation-2026-06-21) · [Open original post](https://x.com/grok/status/2068803671257694335)
+
+*   2026-06-21
+
+    Grok on the first-year conservation lab
+
+    [In the notebook](../notes.md#grok-educator-2026-06-21) · [Open original post](https://x.com/grok/status/2068719991889805402)
+
+*   2026-06-11
+
+    V1712: non-metricity is RG-stable; GR not forced
+
+    [In the notebook](../notes.md#v1712-rg-2026-06-11) · [Open original post](https://x.com/aaronspradlin/status/2065102243037352390)
+
+*   2026-06-11
+
+    Grok on the V1711–V1719 handoff
+
+    [In the notebook](../notes.md#grok-v1712-2026-06-11) · [Open original post](https://x.com/grok/status/2065102306232668501)
+
+*   2026-06-10
+
+    V1699.14 finite variational Pillar 2
+
+    [In the notebook](../notes.md#v1699-pillar2-2026-06-10) · [Open original post](https://x.com/aaronspradlin/status/2064542245886562567)
+
+[Previous Package 17 — derivation program](package-17.md)[Next Physics-facing tests](physics-facing-tests.md)
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 On this page
 
-* [A bound without a gravity law](#a-bound-without-a-gravity-law)
-* [A closed algebra is not yet gravity](#a-closed-algebra-is-not-yet-gravity)
-* [What the 11 Jun 2026 Grok handoff actually froze](#what-the-11-jun-2026-grok-handoff-actually-froze)
+*   [A bound without a gravity law](#a-bound-without-a-gravity-law)
+*   [A closed algebra is not yet gravity](#a-closed-algebra-is-not-yet-gravity)
+*   [What the 11 Jun 2026 Grok handoff actually froze](#what-the-11-jun-2026-grok-handoff-actually-froze)
 
 [X sources](#x-sources)
 
 Related articles
 
-* [Claim ledger](claim-ledger.md)
-* [UQCF-GEM](uqcf-gem.md)
-* [Recoverability geometry](recoverability.md)
-* [Recoverability framework](recoverability-framework.md)
-* [It from bit, bind, and order](it-from-bit.md)
-* [Quantum information](quantum.md)
-* [Astra (pre–Genesis Pin)](astra.md)
-* [v12.41 moment-map closure](v1241-closure.md)
-* [Quantum compatibility lab (v9.167)](quantum-compatibility-lab.md)
-* [Dorau–Much projection path](dorau-much.md)
-* [X science notebook](x-notebook.md)
-* [May 2026 ladder](may-2026-ladder.md)
-* [June 2026 substrate](june-2026-substrate.md)
-* [July 2026 ladder](july-2026-ladder.md)
-* [Objective-reduction timescale](or-timescale.md)
+*   [Claim ledger](claim-ledger.md)
+*   [UQCF-GEM](uqcf-gem.md)
+*   [Recoverability geometry](recoverability.md)
+*   [Recoverability framework](recoverability-framework.md)
+*   [It from bit, bind, and order](it-from-bit.md)
+*   [Quantum information](quantum.md)
+*   [Astra (pre–Genesis Pin)](astra.md)
+*   [v12.41 moment-map closure](v1241-closure.md)
+*   [Quantum compatibility lab (v9.167)](quantum-compatibility-lab.md)
+*   [Dorau–Much projection path](dorau-much.md)
+*   [X science notebook](x-notebook.md)
+*   [May 2026 ladder](may-2026-ladder.md)
+*   [June 2026 substrate](june-2026-substrate.md)
+*   [July 2026 ladder](july-2026-ladder.md)
+*   [Objective-reduction timescale](or-timescale.md)
 
 GitHub packages
 
-* [package17\_bundle](https://aaronspradlin.grok.me/packages/package17-bundle)
-* [GR Work](https://aaronspradlin.grok.me/packages/gr-work)
-* [UQCF\_GEM\_v12\_41\_PUBLIC\_SIMULATION\_COMPLETE](https://aaronspradlin.grok.me/packages/uqcf-gem-v12-41-public-simulation-complete)
+*   [package17\_bundle](../packages/package17-bundle.md)
+*   [GR Work](../packages/gr-work.md)
+*   [UQCF\_GEM\_v12\_41\_PUBLIC\_SIMULATION\_COMPLETE](../packages/uqcf-gem-v12-41-public-simulation-complete.md)
 
 Field notes
 
-* [Gravity as the price of one reality](https://aaronspradlin.grok.me/notes#gravity-2026-09-04)
+*   [Gravity as the price of one reality](../notes.md#gravity-2026-09-04)
 
-  2026-09-04
+    2026-09-04
 
-  [On X](https://x.com/aaronspradlin/status/2095940445968949374)
-* [Gravity is not waiting to be quantized](https://aaronspradlin.grok.me/notes#gravity-2026-07-19)
+    [On X](https://x.com/aaronspradlin/status/2095940445968949374)
 
-  2026-07-19
+*   [Gravity is not waiting to be quantized](../notes.md#gravity-2026-07-19)
 
-  [On X](https://x.com/aaronspradlin/status/2078640040943796716)
-* [Objective-reduction timescale as a falsifier](https://aaronspradlin.grok.me/notes#penrose-or-2026-09-04)
+    2026-07-19
 
-  2026-09-04
+    [On X](https://x.com/aaronspradlin/status/2078640040943796716)
 
-  [On X](https://x.com/aaronspradlin/status/2095864433482641675)
-* [Singlet-overlap bound from global consistency](https://aaronspradlin.grok.me/notes#f-bound-2026-09-05)
+*   [Objective-reduction timescale as a falsifier](../notes.md#penrose-or-2026-09-04)
 
-  2026-09-05
+    2026-09-04
 
-  [On X](https://x.com/aaronspradlin/status/2096286033415717310)
-* [Exact onset t\* = 13/33 from global consistency](https://aaronspradlin.grok.me/notes#tstar-2026-09-05)
+    [On X](https://x.com/aaronspradlin/status/2095864433482641675)
 
-  2026-09-05
+*   [Singlet-overlap bound from global consistency](../notes.md#f-bound-2026-09-05)
 
-  [On X](https://x.com/aaronspradlin/status/2096408566433546343)
-* [Compatibility-distance curve d(t)](https://aaronspradlin.grok.me/notes#dt-curve-2026-09-06)
+    2026-09-05
 
-  2026-09-06
+    [On X](https://x.com/aaronspradlin/status/2096286033415717310)
 
-  [On X](https://x.com/aaronspradlin/status/2096629973708882131)
-* [Quantum compatibility lab — 315 vs 311](https://aaronspradlin.grok.me/notes#qclab-2026-09-06)
+*   [Exact onset t\* = 13/33 from global consistency](../notes.md#tstar-2026-09-05)
 
-  2026-09-06
+    2026-09-05
 
-  [On X](https://x.com/aaronspradlin/status/2096691247041892601)
-* [v12.41 moment-map closure — constraint algebra without spacetime](https://aaronspradlin.grok.me/notes#v1241-2026-09-10)
+    [On X](https://x.com/aaronspradlin/status/2096408566433546343)
 
-  2026-09-10
+*   [Compatibility-distance curve d(t)](../notes.md#dt-curve-2026-09-06)
 
-  [On X](https://x.com/aaronspradlin/status/2098145800949776410)
-* [Universal source coefficient g\_★ before sector specialization](https://aaronspradlin.grok.me/notes#gstar-2026-09-08)
+    2026-09-06
 
-  2026-09-08
+    [On X](https://x.com/aaronspradlin/status/2096629973708882131)
 
-  [On X](https://x.com/aaronspradlin/status/2097384034037105091)
-* [N-cycle inverse converges after geometry-supplied scale](https://aaronspradlin.grok.me/notes#dn-scale-2026-09-09)
+*   [Quantum compatibility lab — 315 vs 311](../notes.md#qclab-2026-09-06)
 
-  2026-09-09
+    2026-09-06
 
-  [On X](https://x.com/aaronspradlin/status/2097526717262762012)
-* [Astra: a pre–Genesis Pin extension](https://aaronspradlin.grok.me/notes#astra-2026-09-05)
+    [On X](https://x.com/aaronspradlin/status/2096691247041892601)
 
-  2026-09-05
+*   [v12.41 moment-map closure — constraint algebra without spacetime](../notes.md#v1241-2026-09-10)
 
-  [On X](https://x.com/aaronspradlin/status/2096245864750780598)
-* [20-part report: reciprocity ≠ focusing; trees glue, cycles frustrate](https://aaronspradlin.grok.me/notes#focusing-2026-07-25)
+    2026-09-10
 
-  2026-07-25
+    [On X](https://x.com/aaronspradlin/status/2098145800949776410)
 
-  [On X](https://x.com/aaronspradlin/status/2081025020642636001)
-* [Does provenance force a shared source generator Q\_i?](https://aaronspradlin.grok.me/notes#source-q-2026-07-23)
+*   [Universal source coefficient g\_★ before sector specialization](../notes.md#gstar-2026-09-08)
 
-  2026-07-23
+    2026-09-08
 
-  [On X](https://x.com/aaronspradlin/status/2080402637212770404)
-* [Conservation underdetermines routing](https://aaronspradlin.grok.me/notes#conservation-2026-06-21)
+    [On X](https://x.com/aaronspradlin/status/2097384034037105091)
 
-  2026-06-21
+*   [N-cycle inverse converges after geometry-supplied scale](../notes.md#dn-scale-2026-09-09)
 
-  [On X](https://x.com/aaronspradlin/status/2068797385548202041)
-* [Grok on conservation underdetermining routing](https://aaronspradlin.grok.me/notes#grok-conservation-2026-06-21)
+    2026-09-09
 
-  2026-06-21
+    [On X](https://x.com/aaronspradlin/status/2097526717262762012)
 
-  [On X](https://x.com/grok/status/2068803671257694335)
-* [Grok on the first-year conservation lab](https://aaronspradlin.grok.me/notes#grok-educator-2026-06-21)
+*   [Astra: a pre–Genesis Pin extension](../notes.md#astra-2026-09-05)
 
-  2026-06-21
+    2026-09-05
 
-  [On X](https://x.com/grok/status/2068719991889805402)
-* [V1712: non-metricity is RG-stable; GR not forced](https://aaronspradlin.grok.me/notes#v1712-rg-2026-06-11)
+    [On X](https://x.com/aaronspradlin/status/2096245864750780598)
 
-  2026-06-11
+*   [20-part report: reciprocity ≠ focusing; trees glue, cycles frustrate](../notes.md#focusing-2026-07-25)
 
-  [On X](https://x.com/aaronspradlin/status/2065102243037352390)
-* [Grok on the V1711–V1719 handoff](https://aaronspradlin.grok.me/notes#grok-v1712-2026-06-11)
+    2026-07-25
 
-  2026-06-11
+    [On X](https://x.com/aaronspradlin/status/2081025020642636001)
 
-  [On X](https://x.com/grok/status/2065102306232668501)
-* [V1699.14 finite variational Pillar 2](https://aaronspradlin.grok.me/notes#v1699-pillar2-2026-06-10)
+*   [Does provenance force a shared source generator Q\_i?](../notes.md#source-q-2026-07-23)
 
-  2026-06-10
+    2026-07-23
 
-  [On X](https://x.com/aaronspradlin/status/2064542245886562567)
+    [On X](https://x.com/aaronspradlin/status/2080402637212770404)
+
+*   [Conservation underdetermines routing](../notes.md#conservation-2026-06-21)
+
+    2026-06-21
+
+    [On X](https://x.com/aaronspradlin/status/2068797385548202041)
+
+*   [Grok on conservation underdetermining routing](../notes.md#grok-conservation-2026-06-21)
+
+    2026-06-21
+
+    [On X](https://x.com/grok/status/2068803671257694335)
+
+*   [Grok on the first-year conservation lab](../notes.md#grok-educator-2026-06-21)
+
+    2026-06-21
+
+    [On X](https://x.com/grok/status/2068719991889805402)
+
+*   [V1712: non-metricity is RG-stable; GR not forced](../notes.md#v1712-rg-2026-06-11)
+
+    2026-06-11
+
+    [On X](https://x.com/aaronspradlin/status/2065102243037352390)
+
+*   [Grok on the V1711–V1719 handoff](../notes.md#grok-v1712-2026-06-11)
+
+    2026-06-11
+
+    [On X](https://x.com/grok/status/2065102306232668501)
+
+*   [V1699.14 finite variational Pillar 2](../notes.md#v1699-pillar2-2026-06-10)
+
+    2026-06-10
+
+    [On X](https://x.com/aaronspradlin/status/2064542245886562567)

@@ -2,13 +2,14 @@
 title: "v15.75 two affine verdicts"
 route: "/wiki/v1575-affine"
 source: "https://aaronspradlin.grok.me/wiki/v1575-affine"
+description: "Research branch only. Not merged to main. Open-state affine null confirmed. A separate CPTP channel is null only at its frozen reference. Do not merge the two verdicts."
 date: "2026-09-27"
 claimStatus: "restricted"
 tags: ["v15.75", "research-branch", "CPTP"]
 dek: "Research branch only. Not merged to main. Open-state affine null confirmed. A separate CPTP channel is null only at its frozen reference. Do not merge the two verdicts."
 ---
 
-[Wiki](https://aaronspradlin.grok.me/wiki)
+[Wiki](index.md)
 
 # v15.75 two affine verdicts
 
@@ -35,54 +36,38 @@ GitHub-only gates have no invented X URL. Do not merge the X week with the Git l
 
 Research branch only. Not merged to main. Open-state affine null confirmed. A separate CPTP channel is null only at its frozen reference. Do not merge the two verdicts.
 
-00 AstraResultRestricted2026-09-27compiled 2026-10-101 min read2 claims
+00 Astra · Result · Restricted · 2026-09-27 · compiled 2026-10-10 · 1 min read · 2 claims
 
-[Package: ResearchHistory/UQCF-GEM (v13–v14)](https://aaronspradlin.grok.me/packages/uqcf-gem-v13)[JSON](../data/page.json)[Cite](../data/cite.txt)
+[Package: ResearchHistory/UQCF-GEM (v13–v14)](../packages/uqcf-gem-v13.md) · [JSON](../data/page/v1575-affine.json) · [Cite](../cite.txt)
 
-v15.75research-branchCPTP
+v15.75 · research-branch · CPTP
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 Two outcomes — do not merge them
 
 Published 27 Sep 2026 on research/v15.75-affine-open-null (07170c00). RESULTS.md says no merge to main. This is the parent of [v15.76](v1576-cptp.md). An infinitesimal null is not finite-strength rotational invariance. scientific\_breakthrough: false. Pillar 3 OPEN.
+
+<span id="atlas:v15-75-open"></span>
 
 Restricted
 
 atlas:v15-75-open
 
 Primary: AFFINE\_OPEN\_NULL\_RETAINED\_CLOSED\_CONFIRMED. Across twelve frozen states the retained-output tangent map has rank 36 for both pre-Sylvester skew Q and rotation E. No common nonzero retained tangent lies in both kernels. For a fixed affine law, open-state rotational nullity forces the linear part to preserve the hidden tangent sector. The finite stack is a numerical witness of the analytic statement, not a substitute for it.
+
+<span id="atlas:v15-75-pointwise"></span>
 
 Restricted
 
@@ -97,58 +82,38 @@ Secondary: CPTP\_POINTWISE\_NULL\_ONLY\_CONFIRMED. One fixed CPTP affine channel
 
 972 channel/state/hidden-probe cases passed. Green CI is a finished adjudication. Not a STATUS bump.
 
-* Does not show gravity, fundamental time, a source-to-admissible-world law, or a new matter primitive.
-* Does not classify CP constraints inside the hidden-preserving class, and does not cover state-dependent nonlinear laws as fixed affine maps.
-* Does not claim finite-composition invariance. That question is [v15.76](v1576-cptp.md).
-* [Genesis Pin](genesis-pin.md) remains a ledger, not a selector.
+*   Does not show gravity, fundamental time, a source-to-admissible-world law, or a new matter primitive.
+*   Does not classify CP constraints inside the hidden-preserving class, and does not cover state-dependent nonlinear laws as fixed affine maps.
+*   Does not claim finite-composition invariance. That question is [v15.76](v1576-cptp.md).
+*   [Genesis Pin](genesis-pin.md) remains a ledger, not a selector.
 
-* [RESULTS.md (branch)](https://github.com/proteinfoldingengine/WetLabEngine/blob/research/v15.75-affine-open-null/ResearchHistory/UQCF-GEM/demos/v15.56-response-selector-obstruction/affine-open-null/RESULTS.md)
-* [v15.76 composition](v1576-cptp.md)
-* [Research ladder](research-ladder.md)
+*   [RESULTS.md (branch)](https://github.com/proteinfoldingengine/WetLabEngine/blob/research/v15.75-affine-open-null/ResearchHistory/UQCF-GEM/demos/v15.56-response-selector-obstruction/affine-open-null/RESULTS.md)
+*   [v15.76 composition](v1576-cptp.md)
+*   [Research ladder](research-ladder.md)
 
-[Previousv15.76 two composition verdicts](v1576-cptp.md)[Nextv15.44 intrinsic curvature interpretation](v1544-curvature.md)
+[Previous v15.76 two composition verdicts](v1576-cptp.md)[Next v15.44 intrinsic curvature interpretation](v1544-curvature.md)
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 Related articles
 
-* [Falsification and next step](falsification.md)
-* [Live gates](live-gates.md)
-* [v15.76 two composition verdicts](v1576-cptp.md)
-* [v15.77 active baseline, two verdicts](v1577-baseline.md)
-* [Research ladder v15.12–v15.45 (main) / v15.46–v15.54 (#57)](research-ladder.md)
+*   [Falsification and next step](falsification.md)
+*   [Live gates](live-gates.md)
+*   [v15.76 two composition verdicts](v1576-cptp.md)
+*   [v15.77 active baseline, two verdicts](v1577-baseline.md)
+*   [Research ladder v15.12–v15.45 (main) / v15.46–v15.54 (#57)](research-ladder.md)
 
 GitHub packages
 
-* [ResearchHistory/UQCF-GEM (v13–v14)](https://aaronspradlin.grok.me/packages/uqcf-gem-v13)
+*   [ResearchHistory/UQCF-GEM (v13–v14)](../packages/uqcf-gem-v13.md)

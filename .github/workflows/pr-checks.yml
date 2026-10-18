@@ -1,0 +1,25 @@
+name: PR checks (build, links, claim guard)
+on:
+  pull_request:
+  workflow_dispatch:
+permissions: {contents: read}
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: pip install "mkdocs-material" "mkdocs<2" beautifulsoup4 lxml
+      - name: Regenerate machine files
+        run: python scripts/build_machine_files.py
+      - name: mkdocs build --strict
+        run: mkdocs build --strict
+      - name: Internal link check (built site)
+        run: python scripts/check_links.py
+      - name: Claim guard
+        run: |
+          BASE="${{ github.base_ref || 'main' }}"
+          git show "origin/$BASE:claims/ledger.jsonl" > /tmp/base_ledger.jsonl 2>/dev/null || cp claims/ledger.jsonl /tmp/base_ledger.jsonl
+          python scripts/claim_guard.py /tmp/base_ledger.jsonl

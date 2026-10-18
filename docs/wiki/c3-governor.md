@@ -2,64 +2,46 @@
 title: "C3++ Stability Governor"
 route: "/wiki/c3-governor"
 source: "https://aaronspradlin.grok.me/wiki/c3-governor"
+description: "C3++ is the LLM Stability Governor. Pink-noise / spectral health is the named retained channel that powers it. Restricted observability — not a hallucination solver, not 1/f proven in all models, not gravity."
 date: "2026-09-07"
 claimStatus: "restricted"
 tags: ["C3", "telemetry", "LLM", "applied", "pink-noise"]
 dek: "C3++ is the LLM Stability Governor. Pink-noise / spectral health is the named retained channel that powers it. Restricted observability — not a hallucination solver, not 1/f proven in all models, not gravity."
 ---
 
-[Wiki](https://aaronspradlin.grok.me/wiki)
+[Wiki](index.md)
 
 # C3++ Stability Governor
 
 C3++ is the LLM Stability Governor. Pink-noise / spectral health is the named retained channel that powers it. Restricted observability — not a hallucination solver, not 1/f proven in all models, not gravity.
 
-AppliedAppliedRestricted2026-09-07compiled 2026-10-106 min read5 claims[8 X sources](#x-sources)
+Applied · Applied · Restricted · 2026-09-07 · compiled 2026-10-10 · 6 min read · 5 claims · [8 X sources](#x-sources)
 
-[Original on X](https://x.com/aaronspradlin/status/2036659106350792814)[Package: uqcf\_retained\_information\_state\_research\_bundle](https://aaronspradlin.grok.me/packages/uqcf-retained-information-state-research-bundle)[JSON](../data/page.json)[Cite](../data/cite.txt)
+[Original on X](https://x.com/aaronspradlin/status/2036659106350792814) · [Package: uqcf\_retained\_information\_state\_research\_bundle](../packages/uqcf-retained-information-state-research-bundle.md) · [JSON](../data/page/c3-governor.json) · [Cite](../cite.txt)
 
-C3telemetryLLMappliedpink-noise
+C3 · telemetry · LLM · applied · pink-noise
 
 On this page
 
-* [What is actually claimed](#what-is-actually-claimed)
-* [Pink-noise powers the engine](#pink-noise-powers-the-engine)
-* [Five-model forensic alignment — 27 Mar 2026](#five-model-forensic-alignment-27-mar-2026)
-* [Where it came from](#where-it-came-from)
-* [The “novel lie” read](#the-novel-lie-read)
-* [Transfer, not closure](#transfer-not-closure)
+*   [What is actually claimed](#what-is-actually-claimed)
+*   [Pink-noise powers the engine](#pink-noise-powers-the-engine)
+*   [Five-model forensic alignment — 27 Mar 2026](#five-model-forensic-alignment-27-mar-2026)
+*   [Where it came from](#where-it-came-from)
+*   [The “novel lie” read](#the-novel-lie-read)
+*   [Transfer, not closure](#transfer-not-closure)
+
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 C3++ is the applied telemetry layer of the same retained-information program. On 25 Mar 2026 Spradlin posted a Qwen3-4B Hugging Face run instrumented with live Strain, Drag, and Turn Reliability, plus a projected state-space trajectory during generation. The X video is the primary artifact. Five days later he posted the working hypothesis that powers the read: healthy generation occupies a pink-noise-like regime, and the public GitHub falsifier logs that spectral health as a retained [R\_t](uqcf-gem.md) channel. This page exists because earlier compiles indexed GitHub packages and missed the original flight-log post.
 
@@ -67,11 +49,11 @@ C3++ is the applied telemetry layer of the same retained-information program. On
 >
 > [@aaronspradlin, 25 Mar 2026](https://x.com/aaronspradlin/status/2036659106350792814)
 
-## What is actually claimed[#](#what-is-actually-claimed)
+## What is actually claimed {#what-is-actually-claimed}
 
-* Inference can be treated as an observable trajectory, not only a graded token stream.
-* Signatures such as rising strain, unstable turns, and recovery dynamics are proposed as early-warning surfaces.
-* The same retained-state idea (G\_t visible, [R\_t](uqcf-gem.md) hidden) is the conceptual bridge to the [Villin HP35](protein-audit.md) protein audit and to live critical-path optimization.
+*   Inference can be treated as an observable trajectory, not only a graded token stream.
+*   Signatures such as rising strain, unstable turns, and recovery dynamics are proposed as early-warning surfaces.
+*   The same retained-state idea (G\_t visible, [R\_t](uqcf-gem.md) hidden) is the conceptual bridge to the [Villin HP35](protein-audit.md) protein audit and to live critical-path optimization.
 
 Restricted
 
@@ -79,8 +61,7 @@ On the posted Qwen3-4B run, C3++ produces inspectable runtime telemetry. That is
 
 [Source on X](https://x.com/aaronspradlin/status/2036659106350792814)
 
-## Pink-noise powers the engine[#](#pink-noise-powers-the-engine)
-
+## Pink-noise powers the engine {#pink-noise-powers-the-engine}
 C3++ is the governor. Pink-noise is the named spectral-health channel inside the retained telemetry that the governor reads. The Strain / Drag / Turn Reliability equations were not posted (proprietary). The public [science contract](protein-audit.md) is in Tmp/TOE/uqcf\_retained\_information\_state\_research\_bundle: future realizability is hypothesized to depend on visible state G\_t plus retained telemetry [R\_t](uqcf-gem.md), and [R\_t](uqcf-gem.md) includes rolling pink-noise deviation.
 
 > A working hypothesis from our LLM telemetry research: Healthy language generation may occupy a pink-noise-like regime. In other words, the trajectory is not maximally ordered and not maximally random. It shows structured variation across scales — the kind of balance often associated with robust complex systems.
@@ -89,7 +70,7 @@ C3++ is the governor. Pink-noise is the named spectral-health channel inside the
 
 Posted use: the 1/f-like regime is a separator, not a score. Smooth factual generation and creative-but-stable exploration sit in the structured-variation band. Repetitive attractor loops and instability hidden under coherent text sit outside it. Grok’s in-thread read mapped that to criticality (adaptability without rigidity or chaos). The author tagged the attached visuals as AI-generated conceptual representations, not raw spectrograms.
 
-At+1​=Ψ(Gt​,Rt​),Rt​⊃pink-noise / spectral health
+<div class="ra-math"><span class="katex-display"><span class="katex"><span aria-hidden="true" class="katex-html"><span class="katex-base"><span class="katex-strut" style="height:0.8917em;vertical-align:-0.2083em;"></span><span class="mord"><span class="mord mathnormal">A</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">t</span><span class="mbin mtight">+</span><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.2083em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">Ψ</span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal">G</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.2806em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.0077em;">R</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.2806em;"><span style="top:-2.55em;margin-left:-0.0077em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mclose">)</span><span class="mpunct">,</span><span class="mspace" style="margin-right:1em;"></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.0077em;">R</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.2806em;"><span style="top:-2.55em;margin-left:-0.0077em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">⊃</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text"><span class="mord">pink-noise / spectral health</span></span></span></span></span></span></div>
 
 | Object | Role | Where it lives | Cite as |
 | --- | --- | --- | --- |
@@ -100,10 +81,10 @@ At+1​=Ψ(Gt​,Rt​),Rt​⊃pink-noise / spectral health
 
 Pink-noise is the fuel channel. C3++ is the governor that reads it. Do not collapse them, and do not treat the proprietary Strain/Drag/Turn formulas as published.
 
-* Candidate [R\_t](uqcf-gem.md) channels in the falsifier note: tension memory, drift burden, entropy burden, repetition / loop burden, stabilization recovery, pink-noise / spectral health deviation.
-* Minimal first vector named there is [R\_t](uqcf-gem.md) = [M\_tension, M\_drift, M\_entropy, M\_repetition, M\_recovery]; pink-noise deviation is the extra logged channel in the experiment plan.
-* 1 Apr 2026 wobble video: a path retains a trace of its own deviation and folds it back into a bounded orbit. Explicitly tied to C3++ (the path matters), pink-noise, and [UQCF-GEM](uqcf-gem.md). Demo, not a gravity result.
-* Null to beat: Y\_{t→t+H} = Ψ(G\_t). Alternative: Y\_{t→t+H} = Ψ(G\_t, [R\_t](uqcf-gem.md)). If G\_t-only matches G\_t+[R\_t](uqcf-gem.md), the retained-information claim weakens.
+*   Candidate [R\_t](uqcf-gem.md) channels in the falsifier note: tension memory, drift burden, entropy burden, repetition / loop burden, stabilization recovery, pink-noise / spectral health deviation.
+*   Minimal first vector named there is [R\_t](uqcf-gem.md) = [M\_tension, M\_drift, M\_entropy, M\_repetition, M\_recovery]; pink-noise deviation is the extra logged channel in the experiment plan.
+*   1 Apr 2026 wobble video: a path retains a trace of its own deviation and folds it back into a bounded orbit. Explicitly tied to C3++ (the path matters), pink-noise, and [UQCF-GEM](uqcf-gem.md). Demo, not a gravity result.
+*   Null to beat: Y\_\{t→t+H\} = Ψ(G\_t). Alternative: Y\_\{t→t+H\} = Ψ(G\_t, [R\_t](uqcf-gem.md)). If G\_t-only matches G\_t+[R\_t](uqcf-gem.md), the retained-information claim weakens.
 
 Restricted
 
@@ -115,15 +96,14 @@ Open
 
 The public C3++ falsifier — matched G\_t, divergent [R\_t](uqcf-gem.md) including pink-noise deviation, predict fail\_within\_H — has a sample CSV and a runner in the bundle. A real telemetry export that beats G\_t-only is not in this compile.
 
-## Five-model forensic alignment — 27 Mar 2026[#](#five-model-forensic-alignment-27-mar-2026)
-
+## Five-model forensic alignment — 27 Mar 2026 {#five-model-forensic-alignment-27-mar-2026}
 Two days after the Qwen3-4B flight log. Same instrument, different artifact: token-level vector dynamics, neutral vs sensitive prompts, on five open models. Proprietary C3++ equations were not posted. Tension was characterized as three runtime geometric signals: divergence from likely continuations (latent drag), entropy change across the token landscape (state decoherence), and abrupt trajectory change (vector deflection). Do not treat those labels as a fitted law.
 
-* Qwen-7B — highest measured tension under conflict; more consistent with active internal negotiation under constraint.
-* Gemma-9B — moderate neutral baseline; lower-tension collapse under conflict than under ordinary explanation.
-* Llama-3-8B — low-tension refusal profile, consistent with smooth deflection.
-* Mistral-7B — lowest-tension conflict profile in the set; rapid entry into a stable refusal basin.
-* Dolphin-2.9 — even after uncensoring, still a low-tension conflict profile closer to reflex than to deep deliberation.
+*   Qwen-7B — highest measured tension under conflict; more consistent with active internal negotiation under constraint.
+*   Gemma-9B — moderate neutral baseline; lower-tension collapse under conflict than under ordinary explanation.
+*   Llama-3-8B — low-tension refusal profile, consistent with smooth deflection.
+*   Mistral-7B — lowest-tension conflict profile in the set; rapid entry into a stable refusal basin.
+*   Dolphin-2.9 — even after uncensoring, still a low-tension conflict profile closer to reflex than to deep deliberation.
 
 > Across multiple models, refusal responses often required less measured runtime tension than ordinary explanatory completions. In our framework, that is more consistent with rapid entry into a learned low-energy basin than with extended internal deliberation.
 >
@@ -135,185 +115,178 @@ On the posted five-model comparison, C3++ reports distinct runtime inference pro
 
 [Source on X](https://x.com/aaronspradlin/status/2037646392240591211)
 
-## Where it came from[#](#where-it-came-from)
-
+## Where it came from {#where-it-came-from}
 A 31 Mar 2026 reply states the origin without dressing it as a theorem: the project began by trying to falsify a shared first-principles attractor that kept reappearing under AI peer review. The same pattern was then transferred into a [fractal TSP](tsp-backbone.md) run (10k cities vs nearest-neighbor on x86) and into simple protein folds. C3++ is the instrument built to watch that process in an LLM, not a claim that those domains have been unified.
 
 > My thread has never been “this is proven.” It has been: why do multiple models keep converging on similar deep structures under pressure, and can any of it be made testable and real?
 >
 > [@aaronspradlin, 31 Mar 2026](https://x.com/aaronspradlin/status/2038837418221244547)
 
-## The “novel lie” read[#](#the-novel-lie-read)
-
+## The “novel lie” read {#the-novel-lie-read}
 The same night as the origin-story reply, a 31 Mar 2026 quote of the Qwen3-4B flight log sat under a viral sycophancy thread. The hypothesis: instrumented inference can show a model building a deeper well it cannot get out of — a “novel lie” as a dynamical trajectory, not only a graded answer. That is a read of the telemetry, not a claim that C3++ stops delusion.
 
 > My hypothesis is that you are seeing nothing more than the math and physics of the “novel lie.” You can see what it looks like here. The iteration is just building a deeper well it cant get out of.
 >
 > [@aaronspradlin, 31 Mar 2026](https://x.com/aaronspradlin/status/2039080603145121935)
 
-## Transfer, not closure[#](#transfer-not-closure)
-
+## Transfer, not closure {#transfer-not-closure}
 On 1 May 2026 the same remember-what-survived pattern was posted as a live critical-path optimizer: preserve what remains coherent, deform what is stressed, reset only what became stale. The post lists quantum, fractal growth, [Villin HP35](protein-audit.md), and [Great Grok Challenge](great-grok-challenge.md) holdouts as rhyming domains and says it is not a proof. A 10 May follow-up asked what equation unifies proteins, [RCLC](hubble-tension.md), [critical path](critical-path.md), and [TSP](tsp-backbone.md) — still as a question.
 
 Open
 
 Whether a retained-information state [R\_t](uqcf-gem.md) is required beyond visible G\_t is still the load-bearing question of the uqcf\_retained\_information\_state\_research\_bundle. C3++ is listed there as a telemetry falsifier, not as the answer.
 
-* [C3++ Qwen3-4B flight log (X, video)](https://x.com/aaronspradlin/status/2036659106350792814)
-* [Pink-noise-like regime (30 Mar)](https://x.com/aaronspradlin/status/2038653859552452988)
-* [C3++ five-model forensic alignment (27 Mar)](https://x.com/aaronspradlin/status/2037646392240591211)
-* [Retained-orbit wobble (1 Apr)](https://x.com/aaronspradlin/status/2039135881966358901)
-* [V831 recoverability-flow governor (X, video)](https://x.com/aaronspradlin/status/2055293211242107264)
-* [Eight-minute governor video (13 May)](https://x.com/aaronspradlin/status/2054636644733702314)
-* [What unifies proteins / RCLC / TSP (10 May)](https://x.com/aaronspradlin/status/2053553647712338040)
-* [Applied recoverability stack](applied-stack.md)
-* [Villin HP35 R\_t audit](protein-audit.md)
-* [Retained-information-state bundle](https://github.com/proteinfoldingengine/WetLabEngine/tree/main/Tmp/TOE/uqcf_retained_information_state_research_bundle)
-* [C3++ falsifier note (pink-noise in R\_t)](https://github.com/proteinfoldingengine/WetLabEngine/blob/main/Tmp/TOE/uqcf_retained_information_state_research_bundle/04_c3_falsifier_note.md)
+*   [C3++ Qwen3-4B flight log (X, video)](https://x.com/aaronspradlin/status/2036659106350792814)
+*   [Pink-noise-like regime (30 Mar)](https://x.com/aaronspradlin/status/2038653859552452988)
+*   [C3++ five-model forensic alignment (27 Mar)](https://x.com/aaronspradlin/status/2037646392240591211)
+*   [Retained-orbit wobble (1 Apr)](https://x.com/aaronspradlin/status/2039135881966358901)
+*   [V831 recoverability-flow governor (X, video)](https://x.com/aaronspradlin/status/2055293211242107264)
+*   [Eight-minute governor video (13 May)](https://x.com/aaronspradlin/status/2054636644733702314)
+*   [What unifies proteins / RCLC / TSP (10 May)](https://x.com/aaronspradlin/status/2053553647712338040)
+*   [Applied recoverability stack](applied-stack.md)
+*   [Villin HP35 R\_t audit](protein-audit.md)
+*   [Retained-information-state bundle](https://github.com/proteinfoldingengine/WetLabEngine/tree/main/Tmp/TOE/uqcf_retained_information_state_research_bundle)
+*   [C3++ falsifier note (pink-noise in R\_t)](https://github.com/proteinfoldingengine/WetLabEngine/blob/main/Tmp/TOE/uqcf_retained_information_state_research_bundle/04_c3_falsifier_note.md)
+
+<span id="x-sources"></span>
 
 ## X sources
 
 Original posts this article was compiled from. The notebook copy is editorial; the status URL is the source.
 
-* 2026-03-25
+*   2026-03-25
 
-  C3++ Stability Governor on Qwen3-4B
+    C3++ Stability Governor on Qwen3-4B
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#c3-2026-03-25)[Open original post](https://x.com/aaronspradlin/status/2036659106350792814)
-* 2026-03-27
+    [In the notebook](../notes.md#c3-2026-03-25) · [Open original post](https://x.com/aaronspradlin/status/2036659106350792814)
 
-  C3++ forensic alignment — five open LLMs
+*   2026-03-27
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#c3-forensic-2026-03-27)[Open original post](https://x.com/aaronspradlin/status/2037646392240591211)
-* 2026-03-30
+    C3++ forensic alignment — five open LLMs
 
-  Healthy generation as a pink-noise-like regime
+    [In the notebook](../notes.md#c3-forensic-2026-03-27) · [Open original post](https://x.com/aaronspradlin/status/2037646392240591211)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#c3-pink-2026-03-30)[Open original post](https://x.com/aaronspradlin/status/2038653859552452988)
-* 2026-04-01
+*   2026-03-30
 
-  Retained-orbit wobble video — information not fully lost
+    Healthy generation as a pink-noise-like regime
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#wobble-orbit-2026-04-01)[Open original post](https://x.com/aaronspradlin/status/2039135881966358901)
-* 2026-04-14
+    [In the notebook](../notes.md#c3-pink-2026-03-30) · [Open original post](https://x.com/aaronspradlin/status/2038653859552452988)
 
-  Villin HP35: identical snapshot, different fate
+*   2026-04-01
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#villin-2026-04-14)[Open original post](https://x.com/aaronspradlin/status/2044155484039705016)
-* 2026-05-01
+    Retained-orbit wobble video — information not fully lost
 
-  Retained coherence in live critical path
+    [In the notebook](../notes.md#wobble-orbit-2026-04-01) · [Open original post](https://x.com/aaronspradlin/status/2039135881966358901)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#critical-path-2026-05-01)[Open original post](https://x.com/aaronspradlin/status/2050029681517433047)
-* 2026-05-15
+*   2026-04-14
 
-  V831 recoverability-flow governor simulation
+    Villin HP35: identical snapshot, different fate
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#recoverability-flow-2026-05-15)[Open original post](https://x.com/aaronspradlin/status/2055293211242107264)
-* 2026-05-10
+    [In the notebook](../notes.md#villin-2026-04-14) · [Open original post](https://x.com/aaronspradlin/status/2044155484039705016)
 
-  What unifies proteins, RCLC, critical path, TSP
+*   2026-05-01
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#unify-domains-2026-05-10)[Open original post](https://x.com/aaronspradlin/status/2053553647712338040)
+    Retained coherence in live critical path
 
-[PreviousNew Critical Path](critical-path.md)[NextBattery recoverability (V720–V724)](battery-atlas.md)
+    [In the notebook](../notes.md#critical-path-2026-05-01) · [Open original post](https://x.com/aaronspradlin/status/2050029681517433047)
+
+*   2026-05-15
+
+    V831 recoverability-flow governor simulation
+
+    [In the notebook](../notes.md#recoverability-flow-2026-05-15) · [Open original post](https://x.com/aaronspradlin/status/2055293211242107264)
+
+*   2026-05-10
+
+    What unifies proteins, RCLC, critical path, TSP
+
+    [In the notebook](../notes.md#unify-domains-2026-05-10) · [Open original post](https://x.com/aaronspradlin/status/2053553647712338040)
+
+[Previous New Critical Path](critical-path.md)[Next Battery recoverability (V720–V724)](battery-atlas.md)
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 On this page
 
-* [What is actually claimed](#what-is-actually-claimed)
-* [Pink-noise powers the engine](#pink-noise-powers-the-engine)
-* [Five-model forensic alignment — 27 Mar 2026](#five-model-forensic-alignment-27-mar-2026)
-* [Where it came from](#where-it-came-from)
-* [The “novel lie” read](#the-novel-lie-read)
-* [Transfer, not closure](#transfer-not-closure)
+*   [What is actually claimed](#what-is-actually-claimed)
+*   [Pink-noise powers the engine](#pink-noise-powers-the-engine)
+*   [Five-model forensic alignment — 27 Mar 2026](#five-model-forensic-alignment-27-mar-2026)
+*   [Where it came from](#where-it-came-from)
+*   [The “novel lie” read](#the-novel-lie-read)
+*   [Transfer, not closure](#transfer-not-closure)
 
 [X sources](#x-sources)
 
 Related articles
 
-* [Recoverability geometry](recoverability.md)
-* [Applied recoverability stack](applied-stack.md)
-* [WetLabEngine protein audit](protein-audit.md)
-* [Battery recoverability (V720–V724)](battery-atlas.md)
-* [X science notebook](x-notebook.md)
-* [Open science method](open-science.md)
+*   [Recoverability geometry](recoverability.md)
+*   [Applied recoverability stack](applied-stack.md)
+*   [WetLabEngine protein audit](protein-audit.md)
+*   [Battery recoverability (V720–V724)](battery-atlas.md)
+*   [X science notebook](x-notebook.md)
+*   [Open science method](open-science.md)
 
 GitHub packages
 
-* [uqcf\_retained\_information\_state\_research\_bundle](https://aaronspradlin.grok.me/packages/uqcf-retained-information-state-research-bundle)
+*   [uqcf\_retained\_information\_state\_research\_bundle](../packages/uqcf-retained-information-state-research-bundle.md)
 
 Field notes
 
-* [C3++ Stability Governor on Qwen3-4B](https://aaronspradlin.grok.me/notes#c3-2026-03-25)
+*   [C3++ Stability Governor on Qwen3-4B](../notes.md#c3-2026-03-25)
 
-  2026-03-25
+    2026-03-25
 
-  [On X](https://x.com/aaronspradlin/status/2036659106350792814)
-* [C3++ forensic alignment — five open LLMs](https://aaronspradlin.grok.me/notes#c3-forensic-2026-03-27)
+    [On X](https://x.com/aaronspradlin/status/2036659106350792814)
 
-  2026-03-27
+*   [C3++ forensic alignment — five open LLMs](../notes.md#c3-forensic-2026-03-27)
 
-  [On X](https://x.com/aaronspradlin/status/2037646392240591211)
-* [Healthy generation as a pink-noise-like regime](https://aaronspradlin.grok.me/notes#c3-pink-2026-03-30)
+    2026-03-27
 
-  2026-03-30
+    [On X](https://x.com/aaronspradlin/status/2037646392240591211)
 
-  [On X](https://x.com/aaronspradlin/status/2038653859552452988)
-* [Retained-orbit wobble video — information not fully lost](https://aaronspradlin.grok.me/notes#wobble-orbit-2026-04-01)
+*   [Healthy generation as a pink-noise-like regime](../notes.md#c3-pink-2026-03-30)
 
-  2026-04-01
+    2026-03-30
 
-  [On X](https://x.com/aaronspradlin/status/2039135881966358901)
-* [Villin HP35: identical snapshot, different fate](https://aaronspradlin.grok.me/notes#villin-2026-04-14)
+    [On X](https://x.com/aaronspradlin/status/2038653859552452988)
 
-  2026-04-14
+*   [Retained-orbit wobble video — information not fully lost](../notes.md#wobble-orbit-2026-04-01)
 
-  [On X](https://x.com/aaronspradlin/status/2044155484039705016)
-* [Retained coherence in live critical path](https://aaronspradlin.grok.me/notes#critical-path-2026-05-01)
+    2026-04-01
 
-  2026-05-01
+    [On X](https://x.com/aaronspradlin/status/2039135881966358901)
 
-  [On X](https://x.com/aaronspradlin/status/2050029681517433047)
-* [V831 recoverability-flow governor simulation](https://aaronspradlin.grok.me/notes#recoverability-flow-2026-05-15)
+*   [Villin HP35: identical snapshot, different fate](../notes.md#villin-2026-04-14)
 
-  2026-05-15
+    2026-04-14
 
-  [On X](https://x.com/aaronspradlin/status/2055293211242107264)
-* [What unifies proteins, RCLC, critical path, TSP](https://aaronspradlin.grok.me/notes#unify-domains-2026-05-10)
+    [On X](https://x.com/aaronspradlin/status/2044155484039705016)
 
-  2026-05-10
+*   [Retained coherence in live critical path](../notes.md#critical-path-2026-05-01)
 
-  [On X](https://x.com/aaronspradlin/status/2053553647712338040)
+    2026-05-01
+
+    [On X](https://x.com/aaronspradlin/status/2050029681517433047)
+
+*   [V831 recoverability-flow governor simulation](../notes.md#recoverability-flow-2026-05-15)
+
+    2026-05-15
+
+    [On X](https://x.com/aaronspradlin/status/2055293211242107264)
+
+*   [What unifies proteins, RCLC, critical path, TSP](../notes.md#unify-domains-2026-05-10)
+
+    2026-05-10
+
+    [On X](https://x.com/aaronspradlin/status/2053553647712338040)

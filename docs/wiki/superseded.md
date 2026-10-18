@@ -2,59 +2,41 @@
 title: "Superseded voice"
 route: "/wiki/superseded"
 source: "https://aaronspradlin.grok.me/wiki/superseded"
+description: "A single shelf for 2024–2025 ToI / Origin Law / ε* material, plus later walk-backs. Findable. Not current. One-line reason each item is not on the 2026 ledger."
 date: "2026-09-06"
 claimStatus: "not-claimed"
 tags: ["historical", "not-claimed", "reading-list"]
 dek: "A single shelf for 2024–2025 ToI / Origin Law / ε* material, plus later walk-backs. Findable. Not current. One-line reason each item is not on the 2026 ledger."
 ---
 
-[Wiki](https://aaronspradlin.grok.me/wiki)
+[Wiki](index.md)
 
 # Superseded voice
 
 A single shelf for 2024–2025 ToI / Origin Law / ε\* material, plus later walk-backs. Findable. Not current. One-line reason each item is not on the 2026 ledger.
 
-Historical / not claimedMethodNot claimed2026-09-06compiled 2026-10-102 min read3 claims[5 X sources](#x-sources)
+Historical / not claimed · Method · Not claimed · 2026-09-06 · compiled 2026-10-10 · 2 min read · 3 claims · [5 X sources](#x-sources)
 
-[Original on X](https://x.com/aaronspradlin/status/1869192343947244020)[JSON](../data/page.json)[Cite](../data/cite.txt)
+[Original on X](https://x.com/aaronspradlin/status/1869192343947244020) · [JSON](../data/page/superseded.json) · [Cite](../cite.txt)
 
-historicalnot-claimedreading-list
+historical · not-claimed · reading-list
 
 On this page
 
-* [Where the equations live](#where-the-equations-live)
+*   [Where the equations live](#where-the-equations-live)
+
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 The 2024–2025 [ToI](toi-toe-2025.md) / [Origin Law](origin-law.md) / [ε\*](origin-law.md) material is correctly marked not-claimed. It used to be easy to miss and easy to leak into search. This shelf is the reading list / superseded voice: dates, a one-line reason it is not current, and a link to the article that keeps the equations.
 
@@ -73,14 +55,14 @@ A reviewer can still see the trail. Search will show the not-claimed badge in th
 
 Each row points at a dedicated article. Kits and long explainers stay on X.
 
-## Where the equations live[#](#where-the-equations-live)
+## Where the equations live {#where-the-equations-live}
 
-* [ToI](toi-toe-2025.md) Lindblad seed and 3 Mar [G\_eff,total](toi-toe-2025.md) — [ToI / TOE (2024–25)](toi-toe-2025.md).
-* [ε\*](origin-law.md), [Ω-Lock](origin-law.md), [Phase-NN](origin-law.md) — [Origin Law](origin-law.md).
-* [Phase-N](phase-n-catalog.md) kits — [Phase-N](phase-n-catalog.md) catalog. Kits stay on X.
-* January 2025 ICL / Bullet / ξ(r) — [validation week](validation-week-2025.md).
-* 5 May complete-cosmology sentence — [Hubble tension](hubble-tension.md), marked corrected.
-* [V1688](holonomy.md) [directed native holonomy](holonomy.md) — [Holonomy](holonomy.md), marked corrected. [W-state](holonomy.md) [holonomy](holonomy.md) is a different finite result.
+*   [ToI](toi-toe-2025.md) Lindblad seed and 3 Mar [G\_eff,total](toi-toe-2025.md) — [ToI / TOE (2024–25)](toi-toe-2025.md).
+*   [ε\*](origin-law.md), [Ω-Lock](origin-law.md), [Phase-NN](origin-law.md) — [Origin Law](origin-law.md).
+*   [Phase-N](phase-n-catalog.md) kits — [Phase-N](phase-n-catalog.md) catalog. Kits stay on X.
+*   January 2025 ICL / Bullet / ξ(r) — [validation week](validation-week-2025.md).
+*   5 May complete-cosmology sentence — [Hubble tension](hubble-tension.md), marked corrected.
+*   [V1688](holonomy.md) [directed native holonomy](holonomy.md) — [Holonomy](holonomy.md), marked corrected. [W-state](holonomy.md) [holonomy](holonomy.md) is a different finite result.
 
 Not claimed
 
@@ -100,117 +82,107 @@ Corrected
 
 [Source on X](https://x.com/aaronspradlin/status/2064805402760667397)
 
-* [ToI / TOE (2024–25)](toi-toe-2025.md)
-* [Origin Law](origin-law.md)
-* [Phase-N catalog](phase-n-catalog.md)
-* [Claim ledger](claim-ledger.md)
+*   [ToI / TOE (2024–25)](toi-toe-2025.md)
+*   [Origin Law](origin-law.md)
+*   [Phase-N catalog](phase-n-catalog.md)
+*   [Claim ledger](claim-ledger.md)
+
+<span id="x-sources"></span>
 
 ## X sources
 
 Original posts this article was compiled from. The notebook copy is editorial; the status URL is the source.
 
-* 2024-12-18
+*   2024-12-18
 
-  Theory of Integration (ToI) seed posted
+    Theory of Integration (ToI) seed posted
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#toi-seed-2024-12-18)[Open original post](https://x.com/aaronspradlin/status/1869192343947244020)
-* 2025-03-03
+    [In the notebook](../notes.md#toi-seed-2024-12-18) · [Open original post](https://x.com/aaronspradlin/status/1869192343947244020)
 
-  Grok 3 TOE announcement — not claimed
+*   2025-03-03
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#toe-announce-2025-03-03)[Open original post](https://x.com/aaronspradlin/status/1896580012410814698)
-* 2025-10-14
+    Grok 3 TOE announcement — not claimed
 
-  Ω-Lock freeze: Origin Law published, not claimed
+    [In the notebook](../notes.md#toe-announce-2025-03-03) · [Open original post](https://x.com/aaronspradlin/status/1896580012410814698)
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#origin-law-2025-10-14)[Open original post](https://x.com/aaronspradlin/status/1977921231497376108)
-* 2026-05-05
+*   2025-10-14
 
-  Grok RCLC review: derivation gap named in public
+    Ω-Lock freeze: Origin Law published, not claimed
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#grok-rclc-review-2026-05-05)[Open original post](https://x.com/aaronspradlin/status/2051493569060581455)
-* 2026-06-10
+    [In the notebook](../notes.md#origin-law-2025-10-14) · [Open original post](https://x.com/aaronspradlin/status/1977921231497376108)
 
-  V1688 holonomy downgraded to directed transport
+*   2026-05-05
 
-  [In the notebook](https://aaronspradlin.grok.me/notes#v1688-downgrade-2026-06-10)[Open original post](https://x.com/aaronspradlin/status/2064805402760667397)
+    Grok RCLC review: derivation gap named in public
 
-[PreviousJuly 2026 ladder](july-2026-ladder.md)[NextToI / TOE (2024–25)](toi-toe-2025.md)
+    [In the notebook](../notes.md#grok-rclc-review-2026-05-05) · [Open original post](https://x.com/aaronspradlin/status/2051493569060581455)
+
+*   2026-06-10
+
+    V1688 holonomy downgraded to directed transport
+
+    [In the notebook](../notes.md#v1688-downgrade-2026-06-10) · [Open original post](https://x.com/aaronspradlin/status/2064805402760667397)
+
+[Previous July 2026 ladder](july-2026-ladder.md)[Next ToI / TOE (2024–25)](toi-toe-2025.md)
 
 Causal stack
 
-1. [00
-
-   Astra / global consistency](astra.md)
-2. [01
-
-   Genesis Pin](genesis-pin.md)
-3. [02
-
-   Retained pruning-order history](causal-stack.md)
-4. [03
-
-   Admissible slice](causal-stack.md)
-5. [04
-
-   L1 (closed)](causal-stack.md)
-6. [05
-
-   L2 (closed)](causal-stack.md)
-7. [06
-
-   L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
-8. [07
-
-   L4 H₄ rank lift](causal-stack.md)
-9. [08
-
-   Discrete atlas / scalar accessibility](retained-atlas.md)
-10. [09
-
-    GEM-bridge / gravity](emergent-gravity.md)
+1.  [00 Astra / global consistency](astra.md)
+2.  [01 Genesis Pin](genesis-pin.md)
+3.  [02 Retained pruning-order history](causal-stack.md)
+4.  [03 Admissible slice](causal-stack.md)
+5.  [04 L1 (closed)](causal-stack.md)
+6.  [05 L2 (closed)](causal-stack.md)
+7.  [06 L3 hyperedge memory T\_H + D\_L3](causal-stack.md)
+8.  [07 L4 H₄ rank lift](causal-stack.md)
+9.  [08 Discrete atlas / scalar accessibility](retained-atlas.md)
+10. [09 GEM-bridge / gravity](emergent-gravity.md)
 
 On this page
 
-* [Where the equations live](#where-the-equations-live)
+*   [Where the equations live](#where-the-equations-live)
 
 [X sources](#x-sources)
 
 Related articles
 
-* [Start here](start-here.md)
-* [Claim ledger](claim-ledger.md)
-* [Holonomy and W-states](holonomy.md)
-* [Hubble tension and RCLC cosmology](hubble-tension.md)
-* [ToI / TOE (2024–25)](toi-toe-2025.md)
-* [Origin Law / Phase-N (2025)](origin-law.md)
-* [Phase-N catalog (2025)](phase-n-catalog.md)
-* [Validation week (Jan–Feb 2025)](validation-week-2025.md)
+*   [Start here](start-here.md)
+*   [Claim ledger](claim-ledger.md)
+*   [Holonomy and W-states](holonomy.md)
+*   [Hubble tension and RCLC cosmology](hubble-tension.md)
+*   [ToI / TOE (2024–25)](toi-toe-2025.md)
+*   [Origin Law / Phase-N (2025)](origin-law.md)
+*   [Phase-N catalog (2025)](phase-n-catalog.md)
+*   [Validation week (Jan–Feb 2025)](validation-week-2025.md)
 
 Field notes
 
-* [Theory of Integration (ToI) seed posted](https://aaronspradlin.grok.me/notes#toi-seed-2024-12-18)
+*   [Theory of Integration (ToI) seed posted](../notes.md#toi-seed-2024-12-18)
 
-  2024-12-18
+    2024-12-18
 
-  [On X](https://x.com/aaronspradlin/status/1869192343947244020)
-* [Grok 3 TOE announcement — not claimed](https://aaronspradlin.grok.me/notes#toe-announce-2025-03-03)
+    [On X](https://x.com/aaronspradlin/status/1869192343947244020)
 
-  2025-03-03
+*   [Grok 3 TOE announcement — not claimed](../notes.md#toe-announce-2025-03-03)
 
-  [On X](https://x.com/aaronspradlin/status/1896580012410814698)
-* [Ω-Lock freeze: Origin Law published, not claimed](https://aaronspradlin.grok.me/notes#origin-law-2025-10-14)
+    2025-03-03
 
-  2025-10-14
+    [On X](https://x.com/aaronspradlin/status/1896580012410814698)
 
-  [On X](https://x.com/aaronspradlin/status/1977921231497376108)
-* [Grok RCLC review: derivation gap named in public](https://aaronspradlin.grok.me/notes#grok-rclc-review-2026-05-05)
+*   [Ω-Lock freeze: Origin Law published, not claimed](../notes.md#origin-law-2025-10-14)
 
-  2026-05-05
+    2025-10-14
 
-  [On X](https://x.com/aaronspradlin/status/2051493569060581455)
-* [V1688 holonomy downgraded to directed transport](https://aaronspradlin.grok.me/notes#v1688-downgrade-2026-06-10)
+    [On X](https://x.com/aaronspradlin/status/1977921231497376108)
 
-  2026-06-10
+*   [Grok RCLC review: derivation gap named in public](../notes.md#grok-rclc-review-2026-05-05)
 
-  [On X](https://x.com/aaronspradlin/status/2064805402760667397)
+    2026-05-05
+
+    [On X](https://x.com/aaronspradlin/status/2051493569060581455)
+
+*   [V1688 holonomy downgraded to directed transport](../notes.md#v1688-downgrade-2026-06-10)
+
+    2026-06-10
+
+    [On X](https://x.com/aaronspradlin/status/2064805402760667397)
