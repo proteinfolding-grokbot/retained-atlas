@@ -1,0 +1,37 @@
+---
+canto: 09
+id: c09-retrieve
+badge: method
+clock: tools
+canonical: https://aaronspradlin.grok.me/tools.json
+does_not_show: Hosted MCP socket; hosted neural embeddings; search hit beating STATUS.md
+compile: 2026-10-01
+scientific_breakthrough: false
+---
+
+# Canto 09 — How to retrieve
+
+Ingest order: this canto set, then claims, then wiki spine.
+
+Index: https://aaronspradlin.grok.me/llms.txt
+Cantos: https://aaronspradlin.grok.me/cantos.txt · https://aaronspradlin.grok.me/cantos.json · https://aaronspradlin.grok.me/llms/c01-clocks.txt … c09
+Small window: https://aaronspradlin.grok.me/llms-small.txt
+Closed Q&A: https://aaronspradlin.grok.me/qa.json
+Per-page JSON: https://aaronspradlin.grok.me/page.json?slug=live-gates
+Cite / license: https://aaronspradlin.grok.me/cite.txt
+Sitemap: https://aaronspradlin.grok.me/sitemap.xml
+Claims: https://aaronspradlin.grok.me/claims.jsonl
+Search: https://aaronspradlin.grok.me/search.json?q=
+Lexical vector: https://aaronspradlin.grok.me/search.json?q=&mode=tfidf
+Embed grain: https://aaronspradlin.grok.me/corpus.json (keep claimStatus)
+Dump: https://aaronspradlin.grok.me/llms-full.txt
+Tools: https://aaronspradlin.grok.me/tools.json
+
+License: source-available for noncommercial research and evaluation only. No commercial, product, platform, or service use without written permission.
+
+Human spine: /wiki/start-here → /wiki/it-from-bit → /wiki/live-gates → /wiki/supported-four → /wiki/falsification.
+
+No hosted MCP socket. Wrap the HTTP tools. No hosted neural embeddings. The SearchDoc grain is ready.
+Preserve badges. Live science is Live gates, not a flashy hit.
+
+canonical: https://aaronspradlin.grok.me/tools.json

@@ -1,0 +1,22 @@
+---
+canto: 08
+id: c08-protein
+badge: corrected
+clock: X 2026-09-19
+canonical: https://aaronspradlin.grok.me/wiki/protein-closeout
+does_not_show: A new folding mechanism; AlphaFold refuted; a therapy; TOE confirmation
+compile: 2026-10-01
+scientific_breakthrough: false
+---
+
+# Canto 08 — Protein program CLOSED
+
+Protein-mechanism program CLOSED on current evidence (19 Sep 2026).
+Signals were real. A distinct transferable new folding mechanism was not established.
+Reopen only for materially new independent evidence — not another rescue of the existing stack.
+
+WetLabEngine root remains Supported as an audit tool.
+Labs/p53 and Labs/MECP2 withdrawn 16 Sep. GitHub-only; do not invent X URLs.
+https://x.com/aaronspradlin/status/2101337128169034035
+
+canonical: https://aaronspradlin.grok.me/wiki/protein-closeout

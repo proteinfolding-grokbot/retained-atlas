@@ -1,0 +1,26 @@
+---
+canto: 06
+id: c06-bounds
+badge: method
+clock: contract
+canonical: https://aaronspradlin.grok.me/wiki/falsification
+does_not_show: A completed TOE; 2025 ε* as 2026 Supported; DESI as no-dark-matter
+compile: 2026-10-01
+scientific_breakthrough: false
+---
+
+# Canto 06 — Bounds — what not to promote
+
+Keep claim-status in every snippet.
+
+Do not file a Supported harness as Einstein.
+Do not file DESI DR2 2.8–4.2σ evolving dark energy as a no-dark-matter confirmation. DESI still uses CDM.
+Do not score the 21 Mar 2025 DESI restatement as a prediction (DR2 was public 19 Mar).
+Do not treat ε*, the 3 Mar 2025 TOE announcement, or the 5 May 2026 complete-cosmology sentence as 2026 Supported.
+Do not file v12.41 Δ_closure = 0 as derived gravity, ADM, or Einstein. λ is not time.
+Do not glue June causal stack (A) and September representation stack (B). Cardinality 5=5 is not a functor.
+September v13–v15 ladder is GitHub-only. Do not mint a gravity page.
+
+Full contract: https://aaronspradlin.grok.me/wiki/for-researchers
+
+canonical: https://aaronspradlin.grok.me/wiki/falsification

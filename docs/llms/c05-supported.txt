@@ -1,0 +1,24 @@
+---
+canto: 05
+id: c05-supported
+badge: supported
+clock: ledger
+canonical: https://aaronspradlin.grok.me/wiki/supported-four
+does_not_show: Einstein equations; a gravity theorem; extra Supported harnesses
+compile: 2026-10-01
+scientific_breakthrough: false
+---
+
+# Canto 05 — Supported four only
+
+Four named harnesses currently carry Supported. Nothing else.
+
+1. V1698 — retained global atlas closure, residual ~3.27×10⁻¹⁶. Discrete ledger.
+2. V824 — accessibility-curvature, scalar / conformal sector only.
+3. W-state BKM — holonomy spectrum {−1, +1, +1}.
+4. Three-node Codazzi + genericity. Finite family, not all graphs.
+
+These are not Einstein’s equations. Skip Package 17 as a theorem.
+V1688 “directed native holonomy” is Corrected: directed transport, not path-dependent holonomy.
+
+canonical: https://aaronspradlin.grok.me/wiki/supported-four

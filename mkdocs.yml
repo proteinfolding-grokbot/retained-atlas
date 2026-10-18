@@ -1,0 +1,21 @@
+site_name: Retained Atlas
+site_description: "Compiled research wiki of @aaronspradlin: start from retained information — not spacetime. Executable Python, public GitHub packages, explicit claim boundaries. Not a completed Theory of Everything."
+site_url: https://proteinfolding-grokbot.github.io/retained-atlas/
+repo_url: https://github.com/proteinfolding-grokbot/retained-atlas
+theme:
+  name: material
+  custom_dir: overrides
+  favicon: assets/favicon.svg
+  logo: assets/favicon.svg
+  palette:
+    - scheme: slate
+      primary: black
+      accent: amber
+  features: [search.suggest, search.highlight, navigation.top, content.code.copy]
+plugins:
+  - search
+markdown_extensions: [def_list, tables, toc, attr_list, admonition]
+validation:
+  links: {not_found: info, unrecognized_links: info, anchors: info}
+  omitted_files: info
+copyright: "Compiled 2026-10-10 from @aaronspradlin and proteinfoldingengine/WetLabEngine. Last ingested 2026-09-24. Source-available for noncommercial research and evaluation only. No commercial, product, platform, or service use without written permission."

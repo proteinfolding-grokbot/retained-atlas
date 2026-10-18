@@ -1,0 +1,25 @@
+---
+canto: 03
+id: c03-core
+badge: restricted
+clock: X 2026-09-21 (not STATUS)
+canonical: https://aaronspradlin.grok.me/wiki/it-from-bit
+does_not_show: Einstein derived; a smuggled metric as a theorem; STATUS bump; gravity found
+compile: 2026-10-01
+scientific_breakthrough: false
+---
+
+# Canto 03 — Forced geometry — It from bit, bind, and order
+
+Core concept. Public voice, not a theorem.
+
+Do not smuggle entropy, area laws, causal order, or a metric, then derive the rest.
+Start with identities that cannot be erased and rules for how they recombine.
+What survives is forced structure. Pairs look geometric. Three-way combinations produce an associator that will not reduce to pairs.
+Not assumed geometry. Forced geometry.
+
+Wheeler’s “it from bit” is prior art, not a result proved here.
+June freeze still stands: geometry-like closure only counts as retained when bind + order survive.
+Matching published operator is v15.45 on main. v15.43 is on main and is not the head of the line. Source correspondence NOT_EVALUATED. Not a STATUS bump.
+
+canonical: https://aaronspradlin.grok.me/wiki/it-from-bit

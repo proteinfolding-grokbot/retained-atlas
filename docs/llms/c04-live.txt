@@ -1,0 +1,35 @@
+---
+canto: 04
+id: c04-live
+badge: restricted
+clock: STATUS publication note · v15.03 retained
+canonical: https://aaronspradlin.grok.me/wiki/live-gates
+does_not_show: Einstein; Pillar 3 closed; v15.76 as STATUS; gravity found
+compile: 2026-10-01
+scientific_breakthrough: false
+---
+
+# Canto 04 — Live gates — STATUS.md only
+
+If a gate is not on Live gates, it is not current science on this wiki.
+
+Main STATUS.md is a publication note for v15.44 and v15.45.
+Recorded v15.45 result: FACTORIZATION_CERTIFIED_WITH_EXPLICIT_SPECTRAL_BOUNDARY.
+Source correspondence NOT_EVALUATED. Pillar 3 OPEN.
+No physical gravity, stress-energy, Einstein equations, continuum limit, or foundational uniqueness.
+
+The v15.03 obstruction is not erased. HISTORICAL_STATUS_v15.03.md keeps NO_CERTIFIED_GRAPH_SITE_FACTORIZATION.
+A graph node is not a certified quantum site. State-dependent lifts exist and are nonunique.
+Five nontrivial sites cannot equal C^125.
+
+Chain the historical file still records: retained graph → quantum-site carrier STOPPED.
+state-independent lift → noncentral P NO-GO.
+state + graph-site → P_f LAWFUL, NONUNIQUE. [A] → [P] EXACT COMPRESSION. [P] → X* → [g] CERTIFIED CONDITIONAL.
+
+Next lawful move: NEW ASSUMPTION or new frozen structure. Do not pick log ρ or a Pauli axis.
+Genesis Pin is a ledger, not a selector. Do not invent X URLs for GitHub-only gates.
+scientific_breakthrough: false.
+
+v15.76 is not on this page and is not merged. Two verdicts, do not collapse them: https://aaronspradlin.grok.me/wiki/v1576-cptp
+
+canonical: https://aaronspradlin.grok.me/wiki/live-gates

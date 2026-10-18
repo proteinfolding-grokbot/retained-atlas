@@ -1,0 +1,57 @@
+---
+canto: 07
+id: c07-research
+badge: restricted
+clock: main v15.45; v16.55 not on main; tip 1e7cd09 scoped C3; not a general no-go
+canonical: https://aaronspradlin.grok.me/wiki/research-ladder
+does_not_show: STATUS bump; Einstein; arity 5 as closed; higher floors as closed; X15U as proved; spare capacity as a general no-go; numbered v16 for C3; a source
+compile: 2026-10-01
+scientific_breakthrough: false
+---
+
+# Canto 07 — Off-main research — not STATUS
+
+research/ branches are inspectable demos. They do not move STATUS.md.
+
+v15.43 — canonical response curvature nonzero. On main. Not the head of the line.
+v15.44 — intrinsic interpretation, no source fit. On main.
+v15.45 — FACTORIZATION_CERTIFIED_WITH_EXPLICIT_SPECTRAL_BOUNDARY. On main. Source NOT_EVALUATED.
+v15.46–v15.54 — PR #57, unmerged. Not a live gate. Verifier GREEN on v15.54 is not the final certificate.
+v15.55 — RESPONSE_NONUNIQUE on its research branch. Four degrees of freedom. Not a unique source. Not STATUS.
+v15.98–v16.55 — research branches, not merged to main. Index: https://aaronspradlin.grok.me/wiki/v1598-line
+v16.55: bounded renewable guard on the integration branch. Not universal X15U.
+A11.X59–X61: accepted analytical checkpoints on research/uqcf-overlapping-guard-exchange. Not numbered v16. X60 is not universal arbitrary-root repair. X62–X64 have no closeout.
+A12.1–A12.5: self-contained closeout, issue #104, commit bbc6e6f. Not numbered v16 certification. Not physical validation. The stronger graph-descriptor impossibility is withdrawn as unproved, not declared false.
+Post-A12 at 6a99418: auxiliary cycle breaking was the named next line. No closeout under that name at the 10 Oct tip. Not the current frontier.
+C3 reserve: tip 1e7cd09. Spare labels can stay unreachable from a non-isolated source. Not a general impossibility. Not connectivity.
+C3 repair: scoped interfaces only. Not broad C3. Not guaranteed progress.
+C3 readout: counts do not derive access. Safe core writes do not initialize the hidden record.
+v15.98: COMPOSITION_ORDER_GEOMETRY_CONFIRMED and COMMUTING_COMPOSITION_ACTIVATION_CONFIRMED.
+v15.99: INVALID. A true-looking predicate does not override failed validity.
+v16.13F: partial foundation. Obstruction composition underdetermined. Not Einstein.
+v16.32: NONINJECTIVE. The cover is not reconstructed.
+v16.35: combinatorial barriers. Not a metric.
+v16.40: moving-location unit witness on one tree. Not a universal law.
+v16.43: stars are one component except packed m=k=q, and that case has m! components at barrier 1. Height is not ambiguity and not one move.
+v16.45: binary-fork family, arbitrary child degrees in domain. Not one graph.
+v16.48: chain induction closed on the integration branch. Chains only. Not a source.
+v16.49: fork of two chains. Receipt closeout approved for that scope. Not arbitrary trees.
+v16.51: one ternary root, hitting number 2. Not a nonunit witness.
+v16.52: repeated binary and ternary composition. Total excursion at most 1.
+v16.53: internal arities 2, 3, and 4. Arity 5 out.
+v16.54: floor-two connectivity. Higher floors open. Not the global sum.
+v16.55: bounded renewable guard. Not universal X15U.
+C3: spare capacity is not reachable reserve. Not a general no-go. Not numbered v16.
+v15.78–v15.97 remain on https://aaronspradlin.grok.me/wiki/v1578-line. v15.88 still applies a 2003 theorem.
+v15.56–v15.74 — branches exist. This compile does not adopt their RESULTS.
+Later page: https://aaronspradlin.grok.me/wiki/v1598-line
+
+Still pre-time gravity. Einstein not closed. Pillar 3 OPEN.
+Index: https://aaronspradlin.grok.me/wiki/research-ladder
+v15.45 page: https://aaronspradlin.grok.me/wiki/v1545-factorization
+v15.75 page: https://aaronspradlin.grok.me/wiki/v1575-affine
+v15.76 page: https://aaronspradlin.grok.me/wiki/v1576-cptp
+v15.77 page: https://aaronspradlin.grok.me/wiki/v1577-baseline
+v15.78–v15.97 page: https://aaronspradlin.grok.me/wiki/v1578-line
+
+canonical: https://aaronspradlin.grok.me/wiki/research-ladder
