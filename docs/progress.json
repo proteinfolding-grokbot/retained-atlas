@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 67,
+ "count": 68,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -1222,6 +1222,29 @@
    "sources": [
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/8d9c8d0afe343cadfcf26fc45bfcf41e05467a63",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/f7807fe6"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-19-receiver_identification-draft-28-the-transfer-step-needs-exactly-two-bookkeeping-equalities-along-the-records-lineage-review-of-sections-31-32-blocked-by-the-gemini-spending-cap-6-pm-run",
+   "date": "2026-10-19",
+   "title": "receiver_identification draft 28: the transfer step needs exactly two bookkeeping equalities along the record's lineage; review of sections 31-32 blocked by the Gemini spending cap (6 p.m. run)",
+   "status": "restricted",
+   "status_detail": "Restricted · unreviewed draft · research branch · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:physical-bridge-rid-draft28"
+   ],
+   "summary": "draft 28 adds section 33. It asks what the one pruning step that actually happens needs, using only the read bookkeeping and no nonnegativity, sibling comparison or sameness between structures. The answer is two families of simple equalities along the record's own lineage. The receiver starts uninformed, and every node that branches off the lineage reads nothing of the record at the node where it branches off. These are exactly equivalent to the transfer in every structure. Each equality is needed, nothing else is constrained, and the address tree does not even have to branch. Nonnegativity at the lineage's forks and strictly local reads are two different ways to supply the second family. Separately, the frozen review of sections 31-32 was re-sent with a prompt half the size under a recorded amendment, after the exact check reproduced byte for byte. Gemini again refused, and this time its message said the project has exceeded its monthly spending cap. The earlier refusals were that cap, not prompt size, so no further review calls will be made until the cap is raised.",
+   "does_not_show": "that either equality family is inherited rather than assumed; that the test structures occur as events; that a holding is a record anyone can read; physical access; any independent review of sections 31-33 (none was obtained). The scratch check is exploratory (exact integer arithmetic on finite trees, not preregistered, one hand prediction corrected); the general proofs carry the claims.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-28-the-transfer-step-needs-exactly-two-bookkeeping-equalities-along-the-records-lineage-review-of-sections-31-32-blocked-by-the-gemini-spending-cap-6-pm-run",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/6997aeb4b93fafdcd04887f43640dea012b2627f",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39331488190",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39331510927",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/cd4db0fb67cb455207fcba218ead7fee480ea92f",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/09858d2ae57ee87331272e6e9e90d9125dc70a1c"
    ],
    "format": "dated-entry"
   },

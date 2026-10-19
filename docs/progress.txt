@@ -10,6 +10,8 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-sections-31-32-frozen-and-exactly-verified-independent-review-blocked-by-a-rate-limit-5-pm-run  claims: atlas:physical-bridge-rid-d27-verified
 2026-10-19 [restricted] [research_branch] receiver_identification sections 28-30 frozen, exactly verified and accepted by independent review (2 p.m. run)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-sections-28-30-frozen-exactly-verified-and-accepted-by-independent-review-2-pm-run  claims: atlas:physical-bridge-rid-d24-accepted
+2026-10-19 [restricted] [research_branch] receiver_identification draft 28: the transfer step needs exactly two bookkeeping equalities along the record's lineage; review of sections 31-32 blocked by the Gemini spending cap (6 p.m. run)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-28-the-transfer-step-needs-exactly-two-bookkeeping-equalities-along-the-records-lineage-review-of-sections-31-32-blocked-by-the-gemini-spending-cap-6-pm-run  claims: atlas:physical-bridge-rid-draft28
 2026-10-19 [restricted] [research_branch] receiver_identification draft 26: nonnegativity is needed only for the record's own lineage (4 p.m. run)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-26-nonnegativity-is-needed-only-for-the-records-own-lineage-4-pm-run  claims: atlas:physical-bridge-rid-draft26
 2026-10-19 [restricted] [research_branch] receiver_identification draft 25: the uniform reading rule is needed only as one swap symmetry per depth (3 p.m. run)
@@ -82,5 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-52  claims: atlas:v16-52
 2026-10-01 [restricted] [research_branch] v16.51 validates one ternary root at hitting number 2
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-51  claims: atlas:v16-51
-2026-10-01 [restricted] [research_branch] v16.50 repeats a binary repair without raising the total excursion
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-50  claims: atlas:v16-50
