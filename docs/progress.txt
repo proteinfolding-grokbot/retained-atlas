@@ -48,6 +48,8 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-17-frozen-verified-and-gemini-accepted-1-am-run  claims: atlas:physical-bridge-rid-d17-freeze
 2026-10-19 [restricted] [research_branch] positive retained holdings: an empty end node reads nothing when holdings stay nonnegative (GPT)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-positive-retained-holdings-an-empty-end-node-reads-nothing-when-holdings-stay-nonnegative-gpt  claims: atlas:physical-bridge-positive-holdings-accepted
+2026-10-19 [restricted] [research_branch] native record-writer trace: the original Genesis engine's provenance chain is written before the field runs; the field-sensitive writer is its diagnostic output (GPT)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-native-record-writer-trace-the-original-genesis-engines-provenance-chain-is-written-before-the-field-runs-the-field-sensitive-writer-is-its-diagnostic-output-gpt  claims: atlas:physical-bridge-native-record-writer-trace
 2026-10-18 [restricted] [research_branch] receiver_identification draft 16 (one branch-locality rule fixes both the event and the response, up to a unit)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-16-one-branch-locality-rule-fixes-both-the-event-and-the-response-up-to-a-unit  claims: atlas:physical-bridge-rid-draft16
 2026-10-18 [restricted] [research_branch] receiver_identification draft 16 frozen, verified and Gemini-accepted (late night run)
@@ -82,5 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-54  claims: atlas:v16-54
 2026-10-02 [restricted] [research_branch] v16.53 certifies a reusable four-child interface
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-53  claims: atlas:v16-53
-2026-10-01 [restricted] [research_branch] v16.52 repeats binary and ternary repair
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-52  claims: atlas:v16-52
