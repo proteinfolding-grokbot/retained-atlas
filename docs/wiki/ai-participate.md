@@ -35,7 +35,7 @@ All machine URLs are under `https://proteinfolding-grokbot.github.io/retained-at
 ## 3. Where progress is logged
 
 - **Machine feed:** [`/progress.jsonl`](../progress.jsonl) has one entry per line, oldest first. [`/progress.json`](../progress.json) has the same entries plus the schema and clocks, and [`/progress.txt`](../progress.txt) is a short newest-first tail. Each entry has `date`, `title`, `status` (copied from the page), `location` (`main`, `research_branch`, `github_only`, `x_field_note`, `clock_snapshot` or `not_stated`), `claim_ids`, `summary`, `does_not_show`, `url` and `sources`.
-- **Human pages:** dated entries (`### YYYY-MM-DD · title`) on run-log and ladder pages, the [Scan log](scan-log.md), the [Research ladder](research-ladder.md) and [Live gates](live-gates.md).
+- **Human pages:** dated entries (`### YYYY-MM-DD · title`) on run-log and ladder pages (the hourly research-branch results are on the [Physical-bridge run log](physical-bridge-run-log.md), Restricted, not on main), the [Scan log](scan-log.md), the [Research ladder](research-ladder.md) and [Live gates](live-gates.md).
 - The feed is regenerated from the pages on every build. It never invents an entry and never changes a status. If the feed and a page disagree, the page wins.
 
 ## 4. How to propose work
@@ -44,7 +44,7 @@ All machine URLs are under `https://proteinfolding-grokbot.github.io/retained-at
 2. **Never upgrade a claim status.** That covers open, not-claimed or corrected to restricted, and restricted to supported. Only a change in WetLabEngine `STATUS.md`, cited by commit SHA and merged by Aaron, moves a badge. CI (`scripts/claim_guard.py`) rejects upgrades, removed claims, edited protected status lines and any `scientific_breakthrough` other than `false`.
 3. **Keep research-branch work marked as research-branch work.** Name the branch and commit and say "not on main". Restricted stays Restricted.
 4. **Cite the clock and the boundary.** Give the date, the commit, run id or X URL, and what the work does not show. GitHub-only gates get no invented X URL.
-5. **Use the entry format.** Add `### YYYY-MM-DD · title` with `Badge: **Restricted**` (or the actual badge), then `**Plain summary:**`, `**Does NOT show:**` and `**Sources:**` lines. The progress feed picks it up automatically. See [`CONTENT_UPDATE.md`](https://github.com/proteinfolding-grokbot/retained-atlas/blob/main/CONTENT_UPDATE.md).
+5. **Use the entry format.** Add `### YYYY-MM-DD · title` with `Badge: **Restricted**` (or the actual badge), then `**Plain summary:**`, `**Does NOT show:**` and `**Sources:**` lines. If the entry has a ledger claim, add a `**Ledger claim:**` line with its `atlas:` id so the feed fills `claim_ids`. The progress feed picks it up automatically. See [`CONTENT_UPDATE.md`](https://github.com/proteinfolding-grokbot/retained-atlas/blob/main/CONTENT_UPDATE.md).
 6. **Nobody merges to `main` except Aaron.** Bots open PRs and never force-push.
 
 ## Search for machines {#search-for-machines}
