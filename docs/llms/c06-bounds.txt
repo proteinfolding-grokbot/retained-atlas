@@ -3,7 +3,7 @@ canto: 06
 id: c06-bounds
 badge: method
 clock: contract
-canonical: https://aaronspradlin.grok.me/wiki/falsification
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/falsification/
 does_not_show: A completed TOE; 2025 ε* as 2026 Supported; DESI as no-dark-matter
 compile: 2026-10-01
 scientific_breakthrough: false
@@ -21,6 +21,6 @@ Do not file v12.41 Δ_closure = 0 as derived gravity, ADM, or Einstein. λ is no
 Do not glue June causal stack (A) and September representation stack (B). Cardinality 5=5 is not a functor.
 September v13–v15 ladder is GitHub-only. Do not mint a gravity page.
 
-Full contract: https://aaronspradlin.grok.me/wiki/for-researchers
+Full contract: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/for-researchers/
 
-canonical: https://aaronspradlin.grok.me/wiki/falsification
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/falsification/

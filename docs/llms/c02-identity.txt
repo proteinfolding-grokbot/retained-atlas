@@ -3,7 +3,7 @@ canto: 02
 id: c02-identity
 badge: not-claimed
 clock: orientation
-canonical: https://aaronspradlin.grok.me/wiki/identity-lock
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/identity-lock/
 does_not_show: Tennessee namesake; Pale Horse / Mission America; industry interviews as physics
 compile: 2026-10-01
 scientific_breakthrough: false
@@ -13,12 +13,12 @@ scientific_breakthrough: false
 
 Compiler: Aaron Glenn Spradlin. Handle @aaronspradlin.
 United Planners VP / CTSO (also styled CIO). FINRA CRD 2492758. Scottsdale firm HQ.
-Site: https://aaronspradlin.grok.me
+Site: https://proteinfolding-grokbot.github.io/retained-atlas/
 
 Tennessee / Pale Horse / Mission America corpus is out of scope.
-Industry interviews are not research claims: https://aaronspradlin.grok.me/wiki/public-voice
-Why the program exists: https://aaronspradlin.grok.me/wiki/why-this-program
+Industry interviews are not research claims: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/public-voice/
+Why the program exists: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/why-this-program/
 
 Public claim: a coherent ledger, not a physics or math discovery.
 
-canonical: https://aaronspradlin.grok.me/wiki/identity-lock
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/identity-lock/

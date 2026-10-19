@@ -3,7 +3,7 @@ canto: 03
 id: c03-core
 badge: restricted
 clock: X 2026-09-21 (not STATUS)
-canonical: https://aaronspradlin.grok.me/wiki/it-from-bit
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/it-from-bit/
 does_not_show: Einstein derived; a smuggled metric as a theorem; STATUS bump; gravity found
 compile: 2026-10-01
 scientific_breakthrough: false
@@ -22,4 +22,4 @@ Wheeler’s “it from bit” is prior art, not a result proved here.
 June freeze still stands: geometry-like closure only counts as retained when bind + order survive.
 Matching published operator is v15.45 on main. v15.43 is on main and is not the head of the line. Source correspondence NOT_EVALUATED. Not a STATUS bump.
 
-canonical: https://aaronspradlin.grok.me/wiki/it-from-bit
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/it-from-bit/
