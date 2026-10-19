@@ -1,5 +1,6 @@
-"""Regenerate docs/data/llms-site.txt and docs/data/claims-pages.jsonl from docs/**/*.md front matter + claims/ledger.jsonl.
-Run before `mkdocs build` (the Actions workflow does this)."""
+"""Regenerate docs/data/llms-site.txt and docs/data/claims-pages.jsonl from docs/**/*.md front matter + claims/ledger.jsonl,
+then the AI-vector surfaces (progress feed, search index, llms.txt progress block, llms-full.txt) via build_ai_surfaces.py.
+Run before `mkdocs build` (the Actions workflows do this)."""
 import json,glob,os,re
 BASE=os.environ.get('SITE_URL','https://proteinfolding-grokbot.github.io/retained-atlas/').rstrip('/')
 pages=[]
@@ -26,6 +27,8 @@ f'Public: {BASE}/','Original (Grok-hosted, archived): https://aaronspradlin.grok
 L+=[f'- {BASE}/llms/{os.path.basename(x)}' for x in sorted(glob.glob('docs/llms/*.txt'))]
 L+=['',f'Claims ledger: {BASE}/claims.jsonl · Corpus: {BASE}/data/corpus.json','','## Pages','']
 L+=[f"- [{fm.get('title',p)}]({url})"+(f" [{fm['claimStatus']}]" if fm.get('claimStatus') else '')+(f": {fm['dek']}" if fm.get('dek') else '') for p,fm,url in pages]
-# docs/llms.txt stays byte-identical to the original
+# docs/llms.txt is hand-maintained (canonical GitHub Pages URLs); build_ai_surfaces.py only rewrites its '## Latest progress' block
 open('docs/data/llms-site.txt','w').write('\n'.join(L)+'\n')
 print(len(pages),'pages,',len(claims),'ledger claims')
+
+import runpy; runpy.run_path(os.path.join(os.path.dirname(os.path.abspath(__file__)),'build_ai_surfaces.py'),run_name='__main__')

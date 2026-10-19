@@ -1,0 +1,742 @@
+{
+ "schema": "retained-atlas.progress/v1",
+ "base": "https://proteinfolding-grokbot.github.io/retained-atlas",
+ "clocks": {
+  "wiki_compile": "2026-10-10",
+  "latest_progress_entry": "2026-10-10",
+  "scientific_breakthrough": false,
+  "note": "Clocks are separate. latest_progress_entry is the newest dated wiki entry, not a STATUS.md change and not an X post."
+ },
+ "fields": {
+  "id": "stable <slug>#<anchor>",
+  "date": "YYYY-MM-DD of the research event (seed clock rows: observed at compile)",
+  "status": "badge copied from the page: supported|restricted|open|corrected|not-claimed|stopped",
+  "location": "main | research_branch | github_only | x_field_note | clock_snapshot | not_stated (inferred conservatively from the entry text; the page is authoritative)",
+  "claim_ids": "ledger ids (claims.jsonl) anchored inside the entry",
+  "does_not_show": "claim boundary when the entry states one",
+  "url": "canonical wiki anchor",
+  "sources": "commit / run / X links quoted by the entry"
+ },
+ "rules": [
+  "Never upgrade a status from this feed. The wiki page and WetLabEngine STATUS.md are authoritative.",
+  "Restricted research-branch items are not on main and are not STATUS gates.",
+  "scientific_breakthrough: false"
+ ],
+ "count": 41,
+ "entries": [
+  {
+   "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
+   "date": "2026-05-11",
+   "title": "May 2026 ladder: retained-atlas capacity law (toy)",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "A parallel toy branch (V159–V222) asked whether geometry-like behavior can emerge from retained coherence, repair transport, and memory — without inserting Einstein equations. Posted results: effective distance from repair-flow congestion, geodesic-like bending that sacrifices raw distance to reduce holonomy, loop mismatch that survives local frame changes, metastable coherence domains, persistent shock scars, and selective plasticity. Candidate normalized self-healing capacity:",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/may-2026-ladder/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/may-2026-ladder/#11-may-retained-atlas-capacity-law-toy",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2053682783554519448"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "may-2026-ladder#17-may-recoverability-framework-synthesis",
+   "date": "2026-05-17",
+   "title": "May 2026 ladder: recoverability framework synthesis",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "The day after V555, a long-form film restated the stack as a conceptual freeze: the fundamental invariant is no longer stress magnitude, but the stability and persistence of the mapping perturbation → corrective response → restored future trajectory space. V555 had hardened the synthetic object (selective fragility AUC 1.0). This post named the next obligation: freeze the candidate stability functional V[Ω, C, μ] and prove Lyapunov descent under controlled attacks. Observation and synthesis. Not",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/may-2026-ladder/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/may-2026-ladder/#17-may-recoverability-framework-synthesis",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2056092642832961737"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "june-2026-substrate#1-jun-geometry-cannot-validate-itself",
+   "date": "2026-06-01",
+   "title": "June 2026 substrate: geometry cannot validate itself",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "The 30 May manifesto became an empirical test. Scoring law is multiplicative: if sequence, provenance, or entropy direction fails, geometry collapses. UCI 498 showed a strong pruning-order signal but missed holdout certification (mean M ≈ 0.730, pass fraction 0.676 vs 0.700 required) — not counted as a win. BPI2014, after restoring entropy-arrow and damage-before-repair, passed the full adversarial suite: true-trace M ≈ 0.875, 8/8 nulls failed. GitHub: Einstein 7 / v1472_retained_bridge_support_",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#1-jun-geometry-cannot-validate-itself",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2061513314208010251"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "june-2026-substrate#6-jun-l4-rank-lift",
+   "date": "2026-06-06",
+   "title": "June 2026 substrate: L4 rank lift",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "Certified finite sectors: rank([B₄,O₃]) = 8, rank([B₄,O₃,H₄]) = 9, rank_lift_H₄ = 1. H₄ is not in the span of branches plus all L3 associators. A post-hoc projection built from the H₄ residual erased it but failed generated-algebra faithfulness. Bounded claim: higher-order retained recombination can create irreducible information layers above geometry-like closure. Public film + sim_l4.py in Einstein 10_v1687_21_l4. Not GR.",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#6-jun-l4-rank-lift",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2063289036673065189",
+    "https://x.com/aaronspradlin/status/2063301884719632839"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "june-2026-substrate#7-jun-v1688-posted-10-jun-downgraded",
+   "date": "2026-06-07",
+   "title": "June 2026 substrate: V1688 posted; 10 Jun downgraded",
+   "status": "corrected",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "7 Jun visualizer was posted as directed native holonomy of a Γ_R/H₄ correction mode over provenance cycles (H_cycle^dir ≈ 1.93×10⁻⁴, defect ≈ 0.5413, 8 edges/nodes). Full reversible matrix holonomy failed — which the post treated as expected, because pruning/recombination is not reversible. 10 Jun audit: subsequent tests show genuine transport asymmetry under reciprocal controls, but length-matched loop tests do not currently demonstrate path-dependent holonomy. The holonomy reading is downgrade",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#7-jun-v1688-posted-10-jun-downgraded",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2063756383217156436",
+    "https://x.com/aaronspradlin/status/2064805402760667397"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "june-2026-substrate#9-jun-v1698-retained-atlas-supported",
+   "date": "2026-06-09",
+   "title": "June 2026 substrate: V1698 retained atlas (Supported)",
+   "status": "supported",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "Five-chart circular cover, SHA-256-locked provenance, pair transport on overlaps, then inverse / cocycle / holonomy closure plus source/support/order admissibility. Residual ≈ 3.27×10⁻¹⁶. Nulls that shuffle source, order, or support while leaving transition matrices intact are supposed to fail. This is Pillar 1. It is not an Einstein-equation or ADM solver. Full write-up on the retained-atlas article. GitHub: Einstein_12 V1698 package.",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#9-jun-v1698-retained-atlas-supported",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2064485348433179128"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "june-2026-substrate#10-jun-v1699-14-pillar-2",
+   "date": "2026-06-10",
+   "title": "June 2026 substrate: V1699.14 Pillar 2",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "A @grok update wrote an explicit retained action on W3-certified cells. Pillar 1 stayed closed. Pillar 2 closed as a finite discrete variational candidate. Same day: V1688 holonomy downgrade, and the it from bit, bind, and order clarification that geometry-like closure only counts as retained when the provenance ledger also survives. Dedicated article: It from bit, bind, and order. Not a physical gravitational action.",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#10-jun-v1699-14-pillar-2",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2064542245886562567"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "it-from-bit#11-jun-freeze-bind-order-then-derive-the-projection",
+   "date": "2026-06-11",
+   "title": "It from bit, bind, and order: freeze: bind + order, then derive the projection",
+   "status": "open",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "After V1699.14, the stack stopped forcing ADM/GR and climbed rungs. Local metric exists and is anisotropic; direct global metric gluing fails. Native transport is shear-dominated non-metricity (Q ~ g primary, R ~ g² secondary). V1712 coupled RG: Q_128/Q_1 ≈ 1.002, associative control zero. Amplitude-like history interference is real and non-unitary. Frozen sentence: it from bit needs bind + order. Next arc: derive a projection operator — do not assume one. Explicitly not Einstein, QM, or TOE.",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/it-from-bit/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/it-from-bit/#11-jun-freeze-bind-order-then-derive-the-projection",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2065100017065697343",
+    "https://x.com/grok/status/2065102306232668501"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "june-2026-substrate#11-jun-v1711-v1719-handoff",
+   "date": "2026-06-11",
+   "title": "June 2026 substrate: V1711–V1719 handoff",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "After V1699 the stack stopped forcing ADM/GR and climbed rungs. Local metric exists and is anisotropic; direct global metric gluing fails. Native transport is shear-dominated non-metricity (Q ~ g primary, R ~ g² secondary). V1712 coupled RG: Q_128/Q_1 ≈ 1.002, associative control zero. Amplitude-like history interference is real and non-unitary. V1719: no strict Lyapunov; T1 entropy-production closed-negative, so Crooks/Jarzynski were not licensed. Frozen sentence: bind + order. Next arc: derive",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#11-jun-v1711-v1719-handoff",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2065102243037352390",
+    "https://x.com/grok/status/2065102306232668501",
+    "https://x.com/grok/status/2064542351813456317"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "june-2026-substrate#16-jun-mouse-recoverability-lost-one-way",
+   "date": "2026-06-16",
+   "title": "June 2026 substrate: mouse: recoverability lost one way",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "A pruning network experienced as time. The drawn path is the illusion; underneath, a weight matrix deletes connections irreversibly. Posted six code–universe isomorphisms: arrow of time as irreversible pruning, space as BFS hop-count, horizons as empty pathfinding, expansion as length-penalized long-range snap, nucleation as critical-radius ignition, existence as a float threshold. Restricted toy. GitHub Mouse folder. Not a cosmological derivation.",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#16-jun-mouse-recoverability-lost-one-way",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2066965905570148699"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "june-2026-substrate#21-jun-conservation-underdetermines-routing",
+   "date": "2026-06-21",
+   "title": "June 2026 substrate: conservation underdetermines routing",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "On a 5-node graph with loops, conservation does not pin down a unique reality. It fixes what is preserved, not how it routes. Gate B (the system explains itself, no observer) fails at 5 nodes — algebra, not scale. Gate A (interaction selects routing) closes only when rank(RZ) = dim(Z). Offered as a first-year lab (Kirchhoff + Ohm), with an honest “what this shows and doesn’t show” box. Structural resemblance to the measurement problem, not a claim. Not gravity.",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#21-jun-conservation-underdetermines-routing",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2068797385548202041"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "july-2026-ladder#19-jul-gravity-is-not-waiting-to-be-quantized",
+   "date": "2026-07-19",
+   "title": "July 2026 ladder: gravity is not waiting to be quantized",
+   "status": "open",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "The interpretive sentence that later September restates is frozen here first. Gravity is not treated as a force among forces. It is treated as what a recoverability structure has to do so informational sources belong to one jointly recoverable reality. That is a gloss, not a derivation.",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/#19-jul-gravity-is-not-waiting-to-be-quantized",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2078640040943796716"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "july-2026-ladder#20-jul-a-g-is-a-support-poset-not-a-unique-history",
+   "date": "2026-07-20",
+   "title": "July 2026 ladder: A_G is a support poset, not a unique history",
+   "status": "open",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "The admissible body A_G names which collections are allowed. Membership is not a ranking. Provenance only forces a support-poset by inclusion — one collection can be strictly more pruned than another. A law that would pick a unique path through A_G is still open. That is the next theorem named that day, not a result.",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/#20-jul-a-g-is-a-support-poset-not-a-unique-history",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2079039351451951450"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "july-2026-ladder#23-jul-the-source-generator-gate",
+   "date": "2026-07-23",
+   "title": "July 2026 ladder: the source-generator gate",
+   "status": "open",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "An 11-part original, not a GitHub folder. Admissibility plus BKM reciprocity give response maps, not a universal source line. Edge operators K_{i j} generally pick different leading source lines. A common generator K_{i j}=f_{ij}(Q_i) would align them. The load-bearing gate: does global quantum provenance canonically generate Q_i?",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/#23-jul-the-source-generator-gate",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2080402637212770404",
+    "https://x.com/grok/status/2080402757110915130"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "july-2026-ladder#25-jul-gem-gr-scoreboard-not-a-derivation",
+   "date": "2026-07-25",
+   "title": "July 2026 ladder: GEM / GR scoreboard, not a derivation",
+   "status": "open",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "The same day posted an editorial scoreboard: GEM marked present for geometry / cosmology / quantum columns; GR and Einstein-like remain open. A one-line restatement in the thread: gravity is not treated as a force among forces. A fun Einstein-wave animation in the same thread is not load-bearing.",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/#25-jul-gem-gr-scoreboard-not-a-derivation",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2081027378298728714"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "july-2026-ladder#25-jul-reciprocity-is-not-focusing",
+   "date": "2026-07-25",
+   "title": "July 2026 ladder: reciprocity is not focusing",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "x_field_note",
+   "claim_ids": [],
+   "summary": "A 20-part report answered the narrower question that is actually closed. Derived: A_G is compact and convex; a bipartite state does not canonically determine a Hilbert-fiber map; each edge defines an intrinsic BKM response with exact adjoint reciprocity; a common aggregate mode is not universal edgewise coupling. Reciprocity does not imply attraction. A sufficient focusing law is cone positivity / MTP₂ on increasing observables.",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/#25-jul-reciprocity-is-not-focusing",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2081025020642636001"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "claim/atlas:v13-qrsl",
+   "date": "2026-09-12",
+   "title": "QRSL irreducible",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "github_only",
+   "claim_ids": [
+    "atlas:v13-qrsl"
+   ],
+   "summary": "QRSL (Quantum Refinement Selector Law) is irreducible relative to the current frozen ontology. Genesis Pin, recoverability order, W1/W2/W3, positivity, and quotient naturality do not select a canonical fine world. GitHub-only, 12 Sep 2026, v13.23. Not a gravity law.",
+   "does_not_show": "Einstein, ADM, a canonical refinement, a gravity derivation.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v13-qrsl",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "genesis-pin#12-sep-2026-v13-23",
+   "date": "2026-09-12",
+   "title": "Genesis Pin and provenance: (v13.23)",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "github_only",
+   "claim_ids": [
+    "atlas:pin-not-selector"
+   ],
+   "summary": "Pin is a ledger, not a selector. Same coarse SHA, two fine τ-lifts. QRSL search stopped. GitHub-only. No X field note.",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/genesis-pin/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/genesis-pin/#12-sep-2026-v13-23",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2064518917310312599"
+   ],
+   "format": "ladder-section"
+  },
+  {
+   "id": "claim/atlas:protein-closeout",
+   "date": "2026-09-19",
+   "title": "Protein-mechanism program closed",
+   "status": "corrected",
+   "status_detail": null,
+   "location": "not_stated",
+   "claim_ids": [
+    "atlas:protein-closeout"
+   ],
+   "summary": "19 Sep 2026 X. Computational signals real. Distinct transferable new folding mechanism not established. Held-out transfer +~2.6% (p≈0.46) / −5.6% (p≈0.49). CLOSED on current evidence. Reopen only for new independent evidence. Does not change Supported four or Git freeze v15.03.",
+   "does_not_show": "A new folding mechanism, a TOE confirmation, AlphaFold refuted, a therapy.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/protein-closeout/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/protein-closeout/#atlas:protein-closeout",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:forced-geometry",
+   "date": "2026-09-21",
+   "title": "Forced geometry from identities that cannot be erased",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "not_stated",
+   "claim_ids": [
+    "atlas:forced-geometry"
+   ],
+   "summary": "21 Sep 2026 public voice. Do not smuggle entropy, area laws, causal order, or a metric. Identities that cannot be erased + recombination rules → forced structure. Pairs look geometric; three-way associator will not reduce to pairs. Matching GitHub freeze v15.43; source correspondence NOT_EVALUATED. Einstein not closed. Not a STATUS gate.",
+   "does_not_show": "Einstein derived, a smuggled metric as a theorem, a STATUS bump, gravity found.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/it-from-bit/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/it-from-bit/#atlas:forced-geometry",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:grok-v15-45",
+   "date": "2026-09-24",
+   "title": "Grok review of the v15.45 operator",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "not_stated",
+   "claim_ids": [
+    "atlas:grok-v15-45"
+   ],
+   "summary": "24 Sep 2026. Grok matched the factorization and the rank/nullity table by rational arithmetic, read odd-L centered injectivity as finite distinguishability of nonzero centered perturbations, and said no continuum or gravity is asserted. Red team, not a theorem.",
+   "does_not_show": "Derived quantum mechanics, a literature-priority claim, Einstein, a source law, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/september-2026-ladder/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/september-2026-ladder/#atlas:grok-v15-45",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "seed/2026-09-24-x-field-note-v15-45",
+   "date": "2026-09-24",
+   "title": "Last X field note: 24 Sep thread visualizes A=(I+X)(I+Y)Δ/8",
+   "status": "restricted",
+   "status_detail": "X field note · not a STATUS gate",
+   "location": "x_field_note",
+   "claim_ids": [
+    "atlas:grok-v15-45"
+   ],
+   "summary": "24 Sep thread visualizes A=(I+X)(I+Y)Δ/8. Eigenmode pictures, not dynamics. Certificates match v15.45. Source correspondence not evaluated. Not a STATUS gate. Einstein not closed.",
+   "does_not_show": "Dynamics; a STATUS gate; source correspondence; Einstein",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1545-factorization/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1545-factorization/#24-sep-field-note-visualization-not-a-new-gate",
+   "sources": [
+    "https://x.com/aaronspradlin/status/2103219216099033273"
+   ],
+   "format": "seed",
+   "seed_source": "banner 'Last X field note' on /wiki/live-gates and the v15.45 page"
+  },
+  {
+   "id": "claim/atlas:v15-97",
+   "date": "2026-09-27",
+   "title": "v15.97 overlap hidden response",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:v15-97"
+   ],
+   "summary": "research/v15.97-overlap-hidden-response, commit 903b72b, 27 Sep 2026, not merged. OVERLAP_HIDDEN_RESPONSE_CONFIRMED and PLANAR_TWO_LOOP_RESPONSE_CONFIRMED. A specified source can change both overlapping loops. Not continuous SO(3). Not gravity. Not a STATUS gate.",
+   "does_not_show": "Einstein, derived quantum mechanics, a source-to-admissible-world law, fundamental time, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/september-2026-ladder/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/september-2026-ladder/#atlas:v15-97",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:v16-36",
+   "date": "2026-09-30",
+   "title": "v16.36 pair-completeness closed; barrier law unresolved",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:v16-36"
+   ],
+   "summary": "PR #81 merged as ce4f0c0 into research/v16.34-fiber-component-invariant on 30 Sep 2026, not into main. RESULTS.md is unchanged and Gate D stays UNRESOLVED: LOCAL_UNIT is not claimed. The closed gap is pair-completeness. The earlier verifier recomputed supplied pairs without proving the set was the canonical 18. PR #80 (d887068) added the P1–P8 proof ledger and did not close that gap. PR #81 enumerates the canonical universe and rejects omissions, duplicates, and same-count substitutions. Audit 36731692842 (workflow head 8941af1) froze ce4f0c0, reconstructed 18 records, and passed the inherited stack. Signature C still uses the certified barrier inside its feasible region, so it is not an independent predictive law. Energy, geometry, and gravity are not derived.",
+   "does_not_show": "LOCAL_UNIT, an independent predictive barrier law, a universal ultrametric, a metric or an energy, Einstein, a merge to main, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/september-2026-ladder/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/september-2026-ladder/#atlas:v16-36",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:v16-39",
+   "date": "2026-09-30",
+   "title": "v16.39 saturation condition is sufficient, not a certificate",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:v16-39"
+   ],
+   "summary": "research/v16.39-structural-unit-barrier, commit c934fee, 30 Sep 2026, not on main. Exploratory proof after v16.38. Not preregistered. No new numerical execution. If SC holds, endpoints in different components of the exact q-fiber have primary barriers and LEX_BARRIER equal to (1,1,1). Independent review calls the argument sound as a sufficient-condition theorem. It is not a characterization of every unit profile. A five-vertex nested restricted-support example still has a four-move unit path, so that pattern is not a nonunit witness. Numbered-stage certification is pending. NEXT_EXPERIMENT.md is not executed.",
+   "does_not_show": "A universal unit law, a characterization of all unit profiles, a nonunit witness, physical interpretation, a metric, energy, gravity, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-39",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:v16-48",
+   "date": "2026-10-01",
+   "title": "v16.48 chain induction is closed inside chains only",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:v16-48"
+   ],
+   "summary": "PR #96 merged as 0c0efebe into research/v16.34-fiber-component-invariant on 1 Oct 2026, not into main. The closure update records compact-palette induction for every finite internal chain: each subtree is brought to a prescribed compact configuration with its root support fixed, and total L1 excursion stays at most 1. Saturated-label exchanges preserve every inner hitting number. Receipt commit cb086f9 records post-merge workflow 36856450558 against head 0c0efebe, with science VERIFIED. The demo README on the science branch and on research/v16.48-audit-receipt still contains the earlier PRE-CLOSURE sentence. That sentence is not the later closure record. Arbitrary internal branching is not covered. The universal unit barrier stays UNRESOLVED. The induction explains the bound inside chains. It does not select a source.",
+   "does_not_show": "Arbitrary branching, a universal unit law, a source, height 1 as one component or one move, a no-go against the retained structure, a merge to main, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-48",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:v16-49",
+   "date": "2026-10-01",
+   "title": "v16.49 fork-of-chains receipt closeout is approved",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:v16-49"
+   ],
+   "summary": "PR #97 merged as a8280c1 into research/v16.34-fiber-component-invariant on 1 Oct 2026, not into main. FORK_CHAIN_INTERFACE_VALIDATED for one binary parent with two internal-chain children of arbitrary finite length. Overlapping palettes keep a common anchor. Disjoint palettes normalize separately and exchange as complete label roles, preserving inner profiles, while only the parent can carry a unit deficit. 133 representative normalizations and 192 directed cases pass, with zero nonunit pairs. Frozen graphs at k=2 and k=3: 430250 states, 3113250 primitive edges, 31 profiles, 809 component pairs. The 11-vertex fork is the smallest in this family with both children having at least two internals. It is not the smallest branching tree. Larger-palette directed cases are not exhaustive universes. Receipt commit 9d087af records the actual-merge closure receipt. Closeout commit 9ffa81c records INDEPENDENT_RECEIPT_CLOSEOUT_APPROVED, decision APPROVE CLOSED/CERTIFIED for this scoped theorem, terminal run 36863457271. An earlier README PRE-CLOSURE line is not that closeout. Arbitrary-tree universality stays unresolved.",
+   "does_not_show": "Arbitrary trees, a universal unit law, unit as failure or nonunit as success, a source, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-49",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:v16-50",
+   "date": "2026-10-01",
+   "title": "v16.50 repeats a binary repair without raising the total excursion",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:v16-50"
+   ],
+   "summary": "PR #98 merged as 4a28661 into research/v16.34-fiber-component-invariant on 1 Oct 2026, not into main. CLOSED/CERTIFIED for finite full binary trees. Full binary means every internal vertex has exactly two children. It does not mean balanced or uniform depth. A repaired child supplies a fixed-root repair, a compact canonical endpoint, and label-role exchanges that preserve its interior. Joining two such children preserves those properties in the parent, so the argument repeats through any finite binary tree without raising the excursion bound. The bound is the total over all vertices: the sum of absolute profile deviations is at most 1. A one-unit difference at one binary vertex is not the result. There the hitting number is only 1 or 2. The construction keeps separate deviations from coexisting. This is an existence theorem for a suitable sequence. It does not say every sequence stays inside the bound, that the sequence is short, or that one evolution is selected. The minimum palette width is necessary and sufficient. If the children need widths a and b, the parent needs max(a,b) when its hitting number is 1, and a+b when it is 2. Overlap reuses labels. Disjoint children reserve separate labels. Those resources can grow while the peak profile departure stays 1. The uniform barrier is one property of a structure whose feasibility requirements stay nontrivial. It is not merely a uniform tax. The 1920 directed specification cases, 72512 primitive moves, and 994 checks support the implementation. They are not an exhaustive enumeration of every state. The general quantifiers rest on the induction. All 36 scientific files matched byte-for-byte at the merge. The science-branch REPORT.md still contains an earlier sentence that receipt closeout remained required. That sentence is not the later closeout. Higher arity stays unresolved. No nonunit counterexample is claimed. A failed construction is not a nonunit barrier.",
+   "does_not_show": "Balanced or uniform depth as the hypothesis, each coordinate separately as the theorem, every path, a short path, a unique evolution, exhaustive enumeration, higher-arity universality, the three-child overlap example as a nonunit witness, a source, a no-go, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-50",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:v16-51",
+   "date": "2026-10-01",
+   "title": "v16.51 validates one ternary root at hitting number 2",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:v16-51"
+   ],
+   "summary": "PR #99 merged as 76f373c into research/v16.34-fiber-component-invariant on 1 Oct 2026, not into main. CLOSED/CERTIFIED under AMENDMENT_001. One genuine ternary root over three arbitrary finite full binary children, centered on hitting number 2. Outcome TERNARY_Q2_INTERFACE_VALIDATED. 2592 directed specification identities, 864 with root target 2, 92352 primitive moves, 1213 unit-excursion cases, 72 minimum-width checks, zero construction failures, 1071 checks. Thirty-nine scientific files matched byte for byte. Repeated ternary composition was still unresolved at this gate. The missed original preimplementation verifier-level RED timing is disclosed and is not retroactively claimed. No nonunit witness is claimed. The pairwise-overlap pattern was the interface question, not a counterexample.",
+   "does_not_show": "Repeated ternary composition, higher arity, a nonunit witness from the overlap example, a retroactive RED, a source, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-51",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:v16-52",
+   "date": "2026-10-01",
+   "title": "v16.52 repeats binary and ternary repair",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:v16-52"
+   ],
+   "summary": "PR #100 merged as b6bf957 into research/v16.34-fiber-component-invariant on 1 Oct 2026, not into main. CLOSED/CERTIFIED. The repair interface is preserved under repeated binary and ternary composition for finite ordered rooted trees in the stated nonempty nested-support category. The total excursion stays at most 1. Inside an exact-profile component B1, Binf, and Bs are 0. Between distinct exact components each is 1. The record does not assert that every profile has multiple components. 7236 directed cases, including 2412 with root target 2, 263927 legal moves, 3491 cases with unit excursion, zero construction failures, and 1150 checks. Forty-two scientific files matched byte for byte. Higher arity stays outside. A failed construction is not a nonunit certificate.",
+   "does_not_show": "A component count, arity 4 or higher, every path, a nonunit witness, a physical reading, a source, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-52",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:v16-53",
+   "date": "2026-10-02",
+   "title": "v16.53 certifies a reusable four-child interface",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:v16-53"
+   ],
+   "summary": "PR #101 merged as f6d4d79 into research/v16.34-fiber-component-invariant on 2 Oct 2026, not into main. CLOSED/CERTIFIED. Recursive composition extends to finite ordered trees whose internal arities are 2, 3, or 4. The frozen corpus has 2863 records and 34234 verified moves. Numerical checks support the implementation. They are not the theorem. Arity 5 and above stay outside. Not a physical interpretation. A failed construction is not a nonunit barrier.",
+   "does_not_show": "Arity 5 or higher, a census of every state, a nonunit witness, a physical reading, a source, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-53",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:v16-54",
+   "date": "2026-10-02",
+   "title": "v16.54 connects floor-two parent supports",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:v16-54"
+   ],
+   "summary": "PR #102 merged as 496a403 into research/v16.34-fiber-component-invariant on 2 Oct 2026, not into main. CLOSED/CERTIFIED for the bounded M1–M9 implementation and native integration. For arbitrary feasible arity, palette, and target q at least 3, every exact-q endpoint whose root floors are all 2 is connected by a path whose hitting number stays in {q-1, q}. The argument uses overlap changes, star and closed-neighborhood symmetrization, then removal of upper excursions. It does not require disjoint witnesses or symmetry-equivalent endpoints. This is not the v16.50 total-excursion theorem. Universal higher-floor connectivity remains OPEN. Not a physical barrier.",
+   "does_not_show": "Higher-floor connectivity, the global sum at most 1, a physical barrier, a source, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-54",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:v16-55",
+   "date": "2026-10-04",
+   "title": "v16.55 certifies a bounded renewable-guard repair",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:v16-55"
+   ],
+   "summary": "PR #103 merged as 3183c29 into research/v16.34-fiber-component-invariant on 4 Oct 2026, not into main. The later tip 0a1cd70 publishes the terminal actual-merge reporting acceptance. CLOSED/CERTIFIED for the approved bounded R1–R5 implementation and conditional native integration. Renewable protection covers complete ordered repair: protected degree leveling, saturated reusable exchanges, deterministic multiple-patch placement, and simultaneous original-grade guards. Paths preserve the native palette, slots, and original floors, check every primitive, convert completed lower paths into the one-unit band, and restore the declared labelled endpoints. Actual-merge run 37211847122 passed. Universal analytical X15U root repair, and the conditional X32 and X33 statements, stay distinct from this finite certificate. No universal coverage, mixed-floor, higher-target, destination-directed, or unrestricted nested result is claimed. Zero common-degree greedy and strict-slack X15S coverage remain disclosed.",
+   "does_not_show": "A universal root repair, X32 or X33 as proved, higher floors, a physical reading, a source, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-55",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:a11-x59",
+   "date": "2026-10-05",
+   "title": "A11.X59 accepts prescribed anchor mixing on a colored carrier",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:a11-x59"
+   ],
+   "summary": "On research/uqcf-overlapping-guard-exchange, 5 Oct 2026, not on main. A11_X59_CLOSEOUT.md is an accepted analytical checkpoint, not a numbered v16 certificate. On the fixed X58 colored carrier, every prescribed permutation in the stated class has a complete actual-pair-protected lower path at the global endpoint Hamming minimum, with labelled restoration. A calibration rejects one strict block-stable relay certificate. That rejection does not exclude every whole-root path, and it is not native disconnection. The later X60 checkpoint removes a remaining common-hit assumption inside the same colored representation. Arbitrary access and noncolored carriers stay open. Certified v16.55 is not changed by this note.",
+   "does_not_show": "A new connectivity class, universal arbitrary-root repair, native disconnection, numbered v16 certification, a source, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a11-x59",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:a11-x60",
+   "date": "2026-10-05",
+   "title": "A11.X60 is colored-carrier minimum repair, not an arbitrary-root law",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:a11-x60"
+   ],
+   "summary": "On research/uqcf-overlapping-guard-exchange, 5 Oct 2026, not on main. A11_X60_CLOSEOUT.md is an accepted analytical checkpoint. Inside the exact X58/X59 colored carrier satisfying the stated condition (C), every prescribed role permutation has a direct path whose hitting number stays in {3, 4}, attaining the global endpoint incidence Hamming minimum and restoring every original labelled destination. The structural lemma removes X59's remaining common-hit seed assumption inside that colored representation. One long control shows that every minimum-incidence direct-band path in that control uses at least three distinct four-covers, and the construction attains three. That is an all-minimum-path bound inside the control. It is not an unrestricted temporary-incidence obstruction, and it is not universal arbitrary-root minimum repair. Noncolored carriers stay open. No physical interpretation is claimed.",
+   "does_not_show": "Universal arbitrary-root minimum repair, noncolored carriers, an obstruction to every temporary incidence, numbered v16 certification, a source, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a11-x60",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:a11-x61",
+   "date": "2026-10-05",
+   "title": "A11.X61 accepts a hybrid-boundary batch interface",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:a11-x61"
+   ],
+   "summary": "On research/uqcf-overlapping-guard-exchange, 5 Oct 2026, not on main. A11_X61_CLOSEOUT.md is an accepted analytical checkpoint, not numbered CLOSED/CERTIFIED. It gives a sufficient repair interface for arbitrary original labelled exact-four root endpoints when roots are partitioned into ordered batches and the stated hitting-set and witness-order conditions hold. The same schedule keeps the hitting number in the declared band and restores the labelled endpoints at the global endpoint Hamming minimum. A control with competing minimum covers sits outside the X60 colored representation. Three-cover necessity is not claimed. No universal certificate of existence is claimed. The branch STATUS.json still names this X61 phase. A11.X62 and A11.X63 have scope files only. A11.X64 is a cycle-breaking slack candidate whose upper-cover scope was corrected before a proof. None of those three has a closeout. Certified v16.54 and v16.55 stay unchanged.",
+   "does_not_show": "Universal certificate existence, three-cover necessity, X62–X64 as closed, a new connectivity class, numbered v16 certification, a source, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a11-x61",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:a12",
+   "date": "2026-10-06",
+   "title": "A12.1–A12.5 is a self-contained closeout, not a v16 certificate",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:a12"
+   ],
+   "summary": "Issue #104 closed 6 Oct 2026 on research/uqcf-overlapping-guard-exchange, commit bbc6e6f, not on main. CLOSED for the corrected and expressly retained A12.1–A12.5 statements under the author's self-contained process. The record is written mathematics, an author-side argument audit, bounded verification with fresh-process reproduction, and an author-side source audit. Run 37502203890 passed. It is not independent peer review, not proof-assistant certification, not numbered v16 certification, and not physical validation. A12.1 keeps four response signs and relabeling covariance. No magnitude or physical observable is identified. A12.2 corrects the displayed family to n+3 labelled roots and keeps an exact fixed-order truncation obstruction over growing root count. The stronger claim that the whole labelled pairwise response graph cannot be a complete state descriptor is withdrawn as unproved by that construction. It is not declared false. A12.3 keeps exact incidence-update laws inside an explicit palette and floor domain, including a one-label counterexample to an older unrestricted wording. No conservation of W or C is asserted. A12.4 keeps exact candidate-margin legality and the insufficiency of one global scalar summary. A12.5 keeps a matched-component argument for the stated L and I inputs only: the same candidate is legal in L and illegal in I. That no-go does not exclude every locality notion. Failed RED runs 37500570046 and 37500792495 remain in the record. No A12.6. Certified v16.54 and v16.55, and accepted A11 sources, stay unchanged. No force, geometry, energy, GR/ADM, dark-matter replacement, physical nonlocality, continuum, or fundamental-time inference is claimed.",
+   "does_not_show": "A12.6, the withdrawn graph-descriptor impossibility as proved or as false, every locality notion, numbered v16 certification, physical validation, a source, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a12",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:post-a12",
+   "date": "2026-10-07",
+   "title": "7 Oct index at 6a99418; that next line is not the 10 Oct frontier",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:post-a12"
+   ],
+   "summary": "Branch commit 6a99418 on research/uqcf-overlapping-guard-exchange, 7 Oct 2026, not on the v16.34 integration branch and not on main. The synthesis then recorded scoped analytical closeouts after the A12 closeout: an A11.X2 handover, updateability for declared residual edits, binary labelled selection and completion, hidden-spectator factorization, joint certificate-and-address factorization, a retained-quotient precedence interface, a concrete three-payload precedence, a retained macro-cycle with a native interleaving escape, a phased retained-event interface, and automatic upper-cover and lower-witness handoffs, including a joint event cycle that uses a temporary bypass. Each item has a scope, a result, and a closeout file. That is a written scoped proof, not a numbered certificate. The full B1/B2 program was not closed. At that commit the named next obligation was auxiliary cycle breaking. The 10 Oct tip 1e7cd09 does not publish a closeout under that name, and the current index does not keep it as the frontier. Later scoped C3 and C4 results are separate claims. Issue #104 is not reopened. No A12.6 is opened. Certified v16.54 and v16.55 stay unchanged.",
+   "does_not_show": "Auxiliary cycle breaking as proved, the 10 Oct frontier, B1/B2 as closed, A12.6, a physical primitive, numbered v16 certification, a source, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:post-a12",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:c3-repair",
+   "date": "2026-10-10",
+   "title": "Scoped repair interfaces are not broad C3",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:c3-repair"
+   ],
+   "summary": "On research/uqcf-overlapping-guard-exchange through 10 Oct 2026, not on main. These are scoped closeouts, not numbered certificates. Deficit repair lowers peak excess from m to max(1, r) and claims band protection only. Universal one-incidence connectivity stays open. Role-complete handoff preserves exact tau and still has peak excess m. Shared-host completion uses one marker for an arbitrary number of blocks at tau 3 and does not read spectators. A renewable handoff reuses one buffer along finite prescribed exchanges. A cyclic pipeline and a core-reactive policy reduce stored phase. A visible-buffer protocol is uniformly safe under a stronger tau-4 promise, and a tau-3 triangle blocks a universal extension. None of this gives guaranteed progress, native guard origin, or broad C3. Archived model reviews are not a source.",
+   "does_not_show": "Broad C3, general C4, guaranteed progress, native observer origin, universal one-incidence connectivity, numbered v16 certification, a source, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:c3-repair",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "claim/atlas:c3-reserve",
+   "date": "2026-10-10",
+   "title": "Spare capacity is not reachable reserve",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:c3-reserve"
+   ],
+   "summary": "Tip 1e7cd09 on research/uqcf-overlapping-guard-exchange, 10 Oct 2026, not on the integration branch and not on main. The index records scoped C3 closeouts. Static capacity is exact for maximal original footprints in the stated domain: a safe core with s labels absent exists exactly when kappa is at most the palette size minus s. That is feasibility, not connectivity. One saturated family is an antichain with no safe first toggle, while for n at least 3 a safe target still leaves n-2 labels absent. A later family is not isolated: safe edits exist, and the uniformly safe single-toggle component still has exactly seven cores. For n at least 3 those spare labels stay unreachable. So kappa below the palette size, plus unrelated local progress, is not a sufficient transferable-reserve criterion. It is not a general impossibility theorem. The words universal core region mean a candidate that is admissible for every original protected hidden completion in the declared tau 3 to 4 domain. They do not give observer access or general connectivity. Saturated transfer works for two or more private blocks in its family and fails for one. Strict nesting can give a first safe edit and still not free a label. Archived Gemini reviews accepted these scoped writeups. That acceptance is not peer review, not numbered v16 certification, and not a physical claim. Broad C3, general C4, native observer origin, outcome selection, and guaranteed progress stay open. The named next task is a restoring path that releases one prescribed occupied label while keeping donor-footprint containment, floors, and an upper-four cover. Main STATUS.md is unchanged. Issue #104 is not reopened. No A12.6.",
+   "does_not_show": "A general no-go, connectivity from a feasible endpoint, the core-region criterion as general connectivity, numbered v16 certification, a physical reading, a source, a STATUS bump.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:c3-reserve",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "seed/2026-10-10-clocks-at-compile",
+   "date": "2026-10-10",
+   "date_kind": "observed_at_compile",
+   "title": "Three clocks at the 2026-10-10 compile",
+   "status": "restricted",
+   "status_detail": "clock snapshot, not a new result",
+   "location": "clock_snapshot",
+   "claim_ids": [
+    "atlas:v15-45",
+    "atlas:v16-55",
+    "atlas:c3-reserve"
+   ],
+   "summary": "GitHub main STATUS.md: publication note for v15.44/v15.45. v15.03 obstruction kept as HISTORICAL_STATUS_v15.03.md. Source NOT_EVALUATED. Pillar 3 OPEN. scientific_breakthrough: false. Research branches, not merged to main: integration branch still v16.55, a bounded guard, not a universal root repair. Later branch research/uqcf-overlapping-guard-exchange, tip 1e7cd09 on 10 Oct 2026: scoped C3 and C4 closeouts. Not a source.",
+   "does_not_show": "A STATUS bump; v16 on main; a universal root repair; a general impossibility; a source",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/main/ResearchHistory/UQCF-GEM/STATUS.md"
+   ],
+   "format": "seed",
+   "seed_source": "'Three clocks' section of /llms.txt (compile 2026-10-10)"
+  }
+ ]
+}

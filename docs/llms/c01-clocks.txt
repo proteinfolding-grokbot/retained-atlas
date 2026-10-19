@@ -3,7 +3,7 @@ canto: 01
 id: c01-clocks
 badge: method
 clock: wiki 2026-10-07
-canonical: https://aaronspradlin.grok.me/wiki/live-gates
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/
 does_not_show: One merged freeze; wiki as live X; research branch as STATUS.md; anchored control as a rescue
 compile: 2026-10-01
 scientific_breakthrough: false
@@ -22,9 +22,9 @@ Three clocks. Never collapse them.
 4. Main demos: geometry through v15.45 (PR #58). Not a new source law.
 5. Unmerged PR #57: v15.46–v15.54. v15.55 is a proposed contract. A folder of that name exists on the v15.76 branch; this wiki does not adopt its RESULTS.json.
 6. Research line on the integration branch still ends at v16.55. None merged to main. v16.55 is a bounded renewable-guard repair, not a universal root repair. A separate branch, research/uqcf-overlapping-guard-exchange, tip 1e7cd09 on 10 Oct 2026, records scoped C3 and C4 closeouts. Spare capacity is not reachable reserve. That is not a general impossibility and not numbered v16 certification. Broad C3 stays open. Not a source. Not STATUS.
-   https://aaronspradlin.grok.me/wiki/v1598-line
+   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1598-line/
 
 X is the archive of posts. GitHub STATUS.md is the publication clock. A research-branch RESULTS.md is not a STATUS gate.
 If a search hit looks newer than STATUS.md, it is not current science.
 
-canonical: https://aaronspradlin.grok.me/wiki/live-gates
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/

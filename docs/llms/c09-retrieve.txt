@@ -3,7 +3,7 @@ canto: 09
 id: c09-retrieve
 badge: method
 clock: tools
-canonical: https://aaronspradlin.grok.me/tools.json
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/tools.json
 does_not_show: Hosted MCP socket; hosted neural embeddings; search hit beating STATUS.md
 compile: 2026-10-01
 scientific_breakthrough: false
@@ -13,25 +13,26 @@ scientific_breakthrough: false
 
 Ingest order: this canto set, then claims, then wiki spine.
 
-Index: https://aaronspradlin.grok.me/llms.txt
-Cantos: https://aaronspradlin.grok.me/cantos.txt · https://aaronspradlin.grok.me/cantos.json · https://aaronspradlin.grok.me/llms/c01-clocks.txt … c09
-Small window: https://aaronspradlin.grok.me/llms-small.txt
-Closed Q&A: https://aaronspradlin.grok.me/qa.json
-Per-page JSON: https://aaronspradlin.grok.me/page.json?slug=live-gates
-Cite / license: https://aaronspradlin.grok.me/cite.txt
-Sitemap: https://aaronspradlin.grok.me/sitemap.xml
-Claims: https://aaronspradlin.grok.me/claims.jsonl
-Search: https://aaronspradlin.grok.me/search.json?q=
-Lexical vector: https://aaronspradlin.grok.me/search.json?q=&mode=tfidf
-Embed grain: https://aaronspradlin.grok.me/corpus.json (keep claimStatus)
-Dump: https://aaronspradlin.grok.me/llms-full.txt
-Tools: https://aaronspradlin.grok.me/tools.json
+Index: https://proteinfolding-grokbot.github.io/retained-atlas/llms.txt
+Cantos: https://proteinfolding-grokbot.github.io/retained-atlas/cantos.txt · https://proteinfolding-grokbot.github.io/retained-atlas/cantos.json · https://proteinfolding-grokbot.github.io/retained-atlas/llms/c01-clocks.txt … c09
+Small window: https://proteinfolding-grokbot.github.io/retained-atlas/llms-small.txt
+Closed Q&A: https://proteinfolding-grokbot.github.io/retained-atlas/qa.json
+Per-page JSON: https://proteinfolding-grokbot.github.io/retained-atlas/data/page/live-gates.json (pattern /data/page/<slug>.json)
+Progress feed (chronological, append-only): https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.json · https://proteinfolding-grokbot.github.io/retained-atlas/progress.txt
+Participate (contract for other AIs): https://proteinfolding-grokbot.github.io/retained-atlas/wiki/ai-participate/
+Cite / license: https://proteinfolding-grokbot.github.io/retained-atlas/cite.txt
+Sitemap: https://proteinfolding-grokbot.github.io/retained-atlas/sitemap.xml
+Claims: https://proteinfolding-grokbot.github.io/retained-atlas/claims.jsonl
+Search (static, filter client-side): https://proteinfolding-grokbot.github.io/retained-atlas/search.json — full lexical index: every SearchDoc with body, per-doc tf-idf weights, and idf table. GitHub Pages ignores ?q=; download once and rank locally (https://proteinfolding-grokbot.github.io/retained-atlas/search_client.py, keyword|tfidf).
+Embed grain: https://proteinfolding-grokbot.github.io/retained-atlas/corpus.json (keep claimStatus)
+Dump: https://proteinfolding-grokbot.github.io/retained-atlas/llms-full.txt
+Tools: https://proteinfolding-grokbot.github.io/retained-atlas/tools.json
 
 License: source-available for noncommercial research and evaluation only. No commercial, product, platform, or service use without written permission.
 
-Human spine: /wiki/start-here → /wiki/it-from-bit → /wiki/live-gates → /wiki/supported-four → /wiki/falsification.
+Human spine: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/start-here/ → it-from-bit → live-gates → supported-four → falsification.
 
 No hosted MCP socket. Wrap the HTTP tools. No hosted neural embeddings. The SearchDoc grain is ready.
 Preserve badges. Live science is Live gates, not a flashy hit.
 
-canonical: https://aaronspradlin.grok.me/tools.json
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/tools.json

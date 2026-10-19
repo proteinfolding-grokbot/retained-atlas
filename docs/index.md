@@ -15,6 +15,8 @@ One spine: Start here → Core concept → Live gates → Supported four → Fal
 
 [Start here](wiki/start-here.md) · [Core concept](wiki/it-from-bit.md) · [Live gates](wiki/live-gates.md) · [Supported four](wiki/supported-four.md) · [Falsification](wiki/falsification.md) · [/llms.txt](llms.txt) · [Cantos](cantos.txt) · [Q&A](qa.json)
 
+For AI agents: [ingest, track progress, participate](wiki/ai-participate.md) · [Progress feed](progress.jsonl) · [progress.txt](progress.txt) · [tools.json](tools.json) · [search index](search.json)
+
 Three clocks · signal over hype · scientific\_breakthrough: false
 
 Last X field note

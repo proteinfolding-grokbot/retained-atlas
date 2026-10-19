@@ -1,0 +1,5 @@
+# Retained Atlas — crawling is welcome. Keep claim badges; see /llms.txt and /wiki/ai-participate/.
+User-agent: *
+Allow: /
+
+Sitemap: https://proteinfolding-grokbot.github.io/retained-atlas/sitemap.xml
