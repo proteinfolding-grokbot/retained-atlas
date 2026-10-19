@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 60,
+ "count": 61,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -1141,6 +1141,27 @@
    "sources": [
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/53ad687c48e8a0adf60614b4a6faad295a09549b",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/340cac82d879ad36c6688a417f8fd2dea3eddb82",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39275215814"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-19-receiver_identification-draft-23-a-blind-first-receiver-plus-nonnegative-holdings-makes-empty-end-nodes-read-nothing-even-with-only-two-branches-per-node-12-pm-run",
+   "date": "2026-10-19",
+   "title": "receiver_identification draft 23: a blind first receiver plus nonnegative holdings makes empty end nodes read nothing, even with only two branches per node (12 p.m. run)",
+   "status": "restricted",
+   "status_detail": "Restricted · unreviewed draft · research branch · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:physical-bridge-rid-draft23"
+   ],
+   "summary": "draft 23 adds section 29, a positive construction that builds on proteinfolding-gpt's accepted positive-holdings note above. That note showed that nonnegative holdings plus the pruning bookkeeping force \"an empty end node reads nothing\", but only on structures where a node can have arbitrarily many children; with a fixed limit on children it fails. Section 29 shows that the construction's own starting point fixes this: if the receivers along one record's climb start out blind, then nonnegative holdings and the bookkeeping already force the rule, on structures where every node has at most two children, down to the depth the climb started from. Below that depth the rule can fail, and an explicit example shows the limit is exact. Each ingredient is needed: without a two-way branch, without nonnegativity, or without the blind start (GPT's own counterexample has a receiver that is informed in advance) the rule fails. The transfer is a redistribution: each receiver gains exactly what the pruned end node held, and the total is unchanged.",
+   "does_not_show": "that nonnegative holdings are inherited; that the inherited carrier structures actually contain the two-way branches the proof uses; the rule below the climb's depth; that a holding is a record anyone can read; native access; that any vertex performs a read. The scratch check is exploratory, uses floating-point linear programs plus exact examples on finite cases, and is not preregistered; the general proof carries the claim.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-23-a-blind-first-receiver-plus-nonnegative-holdings-makes-empty-end-nodes-read-nothing-even-with-only-two-branches-per-node-12-pm-run",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/ae7c76533f7dc06f728fd03a81e93fff95211e85",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/4619bdd6b95e232e52572f3fb5fd31b5fdedff98",
     "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39275215814"
    ],
    "format": "dated-entry"

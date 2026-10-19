@@ -4,6 +4,8 @@ Feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · 
 Wiki compile: 2026-10-10 · newest dated entry: 2026-10-19 · scientific_breakthrough: false
 Badges are copied from the pages. Restricted research-branch work is not on main and not a STATUS gate. Do not upgrade.
 
+2026-10-19 [restricted] [research_branch] receiver_identification draft 23: a blind first receiver plus nonnegative holdings makes empty end nodes read nothing, even with only two branches per node (12 p.m. run)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-23-a-blind-first-receiver-plus-nonnegative-holdings-makes-empty-end-nodes-read-nothing-even-with-only-two-branches-per-node-12-pm-run  claims: atlas:physical-bridge-rid-draft23
 2026-10-19 [restricted] [research_branch] receiver_identification draft 22: O3 does not source empty-leaf; climb+shift is not weaker than the apex square (11 a.m. run)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-22-o3-does-not-source-empty-leaf-climbshift-is-not-weaker-than-the-apex-square-11-am-run  claims: atlas:physical-bridge-rid-draft22
 2026-10-19 [restricted] [research_branch] receiver_identification draft 21 frozen, verified and Gemini ACCEPTED (11 a.m. run)
@@ -82,5 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/september-2026-ladder/#atlas:v15-97  claims: atlas:v15-97
 2026-09-24 [restricted] [x_field_note] Last X field note: 24 Sep thread visualizes A=(I+X)(I+Y)Δ/8
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1545-factorization/#24-sep-field-note-visualization-not-a-new-gate  claims: atlas:grok-v15-45
-2026-09-24 [restricted] [not_stated] Grok review of the v15.45 operator
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/september-2026-ladder/#atlas:grok-v15-45  claims: atlas:grok-v15-45
