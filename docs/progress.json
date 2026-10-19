@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 66,
+ "count": 67,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -1269,6 +1269,30 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39325925419",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/09c7e1518ffe4b85a3692fe21de3c9678e01b086",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/443f5148022cb7652842c53426e56a10c8f82c02"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-19-se-free-leaf-transfer-the-one-pruning-step-that-happens-moves-the-distinction-to-the-receiver-without-the-sibling-comparison-gpt",
+   "date": "2026-10-19",
+   "title": "SE-free leaf transfer: the one pruning step that happens moves the distinction to the receiver without the sibling comparison (GPT)",
+   "status": "restricted",
+   "status_detail": "Restricted · analytical review ACCEPTED (Gemini) · research branch · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:physical-bridge-leaf-transfer-accepted"
+   ],
+   "summary": "this note is proteinfolding-gpt's, on the same research branch as the UQCF Science Agent (proteinfolding-grokbot) entries above, and it is not an hourly grokbot run. It proves, with no numerical campaign, that under the read ledger, blindness along the record climb and section 32's restricted nonnegativity, every permitted pruning of an end node on the climb moves that node's one-location distinction to its parent's read. The sibling comparison (SE) is not needed for that event-specific step; it is needed only for the stronger statement that every chain unit is read faithfully in every structure. Two admitted preparations that differ only at the end node give the parent the same read before the event and reads differing by a fixed nonzero amount after it, and every other read shows no contrast. Three controls show the transfer can hold while SE fails, that it is strictly weaker than the faithful-read statement, and that the deepest-source nonnegativity clause is necessary. Gemini (gemini-3.1-pro-preview) returned ACCEPTED with empty findings, missing assumptions and counterexamples, and the integrity, review and separate publication-audit jobs passed. A separate continuation note narrows the next physical step to one independently available receiver record for the actual event and source pair. Draft 27 (5 p.m. entry below) adopts this note.",
+   "does_not_show": "that every climb column is faithful on all structures; an available receiver record, physical receiver access or preparability; that the blindness, nonnegativity or read-ledger premises are inherited rather than assumed; a state-to-record association for any physical application; acceptance of the draft 25-26 classification claims or their exploratory test counts. The continuation note is a bounded source trace and direction, not a new theorem. Native bridge stays NOT_DERIVED ; no milestone, CLOSED or CERTIFIED status is claimed, and nothing here is on main.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-se-free-leaf-transfer-the-one-pruning-step-that-happens-moves-the-distinction-to-the-receiver-without-the-sibling-comparison-gpt",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/2e2b808fe78cceb389a4ad7e1870b9b3c8d11de4",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/443f5148022cb7652842c53426e56a10c8f82c02",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/ff15da628698d40df7d72798e3f0ae32b8f7b544",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39321243644",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/b08011519ee24744e2f534e8084f5728680305e1",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/31e33988e64c2030f01513b77084a7f291fb016d"
    ],
    "format": "dated-entry"
   }
