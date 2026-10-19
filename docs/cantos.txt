@@ -4,33 +4,33 @@ Compile: 2026-10-01
 Read in order. Each file is a closed ingest unit. Keep the badge. Do not merge clocks.
 
 01. [method] Clocks — do not merge
-   https://aaronspradlin.grok.me/llms/c01-clocks.txt
-   https://aaronspradlin.grok.me/wiki/live-gates
+   https://proteinfolding-grokbot.github.io/retained-atlas/llms/c01-clocks.txt
+   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/
 02. [not-claimed] Identity lock
-   https://aaronspradlin.grok.me/llms/c02-identity.txt
-   https://aaronspradlin.grok.me/wiki/identity-lock
+   https://proteinfolding-grokbot.github.io/retained-atlas/llms/c02-identity.txt
+   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/identity-lock/
 03. [restricted] Forced geometry — It from bit, bind, and order
-   https://aaronspradlin.grok.me/llms/c03-core.txt
-   https://aaronspradlin.grok.me/wiki/it-from-bit
+   https://proteinfolding-grokbot.github.io/retained-atlas/llms/c03-core.txt
+   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/it-from-bit/
 04. [restricted] Live gates — STATUS.md only
-   https://aaronspradlin.grok.me/llms/c04-live.txt
-   https://aaronspradlin.grok.me/wiki/live-gates
+   https://proteinfolding-grokbot.github.io/retained-atlas/llms/c04-live.txt
+   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/
 05. [supported] Supported four only
-   https://aaronspradlin.grok.me/llms/c05-supported.txt
-   https://aaronspradlin.grok.me/wiki/supported-four
+   https://proteinfolding-grokbot.github.io/retained-atlas/llms/c05-supported.txt
+   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/supported-four/
 06. [method] Bounds — what not to promote
-   https://aaronspradlin.grok.me/llms/c06-bounds.txt
-   https://aaronspradlin.grok.me/wiki/falsification
+   https://proteinfolding-grokbot.github.io/retained-atlas/llms/c06-bounds.txt
+   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/falsification/
 07. [restricted] Off-main research — not STATUS
-   https://aaronspradlin.grok.me/llms/c07-research.txt
-   https://aaronspradlin.grok.me/wiki/research-ladder
+   https://proteinfolding-grokbot.github.io/retained-atlas/llms/c07-research.txt
+   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/research-ladder/
 08. [corrected] Protein program CLOSED
-   https://aaronspradlin.grok.me/llms/c08-protein.txt
-   https://aaronspradlin.grok.me/wiki/protein-closeout
+   https://proteinfolding-grokbot.github.io/retained-atlas/llms/c08-protein.txt
+   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/protein-closeout/
 09. [method] How to retrieve
-   https://aaronspradlin.grok.me/llms/c09-retrieve.txt
-   https://aaronspradlin.grok.me/tools.json
+   https://proteinfolding-grokbot.github.io/retained-atlas/llms/c09-retrieve.txt
+   https://proteinfolding-grokbot.github.io/retained-atlas/tools.json
 
-Small window: https://aaronspradlin.grok.me/llms-small.txt
-Root map: https://aaronspradlin.grok.me/llms.txt
-JSON: https://aaronspradlin.grok.me/cantos.json
+Small window: https://proteinfolding-grokbot.github.io/retained-atlas/llms-small.txt
+Root map: https://proteinfolding-grokbot.github.io/retained-atlas/llms.txt
+JSON: https://proteinfolding-grokbot.github.io/retained-atlas/cantos.json

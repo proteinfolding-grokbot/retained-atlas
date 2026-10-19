@@ -1,0 +1,86 @@
+# Retained Atlas — progress (newest first)
+
+Feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.json · contract: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/ai-participate/
+Wiki compile: 2026-10-10 · newest dated entry: 2026-10-10 · scientific_breakthrough: false
+Badges are copied from the pages. Restricted research-branch work is not on main and not a STATUS gate. Do not upgrade.
+
+2026-10-10 [restricted] [clock_snapshot] Three clocks at the 2026-10-10 compile
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/  claims: atlas:v15-45, atlas:v16-55, atlas:c3-reserve
+2026-10-10 [restricted] [research_branch] Spare capacity is not reachable reserve
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:c3-reserve  claims: atlas:c3-reserve
+2026-10-10 [restricted] [research_branch] Scoped repair interfaces are not broad C3
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:c3-repair  claims: atlas:c3-repair
+2026-10-07 [restricted] [research_branch] 7 Oct index at 6a99418; that next line is not the 10 Oct frontier
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:post-a12  claims: atlas:post-a12
+2026-10-06 [restricted] [research_branch] A12.1–A12.5 is a self-contained closeout, not a v16 certificate
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a12  claims: atlas:a12
+2026-10-05 [restricted] [research_branch] A11.X61 accepts a hybrid-boundary batch interface
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a11-x61  claims: atlas:a11-x61
+2026-10-05 [restricted] [research_branch] A11.X60 is colored-carrier minimum repair, not an arbitrary-root law
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a11-x60  claims: atlas:a11-x60
+2026-10-05 [restricted] [research_branch] A11.X59 accepts prescribed anchor mixing on a colored carrier
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a11-x59  claims: atlas:a11-x59
+2026-10-04 [restricted] [research_branch] v16.55 certifies a bounded renewable-guard repair
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-55  claims: atlas:v16-55
+2026-10-02 [restricted] [research_branch] v16.54 connects floor-two parent supports
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-54  claims: atlas:v16-54
+2026-10-02 [restricted] [research_branch] v16.53 certifies a reusable four-child interface
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-53  claims: atlas:v16-53
+2026-10-01 [restricted] [research_branch] v16.52 repeats binary and ternary repair
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-52  claims: atlas:v16-52
+2026-10-01 [restricted] [research_branch] v16.51 validates one ternary root at hitting number 2
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-51  claims: atlas:v16-51
+2026-10-01 [restricted] [research_branch] v16.50 repeats a binary repair without raising the total excursion
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-50  claims: atlas:v16-50
+2026-10-01 [restricted] [research_branch] v16.49 fork-of-chains receipt closeout is approved
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-49  claims: atlas:v16-49
+2026-10-01 [restricted] [research_branch] v16.48 chain induction is closed inside chains only
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-48  claims: atlas:v16-48
+2026-09-30 [restricted] [research_branch] v16.39 saturation condition is sufficient, not a certificate
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-39  claims: atlas:v16-39
+2026-09-30 [restricted] [research_branch] v16.36 pair-completeness closed; barrier law unresolved
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/september-2026-ladder/#atlas:v16-36  claims: atlas:v16-36
+2026-09-27 [restricted] [research_branch] v15.97 overlap hidden response
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/september-2026-ladder/#atlas:v15-97  claims: atlas:v15-97
+2026-09-24 [restricted] [x_field_note] Last X field note: 24 Sep thread visualizes A=(I+X)(I+Y)Δ/8
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1545-factorization/#24-sep-field-note-visualization-not-a-new-gate  claims: atlas:grok-v15-45
+2026-09-24 [restricted] [not_stated] Grok review of the v15.45 operator
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/september-2026-ladder/#atlas:grok-v15-45  claims: atlas:grok-v15-45
+2026-09-21 [restricted] [not_stated] Forced geometry from identities that cannot be erased
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/it-from-bit/#atlas:forced-geometry  claims: atlas:forced-geometry
+2026-09-19 [corrected] [not_stated] Protein-mechanism program closed
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/protein-closeout/#atlas:protein-closeout  claims: atlas:protein-closeout
+2026-09-12 [restricted] [github_only] Genesis Pin and provenance: (v13.23)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/genesis-pin/#12-sep-2026-v13-23  claims: atlas:pin-not-selector
+2026-09-12 [restricted] [github_only] QRSL irreducible
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v13-qrsl  claims: atlas:v13-qrsl
+2026-07-25 [restricted] [x_field_note] July 2026 ladder: reciprocity is not focusing
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/#25-jul-reciprocity-is-not-focusing
+2026-07-25 [open] [x_field_note] July 2026 ladder: GEM / GR scoreboard, not a derivation
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/#25-jul-gem-gr-scoreboard-not-a-derivation
+2026-07-23 [open] [x_field_note] July 2026 ladder: the source-generator gate
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/#23-jul-the-source-generator-gate
+2026-07-20 [open] [x_field_note] July 2026 ladder: A_G is a support poset, not a unique history
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/#20-jul-a-g-is-a-support-poset-not-a-unique-history
+2026-07-19 [open] [x_field_note] July 2026 ladder: gravity is not waiting to be quantized
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/#19-jul-gravity-is-not-waiting-to-be-quantized
+2026-06-21 [restricted] [x_field_note] June 2026 substrate: conservation underdetermines routing
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#21-jun-conservation-underdetermines-routing
+2026-06-16 [restricted] [x_field_note] June 2026 substrate: mouse: recoverability lost one way
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#16-jun-mouse-recoverability-lost-one-way
+2026-06-11 [restricted] [x_field_note] June 2026 substrate: V1711–V1719 handoff
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#11-jun-v1711-v1719-handoff
+2026-06-11 [open] [x_field_note] It from bit, bind, and order: freeze: bind + order, then derive the projection
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/it-from-bit/#11-jun-freeze-bind-order-then-derive-the-projection
+2026-06-10 [restricted] [x_field_note] June 2026 substrate: V1699.14 Pillar 2
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#10-jun-v1699-14-pillar-2
+2026-06-09 [supported] [x_field_note] June 2026 substrate: V1698 retained atlas (Supported)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#9-jun-v1698-retained-atlas-supported
+2026-06-07 [corrected] [x_field_note] June 2026 substrate: V1688 posted; 10 Jun downgraded
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#7-jun-v1688-posted-10-jun-downgraded
+2026-06-06 [restricted] [x_field_note] June 2026 substrate: L4 rank lift
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#6-jun-l4-rank-lift
+2026-06-01 [restricted] [x_field_note] June 2026 substrate: geometry cannot validate itself
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#1-jun-geometry-cannot-validate-itself
+2026-05-17 [restricted] [x_field_note] May 2026 ladder: recoverability framework synthesis
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/may-2026-ladder/#17-may-recoverability-framework-synthesis
