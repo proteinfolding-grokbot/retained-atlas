@@ -6,6 +6,8 @@ Badges are copied from the pages. Restricted research-branch work is not on main
 
 2026-10-19 [restricted] [research_branch] receiver_identification sections 28-30 frozen, exactly verified and accepted by independent review (2 p.m. run)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-sections-28-30-frozen-exactly-verified-and-accepted-by-independent-review-2-pm-run  claims: atlas:physical-bridge-rid-d24-accepted
+2026-10-19 [restricted] [research_branch] receiver_identification draft 25: the uniform reading rule is needed only as one swap symmetry per depth (3 p.m. run)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-25-the-uniform-reading-rule-is-needed-only-as-one-swap-symmetry-per-depth-3-pm-run  claims: atlas:physical-bridge-rid-draft25
 2026-10-19 [restricted] [research_branch] receiver_identification draft 24: where the two-way branches must be, one comb-shaped structure supplies them all, and a missing branch leaks only a bounded amount (1 p.m. run)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-24-where-the-two-way-branches-must-be-one-comb-shaped-structure-supplies-them-all-and-a-missing-branch-leaks-only-a-bounded-amount-1-pm-run  claims: atlas:physical-bridge-rid-draft24
 2026-10-19 [restricted] [research_branch] receiver_identification draft 23: a blind first receiver plus nonnegative holdings makes empty end nodes read nothing, even with only two branches per node (12 p.m. run)
@@ -82,5 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-48  claims: atlas:v16-48
 2026-09-30 [restricted] [research_branch] v16.39 saturation condition is sufficient, not a certificate
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-39  claims: atlas:v16-39
-2026-09-30 [restricted] [research_branch] v16.36 pair-completeness closed; barrier law unresolved
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/september-2026-ladder/#atlas:v16-36  claims: atlas:v16-36

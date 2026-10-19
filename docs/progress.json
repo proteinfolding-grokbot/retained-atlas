@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 63,
+ "count": 64,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -1183,6 +1183,25 @@
    "sources": [
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/3e6f1cf3042ed3c6cd49b29d396f86cddb7bf9c6",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/dcd38d93d8d58bac1a8b1ce2d404a3c24090f630"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-19-receiver_identification-draft-25-the-uniform-reading-rule-is-needed-only-as-one-swap-symmetry-per-depth-3-pm-run",
+   "date": "2026-10-19",
+   "title": "receiver_identification draft 25: the uniform reading rule is needed only as one swap symmetry per depth (3 p.m. run)",
+   "status": "restricted",
+   "status_detail": "Restricted · unreviewed draft · research branch · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:physical-bridge-rid-draft25"
+   ],
+   "summary": "earlier sections assumed that every structure is read by one common rule. This draft drops that and lets the rule depend on each lineage's address. One realized sequence of record steps cannot supply the common rule on its own, because no two of its stages have the same shape. Without the common rule, nonnegative holdings, the bookkeeping of reads and a receiver that starts uninformed along one chain of record steps still clean every side branch off that chain; the only freedom left is one leak per depth into the chain's own next node. One symmetry inside a single small structure per depth (swapping two sibling nodes) removes it, and then every unit carried along the chain is read only at its own address, in every structure that contains it. The native bridge is still not derived.",
+   "does_not_show": "that the swap symmetry or nonnegative holdings are inherited rather than assumed; that the reads of units off the chain are faithful; that any branch or climb occurs as an event; that a holding is a record anyone can read; native access; the rule below the climb's depth. The scratch check is exploratory (floating-point linear programs plus exact examples on finite cases, not preregistered); the general proofs carry the claims.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-25-the-uniform-reading-rule-is-needed-only-as-one-swap-symmetry-per-depth-3-pm-run",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/ec178cc97178bfbb244ecc56ec0989bbbfaa17da"
    ],
    "format": "dated-entry"
   },
