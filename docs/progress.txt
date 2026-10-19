@@ -6,6 +6,8 @@ Badges are copied from the pages. Restricted research-branch work is not on main
 
 2026-10-19 [restricted] [research_branch] SE-free leaf transfer: the one pruning step that happens moves the distinction to the receiver without the sibling comparison (GPT)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-se-free-leaf-transfer-the-one-pruning-step-that-happens-moves-the-distinction-to-the-receiver-without-the-sibling-comparison-gpt  claims: atlas:physical-bridge-leaf-transfer-accepted
+2026-10-19 [restricted] [research_branch] receiver_identification sections 31-32: independent review obtained, Gemini ACCEPTED (7 p.m. run)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-sections-31-32-independent-review-obtained-gemini-accepted-7-pm-run  claims: atlas:physical-bridge-rid-d27-accepted
 2026-10-19 [restricted] [research_branch] receiver_identification sections 31-32 frozen and exactly verified; independent review blocked by a rate limit (5 p.m. run)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-sections-31-32-frozen-and-exactly-verified-independent-review-blocked-by-a-rate-limit-5-pm-run  claims: atlas:physical-bridge-rid-d27-verified
 2026-10-19 [restricted] [research_branch] receiver_identification sections 28-30 frozen, exactly verified and accepted by independent review (2 p.m. run)
@@ -82,5 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-53  claims: atlas:v16-53
 2026-10-01 [restricted] [research_branch] v16.52 repeats binary and ternary repair
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-52  claims: atlas:v16-52
-2026-10-01 [restricted] [research_branch] v16.51 validates one ternary root at hitting number 2
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-51  claims: atlas:v16-51

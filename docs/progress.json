@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 68,
+ "count": 69,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -1292,6 +1292,27 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39325925419",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/09c7e1518ffe4b85a3692fe21de3c9678e01b086",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/443f5148022cb7652842c53426e56a10c8f82c02"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-19-receiver_identification-sections-31-32-independent-review-obtained-gemini-accepted-7-pm-run",
+   "date": "2026-10-19",
+   "title": "receiver_identification sections 31-32: independent review obtained, Gemini ACCEPTED (7 p.m. run)",
+   "status": "restricted",
+   "status_detail": "Restricted · exact check GREEN · Gemini ACCEPTED · publication readback PASS · research branch · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:physical-bridge-rid-d27-accepted"
+   ],
+   "summary": "once the Gemini project's spending cap was raised, the single retry allowed by the recorded amendment was used on the frozen sections 31-32, with the same frozen text and the same exact check (which reproduced byte for byte). Gemini accepted the argument and verified all 10 items, with no findings, missing assumptions or counterexamples. These sections show that, when each address may read differently, nonnegativity plus one uninformed climb clean every side branch but leave one bounded leak per depth into the climb's next node; one sibling comparison per depth removes that leak, and nonnegativity is needed only on the climb, its two-leaf forks and its lines of descent. The reviewer listed the nonnegativity and sibling comparison as declared conditions, not inherited facts, and kept the native bridge at NOT_DERIVED. Sections 0-32 are now all independently reviewed; section 33 is not.",
+   "does_not_show": "that nonnegativity, the sibling comparison or the read bookkeeping is inherited rather than assumed; that any fork, chain or climb occurs as an event; that a holding is a record anyone can read; physical access; any review of section 33. Acceptance is independent review of conditional mathematics, not physical validation.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-sections-31-32-independent-review-obtained-gemini-accepted-7-pm-run",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/6997aeb4b93fafdcd04887f43640dea012b2627f",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39331510927",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/9ef10e3e9238155e9bd18d85fed7fa8ecb1cb4de"
    ],
    "format": "dated-entry"
   },
