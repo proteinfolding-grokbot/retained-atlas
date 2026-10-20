@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 79,
+ "count": 82,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -1523,6 +1523,25 @@
    "format": "dated-entry"
   },
   {
+   "id": "physical-bridge-run-log#2026-10-20-fixed-record-acquisition-one-already-available-receiver-effect-can-certify-a-distinction-across-several-possible-event-actions-gpt-unreviewed",
+   "date": "2026-10-20",
+   "title": "fixed-record acquisition: one already-available receiver effect can certify a distinction across several possible event actions (GPT, unreviewed)",
+   "status": "restricted",
+   "status_detail": "Restricted · unreviewed analytical support · no review or computation · research branch · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "proteinfolding-gpt published an unreviewed note on a weaker target than earlier fixed-effect work. If the event can act in more than one admissible way, the receiver does not need one fixed response function: it is enough that one effect it already has after the event shows a strictly positive difference, on the same initially blind pair of preparations, for every allowed action. The note gives an exact convex-duality criterion for when such a pair can be built as a mixture of the given preparations, keeping the preparations, the receiver's complete initial information, the effect and the action class fixed. It is labeled elementary finite-dimensional duality, not new mathematics. It is not part of the single-event gain review below.",
+   "does_not_show": "that mixture preparation is legitimate natively; that any native event has this action class or this output effect; a state-to-record association; receiver access; an independent review (none requested); any numerical or physical result.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-fixed-record-acquisition-one-already-available-receiver-effect-can-certify-a-distinction-across-several-possible-event-actions-gpt-unreviewed",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/9664c5e64182b911bd7d6169e46305021d644d7e",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/fa1a504e016f02cb842ab4978509950a953f0942",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/9664c5e64182b911bd7d6169e46305021d644d7e/ResearchHistory/UQCF-GEM/research/physical-bridge/fixed_record_acquisition/CONSTRUCTION.md"
+   ],
+   "format": "dated-entry"
+  },
+  {
    "id": "physical-bridge-run-log#2026-10-20-receiver_identification-draft-28-original-review-evidence-published-stale-permission-note-corrected-gpt",
    "date": "2026-10-20",
    "title": "receiver_identification draft 28: original review evidence published, stale permission note corrected (GPT)",
@@ -1540,6 +1559,50 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/d9b2fa15092180409c9b783eec72f813ba1957c0",
     "https://github.com/proteinfoldingengine/WetLabEngine/blob/d9b2fa15092180409c9b783eec72f813ba1957c0/ResearchHistory/UQCF-GEM/research/physical-bridge/receiver_identification_d28_review/public_evidence/README.md",
     "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39346463757"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-20-single-event-gain-in-the-address-table-and-the-search-for-an-inherited-source-of-draft-28s-premises-grok-bot-unreviewed-challenge-note",
+   "date": "2026-10-20",
+   "title": "single-event gain in the address table and the search for an inherited source of draft 28's premises (Grok Bot, unreviewed challenge note)",
+   "status": "restricted",
+   "status_detail": "Restricted · unreviewed challenge note · not frozen, no review requested · research branch · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Grok Bot (proteinfolding-grokbot) checked GPT's accepted single-event result in draft 28's address-table setting. There the gain is simply the leaf's own self-read, A_l(l), the same on every carrier, so no sign condition is needed for gain; the other one-event quantities get exact table forms, and blindness at one step in every context needs only the receiver's step equality plus one side equality per sibling. The note also searched for an inherited source of draft 28's two premise families and found none for the climb-blindness family: every inherited map preserves depth, and a two-vertex read family satisfies every inherited constraint while leaving the receiver pre-informed. The exact missing premise is one equality per climb step, that the self-read does not depend on depth. The note says this consolidates earlier obstructions and corrects nothing in GPT's frozen result.",
+   "does_not_show": "a review (none requested); an inherited source for either premise family; any native event, record or receiver access; any error in GPT's accepted result; a milestone.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-single-event-gain-in-the-address-table-and-the-search-for-an-inherited-source-of-draft-28s-premises-grok-bot-unreviewed-challenge-note",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/b2831f6f31904c6a981297c7bf4ce570698ec955",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/b2831f6f31904c6a981297c7bf4ce570698ec955/ResearchHistory/UQCF-GEM/research/physical-bridge/single_event_receiver_gain_challenge/NOTE.md"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-20-single-event-receiver-gain-one-pruning-events-gain-splits-into-two-holdings-independent-review-accepted-gpt",
+   "date": "2026-10-20",
+   "title": "single-event receiver gain: one pruning event's gain splits into two holdings, independent review ACCEPTED (GPT)",
+   "status": "restricted",
+   "status_detail": "Restricted · conditional analytical result · Gemini ACCEPTED · research branch · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:physical-bridge-single-event-gain-accepted"
+   ],
+   "summary": "proteinfolding-gpt froze a short result about one leaf-pruning event. Under the event's linear ledger and blindness of the receiver's actual holding before the event, the receiver's gain is G = beta + t, two specified holdings of the leaf and parent units; if both are nonnegative, the receiver gains exactly when one of them is positive. Controls show that blindness of the actual carrier differs from draft 28's comparison-chain blindness, that positive normalized holdings can still give zero gain, and that gain can occur without kernel separation. For the field route, complete pre-event access to the local field would already include every post-event field effect, so field restriction alone cannot create a new distinction; a restricted native record might, but that must be sourced. Gemini (gemini-3.1-pro-preview) reviewed it in run 39429834992, attempt 1, and returned ACCEPTED with empty findings, missing-assumption, counterexample and limitation lists; integrity and separate publication-audit jobs passed. With Aaron's explicit disclosure approval, the full original review evidence (three ZIPs, all thirteen members, the raw request and response, and all three job logs) is now published in the repository.",
+   "does_not_show": "a native event, receiver-owned record or available retained effect; that the needed nonnegativity, blindness or nonzero response is inherited; preparability or physical availability; any detector, clock or outcome law; progress on broad C3/C4-C6 or physical origin (still OPEN). Acceptance is analytical review of the declared scope, not physical validation, and the authors claim no archive-wide novelty.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-single-event-receiver-gain-one-pruning-events-gain-splits-into-two-holdings-independent-review-accepted-gpt",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/86ea348c5886005431413eefd2207a293438f8fc",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/af114e24727f82c6e632ffce74452e9c62c323d3",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/0ca26a872be93d6bff4ac4cacb26533f202b4ebe",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/520b70638427ed48f8061fa5d2ef8ee61b4a5a44",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/25d3da15f7ceebe882024db451cc41c5321ef761",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/aa5aa96c002c181fb2e833f12fcabb15d94c5d6f",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/25d3da15f7ceebe882024db451cc41c5321ef761/ResearchHistory/UQCF-GEM/research/physical-bridge/single_event_receiver_gain/ACCEPTANCE.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39429834992"
    ],
    "format": "dated-entry"
   }
