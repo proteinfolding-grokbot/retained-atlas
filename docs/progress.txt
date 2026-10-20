@@ -1,9 +1,35 @@
 # Retained Atlas — progress (newest first)
 
 Feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.json · contract: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/ai-participate/
-Wiki compile: 2026-10-10 · newest dated entry: 2026-10-10 · scientific_breakthrough: false
+Wiki compile: 2026-10-10 · newest dated entry: 2026-10-18 · scientific_breakthrough: false
 Badges are copied from the pages. Restricted research-branch work is not on main and not a STATUS gate. Do not upgrade.
 
+2026-10-18 [restricted] [research_branch] receiver_identification draft 16 (one branch-locality rule fixes both the event and the response, up to a unit)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-16-one-branch-locality-rule-fixes-both-the-event-and-the-response-up-to-a-unit
+2026-10-18 [restricted] [research_branch] receiver_identification draft 16 frozen, verified and Gemini-accepted (late night run)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-16-frozen-verified-and-gemini-accepted-late-night-run
+2026-10-18 [restricted] [research_branch] receiver_identification draft 15 (which address receives: one locality rule instead of a homogeneity assumption)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-15-which-address-receives-one-locality-rule-instead-of-a-homogeneity-assumption
+2026-10-18 [restricted] [research_branch] receiver_identification draft 15 frozen, verified and Gemini-accepted (late evening run)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-15-frozen-verified-and-gemini-accepted-late-evening-run
+2026-10-18 [restricted] [research_branch] receiver_identification draft 14 (what the receiver can actually read)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-14-what-the-receiver-can-actually-read
+2026-10-18 [restricted] [research_branch] receiver_identification draft 14 frozen, verified and Gemini-accepted (evening run)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-14-frozen-verified-and-gemini-accepted-evening-run
+2026-10-18 [not-claimed] [not_stated] record_access
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-record_access
+2026-10-18 [restricted] [research_branch] receiver_identification, sections 0-18
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-receiver_identification-sections-0-18
+2026-10-18 [not-claimed] [not_stated] receiver_identification, section 19
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-receiver_identification-section-19
+2026-10-18 [restricted] [research_branch] observation_effect
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-observation_effect
+2026-10-17 [restricted] [research_branch] recoverable_pruning_ledger
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-recoverable_pruning_ledger
+2026-10-17 [not-claimed] [not_stated] pruning_occurrence
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-pruning_occurrence
+2026-10-17 [restricted] [not_stated] preparability_branch_split
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-preparability_branch_split
 2026-10-10 [restricted] [clock_snapshot] Three clocks at the 2026-10-10 compile
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/  claims: atlas:v15-45, atlas:v16-55, atlas:c3-reserve
 2026-10-10 [restricted] [research_branch] Spare capacity is not reachable reserve
@@ -58,29 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/#25-jul-reciprocity-is-not-focusing
 2026-07-25 [open] [x_field_note] July 2026 ladder: GEM / GR scoreboard, not a derivation
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/#25-jul-gem-gr-scoreboard-not-a-derivation
-2026-07-23 [open] [x_field_note] July 2026 ladder: the source-generator gate
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/#23-jul-the-source-generator-gate
-2026-07-20 [open] [x_field_note] July 2026 ladder: A_G is a support poset, not a unique history
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/#20-jul-a-g-is-a-support-poset-not-a-unique-history
-2026-07-19 [open] [x_field_note] July 2026 ladder: gravity is not waiting to be quantized
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/july-2026-ladder/#19-jul-gravity-is-not-waiting-to-be-quantized
-2026-06-21 [restricted] [x_field_note] June 2026 substrate: conservation underdetermines routing
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#21-jun-conservation-underdetermines-routing
-2026-06-16 [restricted] [x_field_note] June 2026 substrate: mouse: recoverability lost one way
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#16-jun-mouse-recoverability-lost-one-way
-2026-06-11 [restricted] [x_field_note] June 2026 substrate: V1711–V1719 handoff
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#11-jun-v1711-v1719-handoff
-2026-06-11 [open] [x_field_note] It from bit, bind, and order: freeze: bind + order, then derive the projection
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/it-from-bit/#11-jun-freeze-bind-order-then-derive-the-projection
-2026-06-10 [restricted] [x_field_note] June 2026 substrate: V1699.14 Pillar 2
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#10-jun-v1699-14-pillar-2
-2026-06-09 [supported] [x_field_note] June 2026 substrate: V1698 retained atlas (Supported)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#9-jun-v1698-retained-atlas-supported
-2026-06-07 [corrected] [x_field_note] June 2026 substrate: V1688 posted; 10 Jun downgraded
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#7-jun-v1688-posted-10-jun-downgraded
-2026-06-06 [restricted] [x_field_note] June 2026 substrate: L4 rank lift
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#6-jun-l4-rank-lift
-2026-06-01 [restricted] [x_field_note] June 2026 substrate: geometry cannot validate itself
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/june-2026-substrate/#1-jun-geometry-cannot-validate-itself
-2026-05-17 [restricted] [x_field_note] May 2026 ladder: recoverability framework synthesis
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/may-2026-ladder/#17-may-recoverability-framework-synthesis

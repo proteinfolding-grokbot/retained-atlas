@@ -44,6 +44,8 @@ Last X post ingested
 
 10 Sep 2026 20:25 UTC — [v12.41 moment-map closure](v1241-closure.md) ([constraint algebra](v1241-closure.md) without spacetime). Status https://x.com/aaronspradlin/status/2098145800949776410. GitHub-only 12 Sep: ResearchHistory/[UQCF-GEM](uqcf-gem.md) latest completed [v14.04](september-2026-ladder.md) intertwiner stop, Pillar 3 OPEN. No X field note for [v13](september-2026-ladder.md)–v14 — none invented. Gravity’s constraints not identified.
 
+Hourly research-branch results since 2026-10-18 are logged on the [physical-bridge run log](physical-bridge-run-log.md) (Restricted, research branch, not on main).
+
 ## Month windows {#month-windows}
 | Window | Status | Note |
 | --- | --- | --- |
