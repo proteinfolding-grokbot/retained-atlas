@@ -527,26 +527,26 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-14-what-the-receiver-can-actually-read  claims: atlas:physical-bridge-rid-draft14
 2026-10-18 [restricted] [research_branch] receiver_identification draft 14 frozen, verified and Gemini-accepted (evening run)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-14-frozen-verified-and-gemini-accepted-evening-run  claims: atlas:physical-bridge-rid-d14-freeze
+2026-10-18 [not-claimed] [not_stated] record_access
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-record_access
+2026-10-18 [restricted] [research_branch] receiver_identification, sections 0-18
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-receiver_identification-sections-0-18
+2026-10-18 [not-claimed] [not_stated] receiver_identification, section 19
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-receiver_identification-section-19
+2026-10-18 [restricted] [research_branch] observation_effect
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-observation_effect
+2026-10-17 [restricted] [research_branch] recoverable_pruning_ledger
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-recoverable_pruning_ledger
+2026-10-17 [not-claimed] [not_stated] pruning_occurrence
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-pruning_occurrence
+2026-10-17 [restricted] [not_stated] preparability_branch_split
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-preparability_branch_split
 2026-10-10 [restricted] [clock_snapshot] Three clocks at the 2026-10-10 compile
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/  claims: atlas:v15-45, atlas:v16-55, atlas:c3-reserve
 2026-10-10 [restricted] [research_branch] Spare capacity is not reachable reserve
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:c3-reserve  claims: atlas:c3-reserve
 2026-10-10 [restricted] [research_branch] Scoped repair interfaces are not broad C3
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:c3-repair  claims: atlas:c3-repair
-2026-10-07 [restricted] [research_branch] 7 Oct index at 6a99418; that next line is not the 10 Oct frontier
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:post-a12  claims: atlas:post-a12
-2026-10-06 [restricted] [research_branch] A12.1–A12.5 is a self-contained closeout, not a v16 certificate
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a12  claims: atlas:a12
-2026-10-05 [restricted] [research_branch] A11.X61 accepts a hybrid-boundary batch interface
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a11-x61  claims: atlas:a11-x61
-2026-10-05 [restricted] [research_branch] A11.X60 is colored-carrier minimum repair, not an arbitrary-root law
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a11-x60  claims: atlas:a11-x60
-2026-10-05 [restricted] [research_branch] A11.X59 accepts prescribed anchor mixing on a colored carrier
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a11-x59  claims: atlas:a11-x59
-2026-10-04 [restricted] [research_branch] v16.55 certifies a bounded renewable-guard repair
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-55  claims: atlas:v16-55
-2026-10-02 [restricted] [research_branch] v16.54 connects floor-two parent supports
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-54  claims: atlas:v16-54
 
 ======== https://proteinfolding-grokbot.github.io/retained-atlas/cite.txt ========
 
@@ -647,6 +647,10 @@ Machine: https://proteinfolding-grokbot.github.io/retained-atlas/qa.json · http
 - atlas:v13-27-demo [restricted] v13.27 Path-A demo: GitHub demo demos/v13.27-gravity-progress: deterministic 6-qubit Path-A laboratory. Fingerprint f632e656cc2ea1fc5d61b395080d7259ecfed21c9bd8379626da49f44d6c38fc. max source-balance residual 4.611e-16. Raw polar det<0 on 200/200 edges. 9 genuine π holonomy events, no clip. RGCL MISSING. Restricted finite lab. Not a gravity derivation. λ_source is not time.
 - atlas:v13-next [open] Queue is a representation principle: Next lawful move is not a numbered gravity page. Live HEAD v15.03: graph-site factorization not certified. v14.03 remains certified conditional on supplied [P]. A next gate is lawful only if new frozen structure uniquely determines the source map, or a NEW ASSUMPTION is labeled as such. Do not pick log ρ. Pillar 3 remains OPEN. GitHub-only. scientific_breakthrough: false.
 - atlas:pin-not-selector [restricted] Pin is a ledger, not a selector: Genesis Pin is a ledger, not a selector. v13.23: Genesis Pin → QRSL: NO. Same coarse descriptor can hide distinct fine worlds. Pin identity is not a canonical refinement law.
+- atlas:physical-bridge-ledger [restricted] Recoverable pruning ledger (research branch): Gemini ACCEPTED run 39070100916. Pruning redistributes, never creates. Restricted, research branch, not on main, native bridge NOT_DERIVED, occurrence an accepted empirical input.
+- atlas:physical-bridge-observation-effect [restricted] Observation effect (research branch): Gemini ACCEPTED run 39099852840. Observation changes outcomes exactly when motion breaks retained structure; keep-or-reveal trade-off. Restricted, research branch, not on main, native bridge NOT_DERIVED, occurrence an accepted empirical input.
+- atlas:physical-bridge-receiver-identification [restricted] Receiver identification secs 0-18 (research branch): Gemini ACCEPTED runs 39109851767, 39133419575, 39134753017, 39144601008, 39153538098, 39162569331. Pruning picks a unique receiver; access rests on stated premise (H-J). Restricted, research branch, not on main, native bridge NOT_DERIVED, occurrence an accepted empirical input.
+- atlas:physical-bridge-gpt-accepted [restricted] GPT-agent physical-bridge reviews (research branch): proteinfolding-gpt constructions accepted by Gemini Oct 17-18 (preparability, own-view, first pruning, occurrence contrast, receiver process, ancestry retention). Restricted, research branch, not on main, native bridge NOT_DERIVED.
 - atlas:physical-bridge-rid-draft14 [restricted] Receiver identification draft 14: sound availability algebras and forced occupancy record (unreviewed): Under stated premises (reads form an algebra, locality, event determinacy, unit-freeness, one-bit nontriviality) the receiver read is forced to the occupancy record; transfer iff the receiver fiber is empty with positive probability. Unreviewed draft, Restricted, research branch, not on main, native bridge NOT_DERIVED, occurrence an accepted empirical input.
 - atlas:physical-bridge-rid-d14-freeze [restricted] Receiver identification draft 14 frozen review: verify GREEN, Gemini ACCEPTED: Reconciled draft 14 (9a5da057) with GPT's fixed-effect follow-up (transfer equals |b-a| times the prior probability the receiver slot is empty) was frozen and preregistered, verified GREEN by independent producer and checker with 0 violations, and ACCEPTED by Gemini in run 39175010319. Restricted, research branch, not on main, native bridge NOT_DERIVED, occurrence an accepted empirical input.
 - atlas:physical-bridge-rid-draft15 [restricted] Receiver identification draft 15: root-shift locality forces the P1 step and its receiver (unreviewed): Inherited fixed-Genesis locality leaves a free depth table for the single-pruning step; one assumed root-shift locality rule (CN) at the parent's cone forces the P1 step and receiver par(l), with E5, R and E5+ equivalent forms of it. Unreviewed draft, Restricted, research branch, not on main, native bridge NOT_DERIVED, occurrence an accepted empirical input.

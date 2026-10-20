@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 71,
+ "count": 78,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -737,6 +737,143 @@
    ],
    "format": "seed",
    "seed_source": "'Three clocks' section of /llms.txt (compile 2026-10-10)"
+  },
+  {
+   "id": "physical-bridge-constructions#2026-10-17-preparability_branch_split",
+   "date": "2026-10-17",
+   "title": "preparability_branch_split",
+   "status": "restricted",
+   "status_detail": "Restricted · draft revised by GPT; corrected packet ACCEPTED · NOT_DERIVED",
+   "location": "not_stated",
+   "claim_ids": [],
+   "summary": "looks at whether two distinguishable preparations can be built as a split from a common pinned root, rather than supplied by hand.",
+   "does_not_show": "native preparability. The GPT review found that the V997 hash chain gives no permission to append to the carrier tree, that two-coordinate access was unearned, and that the complete-fiber contraction is allowed, not forced. Those gaps remain.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-preparability_branch_split",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/526b3af7",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/153af9dd",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39075699709",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39076009238"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-constructions#2026-10-17-pruning_occurrence",
+   "date": "2026-10-17",
+   "title": "pruning_occurrence",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional candidate · unreviewed",
+   "location": "not_stated",
+   "claim_ids": [],
+   "summary": "a conditional candidate for what an actual pruning occurrence would look like (monotone retention along provenance, including appends), reconciled against V997, V1172, V1472, P1/P2 and v15.16.",
+   "does_not_show": "that pruning must occur; it was never frozen or reviewed. Per Aaron's later rule, occurrence is now treated as an accepted input instead.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-pruning_occurrence",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/229bdf27",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/aab5f7c4"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-constructions#2026-10-17-recoverable_pruning_ledger",
+   "date": "2026-10-17",
+   "title": "recoverable_pruning_ledger",
+   "status": "restricted",
+   "status_detail": "Restricted · Gemini ACCEPTED · research branch · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "pruning in the ledger redistributes retained content to ancestors; it never creates information. Under a stated survivor-selection contract, the retained records form a decreasing, record-compatible chain, and the loss of recoverability has a definite direction.",
+   "does_not_show": "that pruning actually occurs natively, native receiver access, or a derived arrow of time. Witness D depends on supplied premise J.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-recoverable_pruning_ledger",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/0fbea1c3",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/a61bac8c",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39070100916"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-constructions#2026-10-18-observation_effect",
+   "date": "2026-10-18",
+   "title": "observation_effect",
+   "status": "restricted",
+   "status_detail": "Restricted · Gemini ACCEPTED · research branch · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "observing changes later outcomes exactly when the next motion breaks the retained structure (this generalizes v15.17). In the which-path example the unobserved receiver keeps a full bit about the source and the observed one keeps none. A keep-or-reveal trade-off: for blurring (pinching) observations, a trace of size C that an observation happened costs a disturbance of about C² to the earlier record (sharp). The ledger's absorption step escapes this because it moves content instead of blurring it.",
+   "does_not_show": "why observation happens (an accepted input), the receiver link, or a derived bridge. Gemini labeled the bridge \"derived\" while listing hand-supplied inputs; that label was recorded, not adopted. The underlying quantity is the known \"quantum witness\" (Li et al. 2012; Schild and Emary 2015); only the fit into UQCF is new.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-observation_effect",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/086ab0ad",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/d96ba223",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/02818522",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/4efed1be",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39099852840",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/5daa4ff5"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-constructions#2026-10-18-receiver_identification-section-19",
+   "date": "2026-10-18",
+   "title": "receiver_identification, section 19",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · draft 13 · unreviewed",
+   "location": "not_stated",
+   "claim_ids": [],
+   "summary": "the obvious center-based read fails, but the pruning event itself fixes which readings are meaningful at the receiver, so the measurement choice is now an output rather than put in by hand. (H-J) splits into two simpler premises: (A1) the receiver's state is its own register, and (A2) only readings the event pins down count. GPT's R premise is shown equivalent to E5 on the E1-E4 class, so it swaps that assumption rather than removing it.",
+   "does_not_show": "(A1), (A2) or E5 derived; not frozen or reviewed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-receiver_identification-section-19",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/855c8c06"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-constructions#2026-10-18-receiver_identification-sections-0-18",
+   "date": "2026-10-18",
+   "title": "receiver_identification, sections 0-18",
+   "status": "restricted",
+   "status_detail": "Restricted · Gemini ACCEPTED (six frozen reviews) · research branch · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "the existing pruning rule picks the receiver by itself. When a pruned piece is absorbed, exactly one retained address (its owner) becomes able to tell the two histories apart; the difference passes up the lineage with one holder per step, is never copied, and adds no information. Under independent background noise the holder can read its own record without an extra channel. Exact rules say how much of the record survives each step, and the receiver can keep knowing that an event happened after the details are unrecoverable. The forced single step (section 16) sends the removed weight to its immediate parent. Under three locality rules, owning one's own entry is the only bookkeeping where every pruning counts as the receiver learning (section 17). Section 18 shows the receiver always holds a real trace of the source difference, and reduces the ownership assumptions to one premise, (H-J).",
+   "does_not_show": "the native access bridge. Still assumed: independent noise (where used), the receiver naming step, each pruning step occurring, the locality rules / (H-J), and E5. Gemini's \"derived\" labels were not adopted. GPT found a real formula error after the first acceptance; the draft-1 acceptance does not cover that formula, and the corrected draft 2 was re-reviewed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-receiver_identification-sections-0-18",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39106192684",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/f366da8b",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39109851767",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/193cd7ea",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39133419575",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/6605d237",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39134753017",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/bd9a0b9b"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-constructions#2026-10-18-record_access",
+   "date": "2026-10-18",
+   "title": "record_access",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · draft · unreviewed on its own",
+   "location": "not_stated",
+   "claim_ids": [],
+   "summary": "readability equals centrality. In executed v15.16, pinching on the record bits is the same as a Lüders read of the receiver's own register, it is repeatable, and the register-local state is unchanged.",
+   "does_not_show": "a native write. The write is still the supplied v15.15 CNOT, so access is through a supplied interface. Its central-algebra results were later used inside receiver_identification sections 14 and 19.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-record_access",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/352fac2d"
+   ],
+   "format": "dated-entry"
   },
   {
    "id": "physical-bridge-run-log#2026-10-18-receiver_identification-draft-14-frozen-verified-and-gemini-accepted-evening-run",

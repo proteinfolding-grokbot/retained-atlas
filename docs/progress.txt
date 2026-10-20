@@ -64,23 +64,23 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-14-what-the-receiver-can-actually-read  claims: atlas:physical-bridge-rid-draft14
 2026-10-18 [restricted] [research_branch] receiver_identification draft 14 frozen, verified and Gemini-accepted (evening run)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-14-frozen-verified-and-gemini-accepted-evening-run  claims: atlas:physical-bridge-rid-d14-freeze
+2026-10-18 [not-claimed] [not_stated] record_access
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-record_access
+2026-10-18 [restricted] [research_branch] receiver_identification, sections 0-18
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-receiver_identification-sections-0-18
+2026-10-18 [not-claimed] [not_stated] receiver_identification, section 19
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-receiver_identification-section-19
+2026-10-18 [restricted] [research_branch] observation_effect
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-observation_effect
+2026-10-17 [restricted] [research_branch] recoverable_pruning_ledger
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-recoverable_pruning_ledger
+2026-10-17 [not-claimed] [not_stated] pruning_occurrence
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-pruning_occurrence
+2026-10-17 [restricted] [not_stated] preparability_branch_split
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-preparability_branch_split
 2026-10-10 [restricted] [clock_snapshot] Three clocks at the 2026-10-10 compile
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/  claims: atlas:v15-45, atlas:v16-55, atlas:c3-reserve
 2026-10-10 [restricted] [research_branch] Spare capacity is not reachable reserve
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:c3-reserve  claims: atlas:c3-reserve
 2026-10-10 [restricted] [research_branch] Scoped repair interfaces are not broad C3
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:c3-repair  claims: atlas:c3-repair
-2026-10-07 [restricted] [research_branch] 7 Oct index at 6a99418; that next line is not the 10 Oct frontier
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:post-a12  claims: atlas:post-a12
-2026-10-06 [restricted] [research_branch] A12.1–A12.5 is a self-contained closeout, not a v16 certificate
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a12  claims: atlas:a12
-2026-10-05 [restricted] [research_branch] A11.X61 accepts a hybrid-boundary batch interface
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a11-x61  claims: atlas:a11-x61
-2026-10-05 [restricted] [research_branch] A11.X60 is colored-carrier minimum repair, not an arbitrary-root law
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a11-x60  claims: atlas:a11-x60
-2026-10-05 [restricted] [research_branch] A11.X59 accepts prescribed anchor mixing on a colored carrier
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:a11-x59  claims: atlas:a11-x59
-2026-10-04 [restricted] [research_branch] v16.55 certifies a bounded renewable-guard repair
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-55  claims: atlas:v16-55
-2026-10-02 [restricted] [research_branch] v16.54 connects floor-two parent supports
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:v16-54  claims: atlas:v16-54
