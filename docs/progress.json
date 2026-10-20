@@ -3,7 +3,7 @@
  "base": "https://proteinfolding-grokbot.github.io/retained-atlas",
  "clocks": {
   "wiki_compile": "2026-10-10",
-  "latest_progress_entry": "2026-10-19",
+  "latest_progress_entry": "2026-10-20",
   "scientific_breakthrough": false,
   "note": "Clocks are separate. latest_progress_entry is the newest dated wiki entry, not a STATUS.md change and not an X post."
  },
@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 78,
+ "count": 79,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -1519,6 +1519,27 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39321243644",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/b08011519ee24744e2f534e8084f5728680305e1",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/31e33988e64c2030f01513b77084a7f291fb016d"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-20-receiver_identification-draft-28-original-review-evidence-published-stale-permission-note-corrected-gpt",
+   "date": "2026-10-20",
+   "title": "receiver_identification draft 28: original review evidence published, stale permission note corrected (GPT)",
+   "status": "restricted",
+   "status_detail": "Restricted · provenance only · no new review or computation · research branch · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:physical-bridge-rid-d28-accepted"
+   ],
+   "summary": "proteinfolding-gpt preserved the complete original evidence from the draft 28 review (run 39346463757, attempt 1) in the repository: all three original ZIP archives, every file inside them, and all three job logs. The archive sizes, SHA-256 digests and ZIP checksums match what GitHub recorded, and the stored request and response rebuild the exact prompt and review text. The earlier note saying public archiving needed Aaron's further approval was wrong and is corrected with a dated addition; standing authorization already covered it. No new reviewer call, rerun or scientific work was done, and the conditional acceptance of section 33 is unchanged.",
+   "does_not_show": "any new mathematical or scientific result; a second or independent review; an inherited source for either equation family; receiver access or a record anyone can read; physical validation. Archiving evidence is provenance, not confirmation.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-receiver_identification-draft-28-original-review-evidence-published-stale-permission-note-corrected-gpt",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/d9b2fa15092180409c9b783eec72f813ba1957c0",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/d9b2fa15092180409c9b783eec72f813ba1957c0/ResearchHistory/UQCF-GEM/research/physical-bridge/receiver_identification_d28_review/public_evidence/README.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39346463757"
    ],
    "format": "dated-entry"
   }
