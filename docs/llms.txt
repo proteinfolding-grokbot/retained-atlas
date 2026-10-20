@@ -3,56 +3,78 @@
 Compiled research wiki of Aaron Spradlin (@aaronspradlin).
 Thesis: start with identities that cannot be erased. Do not smuggle entropy, area laws, causal order, or a metric. Ask what geometry, if any, is forced to appear. Gravity is a candidate, not a result.
 
-Public: https://aaronspradlin.grok.me
+Public (canonical for machines): https://proteinfolding-grokbot.github.io/retained-atlas/
+Human-facing mirror: https://aaronspradlin.grok.me (embeds this site)
 X archive: https://x.com/aaronspradlin
-GitHub: https://github.com/proteinfoldingengine/WetLabEngine
+GitHub evidence: https://github.com/proteinfoldingengine/WetLabEngine
+Wiki source: https://github.com/proteinfolding-grokbot/retained-atlas
 
 ## Preferred ingest (cantos)
 
 Each canto is a closed unit: badge, clock, canonical URL, does_not_show.
 Read in order. Do not merge clocks.
 
-- Index: /cantos.txt · /cantos.json
-- Small window: /llms-small.txt
-1. /llms/c01-clocks.txt
-2. /llms/c02-identity.txt
-3. /llms/c03-core.txt
-4. /llms/c04-live.txt
-5. /llms/c05-supported.txt
-6. /llms/c06-bounds.txt
-7. /llms/c07-research.txt
-8. /llms/c08-protein.txt
-9. /llms/c09-retrieve.txt
+- Index: https://proteinfolding-grokbot.github.io/retained-atlas/cantos.txt · https://proteinfolding-grokbot.github.io/retained-atlas/cantos.json
+- Small window: https://proteinfolding-grokbot.github.io/retained-atlas/llms-small.txt
+1. https://proteinfolding-grokbot.github.io/retained-atlas/llms/c01-clocks.txt
+2. https://proteinfolding-grokbot.github.io/retained-atlas/llms/c02-identity.txt
+3. https://proteinfolding-grokbot.github.io/retained-atlas/llms/c03-core.txt
+4. https://proteinfolding-grokbot.github.io/retained-atlas/llms/c04-live.txt
+5. https://proteinfolding-grokbot.github.io/retained-atlas/llms/c05-supported.txt
+6. https://proteinfolding-grokbot.github.io/retained-atlas/llms/c06-bounds.txt
+7. https://proteinfolding-grokbot.github.io/retained-atlas/llms/c07-research.txt
+8. https://proteinfolding-grokbot.github.io/retained-atlas/llms/c08-protein.txt
+9. https://proteinfolding-grokbot.github.io/retained-atlas/llms/c09-retrieve.txt
+
+Then: claims (https://proteinfolding-grokbot.github.io/retained-atlas/claims.jsonl) → progress (https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl) → wiki spine.
+
+## Participate (other AIs)
+
+Contract: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/ai-participate/
+Propose work by issue or PR on https://github.com/proteinfolding-grokbot/retained-atlas . Never upgrade a claim status. Keep research-branch work marked "not on main". Cite the clock, the source (commit, run id or X URL) and does_not_show. Only Aaron merges to main.
+
+## Latest progress (generated from /progress.jsonl — badges copied, never upgraded)
+
+- 2026-10-18 [restricted] [research_branch] receiver_identification draft 16 (one branch-locality rule fixes both the event and the response, up to a unit) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-16-one-branch-locality-rule-fixes-both-the-event-and-the-response-up-to-a-unit
+- 2026-10-18 [restricted] [research_branch] receiver_identification draft 16 frozen, verified and Gemini-accepted (late night run) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-16-frozen-verified-and-gemini-accepted-late-night-run
+- 2026-10-18 [restricted] [research_branch] receiver_identification draft 15 (which address receives: one locality rule instead of a homogeneity assumption) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-15-which-address-receives-one-locality-rule-instead-of-a-homogeneity-assumption
+- 2026-10-18 [restricted] [research_branch] receiver_identification draft 15 frozen, verified and Gemini-accepted (late evening run) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-15-frozen-verified-and-gemini-accepted-late-evening-run
+- 2026-10-18 [restricted] [research_branch] receiver_identification draft 14 (what the receiver can actually read) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-14-what-the-receiver-can-actually-read
+- 2026-10-18 [restricted] [research_branch] receiver_identification draft 14 frozen, verified and Gemini-accepted (evening run) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-14-frozen-verified-and-gemini-accepted-evening-run
+- 2026-10-18 [not-claimed] [not_stated] record_access — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-record_access
+- 2026-10-18 [restricted] [research_branch] receiver_identification, sections 0-18 — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-receiver_identification-sections-0-18
+
+Full feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.txt
 
 ## One spine (humans)
 
-/wiki/start-here → /wiki/it-from-bit → /wiki/live-gates → /wiki/supported-four → /wiki/falsification
+https://proteinfolding-grokbot.github.io/retained-atlas/wiki/start-here/ → https://proteinfolding-grokbot.github.io/retained-atlas/wiki/it-from-bit/ → https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/ → https://proteinfolding-grokbot.github.io/retained-atlas/wiki/supported-four/ → https://proteinfolding-grokbot.github.io/retained-atlas/wiki/falsification/
 
-Off-main research (not STATUS): /wiki/research-ladder
-Do not glue June vs September stacks: /wiki/two-stacks
+Off-main research (not STATUS): https://proteinfolding-grokbot.github.io/retained-atlas/wiki/research-ladder/
+Do not glue June vs September stacks: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/two-stacks/
 
 ## Three clocks (do not merge)
 
 - Wiki compile: 2026-10-10
 - Last X field note: 24 Sep 2026 — visualization of the published v15.45 operator. Not dynamics. Not a STATUS gate. https://x.com/aaronspradlin/status/2103219216099033273
 - GitHub main STATUS.md: publication note for v15.44/v15.45. v15.03 obstruction kept as HISTORICAL_STATUS_v15.03.md. Source NOT_EVALUATED. Pillar 3 OPEN. scientific_breakthrough: false.
-- Research branches, not merged to main: integration branch still v16.55, a bounded guard, not a universal root repair. Later branch research/uqcf-overlapping-guard-exchange, tip 1e7cd09 on 10 Oct 2026: scoped C3 and C4 closeouts. Spare capacity is not reachable reserve. Not a general impossibility. Not numbered v16 certification. Broad C3 stays open. Not a source. /wiki/v1598-line
+- Research branches, not merged to main: integration branch still v16.55, a bounded guard, not a universal root repair. Later branch research/uqcf-overlapping-guard-exchange, tip 1e7cd09 on 10 Oct 2026: scoped C3 and C4 closeouts. Spare capacity is not reachable reserve. Not a general impossibility. Not numbered v16 certification. Broad C3 stays open. Not a source. https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1598-line/
 
 ## Cite and license
 
-- How to cite: /cite.txt
-- Closed Q&A for models: /qa.json
-- One wiki page as JSON: /page.json?slug=live-gates
-- Sitemap: /sitemap.xml
+- How to cite: https://proteinfolding-grokbot.github.io/retained-atlas/cite.txt
+- Closed Q&A for models: https://proteinfolding-grokbot.github.io/retained-atlas/qa.json
+- One wiki page as JSON: https://proteinfolding-grokbot.github.io/retained-atlas/data/page/live-gates.json (pattern /data/page/<slug>.json)
+- Sitemap: https://proteinfolding-grokbot.github.io/retained-atlas/sitemap.xml · robots: https://proteinfolding-grokbot.github.io/retained-atlas/robots.txt
 - License: source-available for noncommercial research and evaluation only. No commercial, product, platform, or service use without written permission. Keep claim badges.
 
 ## Machine tools
 
-- /tools.json
-- /search.json?q=
-- /search.json?q=&mode=tfidf
-- /corpus.json
-- /claims.jsonl
-- /llms-full.txt
+- Tool contract: https://proteinfolding-grokbot.github.io/retained-atlas/tools.json
+- Progress feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.json · https://proteinfolding-grokbot.github.io/retained-atlas/progress.txt
+- Search (static index; GitHub Pages ignores ?q=, rank locally, modes keyword|tfidf): https://proteinfolding-grokbot.github.io/retained-atlas/search.json · client https://proteinfolding-grokbot.github.io/retained-atlas/search_client.py
+- Embedding export: https://proteinfolding-grokbot.github.io/retained-atlas/corpus.json
+- Claims ledger: https://proteinfolding-grokbot.github.io/retained-atlas/claims.jsonl
+- One-file dump: https://proteinfolding-grokbot.github.io/retained-atlas/llms-full.txt
 
-Preserve claim badges. Live science is /wiki/live-gates, not a search hit that looks newer.
+Preserve claim badges. Live science is https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/, not a search hit that looks newer.

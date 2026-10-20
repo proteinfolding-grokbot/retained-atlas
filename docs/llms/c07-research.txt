@@ -3,7 +3,7 @@ canto: 07
 id: c07-research
 badge: restricted
 clock: main v15.45; v16.55 not on main; tip 1e7cd09 scoped C3; not a general no-go
-canonical: https://aaronspradlin.grok.me/wiki/research-ladder
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/research-ladder/
 does_not_show: STATUS bump; Einstein; arity 5 as closed; higher floors as closed; X15U as proved; spare capacity as a general no-go; numbered v16 for C3; a source
 compile: 2026-10-01
 scientific_breakthrough: false
@@ -18,7 +18,7 @@ v15.44 — intrinsic interpretation, no source fit. On main.
 v15.45 — FACTORIZATION_CERTIFIED_WITH_EXPLICIT_SPECTRAL_BOUNDARY. On main. Source NOT_EVALUATED.
 v15.46–v15.54 — PR #57, unmerged. Not a live gate. Verifier GREEN on v15.54 is not the final certificate.
 v15.55 — RESPONSE_NONUNIQUE on its research branch. Four degrees of freedom. Not a unique source. Not STATUS.
-v15.98–v16.55 — research branches, not merged to main. Index: https://aaronspradlin.grok.me/wiki/v1598-line
+v15.98–v16.55 — research branches, not merged to main. Index: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1598-line/
 v16.55: bounded renewable guard on the integration branch. Not universal X15U.
 A11.X59–X61: accepted analytical checkpoints on research/uqcf-overlapping-guard-exchange. Not numbered v16. X60 is not universal arbitrary-root repair. X62–X64 have no closeout.
 A12.1–A12.5: self-contained closeout, issue #104, commit bbc6e6f. Not numbered v16 certification. Not physical validation. The stronger graph-descriptor impossibility is withdrawn as unproved, not declared false.
@@ -42,16 +42,16 @@ v16.53: internal arities 2, 3, and 4. Arity 5 out.
 v16.54: floor-two connectivity. Higher floors open. Not the global sum.
 v16.55: bounded renewable guard. Not universal X15U.
 C3: spare capacity is not reachable reserve. Not a general no-go. Not numbered v16.
-v15.78–v15.97 remain on https://aaronspradlin.grok.me/wiki/v1578-line. v15.88 still applies a 2003 theorem.
+v15.78–v15.97 remain on https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1578-line/. v15.88 still applies a 2003 theorem.
 v15.56–v15.74 — branches exist. This compile does not adopt their RESULTS.
-Later page: https://aaronspradlin.grok.me/wiki/v1598-line
+Later page: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1598-line/
 
 Still pre-time gravity. Einstein not closed. Pillar 3 OPEN.
-Index: https://aaronspradlin.grok.me/wiki/research-ladder
-v15.45 page: https://aaronspradlin.grok.me/wiki/v1545-factorization
-v15.75 page: https://aaronspradlin.grok.me/wiki/v1575-affine
-v15.76 page: https://aaronspradlin.grok.me/wiki/v1576-cptp
-v15.77 page: https://aaronspradlin.grok.me/wiki/v1577-baseline
-v15.78–v15.97 page: https://aaronspradlin.grok.me/wiki/v1578-line
+Index: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/research-ladder/
+v15.45 page: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1545-factorization/
+v15.75 page: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1575-affine/
+v15.76 page: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1576-cptp/
+v15.77 page: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1577-baseline/
+v15.78–v15.97 page: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1578-line/
 
-canonical: https://aaronspradlin.grok.me/wiki/research-ladder
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/research-ladder/

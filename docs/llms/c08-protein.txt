@@ -3,7 +3,7 @@ canto: 08
 id: c08-protein
 badge: corrected
 clock: X 2026-09-19
-canonical: https://aaronspradlin.grok.me/wiki/protein-closeout
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/protein-closeout/
 does_not_show: A new folding mechanism; AlphaFold refuted; a therapy; TOE confirmation
 compile: 2026-10-01
 scientific_breakthrough: false
@@ -19,4 +19,4 @@ WetLabEngine root remains Supported as an audit tool.
 Labs/p53 and Labs/MECP2 withdrawn 16 Sep. GitHub-only; do not invent X URLs.
 https://x.com/aaronspradlin/status/2101337128169034035
 
-canonical: https://aaronspradlin.grok.me/wiki/protein-closeout
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/protein-closeout/

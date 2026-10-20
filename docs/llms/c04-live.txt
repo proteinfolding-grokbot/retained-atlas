@@ -3,7 +3,7 @@ canto: 04
 id: c04-live
 badge: restricted
 clock: STATUS publication note · v15.03 retained
-canonical: https://aaronspradlin.grok.me/wiki/live-gates
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/
 does_not_show: Einstein; Pillar 3 closed; v15.76 as STATUS; gravity found
 compile: 2026-10-01
 scientific_breakthrough: false
@@ -30,6 +30,6 @@ Next lawful move: NEW ASSUMPTION or new frozen structure. Do not pick log ρ or 
 Genesis Pin is a ledger, not a selector. Do not invent X URLs for GitHub-only gates.
 scientific_breakthrough: false.
 
-v15.76 is not on this page and is not merged. Two verdicts, do not collapse them: https://aaronspradlin.grok.me/wiki/v1576-cptp
+v15.76 is not on this page and is not merged. Two verdicts, do not collapse them: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1576-cptp/
 
-canonical: https://aaronspradlin.grok.me/wiki/live-gates
+canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/
