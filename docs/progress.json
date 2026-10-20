@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 70,
+ "count": 71,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -1267,6 +1267,29 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39331510927",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/cd4db0fb67cb455207fcba218ead7fee480ea92f",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/09858d2ae57ee87331272e6e9e90d9125dc70a1c"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-19-receiver_identification-section-33-frozen-verified-and-gemini-accepted-8-pm-run",
+   "date": "2026-10-19",
+   "title": "receiver_identification section 33 frozen, verified and Gemini-accepted (8 p.m. run)",
+   "status": "restricted",
+   "status_detail": "Restricted · exact check GREEN · Gemini ACCEPTED · publication readback PASS · research branch · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:physical-bridge-rid-d28-accepted"
+   ],
+   "summary": "section 33 was frozen with its expected values written down before any code ran. Two independent programs then checked it exactly, in rational arithmetic, on four small address trees (11 test systems). On every one, the conditions for the transfer to hold in every context turned out to be exactly the same linear equations as two short families: the receiver starts uninformed, and every address that branches off the record's lineage reads nothing of the unit where it branches off. The equation counts matched the written values too. All nine rejecting controls were rejected and all 19 tamper cases were caught. Gemini accepted the argument and verified all 9 items, with no findings, missing assumptions or counterexamples. It listed both equation families as declared conditions, not inherited facts, and kept the native bridge at NOT_DERIVED. Sections 0-33 are now all independently reviewed.",
+   "does_not_show": "that either equation family is inherited rather than assumed; that the test structures occur as events; that a holding is a record anyone can read; that any vertex performs a read; physical access or an observable prediction. Acceptance is independent review of conditional mathematics, not physical validation; the finite checks are bounded evidence, not proofs.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-section-33-frozen-verified-and-gemini-accepted-8-pm-run",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/acaecec0",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/4780e0e76098aedf7e8446ec67ec9926c817ab44",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39345891350",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39346463757",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/51ef054bb0a6f4535a9cdb58a2601e7c48df2313"
    ],
    "format": "dated-entry"
   },
