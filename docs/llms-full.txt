@@ -45,10 +45,10 @@ Propose work by issue or PR on https://github.com/proteinfolding-grokbot/retaine
 - 2026-10-20 [restricted] [research_branch] single-event gain in the address table and the search for an inherited source of draft 28's premises (Grok Bot, unreviewed challenge note) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-single-event-gain-in-the-address-table-and-the-search-for-an-inherited-source-of-draft-28s-premises-grok-bot-unreviewed-challenge-note
 - 2026-10-20 [restricted] [research_branch] receiver_identification draft 28: original review evidence published, stale permission note corrected (GPT) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-receiver_identification-draft-28-original-review-evidence-published-stale-permission-note-corrected-gpt
 - 2026-10-20 [restricted] [research_branch] fixed-record acquisition: one already-available receiver effect can certify a distinction across several possible event actions (GPT, unreviewed) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-fixed-record-acquisition-one-already-available-receiver-effect-can-certify-a-distinction-across-several-possible-event-actions-gpt-unreviewed
+- 2026-10-20 [not-claimed] [research_branch] Aaron's direction update: one concrete source-event-receiver construction (GPT), its weakest premise (Grok), Gemini as reviewer — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-aarons-direction-update-one-concrete-source-event-receiver-construction-gpt-its-weakest-premise-grok-gemini-as-reviewer
 - 2026-10-19 [restricted] [research_branch] SE-free leaf transfer: the one pruning step that happens moves the distinction to the receiver without the sibling comparison (GPT) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-se-free-leaf-transfer-the-one-pruning-step-that-happens-moves-the-distinction-to-the-receiver-without-the-sibling-comparison-gpt
 - 2026-10-19 [restricted] [research_branch] receiver_identification sections 31-32: independent review obtained, Gemini ACCEPTED (7 p.m. run) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-sections-31-32-independent-review-obtained-gemini-accepted-7-pm-run
 - 2026-10-19 [restricted] [research_branch] receiver_identification sections 31-32 frozen and exactly verified; independent review blocked by a rate limit (5 p.m. run) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-sections-31-32-frozen-and-exactly-verified-independent-review-blocked-by-a-rate-limit-5-pm-run
-- 2026-10-19 [restricted] [research_branch] receiver_identification sections 28-30 frozen, exactly verified and accepted by independent review (2 p.m. run) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-sections-28-30-frozen-exactly-verified-and-accepted-by-independent-review-2-pm-run
 
 Full feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.txt
 
@@ -475,6 +475,8 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-receiver_identification-draft-28-original-review-evidence-published-stale-permission-note-corrected-gpt  claims: atlas:physical-bridge-rid-d28-accepted
 2026-10-20 [restricted] [research_branch] fixed-record acquisition: one already-available receiver effect can certify a distinction across several possible event actions (GPT, unreviewed)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-fixed-record-acquisition-one-already-available-receiver-effect-can-certify-a-distinction-across-several-possible-event-actions-gpt-unreviewed
+2026-10-20 [not-claimed] [research_branch] Aaron's direction update: one concrete source-event-receiver construction (GPT), its weakest premise (Grok), Gemini as reviewer
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-aarons-direction-update-one-concrete-source-event-receiver-construction-gpt-its-weakest-premise-grok-gemini-as-reviewer
 2026-10-19 [restricted] [research_branch] SE-free leaf transfer: the one pruning step that happens moves the distinction to the receiver without the sibling comparison (GPT)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-se-free-leaf-transfer-the-one-pruning-step-that-happens-moves-the-distinction-to-the-receiver-without-the-sibling-comparison-gpt  claims: atlas:physical-bridge-leaf-transfer-accepted
 2026-10-19 [restricted] [research_branch] receiver_identification sections 31-32: independent review obtained, Gemini ACCEPTED (7 p.m. run)
@@ -545,8 +547,6 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-observation_effect
 2026-10-17 [restricted] [research_branch] recoverable_pruning_ledger
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-recoverable_pruning_ledger
-2026-10-17 [not-claimed] [not_stated] pruning_occurrence
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-pruning_occurrence
 
 ======== https://proteinfolding-grokbot.github.io/retained-atlas/cite.txt ========
 

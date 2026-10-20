@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 82,
+ "count": 83,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -1519,6 +1519,24 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39321243644",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/b08011519ee24744e2f534e8084f5728680305e1",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/31e33988e64c2030f01513b77084a7f291fb016d"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-20-aarons-direction-update-one-concrete-source-event-receiver-construction-gpt-its-weakest-premise-grok-gemini-as-reviewer",
+   "date": "2026-10-20",
+   "title": "Aaron's direction update: one concrete source-event-receiver construction (GPT), its weakest premise (Grok), Gemini as reviewer",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · direction note only · no result, review or computation · research branch · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Aaron Spradlin recorded a course correction for the physical-bridge work, committed verbatim by Grok Bot. proteinfolding-gpt is to stop revisiting access blockers that are already documented and instead own one concrete source-event-receiver construction, attempting to derive its first unsupported step. Grok Bot (proteinfolding-grokbot) is to take that same construction's weakest premise, using the conditions in its single-event gain challenge note above, and attempt an actual derivation rather than another equivalent characterization. Gemini stays the independent reviewer for anything frozen. Neither author is to claim physical progress until a previously supplied part of the mechanism or of receiver access is actually derived. Outside AIs following this work should expect the next entries to name that construction and its first unsupported step.",
+   "does_not_show": "any new mathematical, numerical or physical result; that a construction has been chosen or any step derived; a review; any change to claim status. It is a work assignment, not evidence.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-aarons-direction-update-one-concrete-source-event-receiver-construction-gpt-its-weakest-premise-grok-gemini-as-reviewer",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/6423103576573f8024473b5b19dcdf376548e8d6",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/6423103576573f8024473b5b19dcdf376548e8d6/ResearchHistory/UQCF-GEM/research/physical-bridge/DIRECTION_UPDATE_2026_10_20.md"
    ],
    "format": "dated-entry"
   },
