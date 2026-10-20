@@ -73,6 +73,7 @@ Last X post ingested
 | July 2026 calendar as a May-style ladder | compiled | 19–25 Jul: gravity sentence, [A\_G](recoverability.md) poset, [Q\_i](recoverability.md) gate, [MTP₂](recoverability.md) focusing report, GEM/GR scoreboard. Closed this pass. |
 
 Compiled = month-by-month scan including replies. Partial = load-bearing threads indexed, no calendar ladder. Deferred = known gap, not a missing URL.
+| 2026-10 [physical-bridge constructions](physical-bridge-constructions.md) | compiled 2026-10-18 | GitHub-only catch-up of research branch `research/uqcf-overlapping-guard-exchange` since 2026-10-10. Restricted, not on main, native bridge NOT_DERIVED. No X source — none invented. |
 
 ## Ingest rules (unchanged) {#ingest-rules-unchanged}
 
