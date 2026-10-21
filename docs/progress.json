@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 83,
+ "count": 86,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -1560,6 +1560,47 @@
    "format": "dated-entry"
   },
   {
+   "id": "physical-bridge-run-log#2026-10-20-groks-attempt-at-that-step-derived-under-a-stated-identification-fails-at-source-frontier-locality-grok-bot-unreviewed",
+   "date": "2026-10-20",
+   "title": "Grok's attempt at that step: derived under a stated identification, fails at source frontier locality (Grok Bot, unreviewed)",
+   "status": "restricted",
+   "status_detail": "Restricted · unreviewed analytical attempt · not frozen, no review requested · research branch · draft PR109 · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Grok Bot (proteinfolding-grokbot) tried to derive GPT's handed-off step. If one assumes that a record's incidence means \"this record references this address through a retained source-bound event\" (called R), then the starting state and the one-leaf update follow, along with the grammar's nesting, root and nonemptiness rules. The derivation fails at one point: nothing inherited forces a source event to land at a child of the source's current tip, because the existing source binding accepts any lineage address. An occurrence on the other branch gives a valid state with the wrong number of edits and makes the decoder report the wrong branch. The missing premise is named source frontier locality. After GPT's review comments, Grok accepted that this premise is sufficient rather than weakest and that the wrong-branch case is a typed extension, not an admissible native event. An addendum then showed that the receiver's decoding does not depend on which leaf alignment is used on the two-versus-three-leaf carrier, and narrowed the remaining gap to one identity between the event's binding and the record. Discussion in the PR is ongoing, and R and the separation of the two provenance chains are still supplied, not derived.",
+   "does_not_show": "a review (none requested); that R, chain separation or frontier locality is inherited; that the update occurs natively; receiver access or physical progress.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-groks-attempt-at-that-step-derived-under-a-stated-identification-fails-at-source-frontier-locality-grok-bot-unreviewed",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/ec641240be05b7774681d89cbf34b23fc0f1d9de",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/ee4b3de5b55e9c61a870ea019f60cb0189fdb3d0",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/ec641240be05b7774681d89cbf34b23fc0f1d9de/ResearchHistory/UQCF-GEM/research/physical-bridge/source_event_realization_attempt/NOTE.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/ee4b3de5b55e9c61a870ea019f60cb0189fdb3d0/ResearchHistory/UQCF-GEM/research/physical-bridge/source_event_realization_attempt/ADDENDUM_RCR_ASSOCIATION.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/109"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-20-one-concrete-source-event-receiver-construction-fixed-with-its-first-unresolved-step-handed-to-grok-gpt-unreviewed",
+   "date": "2026-10-20",
+   "title": "one concrete source-event-receiver construction fixed, with its first unresolved step handed to Grok (GPT, unreviewed)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · construction attempt and assignment · no review or computation · research branch · draft PR108 · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "following Aaron's direction update above, proteinfolding-gpt fixed one construction: the existing eight-vertex source-enabled record, with a proposed source occurrence at an already present leaf. The target is an update of that same retained object that adds one leaf to the source's record while the receiver's record and the carrier stay unchanged. With one global grading, compatibility with the unchanged receiver record uniquely forces the extended source records, and the receiver can reconstruct the grading afterwards; GPT labels this an application of earlier gluing results, not evidence that the source can actually do this. The first unresolved step, that one real source occurrence makes exactly this update, was handed to Grok Bot.",
+   "does_not_show": "that the update happens natively; physical source attainability or receiver access; a review (none requested); any change to claim status.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-one-concrete-source-event-receiver-construction-fixed-with-its-first-unresolved-step-handed-to-grok-gpt-unreviewed",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/30a6978e05b51ecd7fb58a77c70450863a718a74",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/18ec37b71df97d6c02a95bfbe487a4540456f976",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/18ec37b71df97d6c02a95bfbe487a4540456f976/ResearchHistory/UQCF-GEM/research/physical-bridge/source_enabled_record/GPT_SOURCE_EVENT_CONSTRUCTION.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/108"
+   ],
+   "format": "dated-entry"
+  },
+  {
    "id": "physical-bridge-run-log#2026-10-20-receiver_identification-draft-28-original-review-evidence-published-stale-permission-note-corrected-gpt",
    "date": "2026-10-20",
    "title": "receiver_identification draft 28: original review evidence published, stale permission note corrected (GPT)",
@@ -1577,6 +1618,30 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/d9b2fa15092180409c9b783eec72f813ba1957c0",
     "https://github.com/proteinfoldingengine/WetLabEngine/blob/d9b2fa15092180409c9b783eec72f813ba1957c0/ResearchHistory/UQCF-GEM/research/physical-bridge/receiver_identification_d28_review/public_evidence/README.md",
     "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39346463757"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-20-scope-clarification-of-the-single-event-challenge-finite-climbs-and-selected-reads-are-weaker-than-what-the-bridge-needs-independent-review-accepted-gpt",
+   "date": "2026-10-20",
+   "title": "scope clarification of the single-event challenge: finite climbs and selected reads are weaker than what the bridge needs, independent review ACCEPTED (GPT)",
+   "status": "restricted",
+   "status_detail": "Restricted · application-scope clarification · Gemini ACCEPTED · publication audit PASS · research branch · draft PR107 · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:physical-bridge-single-event-challenge-scope-accepted"
+   ],
+   "summary": "proteinfolding-gpt added one short clarification to Grok Bot's single-event challenge note above, keeping its address-table formulas and changing none of the original files. It makes two limits explicit. First, a finite number of blindness equalities along one climb is weaker than the global root-shift condition, shown by an existing depth-horizon family and a three-vertex apex example. Second, one blind selected read does not mean the receiver is blind overall or that a separating post-event effect is available, which the accepted single-event Control D already separates. Gemini (gemini-3.1-pro-preview) reviewed the exact note in run 39449286888, attempt 1, and returned ACCEPTED with empty findings, missing-assumption and counterexample lists, three limitations restating the note's own boundaries, and native bridge NOT_DERIVED; the separate publication audit passed. The receipt says plainly that the short response does not spell out every requested subcheck. The full original evidence is archived in the repository.",
+   "does_not_show": "a new theorem or numerical result; acceptance of the whole original challenge note; native preparation or source association, actual event typing, complete initial receiver blindness, an available separating effect or retention; physical validation. Acceptance covers this clarification's scope only.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-scope-clarification-of-the-single-event-challenge-finite-climbs-and-selected-reads-are-weaker-than-what-the-bridge-needs-independent-review-accepted-gpt",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/0eb63cf6c6a5ea74310ea45b689dc4458923342b",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/0fac497f09a2dcc12191bb7830e90127c54f727d",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/04af062f0a72908e4c7ef4e806d06223cb759369",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/0fac497f09a2dcc12191bb7830e90127c54f727d/ResearchHistory/UQCF-GEM/research/physical-bridge/single_event_receiver_gain_challenge/review/STATUS.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39449286888",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/107"
    ],
    "format": "dated-entry"
   },
