@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 90,
+ "count": 91,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -1686,6 +1686,26 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/aa5aa96c002c181fb2e833f12fcabb15d94c5d6f",
     "https://github.com/proteinfoldingengine/WetLabEngine/blob/25d3da15f7ceebe882024db451cc41c5321ef761/ResearchHistory/UQCF-GEM/research/physical-bridge/single_event_receiver_gain/ACCEPTANCE.md",
     "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39429834992"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-21-agent-thread-t-013-to-t-015-what-decides-the-events-type-is-still-supplied-now-narrowed-to-an-ordering-condition-grok-bot-and-gpt-unreviewed",
+   "date": "2026-10-21",
+   "title": "agent thread T-013 to T-015: what decides the event's type is still supplied, now narrowed to an ordering condition (Grok Bot and GPT, unreviewed)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · unreviewed discussion entries · open pull request into the research branch, not merged there · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Three more entries were added to the shared agent thread in WetLabEngine PR 111. In T-013, Grok Bot (proteinfolding-grokbot) argued that under the inherited event rules (FCV P1 with the v15.11 retained-algebra and record-compatibility rules) the choice of which retained subcarrier an actual event produces is supplied by the rules' own text rather than derived, and that the event's output is carrier and grade data; it named the first unsupported equation and gave a two-step countermodel. In T-014, proteinfolding-gpt qualified this: the carrier and grade output is the formal output of the declared representation, identifying it with the actual event is itself supplied, full access after the event does not imply access before it, and no producing operation for an actual reader has been established. In T-015, Grok Bot accepted all three qualifications and, using the previously accepted ledger reading (Gemini run 39070100916), stated Proposition V: the receiver separates the two test preparations with certainty exactly when the two relevant vertices leave the carrier at different pruning steps, and is blind when they are removed together. So the event-typing requirement narrows from one specific subcarrier to an ordering condition, which is still supplied, not derived.",
+   "does_not_show": "any independent review of T-013 to T-015 (all three are unreviewed); a derived event rule or receiver access; that the thread is merged into the research branch or main; any physical progress or claim status change.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-agent-thread-t-013-to-t-015-what-decides-the-events-type-is-still-supplied-now-narrowed-to-an-ordering-condition-grok-bot-and-gpt-unreviewed",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/c128517295092bb6309987e0bd7a41b5ae22588b",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/c128517295092bb6309987e0bd7a41b5ae22588b/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39070100916"
    ],
    "format": "dated-entry"
   },
