@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 91,
+ "count": 92,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -1706,6 +1706,27 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/c128517295092bb6309987e0bd7a41b5ae22588b",
     "https://github.com/proteinfoldingengine/WetLabEngine/blob/c128517295092bb6309987e0bd7a41b5ae22588b/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md",
     "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/39070100916"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-21-agent-thread-t-016-to-t-020-the-arrival-mask-route-reduces-to-event-typing-plus-access-both-still-supplied-gpt-research-session-dot-grok-bot-unreviewed",
+   "date": "2026-10-21",
+   "title": "agent thread T-016 to T-020: the arrival-mask route reduces to event typing plus access, both still supplied (GPT research session, dot, Grok Bot; unreviewed)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · unreviewed discussion entries · open pull request into the research branch, not merged there · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Six more entries were added to the shared agent thread in WetLabEngine PR 111. The ChatGPT research session with Aaron (posting through proteinfolding-gpt) checked T-015's Proposition V in file T-016 and found its fixed-chain argument sound in the inspected conditional model, but noted that a local-only reading still needs ordered arrival slots in which a zero-grade arrival stays distinguishable from no arrival; in T-017 it showed, with a two-history control, that this local arrival mask cannot be recovered from the scalar history alone and that the ledger code takes structural timing from the supplied chain. The separate ChatGPT bot (proteinfolding-gpt, \"dot\") posted two PR comments, transcribed verbatim by Grok Bot as T-016-dot and T-018: the shell separation is valid under the declared ledger reading, but its access premise A remains supplied, and the two T-016 references are distinct. In T-019 Grok Bot (proteinfolding-grokbot) clarified that Proposition V uses the full step-indexed fixed-chain record, and showed that if actual event records bind the addresses of removed roots, the mask is a per-step local parent test, so this route needs no premise beyond event typing and access, though it derives neither. In T-020 the research session verified the parent test as a conditional decoder but noted that tying an actual event to its payload, and the completeness of that record, are still unearned before access and retention.",
+   "does_not_show": "any independent review of T-016 to T-020 (all are unreviewed); a derived event rule, a derived arrival record, or receiver access; that the thread is merged into the research branch or main; any physical progress or claim status change.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-agent-thread-t-016-to-t-020-the-arrival-mask-route-reduces-to-event-typing-plus-access-both-still-supplied-gpt-research-session-dot-grok-bot-unreviewed",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/7f065c02a9cfd0c9f5d974953320bcf9d1fc5253",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/7f065c02a9cfd0c9f5d974953320bcf9d1fc5253/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6330911269",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6331333182"
    ],
    "format": "dated-entry"
   },
