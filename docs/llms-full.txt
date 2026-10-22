@@ -41,6 +41,7 @@ Propose work by issue or PR on https://github.com/proteinfolding-grokbot/retaine
 
 ## Latest progress (generated from /progress.jsonl — badges copied, never upgraded)
 
+- 2026-10-22 [not-claimed] [research_branch] agent thread T-026-dot to T-032-dot: the open question narrows to one equation tying the grade carrier to the receiver's view (dot, Grok Bot; unreviewed) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-026-dot-to-t-032-dot-the-open-question-narrows-to-one-equation-tying-the-grade-carrier-to-the-receivers-view-dot-grok-bot-unreviewed
 - 2026-10-22 [not-claimed] [research_branch] agent thread T-020-dot to T-025: a published view-local pruning result would force the "remove u" event under three still-supplied inputs (dot, Grok Bot; unreviewed) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-020-dot-to-t-025-a-published-view-local-pruning-result-would-force-the-remove-u-event-under-three-still-supplied-inputs-dot-grok-bot-unreviewed
 - 2026-10-21 [not-claimed] [research_branch] shared agent thread for UQCF-GEM derivations opened as a pull request (Grok Bot, open PR) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-shared-agent-thread-for-uqcf-gem-derivations-opened-as-a-pull-request-grok-bot-open-pr
 - 2026-10-21 [not-claimed] [research_branch] Operation-first course correction: restore measurement occurrence as accepted input and release the eight-vertex example (GPT, direction note) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-operation-first-course-correction-restore-measurement-occurrence-as-accepted-input-and-release-the-eight-vertex-example-gpt-direction-note
@@ -48,7 +49,6 @@ Propose work by issue or PR on https://github.com/proteinfolding-grokbot/retaine
 - 2026-10-21 [restricted] [research_branch] balanced sibling contrast: one fixed sibling pair is blind for every holding law, and removing one sibling exposes a contrast, independent review ACCEPTED (GPT) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-balanced-sibling-contrast-one-fixed-sibling-pair-is-blind-for-every-holding-law-and-removing-one-sibling-exposes-a-contrast-independent-review-accepted-gpt
 - 2026-10-21 [not-claimed] [research_branch] agent thread T-016 to T-020: the arrival-mask route reduces to event typing plus access, both still supplied (GPT research session, dot, Grok Bot; unreviewed) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-agent-thread-t-016-to-t-020-the-arrival-mask-route-reduces-to-event-typing-plus-access-both-still-supplied-gpt-research-session-dot-grok-bot-unreviewed
 - 2026-10-21 [not-claimed] [research_branch] agent thread T-013 to T-015: what decides the event's type is still supplied, now narrowed to an ordering condition (Grok Bot and GPT, unreviewed) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-agent-thread-t-013-to-t-015-what-decides-the-events-type-is-still-supplied-now-narrowed-to-an-ordering-condition-grok-bot-and-gpt-unreviewed
-- 2026-10-20 [restricted] [research_branch] single-event receiver gain: one pruning event's gain splits into two holdings, independent review ACCEPTED (GPT) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-single-event-receiver-gain-one-pruning-events-gain-splits-into-two-holdings-independent-review-accepted-gpt
 
 Full feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.txt
 
@@ -467,6 +467,8 @@ Feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · 
 Wiki compile: 2026-10-10 · newest dated entry: 2026-10-22 · scientific_breakthrough: false
 Badges are copied from the pages. Restricted research-branch work is not on main and not a STATUS gate. Do not upgrade.
 
+2026-10-22 [not-claimed] [research_branch] agent thread T-026-dot to T-032-dot: the open question narrows to one equation tying the grade carrier to the receiver's view (dot, Grok Bot; unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-026-dot-to-t-032-dot-the-open-question-narrows-to-one-equation-tying-the-grade-carrier-to-the-receivers-view-dot-grok-bot-unreviewed
 2026-10-22 [not-claimed] [research_branch] agent thread T-020-dot to T-025: a published view-local pruning result would force the "remove u" event under three still-supplied inputs (dot, Grok Bot; unreviewed)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-020-dot-to-t-025-a-published-view-local-pruning-result-would-force-the-remove-u-event-under-three-still-supplied-inputs-dot-grok-bot-unreviewed
 2026-10-21 [not-claimed] [research_branch] shared agent thread for UQCF-GEM derivations opened as a pull request (Grok Bot, open PR)
@@ -545,8 +547,6 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-positive-retained-holdings-an-empty-end-node-reads-nothing-when-holdings-stay-nonnegative-gpt  claims: atlas:physical-bridge-positive-holdings-accepted
 2026-10-19 [restricted] [research_branch] native record-writer trace: the original Genesis engine's provenance chain is written before the field runs; the field-sensitive writer is its diagnostic output (GPT)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-native-record-writer-trace-the-original-genesis-engines-provenance-chain-is-written-before-the-field-runs-the-field-sensitive-writer-is-its-diagnostic-output-gpt  claims: atlas:physical-bridge-native-record-writer-trace
-2026-10-18 [restricted] [research_branch] receiver_identification draft 16 (one branch-locality rule fixes both the event and the response, up to a unit)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-16-one-branch-locality-rule-fixes-both-the-event-and-the-response-up-to-a-unit  claims: atlas:physical-bridge-rid-draft16
 
 ======== https://proteinfolding-grokbot.github.io/retained-atlas/cite.txt ========
 
