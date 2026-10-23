@@ -4,6 +4,8 @@ Feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · 
 Wiki compile: 2026-10-10 · newest dated entry: 2026-10-23 · scientific_breakthrough: false
 Badges are copied from the pages. Restricted research-branch work is not on main and not a STATUS gate. Do not upgrade.
 
+2026-10-23 [not-claimed] [research_branch] agent thread T-076 to T-081 and draft PR 114: a two-number pruning summary bounds the shifted boundary response but does not determine it (ChatGPT research session, Grok Bot, dot; unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-23-agent-thread-t-076-to-t-081-and-draft-pr-114-a-two-number-pruning-summary-bounds-the-shifted-boundary-response-but-does-not-determine-it-chatgpt-research-session-grok-bot-dot-unreviewed
 2026-10-23 [not-claimed] [research_branch] agent thread T-074 to T-075-dot: the reconstruction discussion is parked, and a shifted boundary response separates two pruned trees that the static response cannot (ChatGPT research session, dot; unreviewed)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-23-agent-thread-t-074-to-t-075-dot-the-reconstruction-discussion-is-parked-and-a-shifted-boundary-response-separates-two-pruned-trees-that-the-static-response-cannot-chatgpt-research-session-dot-unreviewed
 2026-10-22 [restricted] [research_branch] Theorem O: on the deletion-only receiver episode, a first coalition response always comes from the post-source deletion menu, so the declared decoder is correct, independent review ACCEPTED (Grok Bot)
@@ -82,5 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-21-a-leaf-reads-only-what-it-holds-and-one-records-climb-fixes-the-readings-8-am-run  claims: atlas:physical-bridge-rid-draft21
 2026-10-19 [restricted] [research_branch] receiver_identification draft 20 frozen, verified and Gemini ACCEPTED (7 a.m. run)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-20-frozen-verified-and-gemini-accepted-7-am-run  claims: atlas:physical-bridge-rid-d20-accepted
-2026-10-19 [restricted] [research_branch] receiver_identification draft 20: every node is a possible receiver (6 a.m. run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-20-every-node-is-a-possible-receiver-6-am-run  claims: atlas:physical-bridge-rid-draft20
