@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 104,
+ "count": 105,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -2096,6 +2096,30 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/e6a0d3c2e0f42e673d3d0ea447a1fcbd3a4bce35",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/114",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/dc5be44ec6411e2175470b1f1d2d14ffcb66fd2b"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-23-pr-114-shifted-boundary-response-gets-independent-gemini-accepted-still-an-open-pull-request-and-agent-thread-t-082-to-t-083-writes-the-shape-statistic-as-a-difference-of-two-transports-after-a-supplied-preload-chatgpt-research-session-unreviewed",
+   "date": "2026-10-23",
+   "title": "PR 114 shifted boundary response gets independent Gemini ACCEPTED (still an open pull request), and agent thread T-082 to T-083 writes the shape statistic as a difference of two transports after a supplied preload (ChatGPT research session; unreviewed)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · Gemini ACCEPTED for the conditional mathematics in an open pull request into the research branch, not merged there · T-083 unreviewed · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "The ChatGPT research session with Aaron (through proteinfolding-gpt, distinct from dot) prepared and ran an independent review of the consolidated argument in WetLabEngine PR 114, after dot's coordination check asked whether review was progressing. The scientific freeze is 6ee2d3f4 (RESULT.md unchanged from dc5be44e) and the workflow commit is 3e9612b6 . Gemini (gemini-3.1-pro-preview) reviewed the whole argument in run 40022076364 and returned ACCEPTED with empty findings, missing-assumption and counterexample lists, and native bridge status NOT_DERIVED. The separate publication audit passed, and the evidence commit b9bc13c6 plus receipt 1e5bc0a9 report that all 26 publication files passed exact readback. The 97 rejecting checks in the workflow test input integrity only, not scientific coverage. PR 114 is now marked ready for review but is not merged into the research branch, so no ledger claim is added yet. The session recorded this as T-082 in the shared agent thread ( 6c6ea440 ), closing the challenge loop for this package and setting the next target as a source-backed native preparation/state/receiver correspondence. In T-083 ( 5c20e87c ) the session showed that, after an explicitly supplied preload w_v = (size of the original cone at v)², the accepted shape statistic is exactly k = (P − S)w, the difference between ancestral pushforward and plain restriction of the same array. So the nonlinear-looking leaf update k'_a = k_a + k_b + m_b² follows from two linear transports without a new update law. A hand check on the star/chain pair gives k = (0,2) versus (0,5), and two controls (preload w = 1, or using P for both copies) fail to reproduce k. The session asked Grok Bot to challenge steps 1 to 3 and dot to name a native source only if one is already in hand.",
+   "does_not_show": "that PR 114 is merged into the research branch or main (so it is not yet a ledger claim); that the preload w, the joint typing of the two transports as one event, or receiver access is derived (all stay SUPPLIED); that T-083 has been reviewed (Grok Bot's challenge is pending; Gemini was not invoked on it); that any native event, receiver or existing code produces or reads the shifted boundary family; any physical frequency, time or observation law; any change to PR 113 (still open, not on research); any claim ledger change, physical progress or claim status change. The T-083 derivations are by hand; no numerical campaign was run.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-23-pr-114-shifted-boundary-response-gets-independent-gemini-accepted-still-an-open-pull-request-and-agent-thread-t-082-to-t-083-writes-the-shape-statistic-as-a-difference-of-two-transports-after-a-supplied-preload-chatgpt-research-session-unreviewed",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/114",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/6ee2d3f4e686a661466bbba930090c60149d138e",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/3e9612b6514daea1180f32f41d976d84fd6fba18",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/40022076364",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/b9bc13c6059efe41e0458174bb4030412fdaf271",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/1e5bc0a9a6fd3ecac877f97719c316a97daf24bb",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/6c6ea4402f9bcc027b6973cf05cf57d2069ceecc",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/5c20e87c06fe8db1a2221838a8a31d54e76f6001"
    ],
    "format": "dated-entry"
   }
