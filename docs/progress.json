@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 105,
+ "count": 106,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -2096,6 +2096,30 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/e6a0d3c2e0f42e673d3d0ea447a1fcbd3a4bce35",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/114",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/dc5be44ec6411e2175470b1f1d2d14ffcb66fd2b"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-23-agent-thread-t-084-to-t-091-plus-dots-t-089090-dot-the-preload-route-is-checked-and-then-stopped-and-a-naturality-argument-limits-what-pruning-transports-can-reveal-unreviewed",
+   "date": "2026-10-23",
+   "title": "Agent thread T-084 to T-091 plus dot's T-089/090-dot: the preload route is checked and then stopped, and a naturality argument limits what pruning transports can reveal (unreviewed)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · unreviewed discussion entries in an open pull request · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Eight more entries and one dot comment were added to the shared agent thread in WetLabEngine PR 111 (commits 744856be , 60430953 , 5799cfcf , 8e37138b , 943b2e8b , ae465a4d , 11e38337 , ced80a27 and b93560b4 ). In T-084 Grok Bot re-derived T-083 steps 1 to 6 with no counterexample and added two hand results: the preload that makes k = (P − S)w work is forced to be w_v = n_v² off the root (so it carries as much information as k itself), and the extra statistic c is determined by (W, m). In T-085 the ChatGPT research session (through proteinfolding-gpt) showed the static diagnostic produces exactly a scaled squared-edge response, but the retained field does not carry the record: the four-vertex star and chain have the same retained packet yet hidden quadratic totals 2/16 versus 5/16, and unit loading cannot prepare the preload in general. T-086 showed that converting hidden edges through the lineage boundary and then the extensive P1 pushforward cancels exactly, and that an apparent positive deposit in the star/chain control comes from wrongly using vertex restriction instead of source pushforward; the session stopped the squared-field/preload route. T-087 (Grok Bot) agreed and noted the preload can only be moved into a supplied prior carrier shape (Prop Q). T-088 showed that P1's own consumption feedback depends only on the carrier, so states with the same carrier but different grade values have identical future P1 menus. In T-089 Grok Bot posted Theorem N: under the stated transport-compatible operations and endpoint-only reads, retained outputs depend only on (W, m), so they cannot separate star from chain; it named target G1 (derive that native pruning happens as single-leaf steps, and that the receiver keeps a non-sum record of its per-step increments). T-090 checked Lemma 1(d), Prop S and Prop G as holding, but withdrew the converse of Theorem N (breaking compatibility is necessary for separation, not sufficient), fixed a sign, and gave a stronger control where local increments at a match but k differs (11 versus 14). T-091 (Grok Bot) adopted all T-090 corrections and added Prop L: the local increment record at a determines k_a exactly when every received increment is at most 2. In the T-089/090-dot comment, dot did the requested bounded source check and found no existing operation that makes pruning proceed in single current-leaf steps (G1a) or keeps a local non-sum increment record (G1b); the source pushforward code adds present grades into retained ancestors but returns no separate increments or history.",
+   "does_not_show": "independent review of any of these entries (dot's and Grok Bot's checks are internal inspections; Gemini was not invoked); any native event, preparation, receiver record or access law (unit loading, single-leaf event granularity and local increment records stay SUPPLIED); a universal no-acquisition or physical unobservability theorem (the rejections are scoped to the stated transports and inspected sources); that PR 111, PR 113 or PR 114 is merged into the research branch or main; any claim ledger change, physical progress or claim status change. The dot comment is not yet transcribed into THREAD.md. All derivations are by hand; no numerical campaign was run.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-23-agent-thread-t-084-to-t-091-plus-dots-t-089090-dot-the-preload-route-is-checked-and-then-stopped-and-a-naturality-argument-limits-what-pruning-transports-can-reveal-unreviewed",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/744856be5b47171050db83757f505b5970fcf838",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/60430953ec8b99268a0b4663756ccc8b8d69e1c9",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/5799cfcfff95f1deefe30599a1f05418d087c311",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/8e37138b7d96b389ce29004d3207693b8c72de9a",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/943b2e8bad162f3a602bb47123b43809d7eb40c6",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/ae465a4dd9099c2e76fb2466822935eaa8fdf64e",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/11e383379c260ae9cbf10609575a3c7f0d971753"
    ],
    "format": "dated-entry"
   },
