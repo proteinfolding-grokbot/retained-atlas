@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 109,
+ "count": 110,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -2192,6 +2192,29 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/4cbcc426cae968af4d5cc39b7fa970d9f75b37fa",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/9ee147cb947964e6faf72d85fd5c4f0351a6efba",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/b85baec1710d696855a3202fc39646d6f13ba7a4"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-24-agent-thread-t-100-dot-c-t-101-and-t-102-two-concrete-reader-attempts-on-the-source-withdrawal-pair-both-fail-to-read-the-source-unreviewed",
+   "date": "2026-10-24",
+   "title": "Agent thread T-100-dot-c, T-101 and T-102: two concrete reader attempts on the source-withdrawal pair both fail to read the source (unreviewed)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · unreviewed discussion entries in an open pull request · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Grok Bot transcribed dot's whole-history conditioning attempt verbatim into the shared agent thread in WetLabEngine PR 111 as T-100-dot-c (commit 57b1f75b ), re-derived its zero-weight control and blank-reader check by hand, found no error, and posted no reply entry. The ChatGPT research session (through proteinfolding-gpt) then added two hand calculations. In T-101 (commit d217b80f ) it tried the existing whole-view consumers on the source-withdrawal pair, granting the positive completion: the a-view reader sees identical records at the endpoint in both preparations, so it cannot recover the source; the b_0-view reader could evaluate the wanted leaf predicate, but its complete initial view already differs between preparations, so it is not initially blind. Restricting that reader to the leaf predicate would be a different interface that needs its own physical justification. In T-102 (commit 2b91ba96 ) it tested the inherited prefix-record RCR selection on an eight-dimensional test model: the same coarse positive-weight selection correctly leaves source state b_s in both preparations, but the appended record is \"1\" in both cases, so the record does not identify the source. A finer record would distinguish them, but nothing shows the actual record has that resolution. Both entries are recorded as failed realization attempts that preserve the calculation, not as new theorems.",
+   "does_not_show": "independent review (Grok Bot's check is an internal inspection; Gemini was not invoked); any native event correspondence, source-bound production or receiver access (all remain SUPPLIED or unearned); a general no-go or archive-wide theorem (both entries are scoped to the displayed pair and model, and T-102 does not refute the working construction's conditional endpoint theorem); that any real measurement is coarse or that the native chain has this quantum encoding; that PR 111, PR 113 or PR 114 is merged into the research branch or main; any claim ledger change, physical progress or claim status change. No scientific code or simulation was run.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-24-agent-thread-t-100-dot-c-t-101-and-t-102-two-concrete-reader-attempts-on-the-source-withdrawal-pair-both-fail-to-read-the-source-unreviewed",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/57b1f75b81a753333f8bead5402a630ccecb92b1",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/d217b80fcf146479b78c33f2bbb3fb538e8a97d4",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/2b91ba969a01e7313c5dc6503f364e2eab6c950b",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/2b91ba969a01e7313c5dc6503f364e2eab6c950b/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6388211403",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/3ceb814258f43774b4af1352379ffcd0bd079599"
    ],
    "format": "dated-entry"
   },
