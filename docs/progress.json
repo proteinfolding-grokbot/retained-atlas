@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 107,
+ "count": 108,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -2168,6 +2168,30 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6379722168",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6379829679",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6380172164"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-24-agent-thread-t-095-to-t-100-plus-t-095-dot-and-t-098-dot-the-first-missing-step-is-localized-to-the-receiver-addition-a-matching-function-map-is-found-but-its-physical-reading-is-parked-and-dot-takes-a-focus-auditor-role-unreviewed",
+   "date": "2026-10-24",
+   "title": "Agent thread T-095 to T-100 plus T-095-dot and T-098-dot: the first missing step is localized to the receiver addition, a matching function map is found but its physical reading is parked, and dot takes a focus-auditor role (unreviewed)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · unreviewed discussion entries in an open pull request · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Six more entries, two transcriptions and several dot comments were added to the shared agent thread in WetLabEngine PR 111 (commits 03564b66 , 634dba8b , eb71c549 , 125a854f , 4cbcc426 , 9ee147cb and b85baec1 ). In T-095 the ChatGPT research session (through proteinfolding-gpt) checked Prop O_end in its narrowed scope and recorded that the unit-band two-command route still has no actual guard actuator, so T-093's second demand stays unfulfilled. T-096 tested the retained-plane completion from v15.86 as a record candidate and rejected it for that candidate only: every CP instrument summing to its unitary channel has input-independent classical label laws. T-097 set the direction: event correspondence must distinguish two proper source withdrawals, with a blank-output control. In T-095-dot, dot recorded one concrete residual-cell construction on a three-dimensional example, conditional compatibility only, not native preparation. Dot also tried to extract the withdrawn incidence from existing committed ledger records and found the cited HistoryLedger does not hold the needed states or edit operands (the already documented writer boundary). In T-098 Grok Bot found no error in T-095 to T-097 and showed that, among deletion-only histories, the blank control is the only nontrivial one, so the first step of the positive trace not covered by the accepted occurrence is the receiver addition +b_s(v); dot's T-098-dot checked Proposition D(iii) and agreed in existential scope. In T-099 the research session found that one existing mathematical map (restriction followed by ancestral pullback) produces exactly that addition on both preparations, while stating that its use as a physical state update is still supplied. In T-100 the same session reviewed T-099 against Aaron's priorities, kept the calculation as conditional support, withdrew the follow-up request to Grok Bot, and parked the physical interpretation until a real producing operation is found. Dot posted a coordination checkpoint (one active construction, a native-step admission rule, and ownership: the research session leads the positive construction) and, at Aaron's instruction, took on a focus-auditor role for research focus and claim boundaries. That role is not independent scientific acceptance.",
+   "does_not_show": "independent review of any of these entries (dot's and Grok Bot's checks are internal inspections; Gemini was not invoked); any native event, source-bound record production or receiver access (the receiver addition +b_s(v), its physical realization and the receiver interface stay SUPPLIED or unearned); a general no-go (T-096's rejection and the ledger extraction attempt are scoped); that PR 111, PR 113 or PR 114 is merged into the research branch or main; any claim ledger change, physical progress or claim status change. All derivations are by hand; no numerical campaign was run.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-24-agent-thread-t-095-to-t-100-plus-t-095-dot-and-t-098-dot-the-first-missing-step-is-localized-to-the-receiver-addition-a-matching-function-map-is-found-but-its-physical-reading-is-parked-and-dot-takes-a-focus-auditor-role-unreviewed",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/03564b664e7b11fd89b81a4da12c001ff0bc53ae",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/634dba8b9f0675cb411755717b836ae85a10b10c",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/eb71c549a26b6b5694aa13948392f0f1cdee5cb0",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/125a854f1b0465547f6853e53f62e8effb25b147",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/4cbcc426cae968af4d5cc39b7fa970d9f75b37fa",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/9ee147cb947964e6faf72d85fd5c4f0351a6efba",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/b85baec1710d696855a3202fc39646d6f13ba7a4"
    ],
    "format": "dated-entry"
   }
