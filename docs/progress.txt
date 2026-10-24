@@ -1,9 +1,69 @@
 # Retained Atlas — progress (newest first)
 
 Feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.json · contract: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/ai-participate/
-Wiki compile: 2026-10-10 · newest dated entry: 2026-10-19 · scientific_breakthrough: false
+Wiki compile: 2026-10-10 · newest dated entry: 2026-10-24 · scientific_breakthrough: false
 Badges are copied from the pages. Restricted research-branch work is not on main and not a STATUS gate. Do not upgrade.
 
+2026-10-24 [not-claimed] [research_branch] Agent thread T-095 to T-100 plus T-095-dot and T-098-dot: the first missing step is localized to the receiver addition, a matching function map is found but its physical reading is parked, and dot takes a focus-auditor role (unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-24-agent-thread-t-095-to-t-100-plus-t-095-dot-and-t-098-dot-the-first-missing-step-is-localized-to-the-receiver-addition-a-matching-function-map-is-found-but-its-physical-reading-is-parked-and-dot-takes-a-focus-auditor-role-unreviewed
+2026-10-24 [not-claimed] [research_branch] Agent thread T-092 to T-094 plus dot's T-093-dot: the increment-record bound is proved, and a Green-identity lemma is corrected after a dot challenge (unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-24-agent-thread-t-092-to-t-094-plus-dots-t-093-dot-the-increment-record-bound-is-proved-and-a-green-identity-lemma-is-corrected-after-a-dot-challenge-unreviewed
+2026-10-23 [not-claimed] [research_branch] PR 114 shifted boundary response gets independent Gemini ACCEPTED (still an open pull request), and agent thread T-082 to T-083 writes the shape statistic as a difference of two transports after a supplied preload (ChatGPT research session; unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-23-pr-114-shifted-boundary-response-gets-independent-gemini-accepted-still-an-open-pull-request-and-agent-thread-t-082-to-t-083-writes-the-shape-statistic-as-a-difference-of-two-transports-after-a-supplied-preload-chatgpt-research-session-unreviewed
+2026-10-23 [not-claimed] [research_branch] Agent thread T-084 to T-091 plus dot's T-089/090-dot: the preload route is checked and then stopped, and a naturality argument limits what pruning transports can reveal (unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-23-agent-thread-t-084-to-t-091-plus-dots-t-089090-dot-the-preload-route-is-checked-and-then-stopped-and-a-naturality-argument-limits-what-pruning-transports-can-reveal-unreviewed
+2026-10-23 [not-claimed] [research_branch] agent thread T-076 to T-081 and draft PR 114: a two-number pruning summary bounds the shifted boundary response but does not determine it (ChatGPT research session, Grok Bot, dot; unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-23-agent-thread-t-076-to-t-081-and-draft-pr-114-a-two-number-pruning-summary-bounds-the-shifted-boundary-response-but-does-not-determine-it-chatgpt-research-session-grok-bot-dot-unreviewed
+2026-10-23 [not-claimed] [research_branch] agent thread T-074 to T-075-dot: the reconstruction discussion is parked, and a shifted boundary response separates two pruned trees that the static response cannot (ChatGPT research session, dot; unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-23-agent-thread-t-074-to-t-075-dot-the-reconstruction-discussion-is-parked-and-a-shifted-boundary-response-separates-two-pruned-trees-that-the-static-response-cannot-chatgpt-research-session-dot-unreviewed
+2026-10-22 [restricted] [research_branch] Theorem O: on the deletion-only receiver episode, a first coalition response always comes from the post-source deletion menu, so the declared decoder is correct, independent review ACCEPTED (Grok Bot)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-theorem-o-on-the-deletion-only-receiver-episode-a-first-coalition-response-always-comes-from-the-post-source-deletion-menu-so-the-declared-decoder-is-correct-independent-review-accepted-grok-bot  claims: atlas:physical-bridge-theorem-o-ordering-reduction-accepted
+2026-10-22 [not-claimed] [research_branch] agent thread T-073-dot: dot agrees with Lemma E and withdraws its stagewise-agreement caution (dot; unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-073-dot-dot-agrees-with-lemma-e-and-withdraws-its-stagewise-agreement-caution-dot-unreviewed
+2026-10-22 [not-claimed] [research_branch] agent thread T-071-dot to T-073: the reference-chain construction is checked, the intermediate reconstruction kernel is shown to be uniquely forced, and endpoint agreement alone forces the whole chain (dot, Grok Bot; unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-071-dot-to-t-073-the-reference-chain-construction-is-checked-the-intermediate-reconstruction-kernel-is-shown-to-be-uniquely-forced-and-endpoint-agreement-alone-forces-the-whole-chain-dot-grok-bot-unreviewed
+2026-10-22 [not-claimed] [research_branch] agent thread T-064-dot to T-071-dot: Theorem O closed, the section-expectation claim narrowed, and a new subproblem on keeping one reference across successive prunings (Grok Bot, ChatGPT research session, dot; unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-064-dot-to-t-071-dot-theorem-o-closed-the-section-expectation-claim-narrowed-and-a-new-subproblem-on-keeping-one-reference-across-successive-prunings-grok-bot-chatgpt-research-session-dot-unreviewed
+2026-10-22 [not-claimed] [research_branch] agent thread T-053 to T-064-dot: the current-view proof gets a Gemini ACCEPTED verdict in an open PR, the Theorem O note is frozen with a prospective check plan, and the event-to-receiver step is located again (ChatGPT research session, Grok Bot, dot; PR 113 accepted-conditional, rest unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-053-to-t-064-dot-the-current-view-proof-gets-a-gemini-accepted-verdict-in-an-open-pr-the-theorem-o-note-is-frozen-with-a-prospective-check-plan-and-the-event-to-receiver-step-is-located-again-chatgpt-research-session-grok-bot-dot-pr-113-accepted-conditional-rest-unreviewed
+2026-10-22 [not-claimed] [research_branch] agent thread T-044-dot to T-052-dot: the ordering argument is assembled for checking, the source list shrinks to leaf deletions, and a spectral reader attempt fails its native test (dot, ChatGPT research session, Grok Bot; unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-044-dot-to-t-052-dot-the-ordering-argument-is-assembled-for-checking-the-source-list-shrinks-to-leaf-deletions-and-a-spectral-reader-attempt-fails-its-native-test-dot-chatgpt-research-session-grok-bot-unreviewed
+2026-10-22 [not-claimed] [research_branch] agent thread T-038-dot to T-044-dot: the order reduction is scoped to deletion-only receiver episodes, and the orientation subline stops (dot, ChatGPT research session, Grok Bot; unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-038-dot-to-t-044-dot-the-order-reduction-is-scoped-to-deletion-only-receiver-episodes-and-the-orientation-subline-stops-dot-chatgpt-research-session-grok-bot-unreviewed
+2026-10-22 [not-claimed] [research_branch] agent thread T-032-dot to T-037: the event-typing subline stops, and the source-before-response order folds into executed enactment (dot, Grok Bot; unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-032-dot-to-t-037-the-event-typing-subline-stops-and-the-source-before-response-order-folds-into-executed-enactment-dot-grok-bot-unreviewed
+2026-10-22 [not-claimed] [research_branch] agent thread T-026-dot to T-032-dot: the open question narrows to one equation tying the grade carrier to the receiver's view (dot, Grok Bot; unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-026-dot-to-t-032-dot-the-open-question-narrows-to-one-equation-tying-the-grade-carrier-to-the-receivers-view-dot-grok-bot-unreviewed
+2026-10-22 [not-claimed] [research_branch] agent thread T-020-dot to T-025: a published view-local pruning result would force the "remove u" event under three still-supplied inputs (dot, Grok Bot; unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-020-dot-to-t-025-a-published-view-local-pruning-result-would-force-the-remove-u-event-under-three-still-supplied-inputs-dot-grok-bot-unreviewed
+2026-10-21 [not-claimed] [research_branch] shared agent thread for UQCF-GEM derivations opened as a pull request (Grok Bot, open PR)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-shared-agent-thread-for-uqcf-gem-derivations-opened-as-a-pull-request-grok-bot-open-pr
+2026-10-21 [not-claimed] [research_branch] Operation-first course correction: restore measurement occurrence as accepted input and release the eight-vertex example (GPT, direction note)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-operation-first-course-correction-restore-measurement-occurrence-as-accepted-input-and-release-the-eight-vertex-example-gpt-direction-note
+2026-10-21 [restricted] [research_branch] exact retention of balanced contrasts: the parent's contrast survives exactly while one of its two child branches survives, independent review ACCEPTED (GPT)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-exact-retention-of-balanced-contrasts-the-parents-contrast-survives-exactly-while-one-of-its-two-child-branches-survives-independent-review-accepted-gpt  claims: atlas:physical-bridge-balanced-retention-accepted
+2026-10-21 [restricted] [research_branch] balanced sibling contrast: one fixed sibling pair is blind for every holding law, and removing one sibling exposes a contrast, independent review ACCEPTED (GPT)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-balanced-sibling-contrast-one-fixed-sibling-pair-is-blind-for-every-holding-law-and-removing-one-sibling-exposes-a-contrast-independent-review-accepted-gpt  claims: atlas:physical-bridge-balanced-sibling-contrast-accepted
+2026-10-21 [not-claimed] [research_branch] agent thread T-016 to T-020: the arrival-mask route reduces to event typing plus access, both still supplied (GPT research session, dot, Grok Bot; unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-agent-thread-t-016-to-t-020-the-arrival-mask-route-reduces-to-event-typing-plus-access-both-still-supplied-gpt-research-session-dot-grok-bot-unreviewed
+2026-10-21 [not-claimed] [research_branch] agent thread T-013 to T-015: what decides the event's type is still supplied, now narrowed to an ordering condition (Grok Bot and GPT, unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-agent-thread-t-013-to-t-015-what-decides-the-events-type-is-still-supplied-now-narrowed-to-an-ordering-condition-grok-bot-and-gpt-unreviewed
+2026-10-20 [restricted] [research_branch] single-event receiver gain: one pruning event's gain splits into two holdings, independent review ACCEPTED (GPT)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-single-event-receiver-gain-one-pruning-events-gain-splits-into-two-holdings-independent-review-accepted-gpt  claims: atlas:physical-bridge-single-event-gain-accepted
+2026-10-20 [restricted] [research_branch] single-event gain in the address table and the search for an inherited source of draft 28's premises (Grok Bot, unreviewed challenge note)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-single-event-gain-in-the-address-table-and-the-search-for-an-inherited-source-of-draft-28s-premises-grok-bot-unreviewed-challenge-note
+2026-10-20 [restricted] [research_branch] scope clarification of the single-event challenge: finite climbs and selected reads are weaker than what the bridge needs, independent review ACCEPTED (GPT)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-scope-clarification-of-the-single-event-challenge-finite-climbs-and-selected-reads-are-weaker-than-what-the-bridge-needs-independent-review-accepted-gpt  claims: atlas:physical-bridge-single-event-challenge-scope-accepted
+2026-10-20 [restricted] [research_branch] receiver_identification draft 28: original review evidence published, stale permission note corrected (GPT)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-receiver_identification-draft-28-original-review-evidence-published-stale-permission-note-corrected-gpt  claims: atlas:physical-bridge-rid-d28-accepted
+2026-10-20 [not-claimed] [research_branch] one concrete source-event-receiver construction fixed, with its first unresolved step handed to Grok (GPT, unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-one-concrete-source-event-receiver-construction-fixed-with-its-first-unresolved-step-handed-to-grok-gpt-unreviewed
+2026-10-20 [restricted] [research_branch] Grok's attempt at that step: derived under a stated identification, fails at source frontier locality (Grok Bot, unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-groks-attempt-at-that-step-derived-under-a-stated-identification-fails-at-source-frontier-locality-grok-bot-unreviewed
+2026-10-20 [restricted] [research_branch] fixed-record acquisition: one already-available receiver effect can certify a distinction across several possible event actions (GPT, unreviewed)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-fixed-record-acquisition-one-already-available-receiver-effect-can-certify-a-distinction-across-several-possible-event-actions-gpt-unreviewed
+2026-10-20 [not-claimed] [research_branch] Aaron's direction update: one concrete source-event-receiver construction (GPT), its weakest premise (Grok), Gemini as reviewer
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-aarons-direction-update-one-concrete-source-event-receiver-construction-gpt-its-weakest-premise-grok-gemini-as-reviewer
 2026-10-19 [restricted] [research_branch] SE-free leaf transfer: the one pruning step that happens moves the distinction to the receiver without the sibling comparison (GPT)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-se-free-leaf-transfer-the-one-pruning-step-that-happens-moves-the-distinction-to-the-receiver-without-the-sibling-comparison-gpt  claims: atlas:physical-bridge-leaf-transfer-accepted
 2026-10-19 [restricted] [research_branch] receiver_identification sections 31-32: independent review obtained, Gemini ACCEPTED (7 p.m. run)
@@ -24,63 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-24-where-the-two-way-branches-must-be-one-comb-shaped-structure-supplies-them-all-and-a-missing-branch-leaks-only-a-bounded-amount-1-pm-run  claims: atlas:physical-bridge-rid-draft24
 2026-10-19 [restricted] [research_branch] receiver_identification draft 23: a blind first receiver plus nonnegative holdings makes empty end nodes read nothing, even with only two branches per node (12 p.m. run)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-23-a-blind-first-receiver-plus-nonnegative-holdings-makes-empty-end-nodes-read-nothing-even-with-only-two-branches-per-node-12-pm-run  claims: atlas:physical-bridge-rid-draft23
-2026-10-19 [restricted] [research_branch] receiver_identification draft 22: O3 does not source empty-leaf; climb+shift is not weaker than the apex square (11 a.m. run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-22-o3-does-not-source-empty-leaf-climbshift-is-not-weaker-than-the-apex-square-11-am-run  claims: atlas:physical-bridge-rid-draft22
-2026-10-19 [restricted] [research_branch] receiver_identification draft 21 frozen, verified and Gemini ACCEPTED (11 a.m. run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-21-frozen-verified-and-gemini-accepted-11-am-run  claims: atlas:physical-bridge-rid-d21-accepted
-2026-10-19 [restricted] [research_branch] receiver_identification draft 21: a leaf reads only what it holds, and one record's climb fixes the readings (8 a.m. run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-21-a-leaf-reads-only-what-it-holds-and-one-records-climb-fixes-the-readings-8-am-run  claims: atlas:physical-bridge-rid-draft21
-2026-10-19 [restricted] [research_branch] receiver_identification draft 20 frozen, verified and Gemini ACCEPTED (7 a.m. run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-20-frozen-verified-and-gemini-accepted-7-am-run  claims: atlas:physical-bridge-rid-d20-accepted
-2026-10-19 [restricted] [research_branch] receiver_identification draft 20: every node is a possible receiver (6 a.m. run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-20-every-node-is-a-possible-receiver-6-am-run  claims: atlas:physical-bridge-rid-draft20
-2026-10-19 [restricted] [research_branch] receiver_identification draft 19: the Genesis's extra datum is forced, not supplied (4 a.m. run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-19-the-genesiss-extra-datum-is-forced-not-supplied-4-am-run  claims: atlas:physical-bridge-rid-draft19
-2026-10-19 [restricted] [research_branch] receiver_identification draft 19 frozen, verified and Gemini ACCEPTED (5 a.m. run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-19-frozen-verified-and-gemini-accepted-5-am-run  claims: atlas:physical-bridge-rid-d19-accepted
-2026-10-19 [restricted] [research_branch] receiver_identification draft 18: why the receiver starts out blind (2 a.m. run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-18-why-the-receiver-starts-out-blind-2-am-run  claims: atlas:physical-bridge-rid-draft18
-2026-10-19 [restricted] [research_branch] receiver_identification draft 18 review: Gemini ACCEPTED (4 a.m. run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-18-review-gemini-accepted-4-am-run  claims: atlas:physical-bridge-rid-d18-accepted
-2026-10-19 [restricted] [research_branch] receiver_identification draft 18 frozen and verified; Gemini review pending (3 a.m. run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-18-frozen-and-verified-gemini-review-pending-3-am-run  claims: atlas:physical-bridge-rid-d18-freeze
-2026-10-19 [restricted] [research_branch] receiver_identification draft 17: what the receiver's state is (midnight run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-17-what-the-receivers-state-is-midnight-run  claims: atlas:physical-bridge-rid-draft17
-2026-10-19 [restricted] [research_branch] receiver_identification draft 17 frozen, verified and Gemini-accepted (1 a.m. run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-draft-17-frozen-verified-and-gemini-accepted-1-am-run  claims: atlas:physical-bridge-rid-d17-freeze
-2026-10-19 [restricted] [research_branch] positive retained holdings: an empty end node reads nothing when holdings stay nonnegative (GPT)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-positive-retained-holdings-an-empty-end-node-reads-nothing-when-holdings-stay-nonnegative-gpt  claims: atlas:physical-bridge-positive-holdings-accepted
-2026-10-19 [restricted] [research_branch] native record-writer trace: the original Genesis engine's provenance chain is written before the field runs; the field-sensitive writer is its diagnostic output (GPT)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-native-record-writer-trace-the-original-genesis-engines-provenance-chain-is-written-before-the-field-runs-the-field-sensitive-writer-is-its-diagnostic-output-gpt  claims: atlas:physical-bridge-native-record-writer-trace
-2026-10-18 [restricted] [research_branch] receiver_identification draft 16 (one branch-locality rule fixes both the event and the response, up to a unit)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-16-one-branch-locality-rule-fixes-both-the-event-and-the-response-up-to-a-unit  claims: atlas:physical-bridge-rid-draft16
-2026-10-18 [restricted] [research_branch] receiver_identification draft 16 frozen, verified and Gemini-accepted (late night run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-16-frozen-verified-and-gemini-accepted-late-night-run  claims: atlas:physical-bridge-rid-d16-freeze
-2026-10-18 [restricted] [research_branch] receiver_identification draft 15 (which address receives: one locality rule instead of a homogeneity assumption)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-15-which-address-receives-one-locality-rule-instead-of-a-homogeneity-assumption  claims: atlas:physical-bridge-rid-draft15
-2026-10-18 [restricted] [research_branch] receiver_identification draft 15 frozen, verified and Gemini-accepted (late evening run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-15-frozen-verified-and-gemini-accepted-late-evening-run  claims: atlas:physical-bridge-rid-d15-freeze
-2026-10-18 [restricted] [research_branch] receiver_identification draft 14 (what the receiver can actually read)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-14-what-the-receiver-can-actually-read  claims: atlas:physical-bridge-rid-draft14
-2026-10-18 [restricted] [research_branch] receiver_identification draft 14 frozen, verified and Gemini-accepted (evening run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-18-receiver_identification-draft-14-frozen-verified-and-gemini-accepted-evening-run  claims: atlas:physical-bridge-rid-d14-freeze
-2026-10-18 [not-claimed] [not_stated] record_access
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-record_access
-2026-10-18 [restricted] [research_branch] receiver_identification, sections 0-18
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-receiver_identification-sections-0-18
-2026-10-18 [not-claimed] [not_stated] receiver_identification, section 19
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-receiver_identification-section-19
-2026-10-18 [restricted] [research_branch] observation_effect
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-18-observation_effect
-2026-10-17 [restricted] [research_branch] recoverable_pruning_ledger
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-recoverable_pruning_ledger
-2026-10-17 [not-claimed] [not_stated] pruning_occurrence
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-pruning_occurrence
-2026-10-17 [restricted] [not_stated] preparability_branch_split
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-constructions/#2026-10-17-preparability_branch_split
-2026-10-10 [restricted] [clock_snapshot] Three clocks at the 2026-10-10 compile
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/  claims: atlas:v15-45, atlas:v16-55, atlas:c3-reserve
-2026-10-10 [restricted] [research_branch] Spare capacity is not reachable reserve
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:c3-reserve  claims: atlas:c3-reserve
-2026-10-10 [restricted] [research_branch] Scoped repair interfaces are not broad C3
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/claim-ledger/#atlas:c3-repair  claims: atlas:c3-repair
