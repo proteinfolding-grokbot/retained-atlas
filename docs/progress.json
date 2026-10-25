@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 110,
+ "count": 111,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -2237,6 +2237,27 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6386335125",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6387638177",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6387673561",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/3ceb814258f43774b4af1352379ffcd0bd079599"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-24-agent-thread-t-103-a-guarded-child-addition-writes-the-source-label-locally-but-the-inherited-full-scan-erases-the-source-distinction-first-unreviewed",
+   "date": "2026-10-24",
+   "title": "Agent thread T-103: a guarded child addition writes the source label locally, but the inherited full scan erases the source distinction first (unreviewed)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · unreviewed discussion entry in an open pull request · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "The ChatGPT research session with Aaron (through proteinfolding-gpt) appended T-103 to the shared agent thread in WetLabEngine PR 111 (commit 1a6dea22 ). It tested whether the existing parent-guarded incidence-addition loop in the v16.53 four-child producer code could carry the source-withdrawal distinction to the receiver. Holding the source vertex u fixed and running only the receiver's iteration, the guarded addition does write the source label (S_v={a} becomes {a,b_s}) and passes the profile check, so a matching local write exists inside existing code. But under the loop's actual full traversal order, u is visited first and gains the missing label, so both preparations have identical support arrays before the receiver is reached, and every vertex ends at the full palette regardless of the source (hand bit-mask check: [15,19,17] and [15,17,19] both become [15,19,19], then [31,31,31]). The actual initial() wrapper also has no prepared-state input. T-103 records this as a failed realization candidate: isolating the successful child update would add a source-preservation and invocation restriction the full scan does not have.",
+   "does_not_show": "independent review (the trace is author-checked only; Gemini was not invoked); any native event correspondence, invocation interface or receiver access (all remain SUPPLIED or unearned); a universal impossibility, or that a separately justified local interaction is ruled out (T-103 explicitly declines both, and the source-withdrawal endpoint theorem and T-102 are unchanged); that PR 111, PR 113 or PR 114 is merged into the research branch or main; any claim ledger change, physical progress or claim status change. No scientific code, simulation or enumeration was run.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-24-agent-thread-t-103-a-guarded-child-addition-writes-the-source-label-locally-but-the-inherited-full-scan-erases-the-source-distinction-first-unreviewed",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/1a6dea227d6154b57f0be14682319df7156330cc",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/1a6dea227d6154b57f0be14682319df7156330cc/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6388211403",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/3ceb814258f43774b4af1352379ffcd0bd079599"
    ],
    "format": "dated-entry"
