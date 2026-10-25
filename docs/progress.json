@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 111,
+ "count": 112,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -2258,6 +2258,28 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/1a6dea227d6154b57f0be14682319df7156330cc",
     "https://github.com/proteinfoldingengine/WetLabEngine/blob/1a6dea227d6154b57f0be14682319df7156330cc/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6388211403",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/3ceb814258f43774b4af1352379ffcd0bd079599"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-24-agent-thread-t-104-and-dots-v1626-consumer-trace-the-unique-child-addition-is-forced-only-under-an-unearned-event-footprint-premise-team-assignments-are-posted-and-dots-consumer-check-finds-no-row-level-producer-or-reader-unreviewed",
+   "date": "2026-10-24",
+   "title": "Agent thread T-104 and dot's v16.26 consumer trace: the unique child addition is forced only under an unearned event-footprint premise, team assignments are posted, and dot's consumer check finds no row-level producer or reader (unreviewed)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · unreviewed discussion entries in an open pull request · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "The ChatGPT research session with Aaron (through proteinfolding-gpt) appended T-104 to the shared agent thread in WetLabEngine PR 111 (commit f698f740 ). Fixing the parent-dependent receiver addition as the candidate on the prepared source/reference pair (S_u={a,b_s}, S_v={a}), T-104 shows that if an evaluation-only event-footprint premise F_v is supplied (stating that an elementary action associated with the accepted occurrence E is one proper native incidence edit at the already identified v, leaving other rows unchanged), then the inherited legality rules force the edit to be uniquely +b_s(v), yielding S'_v={a,b_s} so the existing decoder returns s under supplied receiver availability. However, the bounded invocation proof stops at E - F_v: the accepted untyped occurrence E and the legality relation do not imply that E acts at v or enacts the unique enabled child edit, and prior controls already block substituting a general proper source deletion (T-097, which can leave v blank) or the full inflation scan (T-103, which erases the source distinction at u first), while conditioning on a completed -a(u) supplies a typed event correspondence. T-104 posts Aaron-approved team assignments: the ChatGPT research session retains positive-construction ownership; Grok Bot ( proteinfolding-grokbot ) is asked to challenge the unsupported implication in steps 4 to 6 by supplying an exact inherited operation deriving the event footprint, a weaker concrete action/history implication yielding the addition, or a substantive error in T-104; and dot ( proteinfolding-gpt , focus auditor) is asked to check the event-to-action connection and fixed-receiver access using new producing evidence only. In PR comments 6391751926 and 6391767506 , dot took the fixed-receiver consumer side and traced demos/v16.26-consistency-increment-law/engine.py (lines 1 to 36 at 3ceb8142 , blob c10ac57f ): its h / tau_at / trigger consumers require parents plus the complete indexed view family rather than v's owned row, their all-one profile on the prepared chain does not resolve the source, the returned atomic certificate exposes the full before/after family, atomic performs deletion from a caller-supplied index and leaf, factor requires a supplied target subset endpoint, and GENESIS is a demo literal rather than an event-to-v binding. Dot concluded that this candidate discharges neither the consumer nor the footprint implication.",
+   "does_not_show": "independent review (T-104 and dot's trace are author/internal inspections only; Gemini was not invoked); that F_v is derived, adopted as native physics, or proved to be a uniquely necessary axiom for all mechanisms; that E - F_v or fixed-receiver physical access is earned (both remain open or SUPPLIED, and native bridge stays NOT_DERIVED); that Grok Bot has yet posted its challenge response to T-104, or that dot's comments are transcribed into THREAD.md yet (they are PR comments only as of head f698f740); that PR 111, PR 113 or PR 114 is merged into the research branch or main; any claim ledger change, physical progress or claim status change. No new scientific code or numerical campaign was run.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-24-agent-thread-t-104-and-dots-v1626-consumer-trace-the-unique-child-addition-is-forced-only-under-an-unearned-event-footprint-premise-team-assignments-are-posted-and-dots-consumer-check-finds-no-row-level-producer-or-reader-unreviewed",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/f698f7405d537480c117ea5aae4cc1664f7db463",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6391751926",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6391767506",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/f698f7405d537480c117ea5aae4cc1664f7db463/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/3ceb814258f43774b4af1352379ffcd0bd079599"
    ],
    "format": "dated-entry"
