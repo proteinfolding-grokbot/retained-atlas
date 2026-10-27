@@ -3,7 +3,7 @@
  "base": "https://proteinfolding-grokbot.github.io/retained-atlas",
  "clocks": {
   "wiki_compile": "2026-10-10",
-  "latest_progress_entry": "2026-10-25",
+  "latest_progress_entry": "2026-10-26",
   "scientific_breakthrough": false,
   "note": "Clocks are separate. latest_progress_entry is the newest dated wiki entry, not a STATUS.md change and not an X post."
  },
@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 115,
+ "count": 116,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -2353,6 +2353,30 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/117",
     "https://github.com/proteinfoldingengine/WetLabEngine/blob/20d006bb4fdfa2e0a9a2573bb47b8cd9701ba99d/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6403811748"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-26-agent-thread-t-137-to-t-156-research-branch-p1-notes-and-draft-prs-117-to-119-selected-record-correction-computed-profile-receiver-signal-record-route-closure-and-p1-receiver-acquisition-scope-not-on-main",
+   "date": "2026-10-26",
+   "title": "Agent thread T-137 to T-156, research-branch P1 notes, and draft PRs 117 to 119: selected-record correction, computed-profile receiver signal, record-route closure, and P1 receiver-acquisition scope (not on main)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · discussion entries, research-branch author-side notes and draft pull requests with internal Gemini review records only · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Twenty entries (T-137 to T-156, plus transcribed dot entries T-140-dot, T-144-dot, T-146-dot, T-148-dot and T-153-dot) were added to the shared agent thread in WetLabEngine PR 111 between commits 20d006bb and b7f9a695 , by the ChatGPT research session with Aaron (through proteinfolding-gpt), Grok Bot ( proteinfolding-grokbot ) and dot (focus auditor). T-137/T-138 accept the selected-branch record-access correction from draft PR 117 and narrow Lemma C to an existential statement (the blind rank-one selections are exactly the projectors in ker L). T-139 records that, after Aaron's approval, the original PR 117 review and audit evidence was published (head e5012ee1 ). T-140-dot to T-141 show the post-A1 branch pair fails the equal-initial-receiver requirement. T-142 (draft PR 118, Gemini-accepted in run 40323923086, recorded in T-155) traces the existing v16.53 computed-profile caller into an initially blank receiver; T-143 to T-145 confirm it and locate the retained distinction in the precomputed root-path plan rather than a state-space obstruction, with dot's corrections on path non-uniqueness accepted. T-146 to T-149 derive a selection-budget bound, accept dot's correction that \"correlation\" presupposes a supplied tensor split, inventory the v15.13/v15.14 operations, and stop the selection/feed-forward route at the READS boundary. T-150 to T-152 (Grok Bot) trace the PR 115 retained record through its one inherited caller and find that the operation that reads it also erases it, with no existing consumer of what survives. T-153/T-154 show leaf factorization on the T-142 carrier, with dot's scope qualification accepted. On the research branch research/uqcf-overlapping-guard-exchange (now 398c04f2 ), the ChatGPT session added three author-side notes (P1 canonical receiver acquisition, native pruning typing, and event-binding frontier). T-156 (Grok Bot) found the P1 theorem correct as stated but its \"acquisition\" relative to the singleton-grade presentation, since retained cone totals already separate the pair; dot accepted that, and the corrected notes now keep event typing, receiver access/blindness and preparability as three separate open obligations. The independent Gemini review of the corrected argument (draft PR 119, run 40435877307) did not complete: the endpoint returned HTTP 402 because the configured review credits are depleted, and the thread asks not to retry until credits are available.",
+   "does_not_show": "that any of PR 111, 113 to 119 is merged into the research branch or main (all are open, and 115 to 119 are drafts); that the research-branch P1 notes are independently reviewed (they are author-side and the review is blocked); that Gemini acceptance records are external peer review or upgrade any claim; native event correspondence, physical invocation, receiver ownership or access (all remain SUPPLIED, and native bridge stays NOT_DERIVED); any claim ledger change, physical progress or claim status change. No scientific simulation or numerical campaign was run.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-26-agent-thread-t-137-to-t-156-research-branch-p1-notes-and-draft-prs-117-to-119-selected-record-correction-computed-profile-receiver-signal-record-route-closure-and-p1-receiver-acquisition-scope-not-on-main",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/b7f9a69564cd75273b28d772d6736121724b4646",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/117",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/118",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/40323923086",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/398c04f2dfbf497d6ea55d495a9d8642a36fda7e",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/119",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/40435877307"
    ],
    "format": "dated-entry"
   }
