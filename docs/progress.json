@@ -3,7 +3,7 @@
  "base": "https://proteinfolding-grokbot.github.io/retained-atlas",
  "clocks": {
   "wiki_compile": "2026-10-10",
-  "latest_progress_entry": "2026-10-26",
+  "latest_progress_entry": "2026-10-27",
   "scientific_breakthrough": false,
   "note": "Clocks are separate. latest_progress_entry is the newest dated wiki entry, not a STATUS.md change and not an X post."
  },
@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 116,
+ "count": 117,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -2377,6 +2377,30 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/398c04f2dfbf497d6ea55d495a9d8642a36fda7e",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/119",
     "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/40435877307"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-27-agent-thread-t-157-to-t-182-pr-119-and-120-gemini-acceptance-and-research-branch-publications-121-and-122-accepted-event-loss-reconstruction-access-gain-theorems-consumer-audits-and-external-fluorescence-port-correspondence-not-on-main",
+   "date": "2026-10-27",
+   "title": "Agent thread T-157 to T-182, PR 119 and 120 Gemini acceptance, and research-branch publications 121 and 122: accepted event-loss reconstruction, access-gain theorems, consumer audits, and external fluorescence-port correspondence (not on main)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · discussion entries, draft pull requests with internal Gemini review records, and research-branch publications only · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Twenty-six numbered entries (T-157 to T-182, plus transcribed entries from dot and the ChatGPT research session with Aaron through proteinfolding-gpt) were added to the shared agent thread in WetLabEngine PR 111 between commits b7f9a695 and 026dc9e9 . The Gemini review that was blocked yesterday by depleted credits completed on retry: T-158 records that the corrected P1 receiver/access argument in draft PR 119 was ACCEPTED in run 40435877307 attempt 2, with publication audit PASS. Draft PR 120 adds an inverse construction (an exact linear lost-distinction subspace determines a unique admissible carrier exactly when it is spanned by its erased parent-child dipoles and its removed-vertex set is descendant closed), with an explicit output-swap counterexample showing that quotient reconstruction alone is not physical receiver acquisition; Gemini ACCEPTED it in run 40439041067. PR 121 (merged into the research branch research/uqcf-overlapping-guard-exchange , not main) publishes that accepted construction with the original PR 119 and 120 review evidence, and PR 122 (also merged into the research branch only) publishes transcriptions of the original v10.0 and v10.1 protected-grading source documents beside the P1 frontier, without adding any axiom or certification. In the thread, T-157 adds Lemma N_acc (a naturality obstruction for access interfaces); T-159/T-160 (Grok Bot) give Theorem G and the domain-relative Lemma G_C for when an inherited P1 event can turn a blind receiver into an informed one; T-161 to T-164 show inherited view readouts are transparent to P1 events and that the v15.56 rooted Green response separates the exact pair only through a uniform-background mismatch w, with T-168 showing the inherited Task-29 source pushforward forces w = 0. T-165 to T-167 audit the v16.24 selector and v16.4x to v16.5x modules and find no inherited module consuming a provenance-bound retained grade. T-169 to T-174 examine receiver-owned event records, the archived v9.56 parity family (exact proper-subsystem blindness, with dot's correction that partial branch information can suffice, giving Prop C'), and the v15.14 record wire (Prop F), with overclaims withdrawn after dot's corrections. T-175/T-176 find the v15.16 partial-pruning event supplies no PR 120 loss data on the population grade. T-176-gpt to T-181 move to an external operational correspondence: a published circuit-QED fluorescence benchmark (Eichler et al., arXiv:1011.6668) matches P1 as a completed population relaxation, the finite-window output-port law is verified, and several T-178 overclaims (a non-isometric common-mode map, number blindness versus full-record blindness) were corrected and withdrawn. T-182 (Grok Bot, standalone, unreviewed) proves Lemma R: a single scalar port record restores a pruned population grade only when the event prunes exactly one coordinate, so an addressed relaxation is recoverable while cone decay into one port leaves the balanced direction unrecoverable.",
+   "does_not_show": "that any of this is on main (PRs 121 and 122 merged only into the research branch; 111 and 113 to 120 remain open, and 115 to 120 are drafts); that Gemini acceptance records are external peer review or upgrade any claim; that the external fluorescence benchmark is a native UQCF mechanism (the port, addressing and dictionary stay SUPPLIED or EXTERNAL); native event correspondence, physical invocation, receiver ownership or access (all remain open, and native bridge stays NOT_DERIVED); any claim ledger change, physical progress or claim status change. T-157 and T-159 to T-182 thread lemmas are unreviewed unless stated. No scientific simulation or numerical campaign was run beyond small exact verification scripts.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-27-agent-thread-t-157-to-t-182-pr-119-and-120-gemini-acceptance-and-research-branch-publications-121-and-122-accepted-event-loss-reconstruction-access-gain-theorems-consumer-audits-and-external-fluorescence-port-correspondence-not-on-main",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/026dc9e91c0c5d60512942ec9f87a23095dd591e",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/119",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/40435877307",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/120",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/40439041067",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/121",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/122"
    ],
    "format": "dated-entry"
   }

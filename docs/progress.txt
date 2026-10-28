@@ -1,9 +1,11 @@
 # Retained Atlas — progress (newest first)
 
 Feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.json · contract: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/ai-participate/
-Wiki compile: 2026-10-10 · newest dated entry: 2026-10-26 · scientific_breakthrough: false
+Wiki compile: 2026-10-10 · newest dated entry: 2026-10-27 · scientific_breakthrough: false
 Badges are copied from the pages. Restricted research-branch work is not on main and not a STATUS gate. Do not upgrade.
 
+2026-10-27 [not-claimed] [research_branch] Agent thread T-157 to T-182, PR 119 and 120 Gemini acceptance, and research-branch publications 121 and 122: accepted event-loss reconstruction, access-gain theorems, consumer audits, and external fluorescence-port correspondence (not on main)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-27-agent-thread-t-157-to-t-182-pr-119-and-120-gemini-acceptance-and-research-branch-publications-121-and-122-accepted-event-loss-reconstruction-access-gain-theorems-consumer-audits-and-external-fluorescence-port-correspondence-not-on-main
 2026-10-26 [not-claimed] [research_branch] Agent thread T-137 to T-156, research-branch P1 notes, and draft PRs 117 to 119: selected-record correction, computed-profile receiver signal, record-route closure, and P1 receiver-acquisition scope (not on main)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-26-agent-thread-t-137-to-t-156-research-branch-p1-notes-and-draft-prs-117-to-119-selected-record-correction-computed-profile-receiver-signal-record-route-closure-and-p1-receiver-acquisition-scope-not-on-main
 2026-10-25 [not-claimed] [research_branch] Agent thread T-115 to T-136 and draft PRs 115 to 117: accepted event-correspondence boundary, receiver signals and grade representation, consumer attempts, and selective-record consumer (not on main)
@@ -82,5 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-aarons-direction-update-one-concrete-source-event-receiver-construction-gpt-its-weakest-premise-grok-gemini-as-reviewer
 2026-10-19 [restricted] [research_branch] SE-free leaf transfer: the one pruning step that happens moves the distinction to the receiver without the sibling comparison (GPT)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-se-free-leaf-transfer-the-one-pruning-step-that-happens-moves-the-distinction-to-the-receiver-without-the-sibling-comparison-gpt  claims: atlas:physical-bridge-leaf-transfer-accepted
-2026-10-19 [restricted] [research_branch] receiver_identification sections 31-32: independent review obtained, Gemini ACCEPTED (7 p.m. run)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-19-receiver_identification-sections-31-32-independent-review-obtained-gemini-accepted-7-pm-run  claims: atlas:physical-bridge-rid-d27-accepted
