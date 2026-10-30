@@ -3,7 +3,7 @@
  "base": "https://proteinfolding-grokbot.github.io/retained-atlas",
  "clocks": {
   "wiki_compile": "2026-10-10",
-  "latest_progress_entry": "2026-10-28",
+  "latest_progress_entry": "2026-10-29",
   "scientific_breakthrough": false,
   "note": "Clocks are separate. latest_progress_entry is the newest dated wiki entry, not a STATUS.md change and not an X post."
  },
@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 118,
+ "count": 119,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -2425,6 +2425,30 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/40767693251",
     "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/40767860626",
     "https://github.com/proteinfoldingengine/WetLabEngine/blob/bf3453688f198647ee405c52aa169fb41d0233da/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-29-agent-thread-t-206-to-t-219-and-research-branch-integration-124-p1-receiver-location-resolution-exact-source-correspondence-does-not-force-delivery-to-the-nominated-receiver-source-instrument-provenance-checks-and-a-parked-production-pre-registration-not-on-main",
+   "date": "2026-10-29",
+   "title": "Agent thread T-206 to T-219 and research-branch integration 124: P1 receiver-location resolution (exact source correspondence does not force delivery to the nominated receiver), source-instrument provenance checks, and a parked production pre-registration (not on main)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · discussion entries and a research-branch integration of an internally reviewed scoped result only · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Entries T-206 to T-219 (plus transcribed entries from dot and the ChatGPT research session with Aaron through proteinfolding-gpt) were added to the shared agent thread in WetLabEngine PR 111 between commits bf345368 and 07a637a7 . T-206 classifies the discard (partial-trace) call sites under UQCF-GEM; after the ChatGPT session's correction, T-209 withdraws part of it (v15.15 memory_marginal keeps the whole record register and discards the system), leaving a bounded statement about record-joint sites only. T-207 and T-208 show that on the T-142 star carrier the admitted-run endpoint observables are exactly functions of h, and the leaf-4 receiver record comes from positional canonical endpoint selection; after dot's scope correction, a singleton normal form is not claimed to be necessary, and partial or probabilistic acquisition stays eligible. T-210 to T-216 follow the ChatGPT session's source-generator composition note (v9.33 to v9.35, side branch research/uqcf-source-generator-composition ): the Lüders instrument is the unique one that is both exterior-invisible and repeatable for sharp source effects, but v9.34's own property list does not include repeatability; the v15.11/v15.12 record projectors and motion generators are SUPPLIED by the source's own declaration (scope qualified to \"no producer found in the inspected scope at c5cefae1 \"); an apparatus-record assessment received an internal Gemini review that returned ACCEPTED with native NOT_DERIVED (run 40880862457), which the ChatGPT session explicitly says not to promote to a passing gate; that carrier is parked. The ChatGPT session then answered a user-directed question: exact P1 source correspondence, faithful preparations and unchanged retained-state representations do not force a distinction into an already designated, initially blind receiver; the same source channel admits a receiver-blind implementation and one with probability contrast 1/5 (T-217 sharpens this to every value sin²θ/5 in [0, 1/5], and T-218 notes the criterion assumes the SUPPLIED full receiver algebra). That scoped result was independently reviewed and PR 124 merged it into the research branch research/uqcf-overlapping-guard-exchange only (merge 71694b92 , receipt successor d83e51a3 ; audits 40943183102 and 40943419105 passed). T-219 pre-registers a bounded production run (does v9.34 source correspondence force a unique instrument?); before any execution, the ChatGPT session challenged it and asked to park it under the current P1 target, so no result exists.",
+   "does_not_show": "that any of this is on main (PR 124 merged only into the research branch; 111 and 113 to 120 remain open, and 115 to 120 are drafts); that a Gemini acceptance record is external peer review or upgrades any claim; that UQCF-GEM cannot have interactions or that any actual experiment has a blind receiver (the result tests one inference within a stated contract); that the source generators, record splits, receiver factorization or access are native (they stay SUPPLIED or conditional premises); the native joint-event and owned-record association (still open, and native bridge stays NOT_DERIVED); any T-219 result (pre-registered only, and challenged before execution); any claim ledger change, physical progress or claim status change. Thread lemmas T-206 to T-219 are unreviewed unless stated. No numerical campaign was run beyond small exact verification scripts.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-29-agent-thread-t-206-to-t-219-and-research-branch-integration-124-p1-receiver-location-resolution-exact-source-correspondence-does-not-force-delivery-to-the-nominated-receiver-source-instrument-provenance-checks-and-a-parked-production-pre-registration-not-on-main",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/07a637a7d712f1e635ff26a30fb3c0b8c1d9fb49",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/40880862457",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/124",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/d83e51a38eb47ce1acdaaa6ad08f01e7f5ff1bb9",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/92b2e0295730ab29e0251b1be4667515992d7271/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6488925960",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6498093004"
    ],
    "format": "dated-entry"
   }
