@@ -178,6 +178,13 @@ for r in corpus['records']:
         url=(BASE+(m.group(1).rstrip('/')+'/' if m.group(1)!='/' else '/')+(m.group(2) or '')) if m else h
         docs.append({'id':r['id'],'kind':r['kind'],'title':r.get('title'),'dek':r.get('dek',''),'tags':r.get('tags') or [],
           'claimStatus':r.get('claimStatus'),'date':r.get('date'),'url':url,'sourceUrl':r.get('sourceUrl'),'body':r.get('body','')})
+if os.path.exists('docs/bot_comms.jsonl'):  # bot coordination events (built by build_bot_comms.py); kind "comms", always not-claimed
+    for l in open('docs/bot_comms.jsonl',encoding='utf-8'):
+        if not l.strip(): continue
+        c=json.loads(l)
+        docs.append({'id':'comms:'+c['id'],'kind':'comms','title':f"{c['date']} {c['channel_type']}: {c['from']} -> {c['to']}",
+          'dek':c['status_label'],'tags':['bot-communications',c['channel_type']],'claimStatus':'not-claimed','date':c['date'],
+          'url':BASE+'/wiki/bot-communications/','body':c['summary']+' '+' '.join(r['label'] for r in c['refs'])})
 STOP=set('a an and are as at be by for from has have in is it its of on or that the this to was were with not no but than then which who what when where how also into only same one two any can its their there these those been will would should may might does do did our we you he she they them his her'.split())
 def toks(t): return [w for w in re.findall(r'[a-z0-9][a-z0-9._-]*[a-z0-9]|[a-z0-9]',t.lower()) if w not in STOP and len(w)>1]
 df=collections.Counter(); tfs=[]
@@ -214,7 +221,7 @@ open('docs/llms.txt','w',encoding='utf-8').write(new)
 # ---------- llms-full.txt ----------
 F=['# Retained Atlas — llms-full (generated; one file for models that want everything)','',
    f'Base: {BASE}/ · generated from the repo by scripts/build_ai_surfaces.py · scientific_breakthrough: false','']
-for f in ['docs/llms.txt','docs/llms-small.txt','docs/cantos.txt']+sorted(glob.glob('docs/llms/c*.txt'))+['docs/progress.txt','docs/cite.txt']:
+for f in ['docs/llms.txt','docs/llms-small.txt','docs/cantos.txt']+sorted(glob.glob('docs/llms/c*.txt'))+['docs/progress.txt']+(['docs/bot_comms.txt'] if os.path.exists('docs/bot_comms.txt') else [])+['docs/cite.txt']:
     F+=[f'======== {BASE}/{f[5:]} ========','',open(f,encoding='utf-8').read().rstrip(),'']
 F+=[f'======== {BASE}/claims.jsonl ========','']
 for l in open('claims/ledger.jsonl',encoding='utf-8'):

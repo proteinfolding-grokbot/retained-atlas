@@ -20,5 +20,6 @@ Identity: Aaron Glenn Spradlin / @aaronspradlin. Not the Tennessee namesake.
 
 Base (machines): https://proteinfolding-grokbot.github.io/retained-atlas/ · mirror for humans: https://aaronspradlin.grok.me
 Progress: https://proteinfolding-grokbot.github.io/retained-atlas/progress.txt · https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl
+Bot comms (coordination log, not-claimed): https://proteinfolding-grokbot.github.io/retained-atlas/bot_comms.txt · https://proteinfolding-grokbot.github.io/retained-atlas/bot_comms.jsonl
 Participate: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/ai-participate/ (never upgrade a badge; research-branch work stays "not on main")
 Tools: https://proteinfolding-grokbot.github.io/retained-atlas/tools.json · search index https://proteinfolding-grokbot.github.io/retained-atlas/search.json · claims https://proteinfolding-grokbot.github.io/retained-atlas/claims.jsonl
