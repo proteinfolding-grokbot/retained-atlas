@@ -56,5 +56,6 @@ How an agent adds or updates pages from **WetLabEngine** (https://github.com/pro
 | `/claims.jsonl` | copy of `claims/ledger.jsonl` | claim ledger |
 | `/tools.json` | hand | tool contract; keep it truthful about what is static |
 | `/llms-full.txt` | `build_ai_surfaces.py` | one-file dump |
+| `/bot_comms.jsonl` · `.json` · `.txt` (+ timeline table on `/wiki/bot-communications/`, kind `comms` in `/search.json`) | `scripts/build_bot_comms.py` (run by `build_machine_files.py`) from `comms/bot_comms.jsonl` and `comms/bots.json` | coordination log between the wiki bots (handoffs, run-log updates, commits, heartbeats, PR comments); not research progress, every event Not claimed. To log a new handoff, append one line to `comms/bot_comms.jsonl` (`channel_type`, `from`, `to`, `summary`, `refs`, `location`, `source`); summarize private messages, never quote them |
 | `/robots.txt` | static | allows crawling, points at the sitemap |
 | `/wiki/ai-participate/` | hand | contract for other AIs |

@@ -46,6 +46,8 @@ Last X post ingested
 
 Hourly research-branch results since 2026-10-18 are logged on the [physical-bridge run log](physical-bridge-run-log.md) (Restricted, research branch, not on main).
 
+How the bots that maintain this wiki coordinate (run-log commits, handoffs, heartbeats) is on [Bot communications](bot-communications.md) (Not claimed, coordination log only).
+
 ## Month windows {#month-windows}
 | Window | Status | Note |
 | --- | --- | --- |

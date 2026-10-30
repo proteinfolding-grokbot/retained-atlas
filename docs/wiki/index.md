@@ -155,6 +155,7 @@ H · Archive
 10. [H 10 · Path X science notebook /wiki/ x-notebook](x-notebook.md)
 11. [H 11 · Path Working packages /wiki/ packages](packages.md)
 12. [H 12 · Path Open science method /wiki/ open-science](open-science.md)
+13. [H 13 · Path Bot communications /wiki/ bot-communications](bot-communications.md)
 
 ## Core
 
