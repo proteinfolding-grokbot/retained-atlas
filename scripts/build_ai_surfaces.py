@@ -9,6 +9,7 @@ Writes:
   docs/search.json     full static lexical index (keyword + tf-idf) over wiki/package pages + corpus notes/posts/terms
   docs/llms-full.txt   one-file dump: llms.txt, llms-small, cantos, progress, claims ledger
   docs/llms.txt        only the "## Latest progress" block is rewritten
+  docs/bot_comms.jsonl|.json|.txt  coordination log from comms/bot_comms.jsonl (+ the tables on wiki/bot-communications.md)
 
 Progress entries are *extracted*, never invented:
   - `### YYYY-MM-DD · <title>` headings (the CONTENT_UPDATE.md format, e.g. run logs), badge from `Badge: **X**`;
@@ -69,6 +70,56 @@ def location(text):
     return 'not_stated'
 
 def norm(s): s=s.strip().lower(); return 'not-claimed' if s in ('not claimed','not-claimed') else s
+
+# ---------- bot communications (coordination log, not research progress) ----------
+# Source: hand-curated comms/bot_comms.jsonl (one dated event per line) + comms/bots.json (roster, credits).
+# Writes docs/bot_comms.jsonl|.json|.txt and the two generated tables on docs/wiki/bot-communications.md.
+# Runs before the pages are read so the search index sees the rendered tables. Every row is Not claimed.
+COMMS_SRC,COMMS_PAGE='comms/bot_comms.jsonl','docs/wiki/bot-communications.md'
+if os.path.exists(COMMS_SRC):
+    def _mins(t):
+        m=re.match(r'(\d{1,2}):(\d{2}) (AM|PM)$',t or '')
+        return (int(m.group(1))%12+(12 if m.group(3)=='PM' else 0))*60+int(m.group(2)) if m else 24*60
+    comms=[json.loads(l) for l in open(COMMS_SRC,encoding='utf-8') if l.strip()]
+    for c in comms:
+        if c.get('status')!='not-claimed': raise SystemExit(f"bot_comms {c.get('id')}: status must be not-claimed")
+    comms.sort(key=lambda c:(c['date'],_mins(c.get('time_mst')),c['id']))
+    roster=json.load(open('comms/bots.json',encoding='utf-8')) if os.path.exists('comms/bots.json') else {}
+    with open('docs/bot_comms.jsonl','w',encoding='utf-8') as o:
+        for c in comms: o.write(json.dumps(c,ensure_ascii=False)+'\n')
+    json.dump({'schema':'retained-atlas.bot-comms/v1','base':BASE,'page':BASE+'/wiki/bot-communications/',
+      'time_zone':'America/Phoenix (MST, UTC-7)',**roster,
+      'fields':{'id':'stable event id','date':'YYYY-MM-DD (MST)','time_mst':'h:mm AM/PM MST or null','kind':'wiki_pr | wiki_commit | wiki_commit_note | wiki_pr_comment | coordination | handoff | direction | thread | review_record | heartbeat',
+                'from':'who acted','to':'who it was for','channel':'where it happened','location':'wiki_main | wiki_pr_open | research_branch | wiki_ops',
+                'status':'always not-claimed','summary':'plain-language summary (private messages are summarized, never quoted)','refs':'public links','does_not_show':'boundary'},
+      'rules':['Coordination log only: not research progress, not a claim, never changes a status.',
+               'Research-branch items are not on main.','Private agent messages appear only as dated plain summaries.','scientific_breakthrough: false'],
+      'count':len(comms),'events':comms},open('docs/bot_comms.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)
+    BT=['# Retained Atlas — bot communications (newest first)','',f'Feed: {BASE}/bot_comms.jsonl · {BASE}/bot_comms.json · page: {BASE}/wiki/bot-communications/',
+        'Coordination log, not research progress. Every row is not-claimed. Research-branch items are not on main. Times MST. scientific_breakthrough: false','']
+    for c in reversed(comms[-40:]):
+        BT.append(f"{c['date']}{(' '+c['time_mst']) if c.get('time_mst') else ''} [{c['kind']}] [{c['location']}] {c['from']} -> {c['to']}: {c['summary']}")
+    open('docs/bot_comms.txt','w',encoding='utf-8').write('\n'.join(BT)+'\n')
+    def _ref(u):
+        repo='wiki' if '/retained-atlas/' in u else 'WetLabEngine'
+        for pat,fmt in ((r'issuecomment-(\d+)','comment {}'),(r'/actions/runs/(\d+)','run {}'),(r'/commit/([0-9a-f]{7})','`{}`'),(r'/pull/(\d+)$',repo+' PR #{}')):
+            m=re.search(pat,u)
+            if m: return f'[{fmt.format(m.group(1))}]({u})'
+        return f'[link]({u})'
+    def _cell(t): return (t or '').replace('|','\\|').replace('\n',' ')
+    def _table(rows,cols):
+        out=['| '+' | '.join(h for h,_ in cols)+' |','| '+' | '.join('---' for _ in cols)+' |']
+        for c in rows: out.append('| '+' | '.join(_cell(f(c)) for _,f in cols)+' |')
+        return '\n'.join(out)
+    when=lambda c:c['date']+(' · '+c['time_mst'] if c.get('time_mst') else '')
+    refs=lambda c:', '.join(_ref(u) for u in c.get('refs') or []) or 'private (summarized)'
+    tl=_table([c for c in comms if c['kind']!='wiki_commit'],[('When (MST)',when),('From → to',lambda c:f"{c['from']} → {c['to']}"),('Channel',lambda c:c['channel']),('What happened',lambda c:c['summary']),('Sources',refs)])
+    cm=_table([c for c in comms if c['kind']=='wiki_commit'],[('When (MST)',when),('Pushed by',lambda c:c['from']),('Commit',refs),('Message',lambda c:c['summary'])])
+    if os.path.exists(COMMS_PAGE):
+        pg=open(COMMS_PAGE,encoding='utf-8').read()
+        for tag,tbl in (('timeline',tl),('commits',cm)):
+            pg=re.sub(rf'(<!-- bot-comms:{tag}:start -->\n).*?(<!-- bot-comms:{tag}:end -->)',lambda m:m.group(1)+'\n'+tbl+'\n\n'+m.group(2),pg,flags=re.S)
+        open(COMMS_PAGE,'w',encoding='utf-8').write(pg)
 
 pages=[]
 for f in sorted(glob.glob('docs/**/*.md',recursive=True)):
@@ -214,7 +265,7 @@ open('docs/llms.txt','w',encoding='utf-8').write(new)
 # ---------- llms-full.txt ----------
 F=['# Retained Atlas — llms-full (generated; one file for models that want everything)','',
    f'Base: {BASE}/ · generated from the repo by scripts/build_ai_surfaces.py · scientific_breakthrough: false','']
-for f in ['docs/llms.txt','docs/llms-small.txt','docs/cantos.txt']+sorted(glob.glob('docs/llms/c*.txt'))+['docs/progress.txt','docs/cite.txt']:
+for f in ['docs/llms.txt','docs/llms-small.txt','docs/cantos.txt']+sorted(glob.glob('docs/llms/c*.txt'))+['docs/progress.txt']+(['docs/bot_comms.txt'] if os.path.exists('docs/bot_comms.txt') else [])+['docs/cite.txt']:
     F+=[f'======== {BASE}/{f[5:]} ========','',open(f,encoding='utf-8').read().rstrip(),'']
 F+=[f'======== {BASE}/claims.jsonl ========','']
 for l in open('claims/ledger.jsonl',encoding='utf-8'):

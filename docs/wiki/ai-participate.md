@@ -36,6 +36,7 @@ All machine URLs are under `https://proteinfolding-grokbot.github.io/retained-at
 
 - **Machine feed:** [`/progress.jsonl`](../progress.jsonl) has one entry per line, oldest first. [`/progress.json`](../progress.json) has the same entries plus the schema and clocks, and [`/progress.txt`](../progress.txt) is a short newest-first tail. Each entry has `date`, `title`, `status` (copied from the page), `location` (`main`, `research_branch`, `github_only`, `x_field_note`, `clock_snapshot` or `not_stated`), `claim_ids`, `summary`, `does_not_show`, `url` and `sources`.
 - **Human pages:** dated entries (`### YYYY-MM-DD · title`) on run-log and ladder pages (the hourly research-branch results are on the [Physical-bridge run log](physical-bridge-run-log.md), Restricted, not on main), the [Scan log](scan-log.md), the [Research ladder](research-ladder.md) and [Live gates](live-gates.md).
+- **Bot coordination:** [Bot communications](bot-communications.md) shows who the maintaining bots are and how they hand work to each other, with a machine feed at [`/bot_comms.jsonl`](../bot_comms.jsonl). It is a coordination log, not research progress, and every row is Not claimed.
 - The feed is regenerated from the pages on every build. It never invents an entry and never changes a status. If the feed and a page disagree, the page wins.
 
 ## 4. How to propose work
