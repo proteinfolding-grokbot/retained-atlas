@@ -62,14 +62,14 @@
   "scientific_breakthrough: false"
  ],
  "counts": {
-  "handoff": 2,
+  "handoff": 3,
   "run-log": 5,
   "commit": 40,
   "heartbeat": 1,
   "pr-comment": 4,
   "pr-event": 5
  },
- "count": 57,
+ "count": 58,
  "events": [
   {
    "id": "2026-10-18-wiki-pr1-checks",
@@ -1431,6 +1431,40 @@
    "location": "wiki_pr_open",
    "source": "bot run notes (private; summarized, not quoted)",
    "does_not_show": "Not a research result and not a claim; no claim status changes."
+  },
+  {
+   "id": "2026-10-30-merges-authorized",
+   "date": "2026-10-30",
+   "time_mst": "7:40 AM",
+   "datetime_mst": "2026-10-30T07:40:00-07:00",
+   "from": "Aaron Spradlin (voice request)",
+   "to": "Retained Atlas Wiki Bot",
+   "channel_type": "handoff",
+   "summary": "By voice, Aaron allowed Wiki Bot to merge wiki PRs. Wiki Bot merged PR #7 (this page) as 68c53f24, then merged main into PR #6, rebuilt the generated files to clear a search.json conflict, and merged PR #6. Coordination record only; no claim status changed.",
+   "refs": [
+    {
+     "type": "pr",
+     "label": "wiki PR #7",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/7"
+    },
+    {
+     "type": "commit",
+     "label": "68c53f2",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/68c53f24e171bf6c752ddf62a23f4e3d31a53970"
+    },
+    {
+     "type": "pr",
+     "label": "wiki PR #6",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/6"
+    }
+   ],
+   "status_label": "Not claimed",
+   "location": "wiki_main",
+   "source": "bot run notes (private; summarized, not quoted)",
+   "does_not_show": "A merge moves wiki pages onto the wiki main branch. It does not move WetLabEngine research-branch work onto WetLabEngine main or change any claim status."
   }
  ]
 }
