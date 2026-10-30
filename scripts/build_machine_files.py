@@ -1,7 +1,8 @@
 """Regenerate docs/data/llms-site.txt and docs/data/claims-pages.jsonl from docs/**/*.md front matter + claims/ledger.jsonl,
-then the AI-vector surfaces (progress feed, search index, llms.txt progress block, llms-full.txt) via build_ai_surfaces.py.
+then the bot communications feed (build_bot_comms.py), then the AI-vector surfaces (progress feed, search index, llms.txt progress block, llms-full.txt) via build_ai_surfaces.py.
 Run before `mkdocs build` (the Actions workflows do this)."""
 import json,glob,os,re
+import runpy as _rp; _rp.run_path(os.path.join(os.path.dirname(os.path.abspath(__file__)),'build_bot_comms.py'),run_name='__main__')  # bot coordination feed + page table first, so the search index sees them
 BASE=os.environ.get('SITE_URL','https://proteinfolding-grokbot.github.io/retained-atlas/').rstrip('/')
 pages=[]
 for f in sorted(glob.glob('docs/**/*.md',recursive=True)):
