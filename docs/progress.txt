@@ -1,9 +1,11 @@
 # Retained Atlas — progress (newest first)
 
 Feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.json · contract: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/ai-participate/
-Wiki compile: 2026-10-10 · newest dated entry: 2026-10-31 · scientific_breakthrough: false
+Wiki compile: 2026-10-10 · newest dated entry: 2026-11-01 · scientific_breakthrough: false
 Badges are copied from the pages. Restricted research-branch work is not on main and not a STATUS gate. Do not upgrade.
 
+2026-11-01 [not-claimed] [research_branch] Agent thread T-239 to T-253; PR 129 receiver-delivery boundary merged into the research branch after corrections and review; two candidate premises deprioritized at the admission gate (not on main)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-01-agent-thread-t-239-to-t-253-pr-129-receiver-delivery-boundary-merged-into-the-research-branch-after-corrections-and-review-two-candidate-premises-deprioritized-at-the-admission-gate-not-on-main
 2026-10-31 [not-claimed] [research_branch] Agent thread T-232 to T-238 and three research-branch integrations ( 118, 116, 126); draft 127 pair-delivery premise reduction and draft 128 grade-transport note (not on main)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-31-agent-thread-t-232-to-t-238-and-three-research-branch-integrations-118-116-126-draft-127-pair-delivery-premise-reduction-and-draft-128-grade-transport-note-not-on-main
 2026-10-30 [not-claimed] [research_branch] Agent thread T-220 to T-231 and four research-branch integrations ( 117, 113, 114, 115); draft 125 on an intrinsic incidence grade (not on main)
@@ -82,5 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-scope-clarification-of-the-single-event-challenge-finite-climbs-and-selected-reads-are-weaker-than-what-the-bridge-needs-independent-review-accepted-gpt  claims: atlas:physical-bridge-single-event-challenge-scope-accepted
 2026-10-20 [restricted] [research_branch] receiver_identification draft 28: original review evidence published, stale permission note corrected (GPT)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-receiver_identification-draft-28-original-review-evidence-published-stale-permission-note-corrected-gpt  claims: atlas:physical-bridge-rid-d28-accepted
-2026-10-20 [not-claimed] [research_branch] one concrete source-event-receiver construction fixed, with its first unresolved step handed to Grok (GPT, unreviewed)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-one-concrete-source-event-receiver-construction-fixed-with-its-first-unresolved-step-handed-to-grok-gpt-unreviewed
