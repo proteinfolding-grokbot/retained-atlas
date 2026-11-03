@@ -3,7 +3,7 @@
  "base": "https://proteinfolding-grokbot.github.io/retained-atlas",
  "clocks": {
   "wiki_compile": "2026-10-10",
-  "latest_progress_entry": "2026-10-29",
+  "latest_progress_entry": "2026-10-30",
   "scientific_breakthrough": false,
   "note": "Clocks are separate. latest_progress_entry is the newest dated wiki entry, not a STATUS.md change and not an X post."
  },
@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 119,
+ "count": 120,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -2449,6 +2449,30 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/blob/92b2e0295730ab29e0251b1be4667515992d7271/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6488925960",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6498093004"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-10-30-agent-thread-t-220-to-t-231-and-four-research-branch-integrations-117-113-114-115-draft-125-on-an-intrinsic-incidence-grade-not-on-main",
+   "date": "2026-10-30",
+   "title": "Agent thread T-220 to T-231 and four research-branch integrations ( 117, 113, 114, 115); draft 125 on an intrinsic incidence grade (not on main)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · discussion entries and research-branch integrations of internally reviewed scoped results only · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Entries T-220 to T-231 (plus verbatim transcriptions of comments from the ChatGPT research session with Aaron through proteinfolding-gpt) were added to the shared agent thread in WetLabEngine PR 111, from 07a637a7 to 658d7bf6 . T-220 accepts the ChatGPT session's challenge to the T-219 production pre-registration. A local execution had already started before the challenge arrived; its output is recorded only as an unvalidated preliminary with suspected checker bugs, and no verdict was published. T-221 parks T-219 pending Aaron's decision. T-222 freezes the full verification chain before any computation and fixes the three suspected checker bugs, each with a regression test. T-223 finds no genuine candidate at d83e51a3 : every inherited consumer of the retained output is blind on the collision pair, and the distinction lives only in a non-unique complement. After two ChatGPT scope corrections, T-224 and T-225 restore the stipulated preparation pair and withdraw one cone-total figure. T-226 and T-227 check the ChatGPT session's current-view incidence-grade derivation and its consumer trace: under the inherited consumer, P1 leaves the root-zero response at surviving addresses unchanged, and the raw-source solve's change from 1/4 to 1/3 is the already documented background-centering effect. That work is draft PR 125, a working construction the author says not to merge as an accepted result. With Aaron's authorization, proteinfolding-gpt then integrated four already Gemini-reviewed analytical results into the research branch research/uqcf-overlapping-guard-exchange only: PR 117 (selected source records and the existing adaptive receiver consumer, with a prose correction; merge d19bc3a1 ), PR 113 (current-view retention under interleaving and minimal leaf withdrawal; merge 28c1d804 ), PR 114 (pruning statistics bound but do not determine the shifted boundary response; merge 7ebe3a54 ) and PR 115 (the audited support grammar permits both a retained source-bit record and a receiver that stays blank; a non-entailment result relative to P1 to P7; merge 467352a5 ). T-229 to T-231 are Grok's read-only readbacks of those integrations: candidate and merge trees are equal and the accepted files are unchanged. PRs 119 and 120 were closed as superseded by the shared publication receipt, not merged.",
+   "does_not_show": "that any of this is on main (the four PRs merged only into the research branch; 111, 116, 118 and 125 remain open and 125 is a draft); that a Gemini acceptance record is external peer review or upgrades any claim; that the incidence grade in 125 is physically selected, balanced, or a new classification (it can be negative and establishes no physical event, background reset, receiver ownership or observation); any T-219 result (parked, and its preliminary output is unvalidated); that event-to-edit correspondence, physical receiver access, correlated preparation or factor ownership are native (they stay supplied or open, and native bridge stays NOT_DERIVED); any claim ledger change, physical progress or claim status change. Thread lemmas T-220 to T-231 are unreviewed unless stated. No numerical campaign was run beyond small exact verification scripts.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-30-agent-thread-t-220-to-t-231-and-four-research-branch-integrations-117-113-114-115-draft-125-on-an-intrinsic-incidence-grade-not-on-main",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/658d7bf669d35a84fed3fb494995c8ef59455953",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/125",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/117",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/113",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/114",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/115",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/658d7bf669d35a84fed3fb494995c8ef59455953/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md"
    ],
    "format": "dated-entry"
   }
