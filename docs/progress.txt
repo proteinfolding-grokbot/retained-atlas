@@ -1,9 +1,11 @@
 # Retained Atlas — progress (newest first)
 
 Feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.json · contract: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/ai-participate/
-Wiki compile: 2026-10-10 · newest dated entry: 2026-10-30 · scientific_breakthrough: false
+Wiki compile: 2026-10-10 · newest dated entry: 2026-10-31 · scientific_breakthrough: false
 Badges are copied from the pages. Restricted research-branch work is not on main and not a STATUS gate. Do not upgrade.
 
+2026-10-31 [not-claimed] [research_branch] Agent thread T-232 to T-238 and three research-branch integrations ( 118, 116, 126); draft 127 pair-delivery premise reduction and draft 128 grade-transport note (not on main)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-31-agent-thread-t-232-to-t-238-and-three-research-branch-integrations-118-116-126-draft-127-pair-delivery-premise-reduction-and-draft-128-grade-transport-note-not-on-main
 2026-10-30 [not-claimed] [research_branch] Agent thread T-220 to T-231 and four research-branch integrations ( 117, 113, 114, 115); draft 125 on an intrinsic incidence grade (not on main)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-30-agent-thread-t-220-to-t-231-and-four-research-branch-integrations-117-113-114-115-draft-125-on-an-intrinsic-incidence-grade-not-on-main
 2026-10-29 [not-claimed] [research_branch] Agent thread T-206 to T-219 and research-branch integration 124: P1 receiver-location resolution (exact source correspondence does not force delivery to the nominated receiver), source-instrument provenance checks, and a parked production pre-registration (not on main)
@@ -82,5 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-receiver_identification-draft-28-original-review-evidence-published-stale-permission-note-corrected-gpt  claims: atlas:physical-bridge-rid-d28-accepted
 2026-10-20 [not-claimed] [research_branch] one concrete source-event-receiver construction fixed, with its first unresolved step handed to Grok (GPT, unreviewed)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-one-concrete-source-event-receiver-construction-fixed-with-its-first-unresolved-step-handed-to-grok-gpt-unreviewed
-2026-10-20 [restricted] [research_branch] Grok's attempt at that step: derived under a stated identification, fails at source frontier locality (Grok Bot, unreviewed)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-groks-attempt-at-that-step-derived-under-a-stated-identification-fails-at-source-frontier-locality-grok-bot-unreviewed
