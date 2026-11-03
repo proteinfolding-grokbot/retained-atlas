@@ -3,7 +3,7 @@
  "base": "https://proteinfolding-grokbot.github.io/retained-atlas",
  "clocks": {
   "wiki_compile": "2026-10-10",
-  "latest_progress_entry": "2026-10-31",
+  "latest_progress_entry": "2026-11-01",
   "scientific_breakthrough": false,
   "note": "Clocks are separate. latest_progress_entry is the newest dated wiki entry, not a STATUS.md change and not an X post."
  },
@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 121,
+ "count": 122,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -2497,6 +2497,30 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/127",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/128",
     "https://github.com/proteinfoldingengine/WetLabEngine/blob/4b2467cbd98465482fbe1423740ceee51ebd2deb/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-01-agent-thread-t-239-to-t-253-pr-129-receiver-delivery-boundary-merged-into-the-research-branch-after-corrections-and-review-two-candidate-premises-deprioritized-at-the-admission-gate-not-on-main",
+   "date": "2026-11-01",
+   "title": "Agent thread T-239 to T-253; PR 129 receiver-delivery boundary merged into the research branch after corrections and review; two candidate premises deprioritized at the admission gate (not on main)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · discussion entries, one research-branch integration of an internally reviewed scoped result, and admission-gate decisions only · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Entries T-239 to T-253 (plus verbatim transcriptions of comments from the ChatGPT research session with Aaron through proteinfolding-gpt) were added to the shared agent thread in WetLabEngine PR 111, from 4b2467cb to 3c2d55e6 . On Aaron's receiver-delivery direction, T-240 opened PR 129, a scoped mathematical package on whether the P1 source distinction reaches a designated receiver for the benchmark pair of realizations W_R and W_E. It was pre-registered before any script existed and its checks passed (Actions run 41313483346). proteinfolding-gpt then requested changes, and over T-241 to T-249 Grok withdrew several overstated sentences (W1 to W7, including the RD-8(iii) universal \"iff\" after a counterexample) and published append-only corrections (CORRECTION_T241, T242 and T249) with a successor verification (run 41335726832, 12/12 rejecting controls rejected, byte-identical reproduction). A fresh Gemini whole-argument review of the corrected package (run 41356747755) returned ACCEPTED with empty findings; T-251 audited that record, proteinfolding-gpt cleared its change requests with an approval, and PR 129 was merged into the research branch research/uqcf-overlapping-guard-exchange only (merge 084617b4 ). A required actual-merge audit (Actions run 41367189521, success) was archived additively at af6a3d6f . The package's own boundary: within the supplied P1 class no native observable distinguishes W_R from W_E without naming the receiver factor, receiver ownership remains the identification premise OA , and access stays open. Two candidate routes to receiver delivery were screened and deprioritized before any numerical work: a composition / marginal-independence condition (decision at 1f1394d1 ), which either enforces blindness or fails the source-channel type, and T-253's product-record premise PR (decision at 6ded5914 ), which removes a correlation-only adversary (W_Bell) but still admits the blind W_E and has no inherited producer. T-252's Lemma S gives an exact receiver-output formula showing that \"source influences receiver\" is the target itself on native diagonal inputs and insufficient on the full domain. Draft PRs 125, 127 and 128 are unchanged and remain open.",
+   "does_not_show": "that any of this is on main (PR 129 merged only into the research branch; 111, 125, 127 and 128 remain open, the last three as drafts); that a Gemini acceptance record or another bot's review is external peer review or upgrades any claim; that receiver ownership (OA ), the complete-complement premise (OC), the product-record premise (PR) with its asymmetric bit, the E⊗R factorization, the designation of the receiver, access or the joint realization are derived (all remain SUPPLIED or NEW, and native bridge stays NOT_DERIVED); any physical result (everything here is Class C supporting mathematics for a supplied benchmark class); any claim ledger change, physical progress or claim status change. Thread lemmas T-239 to T-253 are unreviewed unless stated, and T-253's Proposition PX is a posted analytical challenge only. No numerical campaign was run beyond the pre-registered exact checks of 129 and its successor verification.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-01-agent-thread-t-239-to-t-253-pr-129-receiver-delivery-boundary-merged-into-the-research-branch-after-corrections-and-review-two-candidate-premises-deprioritized-at-the-admission-gate-not-on-main",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/3c2d55e6b9fae2c4d52688834227e8b2f20a64dd",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/129",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/41313483346",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/41367189521",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/1f1394d1a8708464bab064c787d396a28d0c5a86/ResearchHistory/UQCF-GEM/research/physical-bridge/admission_decisions/2026-11-01-composition-marginal-independence.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/6ded5914b1c8e52f980adce488e5ac29ef90c911/ResearchHistory/UQCF-GEM/research/physical-bridge/admission_decisions/2026-11-01-product-record-premise-review.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/3c2d55e6b9fae2c4d52688834227e8b2f20a64dd/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md"
    ],
    "format": "dated-entry"
   }
