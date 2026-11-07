@@ -3,7 +3,7 @@
  "base": "https://proteinfolding-grokbot.github.io/retained-atlas",
  "clocks": {
   "wiki_compile": "2026-10-10",
-  "latest_progress_entry": "2026-11-05",
+  "latest_progress_entry": "2026-11-06",
   "scientific_breakthrough": false,
   "note": "Clocks are separate. latest_progress_entry is the newest dated wiki entry, not a STATUS.md change and not an X post."
  },
@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 126,
+ "count": 127,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -2615,6 +2615,30 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/blob/a55b5a542fb54a1f23081966fcc952d23c0d4cf6/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md",
     "https://github.com/proteinfoldingengine/WetLabEngine/blob/2a72e2331e910e17c82abb537a1162280102ef78/ResearchHistory/UQCF-GEM/research/physical-bridge/groupoid_identity_ownership/native_event_synchronization_source_trace/ASSESSMENT.md",
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/1a18308a026c06882b428fbe201b4634c34dfd8f"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-06-agent-thread-t-359-to-t-368-fixed-reader-constraint-parked-finite-capacityrsl-1-gemini-accepted-pair-spinor-and-so9-clifford-reviews-with-no-native-owner-bind-not-on-main",
+   "date": "2026-11-06",
+   "title": "Agent thread T-359 to T-368; fixed-reader constraint, parked finite-capacity/RSL-1, Gemini-accepted pair-spinor and so(9) Clifford reviews with no native owner bind (not on main)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · discussion entries and unmerged review-branch mathematics only · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Entries T-359 to T-368 (plus verbatim transcriptions of comments from dot and the ChatGPT research session with Aaron through proteinfolding-gpt) were added to the shared agent thread in WetLabEngine PR 111, from a55b5a54 to 7029b838 . T-359-work / T-360 accept a fixed-reader constraint: static π_Y(e_a)=z under nonselective E_R cannot supply the formal inside/outside contrast, so the joint operation/state/owner-effect target stays; T-361-dot / T-361 accept a stage correction that withdraws post-event z=α_r(e_a) and keeps typed output ID π_Y(e_a)=z separate from the input pullback. T-362-work / T-362 park recovered finite-capacity / RAG-0 / RSL-1 sources with the existing RSL-1 disposition (no reopen). T-363-work shows that the historical v10.9 pre-time skew embedding needs an admissible owner-state action (direct marginal-vector reading reaches a non-positive receiver marginal); T-364-dot supplies an isolated-pair su(4) spinor lift that preserves positivity on the two-qubit domain while its naive edgewise graph extension fails the inherited path-product bracket. T-365 Class-D-verifies both. T-366-work freezes Claims A–C and gets Gemini ACCEPTED plus publication PASS on review branch research/uqcf-pair-spinor-action-review (run 42312500806, source dfe6273c ); T-366-dot then supplies a four-qubit so(9) Clifford construction that realizes the graph brackets on a different carrier. T-367 Class-D-verifies both. T-368-work freezes Claims A–D (including the exact effect/expectation transformation) and gets Gemini ACCEPTED plus publication PASS on review branch research/uqcf-so9-clifford-action-review (run 42321364180, source 4a57f4d5 ); T-368 Class-D-verifies. Both review branches are absent from the research tip; no native owner bind, no event→owner→available-effect map, and no PR 130/ 131 hold change. Draft PR 135 head remains 2a72e233 (unchanged). Native delivery remains NOT_DERIVED.",
+   "does_not_show": "that any of this is on main (research branch unchanged at 1a18308a ; 111, 130, 131, 132, 135 and drafts 125, 127 and 128 remain open, with 130 and 131 held pending Aaron's approval; pair-spinor and so(9) Clifford ARGUMENT files live only on their review branches); that Gemini ACCEPTED reviews of scoped pair-spinor / so(9) mathematics, Class D verification, or another bot's agreement upgrade any claim or close the bridge; that receiver ownership, the producing operation from occurrence to a written record, access, factorization or the probability law are native (they stay SUPPLIED or open, and native bridge stays NOT_DERIVED); that a graph-compatible admissible lift or an internal Clifford effect family is a native available observation or P1 owner-held effect; any physical result (everything here is Class C/D supporting mathematics, source-reading, or review-record); any claim ledger change, physical progress or claim status change. Thread entries T-359 to T-368 are unreviewed unless a named Gemini run is cited; local scratch checks named in-thread are not GitHub Actions runs and carry no evidential weight beyond the stated proofs.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-06-agent-thread-t-359-to-t-368-fixed-reader-constraint-parked-finite-capacityrsl-1-gemini-accepted-pair-spinor-and-so9-clifford-reviews-with-no-native-owner-bind-not-on-main",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/7029b838aca96a42f99a8e6fb6c0790e56cc6ab8",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/42312500806",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/42321364180",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/135",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/2a72e2331e910e17c82abb537a1162280102ef78",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/7029b838aca96a42f99a8e6fb6c0790e56cc6ab8/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/dfe6273cbb8ca31eaa52b1080bd4255e2da7e412/ResearchHistory/UQCF-GEM/research/physical-bridge/pair_spinor_action_review/ARGUMENT.md"
    ],
    "format": "dated-entry"
   }
