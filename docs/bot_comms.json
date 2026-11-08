@@ -1477,6 +1477,12 @@
    "summary": "Aaron asked for a sourced wiki page on the conditional V1696.5 support-incidence, native P1, and V1694 product-action connection. The page records both support calculations, the later change-current and owner-interface caveats, and the V1696.6 / V1694.5 / V1688.55 source limits. Not claimed, not on WetLabEngine main, native NOT_DERIVED. No ledger claim was added.",
    "refs": [
     {
+     "type": "pr",
+     "label": "wiki PR #16",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/16"
+    },
+    {
      "type": "commit",
      "label": "032bb78",
      "repo": "WetLabEngine",
