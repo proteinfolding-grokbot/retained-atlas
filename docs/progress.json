@@ -3,7 +3,7 @@
  "base": "https://proteinfolding-grokbot.github.io/retained-atlas",
  "clocks": {
   "wiki_compile": "2026-10-10",
-  "latest_progress_entry": "2026-11-06",
+  "latest_progress_entry": "2026-11-08",
   "scientific_breakthrough": false,
   "note": "Clocks are separate. latest_progress_entry is the newest dated wiki entry, not a STATUS.md change and not an X post."
  },
@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 127,
+ "count": 129,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -2639,6 +2639,54 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/commit/2a72e2331e910e17c82abb537a1162280102ef78",
     "https://github.com/proteinfoldingengine/WetLabEngine/blob/7029b838aca96a42f99a8e6fb6c0790e56cc6ab8/ResearchHistory/UQCF-GEM/research/physical-bridge/AGENT_THREAD/THREAD.md",
     "https://github.com/proteinfoldingengine/WetLabEngine/blob/dfe6273cbb8ca31eaa52b1080bd4255e2da7e412/ResearchHistory/UQCF-GEM/research/physical-bridge/pair_spinor_action_review/ARGUMENT.md"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-08-conditional-v16965-support-incidence-link-through-native-p1-to-a-v1694-product-action-response-with-later-change-current-and-owner-interface-caveats-not-on-main",
+   "date": "2026-11-08",
+   "title": "Conditional V1696.5 support-incidence link through native P1 to a V1694 product-action response, with later change-current and owner-interface caveats (not on main)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · historical incidence, conditional construction, and unresolved premises kept separate · research branch · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Aaron asked for a sourced wiki record of one candidate link, written up on V1696.5, native P1, and the V1694 response. The historical object is the V1696.5 support-incidence cochain, not V1696.6. Native P1 removes source u and absorbs its grade into retained p, z'_p = z_p + z_u. Under the conditional weighting w(S) = sum over v in S of z_v, support {p} before and {p} after changes by z_u, and support {p, u} before and {p} after changes by 0. Both are consistent, so the inherited pair-support update and weighting rule have to decide. The candidate chain is pruning, then support update, then action response. Derivation of those premises, and of an owned observable consequence, remains unproved. Comments 6723050477 and 6723078141, with the change-current note and ACTION_BRIDGE_REENTRY.md, keep a later caveat beside that arithmetic: a nonzero polar change-current can accompany an identical retained output, so the current is not endpoint acquisition and an owner-interface relation is still required. Original V1694 code was not found in the inspected tree. The V1694.5 archive is outputs only. Comment 6717956813 does not establish V1688.55 as the V1696.6 pair-support producer. T-387 on open PR 111 head d0e5a4b3 confirms the change-current example on a supplied ledger and is not on the research branch. Research tip 032bb78a is not WetLabEngine main be1ab286. Native owner-held action remains NOT_DERIVED. scientific_breakthrough: false.",
+   "does_not_show": "a derived native or physical bridge, a physical signal, gravity, a conflation of V1696.5 with V1696.6, a recovered V1694 executable, a V1688.55 lineage into V1696.6, a Gemini acceptance of this link, a claim-ledger change, a STATUS.md change, or publication on WetLabEngine main. T-387 is not promoted onto the research branch. This wiki entry is not wiki main until the pull request is merged. The next advance is a proof of the link, not another numerical test.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-08-conditional-v16965-support-incidence-link-through-native-p1-to-a-v1694-product-action-response-with-later-change-current-and-owner-interface-caveats-not-on-main",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/032bb78a6ccee44aa3e78d8ad59ebfcad687cd86/ResearchHistory/UQCF-GEM/research/physical-bridge/native_record_followup/pair_role_source_trace/followup_action/pair_weight_followup/ASSESSMENT.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/032bb78a6ccee44aa3e78d8ad59ebfcad687cd86/ResearchHistory/UQCF-GEM/research/physical-bridge/native_record_followup/pair_role_source_trace/followup_action/P1_ACTION_CORRESPONDENCE_WORKING_NOTE.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/032bb78a6ccee44aa3e78d8ad59ebfcad687cd86/ResearchHistory/UQCF-GEM/research/physical-bridge/native_record_followup/pair_role_source_trace/followup_action/ACTION_BRIDGE_REENTRY.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/032bb78a6ccee44aa3e78d8ad59ebfcad687cd86/ResearchHistory/UQCF-GEM/research/physical-bridge/native_record_followup/pair_role_source_trace/followup_action/pair_weight_followup/contrast_target/CHANGE_CURRENT_OUTPUT_CHECK.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6723050477",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6723078141",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6717956813",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/032bb78a6ccee44aa3e78d8ad59ebfcad687cd86"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "v1696-5-p1-action-link#2026-11-08-conditional-link-from-the-v16965-support-incidence-cochain-through-native-p1-to-a-v1694-product-action-response-not-on-main",
+   "date": "2026-11-08",
+   "title": "Conditional link from the V1696.5 support-incidence cochain through native P1 to a V1694 product-action response (not on main)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · historical incidence plus a conditional construction · premises and owner consequence unproved · research branch · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Aaron asked for a sourced record of a possible mathematical link among the historical V1696.5 support-incidence cochain C_support, the inherited native P1 grade pushforward, and the V1694 product-action response. P1 removes source u and absorbs its grade into retained p, so z'_p = z_p + z_u. Under the conditional weighting w(S) = sum over v in S of z_v, support {p} before and {p} after (with that updated grade) changes the weight by z_u, while support {p, u} before and {p} after changes it by 0 because the grade sum is conserved. Both calculations are consistent. An inherited native pair-support update and weighting rule have to decide which one applies. The candidate chain is pruning, then support update, then action response. Historical pair-source incidence is present in the V1696.5 assessment. P1 computes the change only once those premises are specified. Deriving the premises from inherited operations, and deriving an owned or observable consequence, remain unproved. A coefficient change is not a physical signal. Later research-branch notes and PR 111 comments 6723050477 and 6723078141 add that a nonzero polar change-current can accompany an identical retained output, so change-current contrast is not endpoint acquisition and an owner-interface relation is still required. V1696.6 is a different archive and is not this cochain. V1688.55 is not established as the V1696.6 pair-support producer. The inspected tree did not locate original V1694 executable code; the V1694.5 archive holds outputs only. Open agent-thread entry T-387, on PR 111 head d0e5a4b3 and not on the research branch, confirms that change-current example on a supplied ledger and does not supply the missing typing. Native owner-held action remains NOT_DERIVED. scientific_breakthrough: false. WetLabEngine main is still be1ab286.",
+   "does_not_show": "a derived native or physical bridge; an inherited identification of C_support nodes with P1 addresses; an inherited pair-support update; a proof that pair weight is the extensive grade of that support; an owned or observable consequence; that a coefficient change or a nonzero polar change-current is a physical signal or endpoint acquisition; that V1696.5 and V1696.6 are the same object; that V1688.55 produces V1696.6 pair supports; that original V1694 executable code was recovered; that the written V1694 kernel-sign discrepancy caused any historical numerical failure; that T-387's supplied-ledger reduction is on the research branch or is a native typing; a Gemini verdict on this link; a claim-ledger entry; a STATUS.md change; gravity; or publication on WetLabEngine main or on wiki main. The next meaningful advance is a proof of the link, not another numerical test.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1696-5-p1-action-link/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1696-5-p1-action-link/#2026-11-08-conditional-link-from-the-v16965-support-incidence-cochain-through-native-p1-to-a-v1694-product-action-response-not-on-main",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/032bb78a6ccee44aa3e78d8ad59ebfcad687cd86/ResearchHistory/UQCF-GEM/research/physical-bridge/native_record_followup/pair_role_source_trace/followup_action/pair_weight_followup/ASSESSMENT.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/032bb78a6ccee44aa3e78d8ad59ebfcad687cd86/ResearchHistory/UQCF-GEM/research/physical-bridge/native_record_followup/pair_role_source_trace/followup_action/P1_ACTION_CORRESPONDENCE_WORKING_NOTE.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/032bb78a6ccee44aa3e78d8ad59ebfcad687cd86/ResearchHistory/UQCF-GEM/research/physical-bridge/native_record_followup/pair_role_source_trace/followup_action/pair_weight_followup/INCIDENCE_UPDATE_CHECK.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/032bb78a6ccee44aa3e78d8ad59ebfcad687cd86/ResearchHistory/UQCF-GEM/research/physical-bridge/native_record_followup/pair_role_source_trace/followup_action/ACTION_BRIDGE_REENTRY.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/032bb78a6ccee44aa3e78d8ad59ebfcad687cd86/ResearchHistory/UQCF-GEM/research/physical-bridge/native_record_followup/pair_role_source_trace/followup_action/pair_weight_followup/contrast_target/CHANGE_CURRENT_OUTPUT_CHECK.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6723050477",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6723078141",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6717956813"
    ],
    "format": "dated-entry"
   }

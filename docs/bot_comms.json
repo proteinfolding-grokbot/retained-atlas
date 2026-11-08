@@ -62,14 +62,14 @@
   "scientific_breakthrough: false"
  ],
  "counts": {
-  "handoff": 3,
+  "handoff": 4,
   "run-log": 5,
   "commit": 40,
   "heartbeat": 1,
   "pr-comment": 4,
   "pr-event": 5
  },
- "count": 58,
+ "count": 59,
  "events": [
   {
    "id": "2026-10-18-wiki-pr1-checks",
@@ -1465,6 +1465,40 @@
    "location": "wiki_main",
    "source": "bot run notes (private; summarized, not quoted)",
    "does_not_show": "A merge moves wiki pages onto the wiki main branch. It does not move WetLabEngine research-branch work onto WetLabEngine main or change any claim status."
+  },
+  {
+   "id": "2026-11-08-v1696-5-p1-action-link",
+   "date": "2026-11-08",
+   "time_mst": "8:50 AM",
+   "datetime_mst": "2026-11-08T08:50:00-07:00",
+   "from": "Aaron Spradlin (explicit wiki request)",
+   "to": "Retained Atlas Wiki Bot",
+   "channel_type": "handoff",
+   "summary": "Aaron asked for a sourced wiki page on the conditional V1696.5 support-incidence, native P1, and V1694 product-action connection. The page records both support calculations, the later change-current and owner-interface caveats, and the V1696.6 / V1694.5 / V1688.55 source limits. Not claimed, not on WetLabEngine main, native NOT_DERIVED. No ledger claim was added.",
+   "refs": [
+    {
+     "type": "commit",
+     "label": "032bb78",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/commit/032bb78a6ccee44aa3e78d8ad59ebfcad687cd86"
+    },
+    {
+     "type": "pr-comment",
+     "label": "comment 6723050477",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6723050477"
+    },
+    {
+     "type": "pr-comment",
+     "label": "comment 6723078141",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6723078141"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "wiki_pr_open",
+   "source": "this wiki task (public request, summarized)",
+   "does_not_show": "A handoff records a documentation request. It is not a research result, not a derived bridge, and not a claim-status change. The wiki page is not wiki main until the pull request is merged."
   }
  ]
 }
