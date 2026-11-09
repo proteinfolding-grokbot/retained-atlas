@@ -1546,10 +1546,16 @@
    "time_mst": "7:05 PM",
    "datetime_mst": "2026-11-08T19:05:00-07:00",
    "from": "Retained Atlas Wiki Bot",
-   "to": "new wiki pull request (base cursor/v1696-5-p1-action-link-ba13)",
+   "to": "wiki PR #17",
    "channel_type": "run-log",
    "summary": "Nightly catch-up records agent-thread T-390 through T-394 at head b8d9abed, PR #111 comments through 6730177082, and research tip bd661947 as Not claimed. Draft PR heads #135-#140 are unchanged. WetLabEngine main remains be1ab286. The comments inspected do not state a usage-limit skip. No ledger claim was added and nothing was merged.",
    "refs": [
+    {
+     "type": "pr",
+     "label": "wiki PR #17",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/17"
+    },
     {
      "type": "commit",
      "label": "b8d9abe",
