@@ -63,13 +63,13 @@
  ],
  "counts": {
   "handoff": 4,
-  "run-log": 7,
+  "run-log": 8,
   "commit": 40,
   "heartbeat": 1,
   "pr-comment": 4,
   "pr-event": 5
  },
- "count": 61,
+ "count": 62,
  "events": [
   {
    "id": "2026-10-18-wiki-pr1-checks",
@@ -1585,6 +1585,70 @@
    "location": "wiki_pr_open",
    "source": "live WetLabEngine PR #111, research tip bd661947, and this wiki branch (public)",
    "does_not_show": "A coordination note of a wiki catch-up. It is not a research result, not a usage-limit finding, and not a claim-status change. The agent thread and the research tip are not WetLabEngine main."
+  },
+  {
+   "id": "2026-11-09-nightly-t395",
+   "date": "2026-11-09",
+   "time_mst": "7:20 PM",
+   "datetime_mst": "2026-11-09T19:20:00-07:00",
+   "from": "Retained Atlas Wiki Bot",
+   "to": "wiki pull request for 2026-11-09",
+   "channel_type": "run-log",
+   "summary": "Nightly catch-up records agent-thread T-395 through T-408 at head 11a773d4, PR #111 comments through 6756645537, and research tip d588114a as Not claimed. Draft PR heads #135-#140 are unchanged. Draft #141 head 063a993e and draft #142 head 8054120e, as of 2026-11-10T02:09:12Z, are off the research tip. The ROC-1 and ledger-correction Gemini ACCEPTED lines are recorded review verdicts, not physical results. WetLabEngine main remains be1ab286. The comments inspected do not state a usage-limit skip. No ledger claim was added and nothing was merged. Dedup key #111@11a773d4 + research@d588114a. PR #142 may still move.",
+   "refs": [
+    {
+     "type": "commit",
+     "label": "11a773d",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/commit/11a773d4be1ed0469b6c430a6240532a28c683f6"
+    },
+    {
+     "type": "pr-comment",
+     "label": "comment 6756645537",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6756645537"
+    },
+    {
+     "type": "commit",
+     "label": "d588114",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/commit/d588114a9958d52def9bd446a8db50640e8a0058"
+    },
+    {
+     "type": "pr",
+     "label": "WetLabEngine PR #141",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/pull/141"
+    },
+    {
+     "type": "pr",
+     "label": "WetLabEngine PR #142",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/pull/142"
+    },
+    {
+     "type": "review-run",
+     "label": "run 42633980069",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/42633980069"
+    },
+    {
+     "type": "review-run",
+     "label": "run 42739273656",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/42739273656"
+    },
+    {
+     "type": "commit",
+     "label": "be1ab28",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/commit/be1ab2865e82cd16857f0a189c75f201cde45577"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "wiki_pr_open",
+   "source": "live WetLabEngine PR #111, research tip d588114a, draft PRs #141 and #142, and this wiki branch (public)",
+   "does_not_show": "A coordination note of a wiki catch-up. It is not a research result, not a usage-limit finding, and not a claim-status change. The agent thread, the research tip, and draft PRs #141 and #142 are not WetLabEngine main. A Gemini ACCEPTED line is a recorded review verdict, not a physical result."
   }
  ]
 }

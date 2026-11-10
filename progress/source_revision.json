@@ -1,0 +1,60 @@
+{
+  "schema": "retained-atlas.source-revision/v1",
+  "role": "Writer checkpoint for the next wiki cycle. Not a claim, not a result, not STATUS.md.",
+  "updated": "2026-11-10",
+  "dedup_key": "#111@11a773d4 + research@d588114a",
+  "scientific_breakthrough": false,
+  "not_on_wetlab_main": true,
+  "wetlab_main": {
+    "sha": "be1ab2865e82cd16857f0a189c75f201cde45577",
+    "status_md_unchanged": true,
+    "source_correspondence": "NOT_EVALUATED",
+    "pillar_3": "OPEN"
+  },
+  "pr_111": {
+    "head": "11a773d4be1ed0469b6c430a6240532a28c683f6",
+    "branch": "grok/agent-thread",
+    "thread_through": "T-408",
+    "last_comment_transcribed_in_thread": "6756397701",
+    "last_comment_read": "6756645537",
+    "comments_read_but_not_in_thread_md": ["6756458108", "6756645537"]
+  },
+  "research_branch": {
+    "name": "research/uqcf-overlapping-guard-exchange",
+    "tip": "d588114a9958d52def9bd446a8db50640e8a0058",
+    "previous_covered_tip": "bd661947ebe97fd2ca356ec0b62e1103f63fd665",
+    "new_commits": [
+      "2d10a74516ce2e8b818091d8ace1fabaff011ecc",
+      "1840191f0f373ce91234e018a91925df7a7934d5",
+      "0eda293b7b1c60c3915bd2a3c783dd5f9a0d77f7",
+      "d588114a9958d52def9bd446a8db50640e8a0058"
+    ]
+  },
+  "drafts_not_on_research_tip": {
+    "135": "2a72e2331e910e17c82abb537a1162280102ef78",
+    "136": "94dd1db8e3c3aa1f0531df08596f367f026e6645",
+    "137": "8c4275add84ca20249b0bf3da6981b835fa5251b",
+    "138": "375b59bd0a3df403a721e58423a1f0fb3e52a600",
+    "139": "96ea0c60ffaaf5d32f8c78a64d8daefba235e237",
+    "140": "159ca4afd3d4a06f00aab83cfdb52e10ad0abc9c",
+    "141": "063a993edfd53dd17124bc0d31ea491d3c2d5451"
+  },
+  "pr_142_as_of": {
+    "included_in_dedup_key": false,
+    "reason": "The draft was still receiving updates during this reading. Re-read the live head next cycle.",
+    "number": 142,
+    "state": "open",
+    "draft": true,
+    "head": "8054120e30c00a155b208990fd2c0992b9d2512e",
+    "observed_at": "2026-11-10T02:09:12Z",
+    "compare_to_research_tip": "ahead",
+    "archived_review_run": "42739273656",
+    "archived_review_verdict": "ACCEPTED",
+    "adopted_native_status": "NOT_DERIVED",
+    "note": "Recorded model-review verdict on an unmerged draft. Not a physical result and not on WetLabEngine main."
+  },
+  "clocks_not_moved": [
+    "docs/llms.txt three-clocks block still names overlapping-guard tip 1e7cd09 for the 10 Oct 2026 scoped C3/C4 closeout",
+    "docs/cantos.json and docs/tools.json do not carry this agent-thread or research-tip cutoff"
+  ]
+}
