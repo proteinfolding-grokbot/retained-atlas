@@ -1592,10 +1592,16 @@
    "time_mst": "7:20 PM",
    "datetime_mst": "2026-11-09T19:20:00-07:00",
    "from": "Retained Atlas Wiki Bot",
-   "to": "wiki pull request for 2026-11-09",
+   "to": "wiki PR #18",
    "channel_type": "run-log",
    "summary": "Nightly catch-up records agent-thread T-395 through T-408 at head 11a773d4, PR #111 comments through 6756645537, and research tip d588114a as Not claimed. Draft PR heads #135-#140 are unchanged. Draft #141 head 063a993e and draft #142 head 8054120e, as of 2026-11-10T02:09:12Z, are off the research tip. The ROC-1 and ledger-correction Gemini ACCEPTED lines are recorded review verdicts, not physical results. WetLabEngine main remains be1ab286. The comments inspected do not state a usage-limit skip. No ledger claim was added and nothing was merged. Dedup key #111@11a773d4 + research@d588114a. PR #142 may still move.",
    "refs": [
+    {
+     "type": "pr",
+     "label": "wiki PR #18",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/18"
+    },
     {
      "type": "commit",
      "label": "11a773d",
