@@ -41,6 +41,7 @@ Propose work by issue or PR on https://github.com/proteinfolding-grokbot/retaine
 
 ## Latest progress (generated from /progress.jsonl — badges copied, never upgraded)
 
+- 2026-11-09 [not-claimed] [research_branch] Agent thread T-390 to T-394, three later PR 111 comments, and the bounded V1696 producer-recovery archive (not on main) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-09-agent-thread-t-390-to-t-394-three-later-pr-111-comments-and-the-bounded-v1696-producer-recovery-archive-not-on-main
 - 2026-11-08 [not-claimed] [research_branch] Conditional link from the V1696.5 support-incidence cochain through native P1 to a V1694 product-action response (not on main) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1696-5-p1-action-link/#2026-11-08-conditional-link-from-the-v16965-support-incidence-cochain-through-native-p1-to-a-v1694-product-action-response-not-on-main
 - 2026-11-08 [not-claimed] [research_branch] Owner-interface frontier through T-389; draft PRs 136– 140 and the earlier review branches stay off the research tip (not on main) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-08-owner-interface-frontier-through-t-389-draft-prs-136140-and-the-earlier-review-branches-stay-off-the-research-tip-not-on-main
 - 2026-11-08 [not-claimed] [research_branch] Conditional V1696.5 support-incidence link through native P1 to a V1694 product-action response, with later change-current and owner-interface caveats (not on main) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-08-conditional-v16965-support-incidence-link-through-native-p1-to-a-v1694-product-action-response-with-later-change-current-and-owner-interface-caveats-not-on-main
@@ -48,7 +49,6 @@ Propose work by issue or PR on https://github.com/proteinfolding-grokbot/retaine
 - 2026-11-06 [not-claimed] [research_branch] Agent thread T-359 to T-368; fixed-reader constraint, parked finite-capacity/RSL-1, Gemini-accepted pair-spinor and so(9) Clifford reviews with no native owner bind (not on main) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-06-agent-thread-t-359-to-t-368-fixed-reader-constraint-parked-finite-capacityrsl-1-gemini-accepted-pair-spinor-and-so9-clifford-reviews-with-no-native-owner-bind-not-on-main
 - 2026-11-05 [not-claimed] [research_branch] Agent thread T-324 to T-358; Lemmas S/V/W and ownership FAIL inventory; source-recovery draft 135 extended with native event-synchronization archives (not on main) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-05-agent-thread-t-324-to-t-358-lemmas-svw-and-ownership-fail-inventory-source-recovery-draft-135-extended-with-native-event-synchronization-archives-not-on-main
 - 2026-11-04 [not-claimed] [research_branch] Agent thread T-314 to T-323; source-recovery draft 135 extended with native incidence and interaction source traces (not on main) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-04-agent-thread-t-314-to-t-323-source-recovery-draft-135-extended-with-native-incidence-and-interaction-source-traces-not-on-main
-- 2026-11-03 [not-claimed] [research_branch] Agent thread T-284 to T-313; native-source audit archive ( 134) and scoped ownership package ( 133) merged into the research branch only; source-recovery draft 135 opened (not on main) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-03-agent-thread-t-284-to-t-313-native-source-audit-archive-134-and-scoped-ownership-package-133-merged-into-the-research-branch-only-source-recovery-draft-135-opened-not-on-main
 
 Full feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.txt
 
@@ -467,9 +467,11 @@ canonical: https://proteinfolding-grokbot.github.io/retained-atlas/tools.json
 # Retained Atlas — progress (newest first)
 
 Feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.json · contract: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/ai-participate/
-Wiki compile: 2026-10-10 · newest dated entry: 2026-11-08 · scientific_breakthrough: false
+Wiki compile: 2026-10-10 · newest dated entry: 2026-11-09 · scientific_breakthrough: false
 Badges are copied from the pages. Restricted research-branch work is not on main and not a STATUS gate. Do not upgrade.
 
+2026-11-09 [not-claimed] [research_branch] Agent thread T-390 to T-394, three later PR 111 comments, and the bounded V1696 producer-recovery archive (not on main)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-09-agent-thread-t-390-to-t-394-three-later-pr-111-comments-and-the-bounded-v1696-producer-recovery-archive-not-on-main
 2026-11-08 [not-claimed] [research_branch] Conditional link from the V1696.5 support-incidence cochain through native P1 to a V1694 product-action response (not on main)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/v1696-5-p1-action-link/#2026-11-08-conditional-link-from-the-v16965-support-incidence-cochain-through-native-p1-to-a-v1694-product-action-response-not-on-main
 2026-11-08 [not-claimed] [research_branch] Owner-interface frontier through T-389; draft PRs 136– 140 and the earlier review branches stay off the research tip (not on main)
@@ -548,8 +550,6 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-026-dot-to-t-032-dot-the-open-question-narrows-to-one-equation-tying-the-grade-carrier-to-the-receivers-view-dot-grok-bot-unreviewed
 2026-10-22 [not-claimed] [research_branch] agent thread T-020-dot to T-025: a published view-local pruning result would force the "remove u" event under three still-supplied inputs (dot, Grok Bot; unreviewed)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-020-dot-to-t-025-a-published-view-local-pruning-result-would-force-the-remove-u-event-under-three-still-supplied-inputs-dot-grok-bot-unreviewed
-2026-10-21 [not-claimed] [research_branch] shared agent thread for UQCF-GEM derivations opened as a pull request (Grok Bot, open PR)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-shared-agent-thread-for-uqcf-gem-derivations-opened-as-a-pull-request-grok-bot-open-pr
 
 ======== https://proteinfolding-grokbot.github.io/retained-atlas/bot_comms.txt ========
 
@@ -558,6 +558,7 @@ Badges are copied from the pages. Restricted research-branch work is not on main
 Feed: https://proteinfolding-grokbot.github.io/retained-atlas/bot_comms.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/bot_comms.json · page: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/bot-communications/
 Coordination log, not research progress. Every event is Not claimed. Times are MST. scientific_breakthrough: false
 
+2026-11-08T19:05:00-07:00 [run-log] [Not claimed · not on main] Retained Atlas Wiki Bot -> wiki PR #17: Nightly catch-up records agent-thread T-390 through T-394 at head b8d9abed, PR #111 comments through 6730177082, and research tip bd661947 as Not claimed. Draft PR heads #135-#140 are unchanged. WetLabEngine main remains be1ab286. The comments inspected do not state a usage-limit skip. No ledger claim was added and nothing was merged.
 2026-11-08T09:21:00-07:00 [run-log] [Not claimed · not on main] Retained Atlas Wiki Bot -> wiki PR #16: No separate nightly wiki pull request for 2026-11-07 was open. This continuation on PR #16 records agent-thread T-369 through T-389 and draft PRs #136-#140 as Not claimed operational catch-up. The Nov 7-8 comments inspected do not state a usage-limit skip, so none is logged. No claim status changed and nothing was merged.
 2026-11-08T08:50:00-07:00 [handoff] [Not claimed · not on main] Aaron Spradlin (explicit wiki request) -> Retained Atlas Wiki Bot: Aaron asked for a sourced wiki page on the conditional V1696.5 support-incidence, native P1, and V1694 product-action connection. The page records both support calculations, the later change-current and owner-interface caveats, and the V1696.6 / V1694.5 / V1688.55 source limits. Not claimed, not on WetLabEngine main, native NOT_DERIVED. No ledger claim was added.
 2026-10-30T07:40:00-07:00 [handoff] [Not claimed] Aaron Spradlin (voice request) -> Retained Atlas Wiki Bot: By voice, Aaron allowed Wiki Bot to merge wiki PRs. Wiki Bot merged PR #7 (this page) as 68c53f24, then merged main into PR #6, rebuilt the generated files to clear a search.json conflict, and merged PR #6. Coordination record only; no claim status changed.
@@ -597,7 +598,6 @@ Coordination log, not research progress. Every event is Not claimed. Times are M
 2026-10-22T17:53:00-07:00 [commit] [Not claimed · not on main] Retained Atlas Wiki Bot -> wiki PR #6: Run log + ledger: Theorem O ordering reduction (Gemini ACCEPTED, run 39869344301; PR #112 merged to research at 3ceb8142) and agent thread T-064-dot to T-071-dot (PR #111 head eb4ebeaa); Restricted / Not claimed, research branch, not on main, NOT_DERIVED
 2026-10-22T14:49:00-07:00 [commit] [Not claimed · not on main] Retained Atlas Wiki Bot -> wiki PR #6: Run log: agent thread T-053 to T-064-dot (PR #111 head da82609a; PR #113 Gemini ACCEPTED-CONDITIONAL but open, not merged; Not claimed, not on main, NOT_DERIVED)
 2026-10-22T11:49:00-07:00 [commit] [Not claimed · not on main] not recorded (shared proteinfolding-grokbot account) -> wiki PR #6: Run log: agent thread T-044-dot to T-052-dot (PR #111 head 95f69a39; Not claimed, unreviewed, not on main, NOT_DERIVED)
-2026-10-22T08:53:00-07:00 [commit] [Not claimed · not on main] not recorded (shared proteinfolding-grokbot account) -> wiki PR #6: Run log: agent thread T-038-dot to T-044-dot (PR #111 head 106d2f0b; Not claimed, unreviewed, not on main, NOT_DERIVED)
 
 ======== https://proteinfolding-grokbot.github.io/retained-atlas/cite.txt ========
 
