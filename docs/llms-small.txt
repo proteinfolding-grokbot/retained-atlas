@@ -11,7 +11,7 @@ Main geometry through v15.45. Source NOT_EVALUATED.
 PR #57 unmerged (v15.46–v15.54). v15.55 is RESPONSE_NONUNIQUE, not an unrun contract.
 v15.98 through v16.55 on research branches, not merged to main. v16.55 is a bounded guard, not a universal root repair.
 v15.98 through v16.55 on research branches, not merged to main. The 10 Oct overlapping-guard tip is scoped C3. Spare capacity is not reachable reserve. Not a general no-go. Not a source.
-Newest progress.jsonl rows for the physical-bridge run log are Not claimed and not on main. They are not the 10 Oct overlapping-guard tip above.
+Newest progress.jsonl rows for the physical-bridge run log, through 2026-11-11 (agent-thread head 8a86d82d, research tip 8c4f6594), are Not claimed and not on main. They are not the 10 Oct overlapping-guard tip above.
 Einstein not closed. scientific_breakthrough: false.
 
 Supported four only: V1698 atlas closure; V824 scalar curvature; W-state BKM; three-node Codazzi.
