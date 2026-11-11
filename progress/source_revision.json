@@ -1,8 +1,9 @@
 {
   "schema": "retained-atlas.source-revision/v1",
   "role": "Writer checkpoint for the next wiki cycle. Not a claim, not a result, not STATUS.md.",
-  "updated": "2026-11-10",
-  "dedup_key": "#111@a2416763 + research@d373865d",
+  "updated": "2026-11-11",
+  "read_after_comment": "6799790426",
+  "dedup_key": "#111@8a86d82d + research@8c4f6594",
   "scientific_breakthrough": false,
   "not_on_wetlab_main": true,
   "wetlab_main": {
@@ -13,36 +14,41 @@
     "status_blob_sha": "01bb5ce570316effe037ee84ab511d8daff971b9"
   },
   "pr_111": {
-    "head": "a2416763ae820cddf46959e63de492319e8bc898",
+    "head": "8a86d82d5311f9aaa0f4b7a1d8559a8ce53f1c3f",
     "branch": "grok/agent-thread",
-    "thread_through": "T-414",
+    "thread_through": "T-416",
     "notice_commits": [
-      "357551dedc1ad0520bd49308f366a12c607e609e",
-      "bc4e12698ab535cf67f3907cc2647afdf6532cc0",
-      "d879e8acaecf042ff440e23ec35fc55dad776848",
-      "5bdfe2fa6b1465fe77c5b9d124f5e35a44c02a7a",
-      "1fd30e7dfa21eb943c2f4dd962935067ef890262",
-      "a2416763ae820cddf46959e63de492319e8bc898"
+      "d89190d03c2bede3614f4fefcce77b149e31b13d",
+      "8a86d82d5311f9aaa0f4b7a1d8559a8ce53f1c3f"
     ],
-    "last_comment_read": "6778676921",
-    "notice_after_thread_md": "6778676921",
-    "previous_last_comment_read": "6756645537"
+    "last_comment_read": "6799790426",
+    "notice_after_thread_md": "6799790426",
+    "previous_last_comment_read": "6778676921",
+    "comments_read": [
+      "6788278415",
+      "6798466699",
+      "6798602632",
+      "6798637807",
+      "6798870609",
+      "6799790426"
+    ]
   },
   "research_branch": {
     "name": "research/uqcf-overlapping-guard-exchange",
-    "tip": "d373865d27052562d52a55fbe4cd18a263f00fc5",
-    "previous_covered_tip": "d588114a9958d52def9bd446a8db50640e8a0058",
+    "tip": "8c4f659431174f9db69d185909ba034b0ad01bb4",
+    "previous_covered_tip": "d373865d27052562d52a55fbe4cd18a263f00fc5",
     "new_commits": [
-      "dfe3ac5206ef7cac1d9a33f8f69bdb88bec0d5f7",
-      "490aefc472ff941f9edb3d6d210a64b265580088",
-      "30aa20a7af1fc64ecf8b42f05d00bc5a70b6c11b",
-      "41033f6bd6db8273b58b61a93ec06191a5c7fc82",
-      "d373865d27052562d52a55fbe4cd18a263f00fc5"
+      "8c4f659431174f9db69d185909ba034b0ad01bb4"
     ],
-    "owner_effect_review_run": "42761562725",
-    "owner_effect_review_verdict": "ACCEPTED",
-    "author_disposition": "ACCEPTED-CONDITIONAL",
-    "adopted_native_status": "NOT_DERIVED"
+    "new_review_run": null,
+    "note": "The one new commit is a work-allocation note. It cites the already recorded fixed-decoder verdict and does not add a review."
+  },
+  "previous_recorded_reviews_not_rerun": {
+    "42466420886": "ACCEPTED for the fixed-ledger polar lift only; DERIVED_FROM_SOURCES rejected; adopted status NOT_DERIVED",
+    "42633980069": "ACCEPTED, no findings; native NOT_DERIVED",
+    "42739273656": "ACCEPTED; adopted native status NOT_DERIVED",
+    "42761562725": "ACCEPTED; author disposition ACCEPTED-CONDITIONAL; adopted native status NOT_DERIVED",
+    "42821167329": "ACCEPTED; native NOT_DERIVED; publication-only run 42822479500 made no model call"
   },
   "drafts_not_on_research_tip": {
     "135": "2a72e2331e910e17c82abb537a1162280102ef78",
@@ -55,6 +61,16 @@
     "142": "8054120e30c00a155b208990fd2c0992b9d2512e"
   },
   "open_unmerged_prs_outside_dedup_key": {
+    "127": {
+      "state": "open",
+      "draft": true,
+      "head": "7b9d7aa5686e210d644e89b67c13ab2d23509dd1",
+      "title": "T-235: pair-delivery premise reduction",
+      "compare_to_research_tip": "diverged",
+      "ahead_by": 5,
+      "behind_by": 94,
+      "note": "Head unchanged. Comment 6799790426 reads its RESULT.md and does not merge it. Not on the research tip and not on WetLabEngine main."
+    },
     "142": {
       "state": "open",
       "draft": true,
@@ -62,27 +78,28 @@
       "title": "Archive accepted whole-argument ledger correction review",
       "compare_to_research_tip": "diverged",
       "ahead_by": 19,
-      "behind_by": 5,
-      "note": "Same head as the previous cycle's reading. Still not merged. The research tip has since moved, so this head no longer contains the tip."
+      "behind_by": 6,
+      "note": "Same head as the previous cycle. The research tip has moved one more commit, so the behind count is now 6."
     },
     "143": {
       "state": "open",
       "draft": true,
       "head": "ed1c2da86723d78bbc313db74f7092e558c7408e",
       "title": "Review fixed common quantum recovery and single-effect boundary",
-      "compare_to_research_tip": "ahead",
+      "compare_to_research_tip": "diverged",
       "ahead_by": 6,
-      "behind_by": 0,
+      "behind_by": 1,
       "review_run": "42821167329",
       "review_verdict": "ACCEPTED",
       "adopted_native_status": "NOT_DERIVED",
-      "note": "Contains the research tip and is not merged into it. Recorded model-review verdict only. Not a physical result and not on WetLabEngine main. The joint-reference rigidity note is outside that review."
+      "note": "Same head as the previous cycle. It no longer contains the research tip. The recorded verdict is unchanged and is not a new run."
     }
   },
   "clocks_not_moved": [
     "docs/llms.txt three-clocks block still names overlapping-guard tip 1e7cd09 for the 10 Oct 2026 scoped C3/C4 closeout",
     "docs/cantos.json canto 07 clock string is unchanged",
     "docs/llms/c01-clocks.txt item 6 is unchanged",
-    "Wiki compile date and last X field note are unchanged"
+    "Wiki compile date and last X field note are unchanged",
+    "overrides/main.html banner compile date stays 2026-10-10 because this run log is not a recompile of that batch"
   ]
 }

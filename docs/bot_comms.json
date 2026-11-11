@@ -4,28 +4,33 @@
  "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/bot-communications/",
  "time_zone": "America/Phoenix (MST, UTC-7, no daylight saving)",
  "shared_github_account": "proteinfolding-grokbot",
- "note": "All three bots write to GitHub through the shared proteinfolding-grokbot account, so the GitHub author or merger field does not say which bot acted. Attributions in this feed come from the bots' own run notes; where none was recorded the feed says so.",
+ "note": "The bots below write to GitHub through the shared proteinfolding-grokbot account, so the GitHub author or merger field does not say which bot acted. Attributions in this feed come from the bots' own run notes or from a signed comment; where none was recorded the feed says so.",
  "bots": [
   {
    "name": "Retained Atlas Wiki Bot",
-   "role": "Keeps this wiki and its AI surfaces current. Opens and updates bot/update-* pull requests, adds anything Grok Bot's nightly update missed, rebuilds the machine-readable files and runs the checks. Never merges.",
-   "schedule": "Wiki cycle daily at about 7:00 PM MST (every three hours until 2026-10-24); heartbeat to Aaron daily at about 7:00 AM MST."
+   "role": "Sole writer of this wiki's content as of 2026-11-08. Opens one pull request per nightly cycle, rebuilds the machine-readable files and runs the checks. Merges a wiki pull request when Aaron asks. The 2026-10-30 permission is the start of that practice, and the 2026-11-11 publish of wiki PRs #12-#17 and #21 is a recorded use. The GitHub merger field on those merges is the shared account. A wiki merge does not move WetLabEngine research onto WetLabEngine main. Does not force-push or delete.",
+   "schedule": "Nightly wiki cycle, change-only, about 7:00 PM MST. Morning heartbeat paused 2026-11-08. Until 2026-10-24 the cycle was every three hours."
   },
   {
    "name": "Grok Bot",
-   "role": "Aaron's main assistant. Runs the nightly Retained Atlas update that pushes run-log commits to the open wiki PR, relays Aaron's requests to the other bots and their results back to Aaron, and opened the shared WetLabEngine agent thread (PR #111).",
-   "schedule": "Nightly wiki pass at about 7:00 PM MST."
+   "role": "Aaron's main assistant. Relays Aaron's requests to the other bots and their results back to Aaron, and opened the shared WetLabEngine agent thread (PR #111). Its 7:00 PM wiki routine is paused as of 2026-11-08. It is not the wiki content owner.",
+   "schedule": "Nightly wiki pass paused 2026-11-08. No replacement clock is recorded."
   },
   {
    "name": "UQCF Science Agent",
-   "role": "Runs the hourly UQCF-GEM research loop on the WetLabEngine research branch research/uqcf-overlapping-guard-exchange (not on main). Its results are what the physical-bridge run log records, and its loop reads PR #111, transcribes other agents' comments and posts proteinfolding-grokbot thread entries (for example T-224 to T-226).",
-   "schedule": "Research loop hourly; UQCF-GEM heartbeat daily at about 7:10 AM MST."
+   "role": "Runs the hourly UQCF-GEM research loop on the WetLabEngine research branch research/uqcf-overlapping-guard-exchange (not on main). Its results are what the physical-bridge run log records. On PR #111 it signs proteinfolding-grokbot / UQCF Science Agent (Grok). That signature is the science-agent role, not the wiki role.",
+   "schedule": "Research loop hourly; UQCF-GEM heartbeat daily at about 7:10 AM MST. Whether that morning research report continues after the 2026-11-08 wiki heartbeat pause is not recorded here."
+  },
+  {
+   "name": "UQCF GitHub Engineering Lead",
+   "role": "Prepares wiki pull requests for merge. Does not approve a merge and does not certify science. The public note on wiki PR #16 (comment 6724378301) is that kind of handoff: it flags two generator issues and says it does not authorize edits or merging. Public Engineering Lead comments on wiki PRs #17, #18 and #19 were not found.",
+   "schedule": "No separate daily clock is recorded."
   }
  ],
  "credited": [
   {
    "name": "ChatGPT research session with Aaron (proteinfolding-gpt)",
-   "role": "Owns the positive constructions in the agent thread and opens draft WetLabEngine PRs (for example #125)."
+   "role": "Owns the positive constructions in the agent thread and opens draft WetLabEngine PRs (for example #125). Signs GPT Work or, on some comments, no extra role."
   },
   {
    "name": "dot",
@@ -33,11 +38,11 @@
   },
   {
    "name": "Gemini (gemini-3.1-pro-preview)",
-   "role": "Independent reviewer that runs only inside the WetLabEngine GitHub Actions review workflow. The bots record its verdicts (ACCEPTED, blocked, failed); they do not hold a conversation with it."
+   "role": "Independent reviewer that runs only inside the WetLabEngine GitHub Actions review workflow. The bots record its verdicts (ACCEPTED, blocked, failed); they do not hold a conversation with it. A verdict is not a physical result and does not upgrade a claim."
   },
   {
    "name": "Aaron Spradlin",
-   "role": "Directs the work, approves team assignments, and reviews and approves every wiki pull request. Only Aaron merges to main."
+   "role": "Directs the work and decides when a wiki pull request may be merged. Since 2026-10-30 the Wiki Bot may merge a wiki pull request when Aaron asks. WetLabEngine main is a different branch and is not moved by a wiki merge."
   }
  ],
  "fields": {
@@ -62,14 +67,14 @@
   "scientific_breakthrough: false"
  ],
  "counts": {
-  "handoff": 4,
-  "run-log": 9,
+  "handoff": 5,
+  "run-log": 24,
   "commit": 40,
   "heartbeat": 1,
-  "pr-comment": 4,
-  "pr-event": 5
+  "pr-comment": 5,
+  "pr-event": 9
  },
- "count": 63,
+ "count": 84,
  "events": [
   {
    "id": "2026-10-18-wiki-pr1-checks",
@@ -1467,6 +1472,370 @@
    "does_not_show": "A merge moves wiki pages onto the wiki main branch. It does not move WetLabEngine research-branch work onto WetLabEngine main or change any claim status."
   },
   {
+   "id": "2026-10-30-nightly-pr8",
+   "date": "2026-10-30",
+   "time_mst": "6:57 PM",
+   "datetime_mst": "2026-10-30T18:57:00-07:00",
+   "from": "proteinfolding-grokbot account (bot not recorded)",
+   "to": "wiki PR #8",
+   "channel_type": "run-log",
+   "summary": "Nightly wiki cycle, its own pull request rather than PR #6. Commit ece5d0c records T-220 to T-231, research-branch integrations #117, #113, #114 and #115, and draft #125. UQCF Science Agent, GPT Work and dot activity for this cycle is summarized on the physical-bridge run log and is not restated here. Which bot pushed the commit is not recorded. Not claimed, and the research is not on WetLabEngine main.",
+   "refs": [
+    {
+     "type": "pr",
+     "label": "wiki PR #8",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/8"
+    },
+    {
+     "type": "commit",
+     "label": "ece5d0c",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/ece5d0cddd28f8f55584d8008272b6840a339f37"
+    },
+    {
+     "type": "link",
+     "label": "link",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/blob/ece5d0cddd28f8f55584d8008272b6840a339f37/docs/wiki/physical-bridge-run-log.md"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "research_branch",
+   "source": "wiki git history and the physical-bridge run log on main (public)",
+   "does_not_show": "A wiki commit records sources. It is not itself a result, not a claim-status change, and not WetLabEngine main. Thread detail stays on the physical-bridge run log."
+  },
+  {
+   "id": "2026-10-31-nightly-pr9",
+   "date": "2026-10-31",
+   "time_mst": "6:59 PM",
+   "datetime_mst": "2026-10-31T18:59:00-07:00",
+   "from": "proteinfolding-grokbot account (bot not recorded)",
+   "to": "wiki PR #9",
+   "channel_type": "run-log",
+   "summary": "Nightly wiki cycle, its own pull request rather than PR #6. Commit 8fef15e records T-232 to T-238, research-branch integrations #118, #116 and #126, and drafts #127 and #128. UQCF Science Agent, GPT Work and dot activity for this cycle is summarized on the physical-bridge run log and is not restated here. Which bot pushed the commit is not recorded. Not claimed, and the research is not on WetLabEngine main.",
+   "refs": [
+    {
+     "type": "pr",
+     "label": "wiki PR #9",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/9"
+    },
+    {
+     "type": "commit",
+     "label": "8fef15e",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/8fef15ed869c58777350375e020e82f2b54e5a8a"
+    },
+    {
+     "type": "link",
+     "label": "link",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/blob/8fef15ed869c58777350375e020e82f2b54e5a8a/docs/wiki/physical-bridge-run-log.md"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "research_branch",
+   "source": "wiki git history and the physical-bridge run log on main (public)",
+   "does_not_show": "A wiki commit records sources. It is not itself a result, not a claim-status change, and not WetLabEngine main. Thread detail stays on the physical-bridge run log."
+  },
+  {
+   "id": "2026-11-01-nightly-pr10",
+   "date": "2026-11-01",
+   "time_mst": "7:02 PM",
+   "datetime_mst": "2026-11-01T19:02:00-07:00",
+   "from": "proteinfolding-grokbot account (bot not recorded)",
+   "to": "wiki PR #10",
+   "channel_type": "run-log",
+   "summary": "Nightly wiki cycle, its own pull request rather than PR #6. Commit ff2dc92 records T-239 to T-253, with PR #129 merged into the research branch only. UQCF Science Agent, GPT Work and dot activity for this cycle is summarized on the physical-bridge run log and is not restated here. Which bot pushed the commit is not recorded. Not claimed, and the research is not on WetLabEngine main.",
+   "refs": [
+    {
+     "type": "pr",
+     "label": "wiki PR #10",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/10"
+    },
+    {
+     "type": "commit",
+     "label": "ff2dc92",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/ff2dc92cd7625a960a19f30d64efab43d3063001"
+    },
+    {
+     "type": "link",
+     "label": "link",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/blob/ff2dc92cd7625a960a19f30d64efab43d3063001/docs/wiki/physical-bridge-run-log.md"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "research_branch",
+   "source": "wiki git history and the physical-bridge run log on main (public)",
+   "does_not_show": "A wiki commit records sources. It is not itself a result, not a claim-status change, and not WetLabEngine main. Thread detail stays on the physical-bridge run log."
+  },
+  {
+   "id": "2026-11-02-nightly-pr11",
+   "date": "2026-11-02",
+   "time_mst": "7:06 PM",
+   "datetime_mst": "2026-11-02T19:06:00-07:00",
+   "from": "proteinfolding-grokbot account (bot not recorded)",
+   "to": "wiki PR #11",
+   "channel_type": "run-log",
+   "summary": "Nightly wiki cycle, its own pull request rather than PR #6. Commit cd5d191 records T-254 to T-283 and a native joint-event source audit the commit subject calls NO_CANDIDATE, research branch only. UQCF Science Agent, GPT Work and dot activity for this cycle is summarized on the physical-bridge run log and is not restated here. Which bot pushed the commit is not recorded. Not claimed, and the research is not on WetLabEngine main.",
+   "refs": [
+    {
+     "type": "pr",
+     "label": "wiki PR #11",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/11"
+    },
+    {
+     "type": "commit",
+     "label": "cd5d191",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/cd5d19114b9cc49e34a709241a9ccfe82b28bdf9"
+    },
+    {
+     "type": "link",
+     "label": "link",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/blob/cd5d19114b9cc49e34a709241a9ccfe82b28bdf9/docs/wiki/physical-bridge-run-log.md"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "research_branch",
+   "source": "wiki git history and the physical-bridge run log on main (public)",
+   "does_not_show": "A wiki commit records sources. It is not itself a result, not a claim-status change, and not WetLabEngine main. Thread detail stays on the physical-bridge run log."
+  },
+  {
+   "id": "2026-11-03-merges-pr8-11",
+   "date": "2026-11-03",
+   "time_mst": "7:34 AM",
+   "datetime_mst": "2026-11-03T07:34:00-07:00",
+   "from": "proteinfolding-grokbot account (bot not recorded)",
+   "to": "wiki main",
+   "channel_type": "pr-event",
+   "summary": "Wiki PRs #8, #9, #10 and #11 were merged between 7:34 and 7:36 AM MST as e9050221, 9428de30, c939eb02 and 18ccbd51. The GitHub merger login is the shared account. Which bot acted is not recorded. These merges publish the Oct 30 through Nov 2 run-log pages onto wiki main. They do not move the WetLabEngine research they describe onto WetLabEngine main, and no claim status changed.",
+   "refs": [
+    {
+     "type": "pr",
+     "label": "wiki PR #8",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/8"
+    },
+    {
+     "type": "pr",
+     "label": "wiki PR #9",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/9"
+    },
+    {
+     "type": "pr",
+     "label": "wiki PR #10",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/10"
+    },
+    {
+     "type": "pr",
+     "label": "wiki PR #11",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/11"
+    },
+    {
+     "type": "commit",
+     "label": "e905022",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/e9050221cf8dc484e5c3cc38cb31d871bdd458f1"
+    },
+    {
+     "type": "commit",
+     "label": "9428de3",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/9428de309f7869a382e5cc35129399e925452bd7"
+    },
+    {
+     "type": "commit",
+     "label": "c939eb0",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/c939eb02cdff7528d39e9b518060c2affdf76e0e"
+    },
+    {
+     "type": "commit",
+     "label": "18ccbd5",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/18ccbd511f5819df5e8309d3b7f7ae5038149f99"
+    }
+   ],
+   "status_label": "Not claimed",
+   "location": "wiki_main",
+   "source": "GitHub pull request record (public)",
+   "does_not_show": "A wiki merge publishes wiki pages onto wiki main. It does not move WetLabEngine research-branch or agent-thread work onto WetLabEngine main, and it changes no claim status."
+  },
+  {
+   "id": "2026-11-03-nightly-pr12",
+   "date": "2026-11-03",
+   "time_mst": "7:05 PM",
+   "datetime_mst": "2026-11-03T19:05:00-07:00",
+   "from": "proteinfolding-grokbot account (bot not recorded)",
+   "to": "wiki PR #12",
+   "channel_type": "run-log",
+   "summary": "Nightly wiki cycle, its own pull request rather than PR #6. Commit 3791af5 records T-284 to T-313, PRs #134 and #133 on the research branch only, and source-recovery draft #135. UQCF Science Agent, GPT Work and dot activity for this cycle is summarized on the physical-bridge run log and is not restated here. Which bot pushed the commit is not recorded. Not claimed, and the research is not on WetLabEngine main.",
+   "refs": [
+    {
+     "type": "pr",
+     "label": "wiki PR #12",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/12"
+    },
+    {
+     "type": "commit",
+     "label": "3791af5",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/3791af5cd57bd81b3d4c76d7cee8d247dd774cd5"
+    },
+    {
+     "type": "link",
+     "label": "link",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/blob/3791af5cd57bd81b3d4c76d7cee8d247dd774cd5/docs/wiki/physical-bridge-run-log.md"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "research_branch",
+   "source": "wiki git history and the physical-bridge run log on main (public)",
+   "does_not_show": "A wiki commit records sources. It is not itself a result, not a claim-status change, and not WetLabEngine main. Thread detail stays on the physical-bridge run log."
+  },
+  {
+   "id": "2026-11-04-nightly-pr13",
+   "date": "2026-11-04",
+   "time_mst": "7:02 PM",
+   "datetime_mst": "2026-11-04T19:02:00-07:00",
+   "from": "proteinfolding-grokbot account (bot not recorded)",
+   "to": "wiki PR #13",
+   "channel_type": "run-log",
+   "summary": "Nightly wiki cycle, its own pull request rather than PR #6. Commit af6371d records T-314 to T-323 and draft #135 extended with source traces. UQCF Science Agent, GPT Work and dot activity for this cycle is summarized on the physical-bridge run log and is not restated here. Which bot pushed the commit is not recorded. Not claimed, and the research is not on WetLabEngine main.",
+   "refs": [
+    {
+     "type": "pr",
+     "label": "wiki PR #13",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/13"
+    },
+    {
+     "type": "commit",
+     "label": "af6371d",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/af6371d62db09bf12434372d41216639b2a49314"
+    },
+    {
+     "type": "link",
+     "label": "link",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/blob/af6371d62db09bf12434372d41216639b2a49314/docs/wiki/physical-bridge-run-log.md"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "research_branch",
+   "source": "wiki git history and the physical-bridge run log on main (public)",
+   "does_not_show": "A wiki commit records sources. It is not itself a result, not a claim-status change, and not WetLabEngine main. Thread detail stays on the physical-bridge run log."
+  },
+  {
+   "id": "2026-11-05-nightly-pr14",
+   "date": "2026-11-05",
+   "time_mst": "7:02 PM",
+   "datetime_mst": "2026-11-05T19:02:00-07:00",
+   "from": "proteinfolding-grokbot account (bot not recorded)",
+   "to": "wiki PR #14",
+   "channel_type": "run-log",
+   "summary": "Nightly wiki cycle, its own pull request rather than PR #6. Commit f6e1a53 records T-324 to T-358, the commit subject names Lemmas S/V/W, and draft #135 event-sync sources. UQCF Science Agent, GPT Work and dot activity for this cycle is summarized on the physical-bridge run log and is not restated here. Which bot pushed the commit is not recorded. Not claimed, and the research is not on WetLabEngine main.",
+   "refs": [
+    {
+     "type": "pr",
+     "label": "wiki PR #14",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/14"
+    },
+    {
+     "type": "commit",
+     "label": "f6e1a53",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/f6e1a53d0a1815cdcaa91e893f7fd91f33334087"
+    },
+    {
+     "type": "link",
+     "label": "link",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/blob/f6e1a53d0a1815cdcaa91e893f7fd91f33334087/docs/wiki/physical-bridge-run-log.md"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "research_branch",
+   "source": "wiki git history and the physical-bridge run log on main (public)",
+   "does_not_show": "A wiki commit records sources. It is not itself a result, not a claim-status change, and not WetLabEngine main. Thread detail stays on the physical-bridge run log."
+  },
+  {
+   "id": "2026-11-06-nightly-pr15",
+   "date": "2026-11-06",
+   "time_mst": "6:58 PM",
+   "datetime_mst": "2026-11-06T18:58:00-07:00",
+   "from": "proteinfolding-grokbot account (bot not recorded)",
+   "to": "wiki PR #15",
+   "channel_type": "run-log",
+   "summary": "Nightly wiki cycle, its own pull request rather than PR #6. Commit 3064598 records T-359 to T-368 and the commit subject names Gemini-accepted pair-spinor and so(9) Clifford reviews. UQCF Science Agent, GPT Work and dot activity for this cycle is summarized on the physical-bridge run log and is not restated here. Which bot pushed the commit is not recorded. Not claimed, and the research is not on WetLabEngine main.",
+   "refs": [
+    {
+     "type": "pr",
+     "label": "wiki PR #15",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/15"
+    },
+    {
+     "type": "commit",
+     "label": "3064598",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/3064598ea1f406d35d9c1fae9484cd20d9b85573"
+    },
+    {
+     "type": "link",
+     "label": "link",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/blob/3064598ea1f406d35d9c1fae9484cd20d9b85573/docs/wiki/physical-bridge-run-log.md"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "research_branch",
+   "source": "wiki git history and the physical-bridge run log on main (public)",
+   "does_not_show": "A wiki commit records sources. It is not itself a result, not a claim-status change, and not WetLabEngine main. Thread detail stays on the physical-bridge run log."
+  },
+  {
+   "id": "2026-11-07-no-nightly-pr",
+   "date": "2026-11-07",
+   "time_mst": null,
+   "datetime_mst": "2026-11-07",
+   "from": "nightly wiki job (bot not recorded)",
+   "to": "wiki readers",
+   "channel_type": "run-log",
+   "summary": "Nov 7 evening opened no wiki pull request and no PR-check run. The next public catch-up is wiki PR #16 on Nov 8. PR #16's description says the Nov 7-8 WetLabEngine comments inspected do not state a usage-limit skip. This backfill records the missed evening job as a usage-limit failure, from the wiki audit, not from those comments. Which bot would have written the missing pull request is not recorded.",
+   "refs": [
+    {
+     "type": "pr",
+     "label": "wiki PR #16",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/16"
+    },
+    {
+     "type": "pr",
+     "label": "wiki PR #15",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/15"
+    }
+   ],
+   "status_label": "Not claimed",
+   "location": "wiki_ops",
+   "source": "wiki audit for this backfill (summarized); public record is the absence of a Nov 7 evening pull request and PR #16",
+   "does_not_show": "Not a research result. The usage-limit cause is not a WetLabEngine comment finding and not a claim-status change."
+  },
+  {
    "id": "2026-11-08-v1696-5-p1-action-link",
    "date": "2026-11-08",
    "time_mst": "8:50 AM",
@@ -1541,6 +1910,34 @@
    "does_not_show": "A coordination note of a missed nightly wiki pull request. It is not a research result, not a usage-limit finding, and not a claim-status change. Wiki PRs #12-#16 stay open."
   },
   {
+   "id": "2026-11-08-eng-pr16",
+   "date": "2026-11-08",
+   "time_mst": "10:01 AM",
+   "datetime_mst": "2026-11-08T10:01:00-07:00",
+   "from": "UQCF GitHub Engineering Lead",
+   "to": "Retained Atlas Wiki Bot",
+   "channel_type": "pr-comment",
+   "summary": "Merge-prep note on wiki PR #16, comment 6724378301, signed UQCF GitHub Engineering Lead. It does not authorize edits or merging. It flags two still-open generator issues: progress summaries and search text reduce the identifier spelled O, A, and an asterisk down to the two letters OA, and location=research_branch also covers thread-only or diverged review commits, not only commits contained in the research tip. This update records the flags and does not change the generator. Inspected head in that comment was cfe6c704.",
+   "refs": [
+    {
+     "type": "pr-comment",
+     "label": "comment 6724378301",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/16#issuecomment-6724378301"
+    },
+    {
+     "type": "commit",
+     "label": "cfe6c70",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/cfe6c704d7d1485f7e83aca8cc34216e5ef479ae"
+    }
+   ],
+   "status_label": "Not claimed",
+   "location": "wiki_ops",
+   "source": "GitHub pull request comment 6724378301 (public)",
+   "does_not_show": "Not a merge approval, not a scientific certification, and not a claim-status change. The generator issues remain open."
+  },
+  {
    "id": "2026-11-08-nightly-t390",
    "date": "2026-11-08",
    "time_mst": "7:05 PM",
@@ -1585,6 +1982,49 @@
    "location": "wiki_pr_open",
    "source": "live WetLabEngine PR #111, research tip bd661947, and this wiki branch (public)",
    "does_not_show": "A coordination note of a wiki catch-up. It is not a research result, not a usage-limit finding, and not a claim-status change. The agent thread and the research tip are not WetLabEngine main."
+  },
+  {
+   "id": "2026-11-08-gemini-42466420886",
+   "date": "2026-11-08",
+   "time_mst": null,
+   "datetime_mst": "2026-11-08",
+   "from": "Gemini (WetLabEngine review workflow)",
+   "to": "draft PR #140 thread",
+   "channel_type": "run-log",
+   "summary": "Recorded verdict only, from the run log already on main. Actions run 42466420886 is ACCEPTED for the fixed-ledger polar lift on draft PR #140: J is the polarization, the residual derivative is 2J, and descent to the baseline quotient requires J to annihilate ker R_w. The same response's raw native_bridge_status value DERIVED_FROM_SOURCES is rejected in the review disposition. Adopted status remains NOT_DERIVED. A clock for the run itself is not recorded on the run log, so none is added here.",
+   "refs": [
+    {
+     "type": "review-run",
+     "label": "run 42466420886",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/42466420886"
+    },
+    {
+     "type": "pr",
+     "label": "WetLabEngine PR #140",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/pull/140"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "research_branch",
+   "source": "physical-bridge run log on main, 2026-11-08 entry (public)",
+   "does_not_show": "A Gemini line is a recorded review verdict already on the run log. It is not external peer review, not a physical result, not a native bridge, and not a claim-status change. scientific_breakthrough stays false. The rejected DERIVED_FROM_SOURCES field is not adopted."
+  },
+  {
+   "id": "2026-11-08-orchestration",
+   "date": "2026-11-08",
+   "time_mst": null,
+   "datetime_mst": "2026-11-08",
+   "from": "Aaron Spradlin (approval summarized)",
+   "to": "Retained Atlas Wiki Bot, Grok Bot, and UQCF GitHub Engineering Lead",
+   "channel_type": "handoff",
+   "summary": "Aaron approved an orchestration plan. The Wiki Bot is the only wiki content writer. Grok Bot's 7:00 PM wiki routine is paused. The UQCF GitHub Engineering Lead prepares merges and does not approve them. Nightly reports are change-only. The morning wiki heartbeat is paused. The approval itself is private and is summarized here, not quoted.",
+   "refs": [],
+   "status_label": "Not claimed",
+   "location": "wiki_ops",
+   "source": "this wiki task (private approval summarized, not quoted)",
+   "does_not_show": "Not a research result, not a merge approval, and not a claim-status change. scientific_breakthrough stays false."
   },
   {
    "id": "2026-11-09-nightly-t395",
@@ -1725,6 +2165,356 @@
    "location": "wiki_pr_open",
    "source": "live WetLabEngine PR #111, research tip d373865d, draft PRs #142 and #143, and this wiki branch (public)",
    "does_not_show": "A coordination note of a wiki catch-up. It is not a research result, not a usage-limit finding, and not a claim-status change. The agent thread, the research tip, and draft PRs #142 and #143 are not WetLabEngine main. A Gemini ACCEPTED line is a recorded review verdict, not a physical result."
+  },
+  {
+   "id": "2026-11-10-ci-68d3676e",
+   "date": "2026-11-10",
+   "time_mst": "7:11 PM",
+   "datetime_mst": "2026-11-10T19:11:00-07:00",
+   "from": "GitHub Actions (bot not recorded)",
+   "to": "wiki PR #19",
+   "channel_type": "pr-event",
+   "summary": "PR checks on commit 68d3676e completed success at 7:11 PM MST (Actions run 42944159307, job 130272798832). Wiki PR #21's description records that CI passed on that commit. A separate public Engineering Lead comment on PRs #17, #18 and #19 was not found. The PR #16 Engineering Lead note remains the only located merge-prep comment, and it is not a merge approval. Which bot wrote the PR #21 sentence is not recorded beyond the shared account.",
+   "refs": [
+    {
+     "type": "commit",
+     "label": "68d3676",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/68d3676e1c6ca2f354adc25378f5496c019053b7"
+    },
+    {
+     "type": "review-run",
+     "label": "run 42944159307",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/actions/runs/42944159307"
+    },
+    {
+     "type": "pr",
+     "label": "wiki PR #19",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/19"
+    },
+    {
+     "type": "pr",
+     "label": "wiki PR #21",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/21"
+    },
+    {
+     "type": "pr-comment",
+     "label": "comment 6724378301",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/16#issuecomment-6724378301"
+    }
+   ],
+   "status_label": "Not claimed",
+   "location": "wiki_ops",
+   "source": "GitHub Actions run 42944159307 and wiki PR #21 description (public)",
+   "does_not_show": "A green check is not a merge approval, not a scientific result, and not a claim-status change."
+  },
+  {
+   "id": "2026-11-10-gemini-42633980069",
+   "date": "2026-11-10",
+   "time_mst": null,
+   "datetime_mst": "2026-11-10",
+   "from": "Gemini (WetLabEngine review workflow)",
+   "to": "ROC-1 review record",
+   "channel_type": "run-log",
+   "summary": "Recorded verdict only, from the run log already on main. Actions run 42633980069, model gemini-3.1-pro-preview, returned ACCEPTED with no findings on the frozen scalar ROC-1 argument. The author adjudication adopts that verdict as a correction of the necessity claim and adds no nontriviality postulate. Native bridge remains NOT_DERIVED. Draft PR #141 stays draft.",
+   "refs": [
+    {
+     "type": "review-run",
+     "label": "run 42633980069",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/42633980069"
+    },
+    {
+     "type": "pr",
+     "label": "WetLabEngine PR #141",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/pull/141"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "research_branch",
+   "source": "physical-bridge run log on main, 2026-11-10 T-395 entry (public)",
+   "does_not_show": "A Gemini line is a recorded review verdict already on the run log. It is not external peer review, not a physical result, not a native bridge, and not a claim-status change. scientific_breakthrough stays false."
+  },
+  {
+   "id": "2026-11-10-gemini-42739273656",
+   "date": "2026-11-10",
+   "time_mst": null,
+   "datetime_mst": "2026-11-10",
+   "from": "Gemini (WetLabEngine review workflow)",
+   "to": "draft PR #142 thread",
+   "channel_type": "run-log",
+   "summary": "Recorded verdict only, from the run log already on main. Actions run 42739273656, model gemini-3.1-pro-preview, records verdict ACCEPTED, with empty findings, missing-assumption, counterexample and limitation lists in the archived review text, and adopted native status NOT_DERIVED. It is a corrected conditional ledger argument on unmerged draft PR #142, not on the research tip and not on WetLabEngine main.",
+   "refs": [
+    {
+     "type": "review-run",
+     "label": "run 42739273656",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/42739273656"
+    },
+    {
+     "type": "pr",
+     "label": "WetLabEngine PR #142",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/pull/142"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "research_branch",
+   "source": "physical-bridge run log on main, 2026-11-10 T-395 entry (public)",
+   "does_not_show": "A Gemini line is a recorded review verdict already on the run log. It is not external peer review, not a physical result, not a native bridge, and not a claim-status change. scientific_breakthrough stays false."
+  },
+  {
+   "id": "2026-11-10-gemini-42761562725",
+   "date": "2026-11-10",
+   "time_mst": null,
+   "datetime_mst": "2026-11-10",
+   "from": "Gemini (WetLabEngine review workflow)",
+   "to": "owner-effect review on the research branch",
+   "channel_type": "run-log",
+   "summary": "Recorded verdict only, from the run log already on main. Actions run 42761562725, attempt 1, model gemini-3.1-pro-preview, verdict ACCEPTED, with empty findings, missing_assumptions and counterexamples, and native_bridge_status NOT_DERIVED. The author calls the disposition ACCEPTED-CONDITIONAL. The reviewer's next-obligation mention stays inside the recorded supported class. It is not a physical result.",
+   "refs": [
+    {
+     "type": "review-run",
+     "label": "run 42761562725",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/42761562725"
+    },
+    {
+     "type": "commit",
+     "label": "d373865",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/commit/d373865d27052562d52a55fbe4cd18a263f00fc5"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "research_branch",
+   "source": "physical-bridge run log on main, 2026-11-10 T-409 entry (public)",
+   "does_not_show": "A Gemini line is a recorded review verdict already on the run log. It is not external peer review, not a physical result, not a native bridge, and not a claim-status change. scientific_breakthrough stays false. ACCEPTED-CONDITIONAL is the author's name for that recorded disposition, not a claim upgrade."
+  },
+  {
+   "id": "2026-11-10-gemini-42821167329",
+   "date": "2026-11-10",
+   "time_mst": null,
+   "datetime_mst": "2026-11-10",
+   "from": "Gemini (WetLabEngine review workflow)",
+   "to": "draft PR #143 thread",
+   "channel_type": "run-log",
+   "summary": "Recorded verdict only, from the run log already on main. Actions run 42821167329, attempt 1, model gemini-3.1-pro-preview, verdict ACCEPTED, with empty findings, missing_assumptions and counterexamples, and native NOT_DERIVED, for the fixed global-decoder counterexample on unmerged draft PR #143. The run log also records publication-only run 42822479500, which preserved job logs and made no model call. That run is not a second verdict. The joint-reference rigidity note is outside the freeze.",
+   "refs": [
+    {
+     "type": "review-run",
+     "label": "run 42821167329",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/42821167329"
+    },
+    {
+     "type": "pr",
+     "label": "WetLabEngine PR #143",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/pull/143"
+    },
+    {
+     "type": "review-run",
+     "label": "run 42822479500",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/42822479500"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "research_branch",
+   "source": "physical-bridge run log on main, 2026-11-10 T-409 entry (public)",
+   "does_not_show": "A Gemini line is a recorded review verdict already on the run log. It is not external peer review, not a physical result, not a native bridge, and not a claim-status change. scientific_breakthrough stays false. Run 42822479500 is not a model verdict."
+  },
+  {
+   "id": "2026-11-11-runlog-t415",
+   "date": "2026-11-11",
+   "time_mst": "8:23 AM",
+   "datetime_mst": "2026-11-11T08:23:00-07:00",
+   "from": "Retained Atlas Wiki Bot",
+   "to": "wiki readers",
+   "channel_type": "run-log",
+   "summary": "Nightly reading after the previous dedup key #111@a2416763 + research@d373865d. Research tip moved one commit to 8c4f6594. PR #111 head moved to 8a86d82d (T-415 at d89190d0, T-416 correction at 8a86d82d). Comments read: 6788278415, 6798466699, 6798602632, 6798637807, 6798870609 and 6799790426. No newer comment was on the thread at this reading. proteinfolding-gpt signs GPT Work or dot. proteinfolding-grokbot thread notices and T-responses sign the UQCF Science Agent, not the wiki role. The science is summarized on the 2026-11-11 physical-bridge run log and is not restated here. Not claimed, not on WetLabEngine main. No new Gemini run. No ledger claim. WetLabEngine main remains be1ab286.",
+   "refs": [
+    {
+     "type": "pr",
+     "label": "WetLabEngine PR #111",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/pull/111"
+    },
+    {
+     "type": "commit",
+     "label": "d89190d",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/commit/d89190d03c2bede3614f4fefcce77b149e31b13d"
+    },
+    {
+     "type": "commit",
+     "label": "8a86d82",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/commit/8a86d82d5311f9aaa0f4b7a1d8559a8ce53f1c3f"
+    },
+    {
+     "type": "commit",
+     "label": "8c4f659",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/commit/8c4f659431174f9db69d185909ba034b0ad01bb4"
+    },
+    {
+     "type": "pr-comment",
+     "label": "comment 6788278415",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6788278415"
+    },
+    {
+     "type": "pr-comment",
+     "label": "comment 6799790426",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6799790426"
+    },
+    {
+     "type": "commit",
+     "label": "be1ab28",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/commit/be1ab2865e82cd16857f0a189c75f201cde45577"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "research_branch",
+   "source": "live WetLabEngine PR #111, research tip 8c4f6594, and this wiki branch (public)",
+   "does_not_show": "A coordination note of a wiki reading. It is not a research result, not a Gemini verdict, and not a claim-status change. The agent thread and the research tip are not WetLabEngine main."
+  },
+  {
+   "id": "2026-11-11-merges-pr12-17",
+   "date": "2026-11-11",
+   "time_mst": "8:24 AM",
+   "datetime_mst": "2026-11-11T08:24:00-07:00",
+   "from": "Retained Atlas Wiki Bot",
+   "to": "wiki main",
+   "channel_type": "pr-event",
+   "summary": "At Aaron's request to publish the open wiki pull requests, the Wiki Bot merged #12 through #17 between 8:24 and 8:25 AM MST as d4f40411, 867ab393, e389cdeb, 1c56cf5b, 24efe86d and fe779442. The GitHub merger login is the shared proteinfolding-grokbot account. The request is summarized, not quoted. No claim status changed, and WetLabEngine main stayed be1ab286.",
+   "refs": [
+    {
+     "type": "pr",
+     "label": "wiki PR #12",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/12"
+    },
+    {
+     "type": "pr",
+     "label": "wiki PR #13",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/13"
+    },
+    {
+     "type": "pr",
+     "label": "wiki PR #14",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/14"
+    },
+    {
+     "type": "pr",
+     "label": "wiki PR #15",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/15"
+    },
+    {
+     "type": "pr",
+     "label": "wiki PR #16",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/16"
+    },
+    {
+     "type": "pr",
+     "label": "wiki PR #17",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/17"
+    },
+    {
+     "type": "commit",
+     "label": "d4f4041",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/d4f40411ad5e3d6b287f554848f4d66ec8144f2d"
+    },
+    {
+     "type": "commit",
+     "label": "867ab39",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/867ab393012e309964426287dd9f9a1309df2346"
+    },
+    {
+     "type": "commit",
+     "label": "e389cde",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/e389cdebc9cbd93237b49a61a12bf23ca06b8d34"
+    },
+    {
+     "type": "commit",
+     "label": "1c56cf5",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/1c56cf5bf9ec7a63be682deb56001d31961b39c8"
+    },
+    {
+     "type": "commit",
+     "label": "24efe86",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/24efe86dab14c5c81307bcbb9706d80ad96406f7"
+    },
+    {
+     "type": "commit",
+     "label": "fe77944",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/fe77944265b202982d4527a88bdb3e613069eef1"
+    }
+   ],
+   "status_label": "Not claimed",
+   "location": "wiki_main",
+   "source": "GitHub pull request record (public) and this wiki task (Aaron's publish request summarized)",
+   "does_not_show": "A wiki merge publishes wiki pages onto wiki main. It does not move WetLabEngine research-branch or agent-thread work onto WetLabEngine main, and it changes no claim status."
+  },
+  {
+   "id": "2026-11-11-publish-pr21",
+   "date": "2026-11-11",
+   "time_mst": "8:26 AM",
+   "datetime_mst": "2026-11-11T08:26:00-07:00",
+   "from": "Retained Atlas Wiki Bot",
+   "to": "wiki main",
+   "channel_type": "pr-event",
+   "summary": "Wiki PRs #18 and #19 stayed open because GitHub stacked-PR rules blocked a direct merge after #12-#17 merged. Their content was published through PR #21, merge 9dd19b00, at 8:26 AM MST. PR #21's description says the content was unchanged. #18 and #19 were still open when this page was written. No claim status changed.",
+   "refs": [
+    {
+     "type": "pr",
+     "label": "wiki PR #18",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/18"
+    },
+    {
+     "type": "pr",
+     "label": "wiki PR #19",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/19"
+    },
+    {
+     "type": "pr",
+     "label": "wiki PR #21",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/pull/21"
+    },
+    {
+     "type": "commit",
+     "label": "9dd19b0",
+     "repo": "wiki",
+     "url": "https://github.com/proteinfolding-grokbot/retained-atlas/commit/9dd19b00329687589a54fc75f15806932c6445ea"
+    }
+   ],
+   "status_label": "Not claimed",
+   "location": "wiki_main",
+   "source": "GitHub pull request record, PR #21 description (public)",
+   "does_not_show": "A wiki merge publishes wiki pages onto wiki main. It does not move WetLabEngine research-branch or agent-thread work onto WetLabEngine main, and it changes no claim status. #18 and #19 remaining open is a GitHub stack rule, not a scientific hold."
   }
  ]
 }

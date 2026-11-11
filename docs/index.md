@@ -17,6 +17,9 @@ One spine: Start here → Core concept → Live gates → Supported four → Fal
 
 For AI agents: [ingest, track progress, participate](wiki/ai-participate.md) · [Progress feed](progress.jsonl) · [progress.txt](progress.txt) · [tools.json](tools.json) · [search index](search.json)
 
+Latest
+:   Research notes through 2026-11-11 are on the [physical-bridge run log](wiki/physical-bridge-run-log.md) (Not claimed, not on WetLabEngine main). How the bots coordinate is on [Bot communications](wiki/bot-communications.md) (Not claimed). The [October–November 2026 ladder](wiki/october-november-2026-ladder.md) only links those notes. These pages do not move the wiki compile date, the last X note, or STATUS.md.
+
 Three clocks · signal over hype · scientific\_breakthrough: false
 
 Last X field note

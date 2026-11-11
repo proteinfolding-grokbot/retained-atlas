@@ -69,6 +69,8 @@ retained graph → quantum-site carrier STOPPED · state-independent lift → no
 
 Wiki compile 2026-10-10. [STATUS.md](https://github.com/proteinfoldingengine/WetLabEngine/blob/main/ResearchHistory/UQCF-GEM/STATUS.md): [v15.03](why-these-gates.md) retained — not erased · main note publishes [v15.45](v1545-factorization.md) · integration branch still [v16.55](v1598-line.md) · overlapping-guard tip 1e7cd09 · scoped [C3](c3-governor.md) not a general no-go · not on main · not a source. Last X is [public voice](public-voice.md), not a gate. Next lawful move: NEW ASSUMPTION or new frozen structure — do not pick log ρ or a Pauli axis. GitHub-only gates have no invented X URL. Einstein not closed.
 
+The newest [physical-bridge run log](physical-bridge-run-log.md) rows, through 2026-11-11 at agent-thread head `8a86d82d` and research tip `8c4f6594`, are a separate clock. They are Not claimed and not on WetLabEngine main. They are not the 10 Oct overlapping-guard tip in the sentence above, and they do not move STATUS.md.
+
 | Gate | Date | Question | Outcome | Badge | Git | X? |
 | --- | --- | --- | --- | --- | --- | --- |
 | [v13.23](september-2026-ladder.md) | 2026-09-12 | Does [Genesis Pin](genesis-pin.md) / [QRSL](genesis-pin.md) pick the fine world? | [QRSL](genesis-pin.md) irreducible. Pin is a ledger, not a selector. | restricted | https://github.com/proteinfoldingengine/WetLabEngine/tree/main/ResearchHistory/[UQCF-GEM](uqcf-gem.md)/[v13](september-2026-ladder.md)/[v13.23](september-2026-ladder.md) | GitHub-only |
