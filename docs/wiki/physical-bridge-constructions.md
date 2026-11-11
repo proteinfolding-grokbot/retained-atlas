@@ -115,3 +115,5 @@ Badge for each: **Restricted** · research branch · not on main · NOT_DERIVED.
 ## What remains open
 
 The native access bridge (NOT_DERIVED); (A1), (A2) and E5; preparability (a single legitimate append is still an assumption, and v15.56 lists it as missing). Occurrence is an accepted input, not an open gap.
+
+Later Nov 7–8 notes are not new constructions on this page. The owner-held-action direction, the T-370 withdrawal to existing RD-2/RD-5, and draft PRs #136–#140 are on the [physical-bridge run log](physical-bridge-run-log.md). The conditional V1696.5 / P1 / V1694 arithmetic is on [its own page](v1696-5-p1-action-link.md). Both are Not claimed. Research tip `032bb78a` is not WetLabEngine main. Native bridge NOT_DERIVED. scientific_breakthrough: false.
