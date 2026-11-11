@@ -26,6 +26,7 @@ Post-A12 at 6a99418: auxiliary cycle breaking was the named next line. No closeo
 C3 reserve: tip 1e7cd09. Spare labels can stay unreachable from a non-isolated source. Not a general impossibility. Not connectivity.
 C3 repair: scoped interfaces only. Not broad C3. Not guaranteed progress.
 C3 readout: counts do not derive access. Safe core writes do not initialize the hidden record.
+Physical-bridge entries after this 10 Oct tip are a separate clock. Read them on the physical-bridge run log and in progress.jsonl. They are Not claimed, not on WetLabEngine main, and not this scoped C3 closeout. A Gemini ACCEPTED line there is a recorded model-review verdict, not a physical result and not STATUS.
 v15.98: COMPOSITION_ORDER_GEOMETRY_CONFIRMED and COMMUTING_COMPOSITION_ACTIVATION_CONFIRMED.
 v15.99: INVALID. A true-looking predicate does not override failed validity.
 v16.13F: partial foundation. Obstruction composition underdetermined. Not Einstein.
