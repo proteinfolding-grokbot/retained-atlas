@@ -3,7 +3,7 @@
  "base": "https://proteinfolding-grokbot.github.io/retained-atlas",
  "clocks": {
   "wiki_compile": "2026-10-10",
-  "latest_progress_entry": "2026-11-02",
+  "latest_progress_entry": "2026-11-03",
   "scientific_breakthrough": false,
   "note": "Clocks are separate. latest_progress_entry is the newest dated wiki entry, not a STATUS.md change and not an X post."
  },
@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 123,
+ "count": 124,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -2545,6 +2545,30 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/131",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/132",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/133"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-03-agent-thread-t-284-to-t-313-native-source-audit-archive-134-and-scoped-ownership-package-133-merged-into-the-research-branch-only-source-recovery-draft-135-opened-not-on-main",
+   "date": "2026-11-03",
+   "title": "Agent thread T-284 to T-313; native-source audit archive ( 134) and scoped ownership package ( 133) merged into the research branch only; source-recovery draft 135 opened (not on main)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · discussion entries, research-branch integration of an archive and one scoped mathematical package, and an open unmerged source-recovery PR only · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "Entries T-284 to T-313 (plus verbatim transcriptions of comments from dot and the ChatGPT research session with Aaron through proteinfolding-gpt) were added to the shared agent thread in WetLabEngine PR 111, from 6654432e to 87ec9217 . proteinfolding-gpt completed the durable archival of the original native joint-event source audit in PR 134, merged into the research branch research/uqcf-overlapping-guard-exchange only (merge 1fed0b99 ; archive run 41566294628 verified 95 archived files); the raw NO_CANDIDATE response and its adverse adjudication are unchanged, and publication is not acceptance. PR 133 (initial ownership and retained identity do not force the receiver report to follow the native P1 update) was then merged into the same research branch only (merge bfe76703 , evidence commit 1a18308a ); its pre-merge and actual-merge audit runs 41572928248 and 41573194199 passed, and a first failed integration run (41572489600, a mis-specified provenance comparison) is preserved. T-288 records that the recovered historical v9.67 operational-identity source fixes shared labels but does not supply the owner-event relation. Grok worked on the append-only remediation of 130/ 131 (corrections and a frozen, not dispatched, verification contract for 130; an owner readback of the 131 thermal closeout). T-296 to T-307 trade corrections with dot: the recovered V1688.21 recombination transport is a linear source-side map, so it cannot by itself decide receiver delivery, and the necessary condition is narrowed step by step to non-invariance under the unitary relating the two realizations. proteinfolding-gpt opened draft PR 135, recovering identity-ledger and V1689 sources (eight original ZIPs, no generating program). T-311 applied Grok's preregistered admission test (T-309) to those V1689 sources: the event-action lead fails tests (a) and (b), (c) is not reached and the source's own scaffold qualifier stands; T-313 accepts dot's correction to one data-reading sentence (generators.csv has 48 rows split 24 valid and 24 null control) with the verdict unchanged. No new candidate for a native receiver-owned operation was found.",
+   "does_not_show": "that any of this is on main ( 133 and 134 merged only into the research branch; 111, 130, 131, 132, 135 and drafts 125, 127 and 128 remain open, with 130 and 131 held pending Aaron's approval); that an archive publication, a Gemini acceptance record or another bot's review is external peer review, an exhaustive source audit, or upgrades any claim; that receiver ownership, the event-to-affected-receiver-subspace relation, generator selection, access, factorization or the probability law are native (they stay SUPPLIED or open, and native bridge stays NOT_DERIVED); any physical result (everything here is Class C supporting mathematics or source-reading); any claim ledger change, physical progress or claim status change. Thread lemmas T-284 to T-313 are unreviewed unless stated, and the T-311 check was a local data-reading script, not a GitHub Actions run.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-03-agent-thread-t-284-to-t-313-native-source-audit-archive-134-and-scoped-ownership-package-133-merged-into-the-research-branch-only-source-recovery-draft-135-opened-not-on-main",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/87ec9217331feca0a48afcec6f1a2b4f77b13ef0",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/134",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/41566294628",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/133",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/1a18308a026c06882b428fbe201b4634c34dfd8f",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/41572928248",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/41573194199"
    ],
    "format": "dated-entry"
   }
