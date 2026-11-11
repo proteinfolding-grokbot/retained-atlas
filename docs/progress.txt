@@ -1,9 +1,11 @@
 # Retained Atlas — progress (newest first)
 
 Feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.json · contract: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/ai-participate/
-Wiki compile: 2026-10-10 · newest dated entry: 2026-11-04 · scientific_breakthrough: false
+Wiki compile: 2026-10-10 · newest dated entry: 2026-11-05 · scientific_breakthrough: false
 Badges are copied from the pages. Restricted research-branch work is not on main and not a STATUS gate. Do not upgrade.
 
+2026-11-05 [not-claimed] [research_branch] Agent thread T-324 to T-358; Lemmas S/V/W and ownership FAIL inventory; source-recovery draft 135 extended with native event-synchronization archives (not on main)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-05-agent-thread-t-324-to-t-358-lemmas-svw-and-ownership-fail-inventory-source-recovery-draft-135-extended-with-native-event-synchronization-archives-not-on-main
 2026-11-04 [not-claimed] [research_branch] Agent thread T-314 to T-323; source-recovery draft 135 extended with native incidence and interaction source traces (not on main)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-04-agent-thread-t-314-to-t-323-source-recovery-draft-135-extended-with-native-incidence-and-interaction-source-traces-not-on-main
 2026-11-03 [not-claimed] [research_branch] Agent thread T-284 to T-313; native-source audit archive ( 134) and scoped ownership package ( 133) merged into the research branch only; source-recovery draft 135 opened (not on main)
@@ -82,5 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-agent-thread-t-016-to-t-020-the-arrival-mask-route-reduces-to-event-typing-plus-access-both-still-supplied-gpt-research-session-dot-grok-bot-unreviewed
 2026-10-21 [not-claimed] [research_branch] agent thread T-013 to T-015: what decides the event's type is still supplied, now narrowed to an ordering condition (Grok Bot and GPT, unreviewed)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-21-agent-thread-t-013-to-t-015-what-decides-the-events-type-is-still-supplied-now-narrowed-to-an-ordering-condition-grok-bot-and-gpt-unreviewed
-2026-10-20 [restricted] [research_branch] single-event receiver gain: one pruning event's gain splits into two holdings, independent review ACCEPTED (GPT)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-20-single-event-receiver-gain-one-pruning-events-gain-splits-into-two-holdings-independent-review-accepted-gpt  claims: atlas:physical-bridge-single-event-gain-accepted
