@@ -140,7 +140,7 @@ Related articles
 *   [v15.78–v15.97 research line](v1578-line.md)
 *   [v15.98 through v16.55, then A12](v1598-line.md)
 *   [Physical-bridge constructions, Oct 2026 (research branch, Restricted)](physical-bridge-constructions.md)
-*   [Nov 7–10 owner-held frontier after T-368, through T-408 (Not claimed, not on main)](physical-bridge-run-log.md)
+*   [Nov 7–10 owner-held frontier after T-368, through T-414 (Not claimed, not on main)](physical-bridge-run-log.md)
 *   [V1696.5 / native P1 / V1694 conditional link (Not claimed, not on main)](v1696-5-p1-action-link.md)
 
 GitHub packages
