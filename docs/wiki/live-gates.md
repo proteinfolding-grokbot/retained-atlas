@@ -69,7 +69,7 @@ retained graph → quantum-site carrier STOPPED · state-independent lift → no
 
 Wiki compile 2026-10-10. [STATUS.md](https://github.com/proteinfoldingengine/WetLabEngine/blob/main/ResearchHistory/UQCF-GEM/STATUS.md): [v15.03](why-these-gates.md) retained — not erased · main note publishes [v15.45](v1545-factorization.md) · integration branch still [v16.55](v1598-line.md) · overlapping-guard tip 1e7cd09 · scoped [C3](c3-governor.md) not a general no-go · not on main · not a source. Last X is [public voice](public-voice.md), not a gate. Next lawful move: NEW ASSUMPTION or new frozen structure — do not pick log ρ or a Pauli axis. GitHub-only gates have no invented X URL. Einstein not closed.
 
-The newest [physical-bridge run log](physical-bridge-run-log.md) rows, through the 2026-11-11 evening entry at agent-thread head `0a11408d` and research tip `97ac615c`, are a separate clock. They are Not claimed and not on WetLabEngine main. They are not the 10 Oct overlapping-guard tip in the sentence above, and they do not move STATUS.md.
+The newest [physical-bridge run log](physical-bridge-run-log.md) rows, through the 2026-11-11 T-420 and T-421 entry at agent-thread head `57d0411e` and research tip `4fb99266`, are a separate clock. They are Not claimed and not on WetLabEngine main. They are not the 10 Oct overlapping-guard tip in the sentence above, and they do not move STATUS.md.
 
 | Gate | Date | Question | Outcome | Badge | Git | X? |
 | --- | --- | --- | --- | --- | --- | --- |

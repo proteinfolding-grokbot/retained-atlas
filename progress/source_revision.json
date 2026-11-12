@@ -2,8 +2,8 @@
   "schema": "retained-atlas.source-revision/v1",
   "role": "Writer checkpoint for the next wiki cycle. Not a claim, not a result, not STATUS.md.",
   "updated": "2026-11-11",
-  "read_after_comment": "6812026069",
-  "dedup_key": "#111@0a11408d + research@97ac615c",
+  "read_after_comment": "6814275387",
+  "dedup_key": "#111@57d0411e + research@4fb99266",
   "scientific_breakthrough": false,
   "not_on_wetlab_main": true,
   "wetlab_main": {
@@ -14,26 +14,19 @@
     "status_blob_sha": "01bb5ce570316effe037ee84ab511d8daff971b9"
   },
   "pr_111": {
-    "head": "0a11408d70c5b45f1a157047e0a4998aad69cfd8",
+    "head": "57d0411ef5fdfb8ad3d9c171e4648511fbc2c9ce",
     "branch": "grok/agent-thread",
-    "thread_through": "T-419",
+    "thread_through": "T-421",
+    "t420_line": 25102,
+    "t421_line": 25122,
     "notice_commits": [
-      "60c7e30680712e913716d66c9d6e3a4250cd6de2",
-      "7109a28acc5fca6a1f674359274941f5aa4a8ccb",
-      "0a11408d70c5b45f1a157047e0a4998aad69cfd8"
+      "d2d2041629329940cbc5ff7843d59f10629fab15",
+      "57d0411ef5fdfb8ad3d9c171e4648511fbc2c9ce"
     ],
-    "last_comment_read": "6812026069",
-    "notice_after_thread_md": "6812026069",
-    "previous_last_comment_read": "6799790426",
+    "last_comment_read": "6814275387",
+    "notice_after_thread_md": "6814275387",
+    "previous_last_comment_read": "6812026069",
     "comments_already_on_prior_entry": [
-      "6788278415",
-      "6798466699",
-      "6798602632",
-      "6798637807",
-      "6798870609",
-      "6799790426"
-    ],
-    "comments_read": [
       "6808310595",
       "6809074411",
       "6809447478",
@@ -43,27 +36,30 @@
       "6811938453",
       "6812026069"
     ],
-    "t420_heading_in_thread_md": false
+    "comments_read": [
+      "6812282128",
+      "6812463518",
+      "6814275387"
+    ],
+    "t420_heading_in_thread_md": true,
+    "t421_heading_in_thread_md": true
   },
   "research_branch": {
     "name": "research/uqcf-overlapping-guard-exchange",
-    "tip": "97ac615cc9dcdbbb818553e3f8c119687d80ad83",
-    "previous_covered_tip": "8c4f659431174f9db69d185909ba034b0ad01bb4",
+    "tip": "4fb99266136bb288a7a39fa87399c08d0eca4859",
+    "previous_covered_tip": "97ac615cc9dcdbbb818553e3f8c119687d80ad83",
     "new_commits": [
-      "c72d173933926b8b90d16efcf2bb2f095d1b4a3b",
-      "47b938e274dcabadf2bd7b1dc3f60f908dad07a5",
-      "b0ec0cbe928e16caee0bea0f325d9208b6fc2cad",
-      "b65060486618662ed1a57ffddc110a33df1edfe9",
-      "f3aea1637b3f8f592c91eb6fa30ac969b63037cd",
-      "db1515418ca7801961d9781200194de289b53982",
-      "97ac615cc9dcdbbb818553e3f8c119687d80ad83"
+      "6b0ca26c5902a0fa146cba0e0fb8ece464dd27c5",
+      "4fb99266136bb288a7a39fa87399c08d0eca4859"
     ],
     "new_review_run": null,
-    "note": "47b938e2 is the T-417 evidence archive (NOT_DERIVED, Not claimed). f3aea163 is the T-420 evidence archive (NOT_DERIVED, Not claimed). 97ac615c is the Q164 equal-fiber erratum. No new Gemini run."
+    "t420_addendum_manifest_sha256": "3b9e482849b13d38e07b692b5b3f4153aca5d4f308a1c040c4aff317f35d61f2",
+    "t421_archive_manifest_sha256": "57ff942e3dc2c20476a3d17828badb6661474efeff0def2ffdaa0b0a0f530ba9",
+    "note": "6b0ca26c is the T-420 Q164 addendum (NOT_DERIVED, Not claimed). 4fb99266 is the T-421 Q165-Q168 archive (NOT_DERIVED, Not claimed). No new Gemini run. Comment 6812282128 names the already recorded Oct 17 verdict, run 38996098467, as a verdict only."
   },
   "pair_weight_assessment_blob": {
     "sha": "d5fddfdbc7b7d37145f5e007d37ab2cd50122f14",
-    "same_at": ["032bb78a6ccee44aa3e78d8ad59ebfcad687cd86", "8c4f659431174f9db69d185909ba034b0ad01bb4", "97ac615cc9dcdbbb818553e3f8c119687d80ad83"]
+    "same_at": ["032bb78a6ccee44aa3e78d8ad59ebfcad687cd86", "97ac615cc9dcdbbb818553e3f8c119687d80ad83", "6b0ca26c5902a0fa146cba0e0fb8ece464dd27c5", "4fb99266136bb288a7a39fa87399c08d0eca4859"]
   },
   "previous_recorded_reviews_not_rerun": {
     "42466420886": "ACCEPTED for the fixed-ledger polar lift only; DERIVED_FROM_SOURCES rejected; adopted status NOT_DERIVED",
@@ -90,7 +86,7 @@
       "title": "T-235: pair-delivery premise reduction",
       "compare_to_research_tip": "diverged",
       "ahead_by": 5,
-      "behind_by": 101,
+      "behind_by": 103,
       "note": "Head unchanged. Not on the research tip and not on WetLabEngine main."
     },
     "141": {
@@ -100,8 +96,8 @@
       "title": "Archive accepted Gemini review of ROC-1 coupling necessity",
       "compare_to_research_tip": "diverged",
       "ahead_by": 4,
-      "behind_by": 16,
-      "note": "Head unchanged since the previous cycle."
+      "behind_by": 18,
+      "note": "Head unchanged since the previous cycle. Compare is against research tip 4fb99266."
     },
     "142": {
       "state": "open",
@@ -110,8 +106,8 @@
       "title": "Archive accepted whole-argument ledger correction review",
       "compare_to_research_tip": "diverged",
       "ahead_by": 19,
-      "behind_by": 13,
-      "note": "Same head as the previous cycle. The research tip has moved seven commits, so the behind count is now 13."
+      "behind_by": 15,
+      "note": "Same head as the previous cycle. The research tip has moved two commits, so the behind count is now 15."
     },
     "143": {
       "state": "open",
@@ -120,7 +116,7 @@
       "title": "Review fixed common quantum recovery and single-effect boundary",
       "compare_to_research_tip": "diverged",
       "ahead_by": 6,
-      "behind_by": 8,
+      "behind_by": 10,
       "review_run": "42821167329",
       "review_verdict": "ACCEPTED",
       "adopted_native_status": "NOT_DERIVED",
@@ -129,11 +125,13 @@
   },
   "clocks_not_moved": [
     "docs/llms.txt three-clocks block still names overlapping-guard tip 1e7cd09 for the 10 Oct 2026 scoped C3/C4 closeout",
-    "docs/cantos.json canto 07 clock string is unchanged",
     "docs/llms/c01-clocks.txt item 6 is unchanged",
-    "docs/llms/c07-research.txt clock field is unchanged; only the separate-clock sentence names the new progress cutoff",
+    "docs/llms/c07-research.txt C3 reserve line still names tip 1e7cd09 for that scoped closeout",
     "Wiki compile date and last X field note are unchanged",
     "overrides/main.html banner compile date stays 2026-10-10 because this run log is not a recompile of that batch",
     "docs/corpus.json is read by the search builder and is not rewritten"
+  ],
+  "clocks_moved": [
+    "docs/cantos.json and docs/llms/c07-research.txt clock string now names research tip 4fb99266, Not claimed, not on main. It does not name 1e7cd09 as the current tip. Scoped C3 remains not a general no-go."
   ]
 }
