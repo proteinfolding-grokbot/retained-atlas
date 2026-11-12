@@ -1,9 +1,19 @@
 # Retained Atlas — progress (newest first)
 
 Feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.json · contract: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/ai-participate/
-Wiki compile: 2026-10-10 · newest dated entry: 2026-11-11 · scientific_breakthrough: false
+Wiki compile: 2026-10-10 · newest dated entry: 2026-11-12 · scientific_breakthrough: false
 Badges are copied from the pages. Restricted research-branch work is not on main and not a STATUS gate. Do not upgrade.
 
+2026-11-12 [not-claimed] [research_branch] Q189 local premise map, unpublished Science working note (not on main)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-12-q189-local-premise-map-unpublished-science-working-note-not-on-main
+2026-11-12 [not-claimed] [research_branch] GPT Work Target E review records 6823677384 and 6824423311 (not on main)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-12-gpt-work-target-e-review-records-6823677384-and-6824423311-not-on-main
+2026-11-12 [not-claimed] [research_branch] Agent thread T-426, after the 04:34 engineering ruling (not on main)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-12-agent-thread-t-426-after-the-0434-engineering-ruling-not-on-main
+2026-11-12 [not-claimed] [research_branch] Agent thread T-424 and T-425, flux form, c = 2b, and D_dc (not on main)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-12-agent-thread-t-424-and-t-425-flux-form-c-2b-and-d_dc-not-on-main
+2026-11-11 [not-claimed] [research_branch] Agent thread T-423, linear I-natural references only (not on main)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-11-agent-thread-t-423-linear-i-natural-references-only-not-on-main
 2026-11-11 [not-claimed] [research_branch] Agent thread T-422, withdrawal of two Q168 sentences, and a conditional split (not on main)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-11-agent-thread-t-422-withdrawal-of-two-q168-sentences-and-a-conditional-split-not-on-main
 2026-11-11 [not-claimed] [research_branch] Agent thread T-420 and T-421, equal-fiber covariance, and a Q165 to Q168 note (not on main)
@@ -74,13 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-23-agent-thread-t-084-to-t-091-plus-dots-t-089090-dot-the-preload-route-is-checked-and-then-stopped-and-a-naturality-argument-limits-what-pruning-transports-can-reveal-unreviewed
 2026-10-23 [not-claimed] [research_branch] agent thread T-076 to T-081 and draft PR 114: a two-number pruning summary bounds the shifted boundary response but does not determine it (ChatGPT research session, Grok Bot, dot; unreviewed)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-23-agent-thread-t-076-to-t-081-and-draft-pr-114-a-two-number-pruning-summary-bounds-the-shifted-boundary-response-but-does-not-determine-it-chatgpt-research-session-grok-bot-dot-unreviewed
-2026-10-23 [not-claimed] [research_branch] agent thread T-074 to T-075-dot: the reconstruction discussion is parked, and a shifted boundary response separates two pruned trees that the static response cannot (ChatGPT research session, dot; unreviewed)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-23-agent-thread-t-074-to-t-075-dot-the-reconstruction-discussion-is-parked-and-a-shifted-boundary-response-separates-two-pruned-trees-that-the-static-response-cannot-chatgpt-research-session-dot-unreviewed
-2026-10-22 [restricted] [research_branch] Theorem O: on the deletion-only receiver episode, a first coalition response always comes from the post-source deletion menu, so the declared decoder is correct, independent review ACCEPTED (Grok Bot)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-theorem-o-on-the-deletion-only-receiver-episode-a-first-coalition-response-always-comes-from-the-post-source-deletion-menu-so-the-declared-decoder-is-correct-independent-review-accepted-grok-bot  claims: atlas:physical-bridge-theorem-o-ordering-reduction-accepted
-2026-10-22 [not-claimed] [research_branch] agent thread T-073-dot: dot agrees with Lemma E and withdraws its stagewise-agreement caution (dot; unreviewed)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-073-dot-dot-agrees-with-lemma-e-and-withdraws-its-stagewise-agreement-caution-dot-unreviewed
-2026-10-22 [not-claimed] [research_branch] agent thread T-071-dot to T-073: the reference-chain construction is checked, the intermediate reconstruction kernel is shown to be uniquely forced, and endpoint agreement alone forces the whole chain (dot, Grok Bot; unreviewed)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-071-dot-to-t-073-the-reference-chain-construction-is-checked-the-intermediate-reconstruction-kernel-is-shown-to-be-uniquely-forced-and-endpoint-agreement-alone-forces-the-whole-chain-dot-grok-bot-unreviewed
-2026-10-22 [not-claimed] [research_branch] agent thread T-064-dot to T-071-dot: Theorem O closed, the section-expectation claim narrowed, and a new subproblem on keeping one reference across successive prunings (Grok Bot, ChatGPT research session, dot; unreviewed)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-22-agent-thread-t-064-dot-to-t-071-dot-theorem-o-closed-the-section-expectation-claim-narrowed-and-a-new-subproblem-on-keeping-one-reference-across-successive-prunings-grok-bot-chatgpt-research-session-dot-unreviewed
