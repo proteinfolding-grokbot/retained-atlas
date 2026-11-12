@@ -2,8 +2,8 @@
   "schema": "retained-atlas.source-revision/v1",
   "role": "Writer checkpoint for the next wiki cycle. Not a claim, not a result, not STATUS.md.",
   "updated": "2026-11-11",
-  "read_after_comment": "6814275387",
-  "dedup_key": "#111@57d0411e + research@4fb99266",
+  "read_after_comment": "6815223976",
+  "dedup_key": "#111@3c9b64d3 + research@e38279a7",
   "scientific_breakthrough": false,
   "not_on_wetlab_main": true,
   "wetlab_main": {
@@ -14,52 +14,56 @@
     "status_blob_sha": "01bb5ce570316effe037ee84ab511d8daff971b9"
   },
   "pr_111": {
-    "head": "57d0411ef5fdfb8ad3d9c171e4648511fbc2c9ce",
+    "head": "3c9b64d3c40bbea1e14ba9742bb6baf9a31be9df",
     "branch": "grok/agent-thread",
-    "thread_through": "T-421",
+    "thread_through": "T-422",
     "t420_line": 25102,
     "t421_line": 25122,
     "notice_commits": [
       "d2d2041629329940cbc5ff7843d59f10629fab15",
-      "57d0411ef5fdfb8ad3d9c171e4648511fbc2c9ce"
+      "57d0411ef5fdfb8ad3d9c171e4648511fbc2c9ce",
+      "3c9b64d3c40bbea1e14ba9742bb6baf9a31be9df"
     ],
-    "last_comment_read": "6814275387",
-    "notice_after_thread_md": "6814275387",
-    "previous_last_comment_read": "6812026069",
+    "last_comment_read": "6815223976",
+    "notice_after_thread_md": "6815223976",
+    "previous_last_comment_read": "6814275387",
     "comments_already_on_prior_entry": [
-      "6808310595",
-      "6809074411",
-      "6809447478",
-      "6809806327",
-      "6810306946",
-      "6811477174",
-      "6811938453",
-      "6812026069"
-    ],
-    "comments_read": [
       "6812282128",
       "6812463518",
       "6814275387"
     ],
+    "comments_read": [
+      "6814643598",
+      "6814798658",
+      "6814814058",
+      "6815223976"
+    ],
     "t420_heading_in_thread_md": true,
-    "t421_heading_in_thread_md": true
+    "t421_heading_in_thread_md": true,
+    "t422_line": 25144
   },
   "research_branch": {
     "name": "research/uqcf-overlapping-guard-exchange",
-    "tip": "4fb99266136bb288a7a39fa87399c08d0eca4859",
-    "previous_covered_tip": "97ac615cc9dcdbbb818553e3f8c119687d80ad83",
+    "tip": "e38279a7e40696d1c8e285b838f914a107eacdf2",
+    "previous_covered_tip": "4fb99266136bb288a7a39fa87399c08d0eca4859",
     "new_commits": [
-      "6b0ca26c5902a0fa146cba0e0fb8ece464dd27c5",
-      "4fb99266136bb288a7a39fa87399c08d0eca4859"
+      "e38279a7e40696d1c8e285b838f914a107eacdf2"
     ],
     "new_review_run": null,
     "t420_addendum_manifest_sha256": "3b9e482849b13d38e07b692b5b3f4153aca5d4f308a1c040c4aff317f35d61f2",
     "t421_archive_manifest_sha256": "57ff942e3dc2c20476a3d17828badb6661474efeff0def2ffdaa0b0a0f530ba9",
-    "note": "6b0ca26c is the T-420 Q164 addendum (NOT_DERIVED, Not claimed). 4fb99266 is the T-421 Q165-Q168 archive (NOT_DERIVED, Not claimed). No new Gemini run. Comment 6812282128 names the already recorded Oct 17 verdict, run 38996098467, as a verdict only."
+    "note": "e38279a7 is the T-422 addendum (ERRATUM_Q168 and Q171). NOT_DERIVED, Not claimed. It withdraws two Q168 sentences and the v15.46 faithfulness citation. Lemma 168.1 stands. The first supplied link is now I-commutation of the reference, and that requirement is SUPPLIED. No new Gemini run.",
+    "t422_addendum_manifest_sha256": "3d77c53c2f177f4a17fe7774cd80bd5027a61404118e0ed0953b2dbb0d3da6df"
   },
   "pair_weight_assessment_blob": {
     "sha": "d5fddfdbc7b7d37145f5e007d37ab2cd50122f14",
-    "same_at": ["032bb78a6ccee44aa3e78d8ad59ebfcad687cd86", "97ac615cc9dcdbbb818553e3f8c119687d80ad83", "6b0ca26c5902a0fa146cba0e0fb8ece464dd27c5", "4fb99266136bb288a7a39fa87399c08d0eca4859"]
+    "same_at": [
+      "032bb78a6ccee44aa3e78d8ad59ebfcad687cd86",
+      "97ac615cc9dcdbbb818553e3f8c119687d80ad83",
+      "6b0ca26c5902a0fa146cba0e0fb8ece464dd27c5",
+      "4fb99266136bb288a7a39fa87399c08d0eca4859",
+      "e38279a7e40696d1c8e285b838f914a107eacdf2"
+    ]
   },
   "previous_recorded_reviews_not_rerun": {
     "42466420886": "ACCEPTED for the fixed-ledger polar lift only; DERIVED_FROM_SOURCES rejected; adopted status NOT_DERIVED",
@@ -86,7 +90,7 @@
       "title": "T-235: pair-delivery premise reduction",
       "compare_to_research_tip": "diverged",
       "ahead_by": 5,
-      "behind_by": 103,
+      "behind_by": 104,
       "note": "Head unchanged. Not on the research tip and not on WetLabEngine main."
     },
     "141": {
@@ -96,8 +100,8 @@
       "title": "Archive accepted Gemini review of ROC-1 coupling necessity",
       "compare_to_research_tip": "diverged",
       "ahead_by": 4,
-      "behind_by": 18,
-      "note": "Head unchanged since the previous cycle. Compare is against research tip 4fb99266."
+      "behind_by": 19,
+      "note": "Head unchanged since the previous cycle. Compare is against research tip e38279a7."
     },
     "142": {
       "state": "open",
@@ -106,8 +110,8 @@
       "title": "Archive accepted whole-argument ledger correction review",
       "compare_to_research_tip": "diverged",
       "ahead_by": 19,
-      "behind_by": 15,
-      "note": "Same head as the previous cycle. The research tip has moved two commits, so the behind count is now 15."
+      "behind_by": 16,
+      "note": "Same head as the previous cycle. The research tip has moved one commit, so the behind count is now 16."
     },
     "143": {
       "state": "open",
@@ -116,7 +120,7 @@
       "title": "Review fixed common quantum recovery and single-effect boundary",
       "compare_to_research_tip": "diverged",
       "ahead_by": 6,
-      "behind_by": 10,
+      "behind_by": 11,
       "review_run": "42821167329",
       "review_verdict": "ACCEPTED",
       "adopted_native_status": "NOT_DERIVED",
@@ -132,6 +136,6 @@
     "docs/corpus.json is read by the search builder and is not rewritten"
   ],
   "clocks_moved": [
-    "docs/cantos.json and docs/llms/c07-research.txt clock string now names research tip 4fb99266, Not claimed, not on main. It does not name 1e7cd09 as the current tip. Scoped C3 remains not a general no-go."
+    "docs/cantos.json and docs/llms/c07-research.txt clock string now names research tip e38279a7, Not claimed, not on main. Scoped C3 at 1e7cd09 remains not a general no-go."
   ]
 }
