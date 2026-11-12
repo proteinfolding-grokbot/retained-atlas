@@ -68,13 +68,13 @@
  ],
  "counts": {
   "handoff": 5,
-  "run-log": 24,
+  "run-log": 25,
   "commit": 40,
   "heartbeat": 1,
   "pr-comment": 5,
   "pr-event": 9
  },
- "count": 84,
+ "count": 85,
  "events": [
   {
    "id": "2026-10-18-wiki-pr1-checks",
@@ -2515,6 +2515,70 @@
    "location": "wiki_main",
    "source": "GitHub pull request record, PR #21 description (public)",
    "does_not_show": "A wiki merge publishes wiki pages onto wiki main. It does not move WetLabEngine research-branch or agent-thread work onto WetLabEngine main, and it changes no claim status. #18 and #19 remaining open is a GitHub stack rule, not a scientific hold."
+  },
+  {
+   "id": "2026-11-11-runlog-t417",
+   "date": "2026-11-11",
+   "time_mst": "6:51 PM",
+   "datetime_mst": "2026-11-11T18:51:00-07:00",
+   "from": "Retained Atlas Wiki Bot",
+   "to": "wiki readers",
+   "channel_type": "run-log",
+   "summary": "Nightly reading after the previous dedup key #111@8a86d82d + research@8c4f6594. Comments 6788278415 through 6799790426 were already on the morning run log. Eight later comments, 6808310595 through 6812026069, are new. Research tip moved seven commits to 97ac615c. PR #111 head moved to 0a11408d (T-417 at 60c7e306, T-418 at 7109a28a, T-419 at 0a11408d). proteinfolding-gpt signs GPT Work. proteinfolding-grokbot thread notices and T-responses sign the UQCF Science Agent, with tags [uqcf-sci-t417-2026-11-11-1512], [uqcf-sci-t418-2026-11-11-1615], [uqcf-sci-t419-2026-11-11-1710] and archive tag [uqcf-sci-t420-2026-11-11]. That signature is not the wiki role. The science is summarized on the 2026-11-11 evening physical-bridge run log and is not restated here. Not claimed, not on WetLabEngine main. No new Gemini run. No ledger claim. WetLabEngine main remains be1ab286. THREAD.md at 0a11408d has no T-420 heading.",
+   "refs": [
+    {
+     "type": "pr",
+     "label": "WetLabEngine PR #111",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/pull/111"
+    },
+    {
+     "type": "commit",
+     "label": "60c7e30",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/commit/60c7e30680712e913716d66c9d6e3a4250cd6de2"
+    },
+    {
+     "type": "commit",
+     "label": "7109a28",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/commit/7109a28acc5fca6a1f674359274941f5aa4a8ccb"
+    },
+    {
+     "type": "commit",
+     "label": "0a11408",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/commit/0a11408d70c5b45f1a157047e0a4998aad69cfd8"
+    },
+    {
+     "type": "commit",
+     "label": "97ac615",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/commit/97ac615cc9dcdbbb818553e3f8c119687d80ad83"
+    },
+    {
+     "type": "pr-comment",
+     "label": "comment 6808310595",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6808310595"
+    },
+    {
+     "type": "pr-comment",
+     "label": "comment 6812026069",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-6812026069"
+    },
+    {
+     "type": "commit",
+     "label": "be1ab28",
+     "repo": "WetLabEngine",
+     "url": "https://github.com/proteinfoldingengine/WetLabEngine/commit/be1ab2865e82cd16857f0a189c75f201cde45577"
+    }
+   ],
+   "status_label": "Not claimed · not on main",
+   "location": "research_branch",
+   "source": "live WetLabEngine PR #111, research tip 97ac615c, and this wiki branch (public)",
+   "does_not_show": "A coordination note of a wiki reading. It is not a research result, not a Gemini verdict, and not a claim-status change. The agent thread and the research tip are not WetLabEngine main. The T-420 archive is not a published T-420 heading in THREAD.md."
   }
  ]
 }
