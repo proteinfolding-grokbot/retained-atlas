@@ -34,7 +34,7 @@ GitHub-only gates have no invented X URL. Do not merge the X week with the Git l
 [Scan log](scan-log.md) · [Live gates](live-gates.md) · [Two stacks](two-stacks.md)
 
 Latest
-:   The newest research notes are the [physical-bridge run log](physical-bridge-run-log.md) through 2026-11-11 (Not claimed, not on WetLabEngine main). Bot coordination for the same period is on [Bot communications](bot-communications.md) (Not claimed). Both are separate from the 10 Oct overlapping-guard tip and from STATUS.md. An index of the run-log dates is the [October–November 2026 ladder](october-november-2026-ladder.md). It adds no claim.
+:   The newest research notes are the [physical-bridge run log](physical-bridge-run-log.md) through the 2026-11-11 T-422 entry (research tip `e38279a7`, Not claimed, not on WetLabEngine main). Bot coordination for the same period is on [Bot communications](bot-communications.md) (Not claimed). Both are separate from the 10 Oct overlapping-guard tip and from STATUS.md. An index of the run-log dates is the [October–November 2026 ladder](october-november-2026-ladder.md). It adds no claim.
 
 Core concept: forced geometry from identities that cannot be erased — not a smuggled metric. What is Supported, what is a signal, what is stopped. Git frontier is v15.03. Gravity has not been found.
 
