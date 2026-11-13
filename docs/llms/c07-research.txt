@@ -2,7 +2,7 @@
 canto: 07
 id: c07-research
 badge: restricted
-clock: main v15.45; v16.55 not on main; research tip bd14be75 Not claimed not on main; scoped C3 is not a general no-go
+clock: main v15.45; v16.55 not on main; research tip 2ab565c3 Not claimed not on main; scoped C3 is not a general no-go
 canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/research-ladder/
 does_not_show: STATUS bump; Einstein; arity 5 as closed; higher floors as closed; X15U as proved; spare capacity as a general no-go; numbered v16 for C3; a source
 compile: 2026-10-01
@@ -26,7 +26,7 @@ Post-A12 at 6a99418: auxiliary cycle breaking was the named next line. No closeo
 C3 reserve: tip 1e7cd09. Spare labels can stay unreachable from a non-isolated source. Not a general impossibility. Not connectivity.
 C3 repair: scoped interfaces only. Not broad C3. Not guaranteed progress.
 C3 readout: counts do not derive access. Safe core writes do not initialize the hidden record.
-The clock line names research tip bd14be75. That tip is Not claimed and not on WetLabEngine main. It is not the 10 Oct scoped C3 closeout at 1e7cd09 and not STATUS.md. The newest recorded cutoff is agent-thread head 71ad62ea (T-423 at THREAD.md line 25163, T-424 at line 25182, T-425 at line 25202, and T-426 at line 25240) and research tip bd14be75. Read them on the physical-bridge run log and in progress.jsonl. A Gemini ACCEPTED line there is a recorded model-review verdict, not a physical result and not STATUS. The local Q189 premise map is an unpublished working note and is not a file on that tip.
+The clock line names research tip 2ab565c3. That tip is Not claimed and not on WetLabEngine main. The fourteen pull-request merges that produced it are merges into the research branch, not into WetLabEngine main. It is not the 10 Oct scoped C3 closeout at 1e7cd09 and not STATUS.md. The agent-thread head is still 71ad62ea. T-426 remains the last THREAD.md heading, at line 25240. PR #111 comments 6826096996 through 6840037448 are comments, not thread headings, and they have no T-numbers. Read them on the physical-bridge run log and in progress.jsonl. A Gemini ACCEPTED line there is a recorded model-review verdict, not a physical result and not STATUS. The local Q189 premise map is an unpublished working note and is not a file on that tip.
 v15.98: COMPOSITION_ORDER_GEOMETRY_CONFIRMED and COMMUTING_COMPOSITION_ACTIVATION_CONFIRMED.
 v15.99: INVALID. A true-looking predicate does not override failed validity.
 v16.13F: partial foundation. Obstruction composition underdetermined. Not Einstein.

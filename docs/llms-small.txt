@@ -11,7 +11,7 @@ Main geometry through v15.45. Source NOT_EVALUATED.
 PR #57 unmerged (v15.46–v15.54). v15.55 is RESPONSE_NONUNIQUE, not an unrun contract.
 v15.98 through v16.55 on research branches, not merged to main. v16.55 is a bounded guard, not a universal root repair.
 v15.98 through v16.55 on research branches, not merged to main. The 10 Oct overlapping-guard tip is scoped C3. Spare capacity is not reachable reserve. Not a general no-go. Not a source.
-Newest progress.jsonl rows for the physical-bridge run log, through the 2026-11-12 T-426 entry and the local Q189 note (agent-thread head 71ad62ea, research tip bd14be75), are Not claimed and not on main. The Q189 note is a local unpublished working note, not a WetLabEngine file. Canto 07's clock names that research tip. They are not the 10 Oct overlapping-guard tip above.
+Newest progress.jsonl rows for the physical-bridge run log, through the 2026-11-12 merges into the research branch at tip 2ab565c3 and PR #111 comments 6826096996 through 6840037448, are Not claimed and not on WetLabEngine main. The agent-thread head is still 71ad62ea, so those comments are not THREAD.md headings. The merges are into the research branch, not into WetLabEngine main. The Q189 note is still a local unpublished working note, not a WetLabEngine file. Canto 07's clock names that research tip. They are not the 10 Oct overlapping-guard tip above. A recorded Gemini ACCEPTED line is not a physical result.
 Einstein not closed. scientific_breakthrough: false.
 
 Supported four only: V1698 atlas closure; V824 scalar curvature; W-state BKM; three-node Codazzi.
