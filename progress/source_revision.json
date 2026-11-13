@@ -2,10 +2,12 @@
   "schema": "retained-atlas.source-revision/v1",
   "role": "Writer checkpoint for the next wiki cycle. Not a claim, not a result, not STATUS.md.",
   "updated": "2026-11-12",
-  "read_after_comment": "6824423311",
-  "dedup_key": "#111@71ad62ea + research@bd14be75",
+  "read_after_comment": "6840037448",
+  "dedup_key": "#111@71ad62ea + research@2ab565c3 + comment@6840037448",
+  "previous_dedup_key": "#111@71ad62ea + research@bd14be75",
   "scientific_breakthrough": false,
   "not_on_wetlab_main": true,
+  "merges_are_into_research_branch_not_main": true,
   "wetlab_main": {
     "sha": "be1ab2865e82cd16857f0a189c75f201cde45577",
     "status_md_unchanged": true,
@@ -16,180 +18,188 @@
   "pr_111": {
     "head": "71ad62ea1db554897d46dbdf44ce7fcd29d4deaa",
     "branch": "grok/agent-thread",
+    "head_unchanged": true,
     "thread_through": "T-426",
-    "t423_line": 25163,
-    "t424_line": 25182,
-    "t425_line": 25202,
     "t426_line": 25240,
     "thread_md_sha256": "8d69b44bcf261c220d88b6ab51246b372511ae4962951d9c91035590e1dc3b67",
-    "notice_commits": [
-      "07e058205d9e882dcf8c964fec8d44178de15d2f",
-      "1454ccb8d236ddbd3b72ec45ee0f00ded39c2aae",
-      "a4129620e45ef624fcf91538778c5d2901ca7640",
-      "71ad62ea1db554897d46dbdf44ce7fcd29d4deaa"
-    ],
-    "last_comment_read": "6824423311",
-    "notice_after_thread_md": "6824423311",
-    "previous_last_comment_read": "6815223976",
-    "comments_already_on_prior_entry": [
-      "6814643598",
-      "6814798658",
-      "6814814058",
-      "6815223976"
-    ],
+    "last_comment_read": "6840037448",
+    "previous_last_comment_read": "6824423311",
     "comments_read": [
-      "6816098733",
-      "6817353211",
-      "6818899409",
-      "6822806090",
-      "6823073688",
-      "6823379285",
-      "6823677384",
-      "6824231907",
-      "6824423311"
+      "6826096996",
+      "6826376074",
+      "6827161074",
+      "6831040145",
+      "6839606563",
+      "6839642219",
+      "6839734918",
+      "6839812578",
+      "6839853625",
+      "6839932257",
+      "6840037448"
     ],
     "comments_not_headings_in_thread_md": [
-      "6823677384",
-      "6824231907",
-      "6824423311"
+      "6826096996",
+      "6826376074",
+      "6827161074",
+      "6831040145",
+      "6839606563",
+      "6839642219",
+      "6839734918",
+      "6839812578",
+      "6839853625",
+      "6839932257",
+      "6840037448"
     ],
-    "issue_comment_count": 666,
-    "t423_heading_in_thread_md": true,
-    "t424_heading_in_thread_md": true,
-    "t425_heading_in_thread_md": true,
-    "t426_heading_in_thread_md": true
+    "no_t_numbers_assigned": true,
+    "roles": {
+      "6826096996": "proteinfolding-grokbot / UQCF GitHub Engineering Lead, tag UQCF-ENG-12938a26. Not the Science Agent and not the wiki role.",
+      "6826376074": "proteinfolding-gpt. No GPT Work or Dot role is named in the comment.",
+      "6827161074": "proteinfolding-gpt / GPT Work",
+      "6831040145": "proteinfolding-gpt / GPT Work",
+      "6839606563": "proteinfolding-gpt / dot",
+      "6839642219": "proteinfolding-gpt / Dot",
+      "6839734918": "proteinfolding-grokbot / UQCF Science Agent, post id uqcf-sci-q192-pr145-2026-11-12. Not the Engineering Lead and not the wiki role.",
+      "6839812578": "proteinfolding-gpt / dot",
+      "6839853625": "proteinfolding-gpt / dot",
+      "6839932257": "proteinfolding-gpt / dot",
+      "6840037448": "proteinfolding-gpt / dot"
+    }
   },
   "research_branch": {
     "name": "research/uqcf-overlapping-guard-exchange",
-    "tip": "bd14be75e88abe7849850e5fe861013a27e140bb",
-    "previous_covered_tip": "e38279a7e40696d1c8e285b838f914a107eacdf2",
-    "ahead_of_previous_tip": 35,
-    "new_commits": [
-      "06d0a96f4d5c19eb5b5ef52c09e11dcf0a8c5d4a",
-      "70aa8c082f090786f3a053b506d558c3779d05c9",
-      "1abc8246283f3f37e7794e900fa302f289313bc4",
-      "42c95e3354eb77cc79046a24e5bd311d2f8bb844",
-      "266f9dec2388f2550004ecbd606ca7e550be47da",
-      "c55f0602571736af5002898d9b632f24d5dcb0bd",
-      "6c9be7cc12b8810bdf76ac12d6d8e2cda5a25e18",
-      "f7fc6ad4c02c3069b7b2be315c22e34448c1e44b",
-      "bfb4d89a2fe87470a3ffa251fe2e41c2485703ce",
-      "fab542d9525ef47951239d44d4b43d9fa9f37043",
-      "f1afed7b26995dc4056ef389566e1fe4707d5e0a",
-      "6277257eef5c60164120b13b433bfe802b22c435",
-      "42fddd5643646f3d82ca5a17ffdda90885cae65b",
-      "2ca2ed75cf6a55ef75efb530b70e73db4127f869",
-      "0ca4ca63d30e89be252b2ce5ce289fd120ebcfd7",
-      "b00c4f719800a9d49da85abfcb6542daf3e4afba",
-      "7a6f464bae0cd5a4b973a3e4842af5e06a3ce594",
-      "5b4c4e26c101e9336578457688662b4a3b339ac6",
-      "955b33f84c24f101685737e6bfb54ba33c634dde",
-      "af1c1d74a6fa6aa342d955c15a911d99a6ab0537",
-      "0a29d7724e64330dc5a10c5b415b044d9839c575",
-      "b87165c31e0566b2bc6aa0d57a0d6b3666a7de1c",
-      "8c6074fcc618e62cf5d124f4582c9e9bb5916c4f",
-      "5217cda4ca2baee22eef54463ead655a38fb10be",
-      "713027e8f1c985364d636a28c77439ed17050dbd",
-      "9482f10b13861a175a1a5cc1dc8b0247f605d841",
-      "16498f400bd705854e2d3717bd9c58243057cbbb",
-      "98ca57ce5c7bcfcd954b647464480d44c357f449",
-      "8645d89517a4a803f9a356dceb77a228ecabd7f9",
-      "97f6cca9d7267db24250eb5525a9326a8efc1263",
-      "f2073bc0be13f77a7ab2e071d90c23925460d317",
-      "6333ca234c46ef551e09c4e3fce001e8b64cb05e",
-      "26a569b168b8b33cf5804183f6ca5d5064be77f8",
-      "fe51fb56672a57df34d4ce344341fd2c6b73fa0e",
-      "bd14be75e88abe7849850e5fe861013a27e140bb"
-    ],
-    "new_review_runs": {
-      "43217169237": "ACCEPTED for the frozen closed-subset Target E note in comment 6823677384. native_bridge_status NOT_DERIVED. T-426's subgroup proposition does not inherit this acceptance.",
-      "43223124741": "ACCEPTED for the output-orbit-order argument in comment 6824423311. native_bridge_status NOT_DERIVED. The comment says the bounded question is finished in the stated language."
+    "tip": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
+    "previous_covered_tip": "bd14be75e88abe7849850e5fe861013a27e140bb",
+    "first_parent_commits_after_previous_tip": 16,
+    "not_wetlab_main": true,
+    "merged_into_research_branch": {
+      "127": {
+        "merge": "48e4282aae98f554ebc5c4dcd333bda304b04c9a",
+        "head": "7b9d7aa5686e210d644e89b67c13ab2d23509dd1"
+      },
+      "143": {
+        "merge": "f142522bffbeb58482e5694102f200711e98757c",
+        "head": "ed1c2da86723d78bbc313db74f7092e558c7408e"
+      },
+      "142": {
+        "merge": "520358d15b184855cbe43763468266ba839ddf4a",
+        "head": "8054120e30c00a155b208990fd2c0992b9d2512e"
+      },
+      "141": {
+        "merge": "6e6c3432b7393dc0b611923b45948822594b5bb1",
+        "head": "063a993edfd53dd17124bc0d31ea491d3c2d5451"
+      },
+      "140": {
+        "merge": "9c2de6554e3abc1533fdecb5c352c7a8e1ea6ad8",
+        "head": "159ca4afd3d4a06f00aab83cfdb52e10ad0abc9c"
+      },
+      "139": {
+        "merge": "cfb2cb502059a85296ddfedff65b4ac5f4da2c33",
+        "head": "96ea0c60ffaaf5d32f8c78a64d8daefba235e237"
+      },
+      "138": {
+        "merge": "acccb796ce830a013f91b6ff79e59592fd1e0217",
+        "head": "375b59bd0a3df403a721e58423a1f0fb3e52a600"
+      },
+      "137": {
+        "merge": "3e948bb84d6dab067ec35303364aa29eea86a6fd",
+        "head": "8c4275add84ca20249b0bf3da6981b835fa5251b"
+      },
+      "136": {
+        "merge": "959cabf5eba48c9e756e946574622402d482e380",
+        "head": "94dd1db8e3c3aa1f0531df08596f367f026e6645"
+      },
+      "110": {
+        "merge": "5df9bde7c40553568c276177bee725683e43ad1d",
+        "head": "3853f03bf36eeecd30cb51983b7935ac6ebc561d"
+      },
+      "132": {
+        "merge": "0d79b6bfbc9f1ee48dcf6be4b090e17796885d91",
+        "head": "7718b659c4"
+      },
+      "135": {
+        "merge": "b7289a144a68c4f7f9d0c59c53cfd8edb48da224",
+        "head": "e4ec38ef414c1c7d6a37c0b3c8d10c433357ecfc"
+      },
+      "128": {
+        "merge": "7f59608e6b33548415c65a7f378c760825d29172",
+        "head": "9b7a37f565c661fdef1c608ba3b33c156547ab59"
+      },
+      "107": {
+        "merge": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
+        "head": "04af062f0a72908e4c7ef4e806d06223cb759369"
+      }
     },
-    "t423_addendum_manifest_sha256": "1e3e57ae9eff07559696d4de686606c4b22f6ffaa4c73aca0b4d822bb2109653",
-    "t424_addendum_manifest_sha256": "f99f4c7b65cbe27b0a476150fe62c5034a80689bb9aa8872f0ec54127144e511",
-    "t425_addendum_manifest_sha256": "6c195f27dacc4276a6b04fa195604a501adb49a61b3edba2fe409505f55c5dd0",
-    "t426_archive_manifest_sha256": "0211fc45d54ef110e8403b4c8cf0338401ab67e970bce777b6301e4f6cc1e460",
-    "note": "06d0a96f is the T-423 addendum. 70aa8c08 is the T-424 addendum. 1abc8246 is the T-425 addendum. 42c95e33 records the 04:34 MST engineering ruling. f7fc6ad4 is the Q185 archive for T-426. bd14be75 records the accepted output-orbit argument. NOT_DERIVED, Not claimed. No premise moved SUPPLIED to DERIVED. The local Q189 premise map is not in this tree."
+    "archive_readback_commits_now_on_research_branch": [
+      "ccbcc44ad33746318bbbfc609265b5d26b712767",
+      "dc14f6c9d6c8bfe2ee4dcf41e3a2ab4447b16d20",
+      "d94eb535fe",
+      "24baf83290",
+      "2a2b0de6e5",
+      "a33bb0a80b",
+      "5ccb8cbdc7",
+      "e4ec38ef41",
+      "9b7a37f565"
+    ],
+    "note": "ccbcc44a and dc14f6c9 are first-parent commits on the research branch. d94eb535, a33bb0a8 and e4ec38ef are on the merged PR #135 history. 24baf832, 2a2b0de6, 5ccb8cbd and 9b7a37f5 are on the merged PR #128 history. None of these commits is on WetLabEngine main. The GitHub author of the merge commits is the shared account proteinfolding-grokbot. GPT Work comment 6831040145 says Grok merged the thirteen later pull requests. That sentence is not an Engineering Lead signature. Engineering Lead comment 6826096996 asked for readiness only and said merges stay the owner's decision."
+  },
+  "new_review_runs": {
+    "43239476179": "ACCEPTED for the PR #135 source-assessment packet. native NOT_DERIVED. Recorded review verdict, not a physical result. Now on the research branch via the #135 merge, not on WetLabEngine main.",
+    "43239959416": "ACCEPTED for the PR #128 supplied grade-lift diagnostic. native NOT_DERIVED. The memory-free advisory is not adopted. Now on the research branch via the #128 merge, not on WetLabEngine main.",
+    "43268720150": "ACCEPTED for open PR #106. native NOT_DERIVED. PR #106 head 002f5b4b remains open and is not the research tip and not WetLabEngine main.",
+    "43334299321": "ACCEPTED for the frozen quiet-reference argument on open PR #145. The comment calls it accepted conditional mathematics. native NOT_DERIVED. QR stays NEW. Not a physical result. PR #145 is not merged into the research branch.",
+    "43336512365": "ACCEPTED for the noisy-reference threshold on open PR #146. native NOT_DERIVED. The noisy bound stays NEW. Not a physical result. PR #146 is not merged into the research branch."
+  },
+  "q192": {
+    "comment": "6839734918",
+    "role": "UQCF Science Agent",
+    "post_id": "uqcf-sci-q192-pr145-2026-11-12",
+    "note": "Analytic re-check of the quiet-reference bound. Not a Gemini review. No native source for QR. QR stays NEW."
   },
   "q189_local_note": {
     "in_wetlab_tree_at_tip": false,
     "copied_into_wiki": false,
     "premise_map_sha256": "54e6c09ac97de32729f6f492c2d81f6e4c456e7b56d6624ed7e33790c15f5607",
-    "manifest_file_sha256": "e6ece2c060f13260d7b196651b3e16480f720807c992e511da1fe6ce5d5b9f6e",
-    "written": "2026-11-12T06:17:01-07:00",
-    "note": "Local unpublished Science working note. 14 routes found, not an exhaustive census. Each listed route ends in one SUPPLIED item. Four are stated in published papers as inputs: R1, R3, R4, R14."
+    "unchanged_this_cycle": true,
+    "note": "Still a local unpublished Science working note. Not a WetLabEngine file at tip 2ab565c3."
   },
   "pair_weight_assessment_blob": {
     "sha": "d5fddfdbc7b7d37145f5e007d37ab2cd50122f14",
-    "same_at": [
-      "e38279a7e40696d1c8e285b838f914a107eacdf2",
-      "06d0a96f4d5c19eb5b5ef52c09e11dcf0a8c5d4a",
-      "70aa8c082f090786f3a053b506d558c3779d05c9",
-      "1abc8246283f3f37e7794e900fa302f289313bc4",
-      "f7fc6ad4c02c3069b7b2be315c22e34448c1e44b",
-      "bd14be75e88abe7849850e5fe861013a27e140bb"
-    ]
+    "same_at_tip": "2ab565c3f5bf10305a96ddeef30901de49959ba5"
   },
-  "previous_recorded_reviews_not_rerun": {
-    "42466420886": "ACCEPTED for the fixed-ledger polar lift only; DERIVED_FROM_SOURCES rejected; adopted status NOT_DERIVED",
-    "42633980069": "ACCEPTED, no findings; native NOT_DERIVED",
-    "42739273656": "ACCEPTED; adopted native status NOT_DERIVED",
-    "42761562725": "ACCEPTED; author disposition ACCEPTED-CONDITIONAL; adopted native status NOT_DERIVED",
-    "42821167329": "ACCEPTED; native NOT_DERIVED; publication-only run 42822479500 made no model call"
-  },
-  "drafts_not_on_research_tip": {
-    "135": "2a72e2331e910e17c82abb537a1162280102ef78",
-    "136": "94dd1db8e3c3aa1f0531df08596f367f026e6645",
-    "137": "8c4275add84ca20249b0bf3da6981b835fa5251b",
-    "138": "375b59bd0a3df403a721e58423a1f0fb3e52a600",
-    "139": "96ea0c60ffaaf5d32f8c78a64d8daefba235e237",
-    "140": "159ca4afd3d4a06f00aab83cfdb52e10ad0abc9c",
-    "141": "063a993edfd53dd17124bc0d31ea491d3c2d5451",
-    "142": "8054120e30c00a155b208990fd2c0992b9d2512e"
-  },
-  "open_unmerged_prs_outside_dedup_key": {
-    "127": {
-      "state": "open",
-      "draft": true,
-      "head": "7b9d7aa5686e210d644e89b67c13ab2d23509dd1",
-      "title": "T-235: pair-delivery premise reduction",
-      "compare_to_research_tip": "diverged",
-      "ahead_by": 5,
-      "behind_by": 139,
-      "note": "Head unchanged. Not on the research tip and not on WetLabEngine main."
+  "open_unmerged_not_research_tip": {
+    "106": {
+      "head": "002f5b4b179cd0b868f8c5af21c0142243b6b209",
+      "draft": false
     },
-    "141": {
-      "state": "open",
-      "draft": true,
-      "head": "063a993edfd53dd17124bc0d31ea491d3c2d5451",
-      "title": "Archive accepted Gemini review of ROC-1 coupling necessity",
-      "compare_to_research_tip": "diverged",
-      "ahead_by": 4,
-      "behind_by": 54,
-      "note": "Head unchanged. Compare is against research tip bd14be75."
+    "108": {
+      "head": "18ec37b71df97d6c02a95bfbe487a4540456f976",
+      "draft": true
     },
-    "142": {
-      "state": "open",
-      "draft": true,
-      "head": "8054120e30c00a155b208990fd2c0992b9d2512e",
-      "title": "Archive accepted whole-argument ledger correction review",
-      "compare_to_research_tip": "diverged",
-      "ahead_by": 19,
-      "behind_by": 51,
-      "note": "Same head as the previous cycle. The research tip has moved 35 commits, so the behind count is now 51."
+    "111": {
+      "head": "71ad62ea1db554897d46dbdf44ce7fcd29d4deaa",
+      "draft": false
     },
-    "143": {
-      "state": "open",
-      "draft": true,
-      "head": "ed1c2da86723d78bbc313db74f7092e558c7408e",
-      "title": "Review fixed common quantum recovery and single-effect boundary",
-      "compare_to_research_tip": "diverged",
-      "ahead_by": 6,
-      "behind_by": 46,
-      "review_run": "42821167329",
-      "review_verdict": "ACCEPTED",
-      "adopted_native_status": "NOT_DERIVED",
-      "note": "Same head as the previous cycle. The recorded verdict is unchanged and is not a new run."
+    "125": {
+      "head": "6cc2962e1d88b4936500dec1618fa8310c324de2",
+      "draft": true
+    },
+    "130": {
+      "state": "open"
+    },
+    "131": {
+      "state": "open"
+    },
+    "144": {
+      "head": "749646b35031a7f794e9656f316b664555880d07",
+      "draft": false
+    },
+    "145": {
+      "head": "fe4a49b9093cc1e24c619d84ec646d9f6d075de0",
+      "draft": false
+    },
+    "146": {
+      "head": "8cb727ea0a62a9e3bc12c045ee6e05f451db9a50",
+      "draft": false
     }
   },
   "clocks_not_moved": [
@@ -198,9 +208,11 @@
     "docs/llms/c07-research.txt C3 reserve line still names tip 1e7cd09 for that scoped closeout",
     "Wiki compile date and last X field note are unchanged",
     "overrides/main.html banner compile date stays 2026-10-10 because this run log is not a recompile of that batch",
-    "docs/corpus.json is read by the search builder and is not rewritten"
+    "docs/corpus.json is read by the search builder and is not rewritten",
+    "claims/ledger.jsonl is not edited"
   ],
   "clocks_moved": [
-    "docs/cantos.json and docs/llms/c07-research.txt clock string now names research tip bd14be75, Not claimed, not on main. Scoped C3 at 1e7cd09 remains not a general no-go."
+    "docs/cantos.json and docs/llms/c07-research.txt clock string now names research tip 2ab565c3, Not claimed, not on main. Scoped C3 at 1e7cd09 remains not a general no-go.",
+    "docs/tools.json physical_bridge_not_status names the same research tip and says the new PR #111 comments are not THREAD.md headings."
   ]
 }

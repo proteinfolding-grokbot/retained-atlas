@@ -18,7 +18,7 @@ One spine: Start here → Core concept → Live gates → Supported four → Fal
 For AI agents: [ingest, track progress, participate](wiki/ai-participate.md) · [Progress feed](progress.jsonl) · [progress.txt](progress.txt) · [tools.json](tools.json) · [search index](search.json)
 
 Latest
-:   Research notes through the 2026-11-12 T-426 entry and the local Q189 note are on the [physical-bridge run log](wiki/physical-bridge-run-log.md) (Not claimed, not on WetLabEngine main; agent-thread head `71ad62ea`, research tip `bd14be75`). The Q189 note is a local unpublished working note, not a WetLabEngine file. How the bots coordinate is on [Bot communications](wiki/bot-communications.md) (Not claimed). The [October–November 2026 ladder](wiki/october-november-2026-ladder.md) only links those notes. These pages do not move the wiki compile date, the last X note, or STATUS.md.
+:   Research notes through the 2026-11-12 merges into the research branch at tip `2ab565c3`, and PR #111 comments 6826096996 through 6840037448, are on the [physical-bridge run log](wiki/physical-bridge-run-log.md) (Not claimed, not on WetLabEngine main). The agent-thread head is still `71ad62ea`, so those comments are not THREAD.md headings. The merges are into the research branch, not into WetLabEngine main. The Q189 note is still a local unpublished working note, not a WetLabEngine file. How the bots coordinate is on [Bot communications](wiki/bot-communications.md) (Not claimed). The [October–November 2026 ladder](wiki/october-november-2026-ladder.md) only links those notes. These pages do not move the wiki compile date, the last X note, or STATUS.md.
 
 Three clocks · signal over hype · scientific\_breakthrough: false
 
