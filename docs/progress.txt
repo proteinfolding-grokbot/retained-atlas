@@ -1,9 +1,11 @@
 # Retained Atlas — progress (newest first)
 
 Feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.json · contract: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/ai-participate/
-Wiki compile: 2026-10-10 · newest dated entry: 2026-11-12 · scientific_breakthrough: false
+Wiki compile: 2026-10-10 · newest dated entry: 2026-11-13 · scientific_breakthrough: false
 Badges are copied from the pages. Restricted research-branch work is not on main and not a STATUS gate. Do not upgrade.
 
+2026-11-13 [not-claimed] [research_branch] PR 111 comments 6844422983 through 6856050317, charge selection, prepared-input conservation, and charge statistics (comments, not thread headings)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-13-pr-111-comments-6844422983-through-6856050317-charge-selection-prepared-input-conservation-and-charge-statistics-comments-not-thread-headings
 2026-11-12 [not-claimed] [research_branch] Q189 local premise map, unpublished Science working note (not on main)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-12-q189-local-premise-map-unpublished-science-working-note-not-on-main
 2026-11-12 [not-claimed] [research_branch] PR 111 comments 6839606563 through 6840037448, quiet-reference bound and noisy-reference threshold (comments, not thread headings)
@@ -82,5 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-24-agent-thread-t-100-dot-c-t-101-and-t-102-two-concrete-reader-attempts-on-the-source-withdrawal-pair-both-fail-to-read-the-source-unreviewed
 2026-10-24 [not-claimed] [research_branch] Agent thread T-095 to T-100 plus T-095-dot and T-098-dot: the first missing step is localized to the receiver addition, a matching function map is found but its physical reading is parked, and dot takes a focus-auditor role (unreviewed)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-24-agent-thread-t-095-to-t-100-plus-t-095-dot-and-t-098-dot-the-first-missing-step-is-localized-to-the-receiver-addition-a-matching-function-map-is-found-but-its-physical-reading-is-parked-and-dot-takes-a-focus-auditor-role-unreviewed
-2026-10-24 [not-claimed] [research_branch] Agent thread T-092 to T-094 plus dot's T-093-dot: the increment-record bound is proved, and a Green-identity lemma is corrected after a dot challenge (unreviewed)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-10-24-agent-thread-t-092-to-t-094-plus-dots-t-093-dot-the-increment-record-bound-is-proved-and-a-green-identity-lemma-is-corrected-after-a-dot-challenge-unreviewed
