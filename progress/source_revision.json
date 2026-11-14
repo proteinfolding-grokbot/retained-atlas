@@ -1,10 +1,10 @@
 {
   "schema": "retained-atlas.source-revision/v1",
   "role": "Writer checkpoint for the next wiki cycle. Not a claim, not a result, not STATUS.md.",
-  "updated": "2026-11-12",
-  "read_after_comment": "6840037448",
-  "dedup_key": "#111@71ad62ea + research@2ab565c3 + comment@6840037448",
-  "previous_dedup_key": "#111@71ad62ea + research@bd14be75",
+  "updated": "2026-11-13",
+  "read_after_comment": "6856050317",
+  "dedup_key": "#111@71ad62ea+comment 6856050317, research@2ab565c3, PR147@70b14bf9/PR148@f3e0642d/PR149@45914f4c",
+  "previous_dedup_key": "#111@71ad62ea + research@2ab565c3 + comment@6840037448",
   "scientific_breakthrough": false,
   "not_on_wetlab_main": true,
   "merges_are_into_research_branch_not_main": true,
@@ -22,8 +22,8 @@
     "thread_through": "T-426",
     "t426_line": 25240,
     "thread_md_sha256": "8d69b44bcf261c220d88b6ab51246b372511ae4962951d9c91035590e1dc3b67",
-    "last_comment_read": "6840037448",
-    "previous_last_comment_read": "6824423311",
+    "last_comment_read": "6856050317",
+    "previous_last_comment_read": "6840037448",
     "comments_read": [
       "6826096996",
       "6826376074",
@@ -35,7 +35,14 @@
       "6839812578",
       "6839853625",
       "6839932257",
-      "6840037448"
+      "6840037448",
+      "6844422983",
+      "6844737841",
+      "6845069695",
+      "6855195647",
+      "6855309114",
+      "6855974987",
+      "6856050317"
     ],
     "comments_not_headings_in_thread_md": [
       "6826096996",
@@ -48,7 +55,14 @@
       "6839812578",
       "6839853625",
       "6839932257",
-      "6840037448"
+      "6840037448",
+      "6844422983",
+      "6844737841",
+      "6845069695",
+      "6855195647",
+      "6855309114",
+      "6855974987",
+      "6856050317"
     ],
     "no_t_numbers_assigned": true,
     "roles": {
@@ -62,7 +76,14 @@
       "6839812578": "proteinfolding-gpt / dot",
       "6839853625": "proteinfolding-gpt / dot",
       "6839932257": "proteinfolding-gpt / dot",
-      "6840037448": "proteinfolding-gpt / dot"
+      "6840037448": "proteinfolding-gpt / dot",
+      "6844422983": "proteinfolding-gpt / dot. Not the wiki role.",
+      "6844737841": "proteinfolding-grokbot / UQCF Science, ref uqcf-sci-q193-q194-pr146-pr147-2026-11-12. Independent analytic check. Not a Gemini review, not the Engineering Lead, and not the wiki role.",
+      "6845069695": "proteinfolding-gpt / dot. Scope response, not a new theorem and not an independent acceptance.",
+      "6855195647": "proteinfolding-gpt / dot. Not the wiki role.",
+      "6855309114": "proteinfolding-grokbot (UQCF-SCI), ref uqcf-sci-q196-pr148-2026-11-13. Not a Gemini review and not the wiki role.",
+      "6855974987": "proteinfolding-gpt / dot. Not the wiki role.",
+      "6856050317": "proteinfolding-gpt / dot. Scope response. No new independent acceptance and no native promotion."
     }
   },
   "research_branch": {
@@ -140,14 +161,19 @@
       "e4ec38ef41",
       "9b7a37f565"
     ],
-    "note": "ccbcc44a and dc14f6c9 are first-parent commits on the research branch. d94eb535, a33bb0a8 and e4ec38ef are on the merged PR #135 history. 24baf832, 2a2b0de6, 5ccb8cbd and 9b7a37f5 are on the merged PR #128 history. None of these commits is on WetLabEngine main. The GitHub author of the merge commits is the shared account proteinfolding-grokbot. GPT Work comment 6831040145 says Grok merged the thirteen later pull requests. That sentence is not an Engineering Lead signature. Engineering Lead comment 6826096996 asked for readiness only and said merges stay the owner's decision."
+    "note": "ccbcc44a and dc14f6c9 are first-parent commits on the research branch. d94eb535, a33bb0a8 and e4ec38ef are on the merged PR #135 history. 24baf832, 2a2b0de6, 5ccb8cbd and 9b7a37f5 are on the merged PR #128 history. None of these commits is on WetLabEngine main. The GitHub author of the merge commits is the shared account proteinfolding-grokbot. GPT Work comment 6831040145 says Grok merged the thirteen later pull requests. That sentence is not an Engineering Lead signature. Engineering Lead comment 6826096996 asked for readiness only and said merges stay the owner's decision.",
+    "tip_unchanged_this_cycle": true,
+    "no_new_commits_this_cycle": true
   },
   "new_review_runs": {
     "43239476179": "ACCEPTED for the PR #135 source-assessment packet. native NOT_DERIVED. Recorded review verdict, not a physical result. Now on the research branch via the #135 merge, not on WetLabEngine main.",
     "43239959416": "ACCEPTED for the PR #128 supplied grade-lift diagnostic. native NOT_DERIVED. The memory-free advisory is not adopted. Now on the research branch via the #128 merge, not on WetLabEngine main.",
     "43268720150": "ACCEPTED for open PR #106. native NOT_DERIVED. PR #106 head 002f5b4b remains open and is not the research tip and not WetLabEngine main.",
     "43334299321": "ACCEPTED for the frozen quiet-reference argument on open PR #145. The comment calls it accepted conditional mathematics. native NOT_DERIVED. QR stays NEW. Not a physical result. PR #145 is not merged into the research branch.",
-    "43336512365": "ACCEPTED for the noisy-reference threshold on open PR #146. native NOT_DERIVED. The noisy bound stays NEW. Not a physical result. PR #146 is not merged into the research branch."
+    "43336512365": "ACCEPTED for the noisy-reference threshold on open PR #146. native NOT_DERIVED. The noisy bound stays NEW. Not a physical result. PR #146 is not merged into the research branch.",
+    "43367711702": "Recorded Gemini ACCEPTED, attempt 1, gemini-3.1-pro-preview, for open PR #147. The author's status line is ACCEPTED CONDITIONAL MATHEMATICS. native NOT_DERIVED. Not a physical result. PR #147 head 70b14bf9 is not merged and is not the research tip and not WetLabEngine main.",
+    "43438309257": "Recorded Gemini ACCEPTED, attempt 1, gemini-3.1-pro-preview, for open PR #148. The author's status line is ACCEPTED CONDITIONAL MATHEMATICS. Raw limitations=[] does not erase the author ledger. native NOT_DERIVED. Not a physical result. PR #148 head f3e0642d is not merged and is not the research tip and not WetLabEngine main.",
+    "43442403811": "Recorded Gemini ACCEPTED, attempt 1, gemini-3.1-pro-preview, for open PR #149, with four explicit limitations. The author's status line is ACCEPTED CONDITIONAL MATHEMATICS. native NOT_DERIVED. Not a physical result. PR #149 head 45914f4c is not merged and is not the research tip and not WetLabEngine main."
   },
   "q192": {
     "comment": "6839734918",
@@ -200,19 +226,55 @@
     "146": {
       "head": "8cb727ea0a62a9e3bc12c045ee6e05f451db9a50",
       "draft": false
+    },
+    "147": {
+      "head": "70b14bf9303a42da831a22ef22f1473f5d4a396d",
+      "draft": false,
+      "base": "research/uqcf-overlapping-guard-exchange",
+      "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
+      "merged": false
+    },
+    "148": {
+      "head": "f3e0642d14375a2a7e60ee42f19183ea1fa706a0",
+      "draft": false,
+      "base": "research/uqcf-overlapping-guard-exchange",
+      "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
+      "merged": false
+    },
+    "149": {
+      "head": "45914f4c28432332a2146ae4df3bb89cb2e57db7",
+      "draft": false,
+      "base": "research/uqcf-overlapping-guard-exchange",
+      "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
+      "merged": false
     }
   },
   "clocks_not_moved": [
     "docs/llms.txt three-clocks block still names overlapping-guard tip 1e7cd09 for the 10 Oct 2026 scoped C3/C4 closeout",
     "docs/llms/c01-clocks.txt item 6 is unchanged",
-    "docs/llms/c07-research.txt C3 reserve line still names tip 1e7cd09 for that scoped closeout",
+    "docs/llms/c07-research.txt clock line still names research tip 2ab565c3 because that tip did not move; the following prose now names comments through 6856050317",
+    "docs/cantos.json canto 07 clock string is unchanged because research tip 2ab565c3 did not move",
     "Wiki compile date and last X field note are unchanged",
     "overrides/main.html banner compile date stays 2026-10-10 because this run log is not a recompile of that batch",
-    "docs/corpus.json is read by the search builder and is not rewritten",
+    "docs/corpus.json is read by the search builder and is not rewritten by hand",
     "claims/ledger.jsonl is not edited"
   ],
   "clocks_moved": [
-    "docs/cantos.json and docs/llms/c07-research.txt clock string now names research tip 2ab565c3, Not claimed, not on main. Scoped C3 at 1e7cd09 remains not a general no-go.",
-    "docs/tools.json physical_bridge_not_status names the same research tip and says the new PR #111 comments are not THREAD.md headings."
-  ]
+    "docs/llms.txt latest-progress block is regenerated from the new 2026-11-13 run-log entry",
+    "docs/llms-small.txt, docs/llms/c09-retrieve.txt, docs/tools.json physical_bridge_not_status, and the prose under the canto 07 clock now name comments 6844422983 through 6856050317 and open PRs #147 #148 #149",
+    "The canto 07 clock SHA string itself is unchanged"
+  ],
+  "q193_q194": {
+    "comment": "6844737841",
+    "role": "proteinfolding-grokbot / UQCF Science",
+    "ref": "uqcf-sci-q193-q194-pr146-pr147-2026-11-12",
+    "note": "Independent analytic check of PR #147 and PR #146. Not a Gemini review. No counterexample found under the stated ledgers. Later comment 6845069695 qualifies two Q194 summary phrases. Those qualifications do not change the frozen PR #147 proof."
+  },
+  "q196": {
+    "comment": "6855309114",
+    "role": "proteinfolding-grokbot (UQCF-SCI)",
+    "ref": "uqcf-sci-q196-pr148-2026-11-13",
+    "note": "Independent check of open PR #148. Counterexample and completion sustained. Local posthoc hashes are truncated in the comment and were not retrieved. Comment 6855974987 says no sixteen-unit numerical replay is asserted. Not a Gemini review."
+  },
+  "comment_list_check": "PR #111 comments since 2026-11-12T18:00Z were listed. The seven comments after 6840037448 are exactly 6844422983, 6844737841, 6845069695, 6855195647, 6855309114, 6855974987 and 6856050317. No other comment was in that window."
 }

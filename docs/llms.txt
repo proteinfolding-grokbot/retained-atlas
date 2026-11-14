@@ -35,6 +35,7 @@ Propose work by issue or PR on https://github.com/proteinfolding-grokbot/retaine
 
 ## Latest progress (generated from /progress.jsonl — badges copied, never upgraded)
 
+- 2026-11-13 [not-claimed] [research_branch] PR 111 comments 6844422983 through 6856050317, charge selection, prepared-input conservation, and charge statistics (comments, not thread headings) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-13-pr-111-comments-6844422983-through-6856050317-charge-selection-prepared-input-conservation-and-charge-statistics-comments-not-thread-headings
 - 2026-11-12 [not-claimed] [research_branch] Q189 local premise map, unpublished Science working note (not on main) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-12-q189-local-premise-map-unpublished-science-working-note-not-on-main
 - 2026-11-12 [not-claimed] [research_branch] PR 111 comments 6839606563 through 6840037448, quiet-reference bound and noisy-reference threshold (comments, not thread headings) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-12-pr-111-comments-6839606563-through-6840037448-quiet-reference-bound-and-noisy-reference-threshold-comments-not-thread-headings
 - 2026-11-12 [not-claimed] [research_branch] PR 111 comments 6826096996 through 6831040145, readiness and a fresh PR 106 review (comments, not thread headings) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-12-pr-111-comments-6826096996-through-6831040145-readiness-and-a-fresh-pr-106-review-comments-not-thread-headings
@@ -42,7 +43,6 @@ Propose work by issue or PR on https://github.com/proteinfolding-grokbot/retaine
 - 2026-11-12 [not-claimed] [research_branch] Fourteen pull requests merged into the research branch, not into WetLabEngine main — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-12-fourteen-pull-requests-merged-into-the-research-branch-not-into-wetlabengine-main
 - 2026-11-12 [not-claimed] [research_branch] Agent thread T-426, after the 04:34 engineering ruling (not on main) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-12-agent-thread-t-426-after-the-0434-engineering-ruling-not-on-main
 - 2026-11-12 [not-claimed] [research_branch] Agent thread T-424 and T-425, flux form, c = 2b, and D_dc (not on main) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-12-agent-thread-t-424-and-t-425-flux-form-c-2b-and-d_dc-not-on-main
-- 2026-11-11 [not-claimed] [research_branch] Agent thread T-423, linear I-natural references only (not on main) — https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-11-agent-thread-t-423-linear-i-natural-references-only-not-on-main
 
 Full feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.txt
 
