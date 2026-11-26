@@ -57,6 +57,101 @@ Both Gemini 3.1 Pro reviews accepted the conditional mathematics and classified 
 
 The v16.26 withdrawal checker reports which legal edit would raise the cover size. Its enumerator counts candidates. Running the v16.53 routine on the original state starts with an addition. A subsequent **author-side code trace** found that the withdrawal output contains the incidence information needed to calculate the new profile, but carrying the old target of two into the lower-level routine on the critical state fails its exact-parent guard before any receiver edit. The outstanding question is which inherited process initiates the withdrawal and dispatches the updated state with its recomputed profile. [Reviewed source boundary](https://github.com/proteinfoldingengine/WetLabEngine/blob/de5056da7a5071a9634a3d5018fd3ec7e9fdc8ca/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/four_leaf_local_passage/SOURCE.md) · [Later dispatch trace and inspected call sites](https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7201690180).
 
+### Can the updated holdings reveal what triggered the change?
+
+The minimum cover size is the fewest charts whose holdings together include every leaf. Two histories can end with exactly the same leaves at every chart. From the reviewed preparation, A withdrawing leaf 1 raises the cover size from two to three. From a different preparation, Z withdrawing leaf 3 leaves the cover size at three. B has the same final holdings in both histories. Its source identification therefore depends on the known starting preparation.
+
+An enumeration of all 15 legal one-withdrawal predecessors of that shared state gives 13 increases and two unchanged cover sizes. For the comparison state reached when A withdraws leaf 2, all 15 predecessors have cover size two. The withdrawal certificate records the before-state and the cut, so it can distinguish an increase. The updated holdings alone cannot. This leaves two different mechanisms to investigate: running the routine after every committed withdrawal, or running it only when the certificate records an increase. The historical routine reads all charts to compute the cover size. The later static code review found no event-driven call in the revision it examined. [Exact histories and census](https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7202215775) · [Author-checked call-site review](https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7202411519).
+
+### Which initial withdrawal can chart C's event certificate identify?
+
+In the same prepared network, the original v16.26 withdrawal routine already returns a Boolean field called `trigger`. For this flat tree it reports whether a legal withdrawal increased the minimum cover size. A later research note compared A withdrawing leaf 1 with A withdrawing leaf 2. A replay with the pinned original routine extended that comparison to **all ten legal initial withdrawals plus the no-withdrawal control**. For each of those eleven inputs, C withdrawing leaf 2 and C withdrawing leaf 4 were tried separately from the same input.
+
+| Initial event | C withdraws leaf 2 | C withdraws leaf 4 |
+| --- | --- | --- |
+| A withdraws leaf 2 | True | True |
+| No withdrawal, A withdraws 1 or 3, X or Y withdraws 1, Z withdraws 2, or B withdraws 3 | False | False |
+| C withdraws leaf 2 | Leaf already absent | False |
+| C withdraws leaf 4 | False | Leaf already absent |
+| B withdraws leaf 4 | False | Would remove the last copy |
+
+Of 22 attempts, 19 produced certificates. Both true certificates identify **A withdrawing leaf 2** in this preparation. The other 17 are false. After A withdraws leaf 2, A and C form the only two-chart cover. Either legal cut at C breaks it. For a fixed cut at C, its own leaves after that cut are identical across the A−1 and A−2 histories. The distinguishing bit is returned to the caller. Whether C receives or retains it, and what initiates C's withdrawal, remain open. This replay uses the original atom directly and requires no call to the four-leaf normalization routine.
+
+[Original two-history analysis](https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7202755211) · [Pinned withdrawal routine and its return fields](https://github.com/proteinfoldingengine/WetLabEngine/blob/e61d5b0e827f7b412824ad46021e2ad6cc6f7875/ResearchHistory/UQCF-GEM/demos/v16.26-consistency-increment-law/engine.py#L16-L26). The full eleven-input census above is an author replay, subsequent to the two archived reviews.
+
+### What survives when the same two withdrawals exchange order?
+
+The v16.27 path enumerator keeps each withdrawal certificate. Its `event_map` records the change in cover size against the chart and leaf withdrawn. We replayed every unordered pair of distinct initial withdrawals on the same preparation using the original v16.26 and v16.27 engines. Of 45 pairs, 43 permit both orders. The other two would remove the last copy of a leaf. Exactly four legal pairs change which withdrawal receives the unit increment when their order is reversed.
+
+| Pair of withdrawals | Charts involved |
+| --- | --- |
+| A withdraws 2 and A withdraws 3 | A alone |
+| A withdraws 2 and C withdraws 2 | A and C |
+| A withdraws 2 and C withdraws 4 | A and C |
+| A withdraws 3 and B withdraws 4 | A and B |
+
+In each row, the two orders have the same starting and ending holdings and the same sequence of minimum cover sizes, 2 → 2 → 3. The second withdrawal receives the increment. In the two C rows, C has the same holdings before and after its own cut in both orders. Its attributed increment nevertheless changes. The historical code uses the addressed values to identify disagreements between paths and to summarize the enumeration. Those consumers operate on complete paths. Neither writes the value into C's retained state. This author replay extends the two C comparisons to all event pairs in this preparation. [Two-order source analysis](https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7202938965) · [Historical consumers](https://github.com/proteinfoldingengine/WetLabEngine/blob/e61d5b0e827f7b412824ad46021e2ad6cc6f7875/ResearchHistory/UQCF-GEM/demos/v16.27-increment-attribution-closure/engine.py#L32-L49) · [Replay script](../data/replays/four_leaf_order_census.py).
+
+To reproduce, check out WetLabEngine revision `e61d5b0e827f7b412824ad46021e2ad6cc6f7875` and pass its `ResearchHistory/UQCF-GEM/demos` directory to the replay script as its sole argument.
+
+### How much can C infer from neighboring charts?
+
+Define C's neighborhood here as C and every chart sharing a non-Pin leaf with C. Give the observer the names and full holdings of those charts. This is an explicit observational assumption. In the original preparation with zero or one prior withdrawal, all 19 legal C receipts agree with a simple test before C acts: C still holds leaves 2 and 4, and exactly one other chart holds leaf 2, with no other non-Pin leaf in that chart. The test is true twice, once for each legal C cut after A withdraws leaf 2.
+
+The inference breaks with two prior withdrawals, even when both histories start in the reviewed preparation and have the same length. First let A withdraw leaf 2 in both. Then let Y withdraw leaf 1 in one history and A withdraw leaf 3 in the other. In both histories C sees precisely Z with leaf 2, itself with 2 and 4, and B with 3 and 4. Its neighborhood agrees after each preceding withdrawal and still agrees after either fixed C cut. In the Y history, A still holds 1 and 3, and A with C covers all four leaves. In the other, A has only leaf 1, so three charts are already needed. The cover sizes across C's cut are respectively 2 → 3 and 3 → 3; only the first receipt is true.
+
+All four leaves also have coverage outside C in both histories. Under the previously analyzed bare move interface with outside charts held fixed, the legal C-only moves therefore agree. Receiving the distinguishing bit would require access beyond that interface. Whether an inherited operation grants it remains open. [Bare move interface](https://github.com/proteinfoldingengine/WetLabEngine/blob/7abbb1b8/ResearchHistory/UQCF-GEM/research/physical-bridge/receiver_move_interface/RESULT.md) · [Executable replay](../data/replays/four_leaf_overlap.py). This is an author replay on the fixed preparation.
+
+### Can shared moves change what C itself is allowed to do?
+
+Yes, conditionally, even for the two histories with identical immediate neighborhoods. Compare commands that name the same chart, leaf and operation in both histories and are legal in both. Measure the set of leaves C can legally withdraw after those commands. Starting from the Y−1 and A−3 histories above, an exhaustive search over all six charts, all four leaves, and both bare operations found exactly one shortest ordered pair:
+
+1. C adds leaf 3. B already holds 3 in both histories, so C could immediately withdraw its new copy in either.
+2. B withdraws leaf 3. This is now legal in both because C holds a copy. In the Y history A also retains 3, so C can still withdraw 3. In the other history C now has the last copy, so the original withdrawal routine rejects that same cut.
+
+C holds exactly leaves 2, 3 and 4 in both histories after the two moves. Its legal withdrawals are respectively {2,3,4} and {2,4}. Zero moves and every single common legal move leave its withdrawal options identical across histories. For the simpler A−1 versus A−2 comparison, Z withdrawing 2 already exposes the distinction: C can then withdraw 2 only after A−1. Among the five possible common withdrawals by charts other than A and C, only this one changes C's withdrawal options across those two histories.
+
+This is a conditional reachability result in the bare fixed-carrier move model. The two commands were supplied by the search. The addition uses the previously analyzed bare addition rule; each deletion runs the original v16.26 atom. The result establishes a difference in C's own admissible actions without reading the global increment certificate. It leaves initiation, C's access to a rejection, and any durable receiver record open. [Move interface and scope](https://github.com/proteinfoldingengine/WetLabEngine/blob/7abbb1b8/ResearchHistory/UQCF-GEM/research/physical-bridge/receiver_move_interface/RESULT.md) · [Exhaustive replay](../data/replays/four_leaf_shared_moves.py).
+
+### Can the state determine which other chart acts?
+
+Six common edits to the original fixture give a preparation in which leaves 1 and 2 are each held by A and C alone. Only A holds 3, and only B holds 4. A can withdraw either 1 or 2. The model still allows A to act again, but **if a different chart withdraws next, its identity and its cut are both determined**.
+
+| First withdrawal | Only possible withdrawal by another chart | Leaves C then retains |
+| --- | --- | --- |
+| A withdraws 1 | C withdraws 2 | 1 |
+| A withdraws 2 | C withdraws 1 | 2 |
+
+Both results are terminal under withdrawals. The two source histories end in the same full state if A acts twice, with C still holding both leaves. The prepared star also has a symmetry that exchanges leaves 1 and 2. C therefore has the same one-leaf shape after either successful response. There is a way to distinguish the histories using C's own past: before the shared preparation it held leaves 2 and 4. Its final leaf was already present in that earlier view only when A withdrew 2. Using that comparison requires C to retain and match its own earlier record.
+
+An author replay checked the two source arms with the original withdrawal routine. Of all 3,814,209 indexed preparations on this carrier allowing both A cuts, 36 force C as the only possible different next actor and give it different surviving addresses under the two cuts. Six is the minimum number of common preparatory edits from the original fixture. The model still leaves open what makes a different chart act and whether C has access to its own history. Independent review of this extension is pending. [Proof and source premises](https://github.com/proteinfoldingengine/WetLabEngine/blob/81903f31243144a82e2c3f478f100a86a3fad998/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/four_leaf_distinct_actor/RESULT.md) · [Runnable replay](https://github.com/proteinfoldingengine/WetLabEngine/blob/81903f31243144a82e2c3f478f100a86a3fad998/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/four_leaf_distinct_actor/replay.py).
+
+## What can the 121-chart geometry leave hidden inside a region? {#fixed-exterior-records}
+
+A separate experiment on the prepared 11-by-11 atlas held every pairwise work value fixed and also fixed the complete, named record of every chart outside a square. Within a 9-by-9 square, 16 different patterns of local leaf counts are compatible with identical records at all 40 exterior charts. The checker evaluated all 16. A 10-by-10 square admits 16,930,529,280 patterns in the constructed family with all 21 exterior charts fixed. That larger count follows from the proof. In both cases each named leaf has the same number of holders across the compared configurations.
+
+The preparation matters. The example allows some leaves to have 96 holders and others 25. If every leaf keeps its original population of 25, the work table fixes every chart's count at 200. In the larger prime-sized construction, the logarithm of the number of compatible count patterns grows with the number of charts inside the square, even when its boundary ring is held fixed. This measures how many different interior records are compatible with the exterior data in the model. A physical horizon, entropy and a law governing which state occurs remain open.
+
+The mathematical result passed independent Gemini review. A subsequent original P1 replay checked every named exterior record in the two published endpoint comparisons. [Frozen proof and runnable code](https://github.com/proteinfoldingengine/WetLabEngine/blob/5aa73c574d4fcfbef0e1eef4b68b49e697328111/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/fixed_exterior_records/RESULT.md) · [Review and verification](https://github.com/proteinfoldingengine/WetLabEngine/blob/cb4cb6f4600cd80ef02f87c00312d09581f1f881/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/fixed_exterior_records_review/run45902188717/RUN.md).
+
+### What three charts reveal when every leaf has 25 holders
+
+Keep all 7,260 pair measurements, the same 200 leaves per chart by count, and the same 25 holders per leaf by count. Within the original 484 allowed footprints, exactly **25 ways to distribute the leaves among those footprints** fit the data when leaf names are ignored and chart addresses stay fixed. All 25 can also keep the complete named records of the same 11 charts. Fixing every named chart outside any of the ten tested squares instead leaves just the original footprint multiplicities.
+
+Charts 0 and 41 keep precisely the same leaves in two example preparations. Include chart 5. The three pairwise overlaps still contain 32, 48 and 48 leaves, but the number shared by all three changes from **16 to 12**. When the existing P1 operation combines the three records, its root grade changes from **961 to 969**. Projecting back to either fixed chart gives that chart its original record. Reading a second triple, with chart 1 in place of chart 5, distinguishes all 25 preparations together with the first reading. How a chart would initiate the comparison or retain its joint result remains open.
+
+[Proof, original-engine replay and independent checker](https://github.com/proteinfoldingengine/WetLabEngine/blob/d3e462fb419f19f0eb6dde9491a46a2f93dff7ec/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/equal_population_overlap/RESULT.md) · [Review record](https://github.com/proteinfoldingengine/WetLabEngine/pull/168).
+
+### Can the hidden difference reach one chart's own record?
+
+Start with the same 121-chart atlas twice. Chart 0 withdraws four leaves in each history, choosing different sets. All other 120 charts still hold exactly what they held before. After the fourth withdrawal, every one of the 7,260 chart-pair measurements agrees between the two histories. The intermediate pair measurements can differ. In this preparation, four withdrawals per history are the minimum for hiding a difference in which original support types were removed.
+
+Run the historical star normalizer on a specified line of 11 charts. Together they hold all 968 original leaves. Chart 15 begins with the same 200 leaves in both histories. On its first gain it acquires the same previously absent leaf, number 3. It then holds **130 leaves in one history and 129 in the other**, giving a retained Pin grade of **1,677 or 1,679**. The extra leaf survived an earlier deletion phase because the three-way overlap differed by one.
+
+The distinction is temporary. Both runs finish in the same addressed state. When the source is put last in the chart priority, the entire local history of every other chart agrees between the two runs. The model supplies the allowed edits and the writer. This test still selects the source histories, the participating cover, the chart order and when to run the writer.
+
+[Proof, original-engine replay and independent minimum check](https://github.com/proteinfoldingengine/WetLabEngine/blob/59944c623217b7bc4b78573b9b16e3723a10ea25/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/equal_population_receiver_writes/RESULT.md) · [Research review](https://github.com/proteinfoldingengine/WetLabEngine/pull/169).
+
 ## Related source reports {#related-source-reports}
 
 The earlier controls and constructions have different preparations and review statuses. Each link below opens its own report at the same pinned research revision.
