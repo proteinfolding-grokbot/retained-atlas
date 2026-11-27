@@ -153,6 +153,40 @@ def replace_prefixed(text, prefix, newline):
         return pat.sub(newline, text, count=1), True
     return text, False
 
+def canonicalize_cite(cite, compile_d):
+    """One citation sentence and one required-pieces bullet.
+
+    An earlier substitution matched the bare words ``compile date (DATE)``
+    inside a bullet that already began ``v15.03 release compile date``.
+    The unmatched prefix stayed, so every regeneration appended another
+    ``v15.03 release``. Both patterns below consume every repeated prefix
+    and write exactly one. A second call returns the same text.
+    """
+    sentence = f"Retained Atlas. v15.03 release compile date {compile_d}."
+    cite, n_sentence = re.subn(
+        r'Retained Atlas\. (?:(?:v15\.03 release )+compile date|Compiled) \d{4}-\d{2}-\d{2}\.',
+        sentence,
+        cite,
+        count=1,
+    )
+    if n_sentence != 1:
+        raise SystemExit('freshness: cite.txt citation sentence not found')
+    bullet = f"- v15.03 release compile date ({compile_d})"
+    cite, n_bullet = re.subn(
+        r'^- (?:v15\.03 release )*compile date \(\d{4}-\d{2}-\d{2}\)\s*$',
+        bullet,
+        cite,
+        count=1,
+        flags=re.M,
+    )
+    if n_bullet != 1:
+        raise SystemExit('freshness: cite.txt required-pieces compile-date bullet not found')
+    if cite.count(bullet) != 1:
+        raise SystemExit('freshness: cite.txt compile-date bullet is not unique')
+    if 'v15.03 release v15.03 release' in cite:
+        raise SystemExit('freshness: cite.txt still repeats the v15.03 release prefix')
+    return cite
+
 def apply(f=None):
     os.chdir(ROOT)
     f = f or facts()
@@ -265,12 +299,9 @@ def apply(f=None):
     open('docs/llms/c09-retrieve.txt', 'w', encoding='utf-8').write(c09)
 
     cite = open('docs/cite.txt', encoding='utf-8').read()
-    cite = re.sub(r'Retained Atlas\. Compiled \d{4}-\d{2}-\d{2}\.',
-                  f"Retained Atlas. v15.03 release compile date {f['compile_date']}.", cite, count=1)
-    # Idempotent: collapse any repeated "v15.03 release " prefixes and a bare
-    # "compile date (YYYY-MM-DD)" to a single "v15.03 release compile date (DATE)".
-    cite = re.sub(r'(?:v15\.03 release )*compile date \(\d{4}-\d{2}-\d{2}\)',
-                  f"v15.03 release compile date ({f['compile_date']})", cite, count=1)
+    cite = canonicalize_cite(cite, f['compile_date'])
+    if canonicalize_cite(cite, f['compile_date']) != cite:
+        raise SystemExit('freshness: cite.txt compile-date rewrite is not idempotent')
     cite_line = 'Last wiki update (not the compile date): ' + f['line']
     cite, ok = replace_prefixed(cite, 'Last wiki update (not the compile date): ', cite_line)
     if not ok:

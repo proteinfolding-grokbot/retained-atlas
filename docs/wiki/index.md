@@ -510,3 +510,5 @@ H · Archive
 ## November 26 receiver discovery
 
 [November 26 four-leaf receiver result](four-leaf-receiver-2026-11-26.md#source-identification) · [Proofs and verification](four-leaf-receiver-2026-11-26.md#evidence-and-dispatch)
+
+[26 Nov drafts after that result](receiver-drafts-2026-11-26.md) (Not claimed, not on WetLabEngine main). Draft PR #169 stays on open wiki PR #42 and is not restated here.
