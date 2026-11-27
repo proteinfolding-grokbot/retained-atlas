@@ -2,15 +2,15 @@
 title: "Retained Atlas"
 route: "/"
 source: "https://aaronspradlin.grok.me"
-description: "Last wiki update: Newest progress entry 2026-11-26. Wiki main commit 2026-11-26 (bc039fab, 2026-11-26T13:09:11-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything."
-date_modified: "2026-11-26T13:09:11-07:00"
+description: "Last wiki update: Newest progress entry 2026-11-26. Wiki main commit 2026-11-26 (5c9fe96e, 2026-11-26T15:22:49-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything."
+date_modified: "2026-11-26T15:22:49-07:00"
 ---
 
 <!-- freshness:home:start -->
 @aaronspradlin · v15.03 release compile date 2026-10-10
 
 Last wiki update
-:   Last wiki update: Newest progress entry 2026-11-26. Wiki main commit 2026-11-26 (bc039fab, 2026-11-26T13:09:11-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.
+:   Last wiki update: Newest progress entry 2026-11-26. Wiki main commit 2026-11-26 (5c9fe96e, 2026-11-26T15:22:49-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.
 
 Progress: [/progress.jsonl](progress.jsonl) · [/llms.txt](llms.txt)
 <!-- freshness:home:end -->
@@ -40,7 +40,7 @@ Batch index. Behind STATUS.md if they disagree.
 
 <!-- freshness:clocks:start -->
 Last wiki update
-:   Last wiki update: Newest progress entry 2026-11-26. Wiki main commit 2026-11-26 (bc039fab, 2026-11-26T13:09:11-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.
+:   Last wiki update: Newest progress entry 2026-11-26. Wiki main commit 2026-11-26 (5c9fe96e, 2026-11-26T15:22:49-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.
 
 Progress: [/progress.jsonl](progress.jsonl) · [/llms.txt](llms.txt)
 

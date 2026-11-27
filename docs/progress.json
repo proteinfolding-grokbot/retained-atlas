@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 220,
+ "count": 226,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -4809,6 +4809,139 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/blob/de5056da7a5071a9634a3d5018fd3ec7e9fdc8ca/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/four_leaf_local_passage/SOURCE.md",
     "https://github.com/proteinfoldingengine/WetLabEngine/blob/de5056da7a5071a9634a3d5018fd3ec7e9fdc8ca/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/four_leaf_passage_review/run45881867008/RUN.md",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/165"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-26-a-prepared-four-leaf-star-can-force-one-other-chart-to-act-next-and-that-extension-is-not-independently-reviewed-comments-not-thread-headings",
+   "date": "2026-11-26",
+   "title": "A prepared four-leaf star can force one other chart to act next, and that extension is not independently reviewed (comments, not thread headings)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional mathematics · not on main · not independently reviewed · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: on one preparation of the six-chart star, if the next legal withdrawal is not A's, it has to be C's, and the leaf C keeps names which leaf A released. An exact count finds 36 such preparations, and the note says this extension has no independent review. This is not on WetLabEngine main. Reading time 2026-11-26T19:21:02-07:00.",
+   "does_not_show": "that the four-leaf first-loss theorem is restated or changed; that comment 7203921807 is a THREAD.md heading; that an author replay is independent review; that C retains or reads its own earlier record; that what makes a different chart act has been derived; that head 81903f31 is research tip 7abbb1b8 or WetLabEngine main; that draft PR 165 moved; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-26-a-prepared-four-leaf-star-can-force-one-other-chart-to-act-next-and-that-extension-is-not-independently-reviewed-comments-not-thread-headings",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/166",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/81903f31243144a82e2c3f478f100a86a3fad998",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/81903f31243144a82e2c3f478f100a86a3fad998/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/four_leaf_distinct_actor/RESULT.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7203921807"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-26-a-supplied-shortest-repair-rule-picks-four-additions-and-a-full-atlas-trigger-can-name-different-remote-holders-comments-not-thread-headings",
+   "date": "2026-11-26",
+   "title": "A supplied shortest-repair rule picks four additions, and a full-atlas trigger can name different remote holders (comments, not thread headings)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional mathematics and recorded model-review verdicts · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: once a fewest-edits rule is supplied, the two damaged atlases are repaired by adding four named leaves back at chart 0, in any order. A later draft, after 346 preparatory withdrawals, finds exactly two legal cuts that each force one new chart, and those cuts sit at the same endpoints of pair work while charts 15 and 5 swap which withdrawal they may make. A receipt can be written into a global log and still be dropped before any participant keeps it. This is not on WetLabEngine main. Reading time 2026-11-26T19:21:02-07:00.",
+   "does_not_show": "that the shortest-repair rule or the 346-withdrawal preparation is an inherited initiation; that run 45909545696 or run 45915207121 is native delivery; that chart 15's four-withdrawal write on draft PR 169 is restated here; that a global campaign file is a participant-owned store; that run 45915964042's first malformed verdict is acceptance; that a patched profile in a replay is a derived participant-visible event; that heads 598ada80 and fc9b69b7 are research tip 7abbb1b8 or WetLabEngine main; that any premise moved from SUPPLIED to DERIVED; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED. The recorded native bridge stays OPEN. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-26-a-supplied-shortest-repair-rule-picks-four-additions-and-a-full-atlas-trigger-can-name-different-remote-holders-comments-not-thread-headings",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/170",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/598ada80fb46710fd7434fe6bc1f3ddf7449f659",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/45909545696",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/171",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/fc9b69b71840288a6c83197b439ee43546909948",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/45915207121",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/45915964042",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7207356461"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-26-draft-pr-164-moved-to-fa2cc0de-and-the-adopted-junction-reviews-leave-the-native-bridge-open-comments-not-thread-headings",
+   "date": "2026-11-26",
+   "title": "Draft PR 164 moved to fa2cc0de, and the adopted junction reviews leave the native bridge open (comments, not thread headings)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional mathematics and recorded model-review verdicts · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: the receiver-work draft moved fifteen commits past the head already recorded, and four archived reviews accept bounded programs while leaving autonomous or native delivery open. One of those reviews first marked a physical bridge derived, and the adopted second verdict does not. This is not on WetLabEngine main. Reading time 2026-11-26T19:21:02-07:00.",
+   "does_not_show": "that comments 7180922744 through 7184513747 are THREAD.md headings; that an unsigned note is the UQCF Science Agent or the wiki role; that program_status DERIVED is native delivery or a physical result; that the first response in run 45751353294, which marked the physical bridge DERIVED, is the adopted verdict; that runs 45746320050, 45751353294, 45755449551 and 45758275308 move the native bridge off OPEN; that head fa2cc0de is research tip 7abbb1b8 or WetLabEngine main; that the four-leaf theorem on draft PR 165 is restated here; that any premise moved from SUPPLIED to DERIVED; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED. The recorded native bridge stays OPEN. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-26-draft-pr-164-moved-to-fa2cc0de-and-the-adopted-junction-reviews-leave-the-native-bridge-open-comments-not-thread-headings",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/164",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/fa2cc0de9d12cb0369ad776170a1df4ca862fbd9",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/45746320050",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/45751353294",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/45755449551",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/45758275308",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7181387558",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7182129238"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-26-fixed-exterior-charts-can-hide-many-interior-count-profiles-and-the-accepted-review-calls-that-counting-comments-not-thread-headings",
+   "date": "2026-11-26",
+   "title": "Fixed exterior charts can hide many interior count profiles, and the accepted review calls that counting (comments, not thread headings)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional mathematics and a recorded model-review verdict · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: with the outside of a square held fixed, sixteen interior count patterns fit the same exterior records, and a larger square's constructed family has 16,930,529,280 patterns by a proof rather than by listing them. If every leaf keeps 25 holders, the work table fixes every chart's count. An accepted review says this is combinatorial counting and leaves physical entropy open. This is not on WetLabEngine main. Reading time 2026-11-26T19:21:02-07:00.",
+   "does_not_show": "that the 16,930,529,280 figure was obtained by enumerating every profile; that a combinatorial count is physical entropy, a horizon, or a gravitational area law; that run 45902188717 is native delivery; that head cb4cb6f4 is research tip 7abbb1b8 or WetLabEngine main; that open wiki PR 42 was edited; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED. The recorded native bridge stays OPEN. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-26-fixed-exterior-charts-can-hide-many-interior-count-profiles-and-the-accepted-review-calls-that-counting-comments-not-thread-headings",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/167",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/cb4cb6f4600cd80ef02f87c00312d09581f1f881",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/cb4cb6f4600cd80ef02f87c00312d09581f1f881/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/fixed_exterior_records/RESULT.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/45902188717"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-26-the-equal-population-review-archive-is-accepted-and-open-and-the-triple-read-mathematics-is-not-restated-comments-not-thread-headings",
+   "date": "2026-11-26",
+   "title": "The equal-population review archive is accepted and open, and the triple-read mathematics is not restated (comments, not thread headings)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · recorded model-review verdict · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: the equal-population draft now stores a review that accepts the finite counting program and leaves the native bridge open. The two triple reads themselves are already drafted on another wiki pull request, so they are not written again here. This is not on WetLabEngine main. Reading time 2026-11-26T19:21:02-07:00.",
+   "does_not_show": "that this entry restates the 25 assignments or the two triple reads; that run 45903678050 is native delivery or a physical result; that DERIVED for a finite program proposition moves a premise from SUPPLIED to DERIVED on WetLabEngine main; that head 68caac89 is research tip 7abbb1b8 or WetLabEngine main; that open wiki PR 42 was edited; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED. The recorded native bridge stays OPEN. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-26-the-equal-population-review-archive-is-accepted-and-open-and-the-triple-read-mathematics-is-not-restated-comments-not-thread-headings",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/168",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/68caac89b8a0d0710bbcc0b61cffbc85c4ef77e1",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/45903678050",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/d3e462fb419f19f0eb6dde9491a46a2f93dff7ec",
+    "https://github.com/proteinfolding-grokbot/retained-atlas/pull/42"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "receiver-drafts-2026-11-26#2026-11-26-short-reading-of-the-drafts-after-the-four-leaf-result",
+   "date": "2026-11-26",
+   "title": "Short reading of the drafts after the four-leaf result",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional mathematics and recorded model-review verdicts · not on main · not merged into research · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: the agent thread did not move, and eighty-nine new comments are still comments. Draft 164 moved forward and archived four recorded reviews that leave the native bridge open. A prepared four-leaf star can force one other chart to be the next actor, with no independent review of that extension. A fixed exterior can hide many interior count patterns, and an accepted review calls that counting, not a physical entropy. Two triple reads of an equal-population atlas were already drafted on another wiki pull request; this reading adds only that a later review accepted the finite program and left the native bridge open. A supplied shortest-repair rule picks four additions at one chart, and a full-atlas trigger can name different remote holders while the endpoint pair-work table agrees. A receipt can reach a global log and still be dropped before any participant-owned store. None of this is on WetLabEngine main. Reading time 2026-11-26T19:21:02-07:00.",
+   "does_not_show": "that these comments are THREAD.md headings or that a T-pending heading is a T-number; that an unsigned note, an author-checked note, and the UQCF Science Agent are one role; that a step labeled DERIVED inside a named program is native delivery or a physical result; that an ACCEPTED line moves the native bridge off OPEN; that the first physical-bridge DERIVED sentence in run 45751353294 is the adopted verdict; that a malformed verdict attempt is acceptance; that AUTHOR-CHECKED or author-checked is independent review; that draft heads fa2cc0de , 81903f31 , cb4cb6f4 , 68caac89 , 598ada80 and fc9b69b7 are research tip 7abbb1b8 or WetLabEngine main; that draft PR 165 changed after the four-leaf page; that draft PR 169 is restated here; that open wiki PR 42 was edited; that any premise moved from SUPPLIED to DERIVED; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED where a source writes that, and the recorded native bridge stays OPEN where a review returned one. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/receiver-drafts-2026-11-26/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/receiver-drafts-2026-11-26/#2026-11-26-short-reading-of-the-drafts-after-the-four-leaf-result",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/164",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/fa2cc0de9d12cb0369ad776170a1df4ca862fbd9",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/166",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/167",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/168",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/170",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/171",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7207356461"
    ],
    "format": "dated-entry"
   }
