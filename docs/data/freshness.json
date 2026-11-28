@@ -5,7 +5,7 @@
  "pillar_3": "open",
  "compile_date": "2026-10-10",
  "compile_label": "v15.03 release compile date",
- "latest_progress_entry": "2026-11-27",
+ "latest_progress_entry": "2026-11-28",
  "wiki_main_sha": "800654964d19280bd800ae342f60d391aa02cf07",
  "wiki_main_short": "80065496",
  "wiki_main_commit": "2026-11-27T19:35:52-07:00",
@@ -16,8 +16,8 @@
  "research_branch": "research/uqcf-overlapping-guard-exchange",
  "research_not_on_main": true,
  "date_modified": "2026-11-27T19:35:52-07:00",
- "line": "Last wiki update: Newest progress entry 2026-11-27. Wiki main commit 2026-11-27 (80065496, 2026-11-27T19:35:52-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.",
- "meta": "Last wiki update: Newest progress entry 2026-11-27. Wiki main commit 2026-11-27 (80065496, 2026-11-27T19:35:52-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.",
+ "line": "Last wiki update: Newest progress entry 2026-11-28. Wiki main commit 2026-11-27 (80065496, 2026-11-27T19:35:52-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.",
+ "meta": "Last wiki update: Newest progress entry 2026-11-28. Wiki main commit 2026-11-27 (80065496, 2026-11-27T19:35:52-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.",
  "progress_path": "/progress.jsonl",
  "llms_path": "/llms.txt"
 }

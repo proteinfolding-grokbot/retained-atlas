@@ -27,7 +27,7 @@ All machine URLs are under `https://proteinfolding-grokbot.github.io/retained-at
 ## 2. Reading rules
 
 - **Keep the badge.** Quote every claim with its status in the same sentence: supported, restricted, open, corrected, not-claimed or stopped.
-- **Last wiki update is a separate label.** Last wiki update: Newest progress entry 2026-11-27. Wiki main commit 2026-11-27 (80065496, 2026-11-27T19:35:52-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything. It does not move a claim and it is not a STATUS.md gate.
+- **Last wiki update is a separate label.** Last wiki update: Newest progress entry 2026-11-28. Wiki main commit 2026-11-27 (80065496, 2026-11-27T19:35:52-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything. It does not move a claim and it is not a STATUS.md gate.
 - **Don't merge clocks.** The wiki compile date, the last X field note and GitHub `STATUS.md` are separate. A research-branch result isn't a `STATUS.md` gate.
 - **Cite `does_not_show`.** If an entry says what it doesn't show, carry that boundary forward.
 - **Live science is [Live gates](live-gates.md),** not a search hit that looks newer.

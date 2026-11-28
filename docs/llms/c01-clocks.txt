@@ -27,6 +27,6 @@ Three clocks. Never collapse them.
 X is the archive of posts. GitHub STATUS.md is the publication clock. A research-branch RESULTS.md is not a STATUS gate.
 If a search hit looks newer than STATUS.md, it is not current science.
 
-Last wiki update (separate from the three clocks above; not a STATUS gate): Last wiki update: Newest progress entry 2026-11-27. Wiki main commit 2026-11-27 (80065496, 2026-11-27T19:35:52-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.
+Last wiki update (separate from the three clocks above; not a STATUS gate): Last wiki update: Newest progress entry 2026-11-28. Wiki main commit 2026-11-27 (80065496, 2026-11-27T19:35:52-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.
 
 canonical: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/live-gates/

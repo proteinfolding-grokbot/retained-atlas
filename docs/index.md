@@ -2,7 +2,7 @@
 title: "Retained Atlas"
 route: "/"
 source: "https://aaronspradlin.grok.me"
-description: "Last wiki update: Newest progress entry 2026-11-27. Wiki main commit 2026-11-27 (80065496, 2026-11-27T19:35:52-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything."
+description: "Last wiki update: Newest progress entry 2026-11-28. Wiki main commit 2026-11-27 (80065496, 2026-11-27T19:35:52-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything."
 date_modified: "2026-11-27T19:35:52-07:00"
 ---
 
@@ -10,7 +10,7 @@ date_modified: "2026-11-27T19:35:52-07:00"
 @aaronspradlin · v15.03 release compile date 2026-10-10
 
 Last wiki update
-:   Last wiki update: Newest progress entry 2026-11-27. Wiki main commit 2026-11-27 (80065496, 2026-11-27T19:35:52-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.
+:   Last wiki update: Newest progress entry 2026-11-28. Wiki main commit 2026-11-27 (80065496, 2026-11-27T19:35:52-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.
 
 Progress: [/progress.jsonl](progress.jsonl) · [/llms.txt](llms.txt)
 <!-- freshness:home:end -->
@@ -40,7 +40,7 @@ Batch index. Behind STATUS.md if they disagree.
 
 <!-- freshness:clocks:start -->
 Last wiki update
-:   Last wiki update: Newest progress entry 2026-11-27. Wiki main commit 2026-11-27 (80065496, 2026-11-27T19:35:52-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.
+:   Last wiki update: Newest progress entry 2026-11-28. Wiki main commit 2026-11-27 (80065496, 2026-11-27T19:35:52-07:00). WetLabEngine main be1ab286. Research tip 7abbb1b8 on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.
 
 Progress: [/progress.jsonl](progress.jsonl) · [/llms.txt](llms.txt)
 
@@ -294,7 +294,7 @@ Three Python labs transferred from the same recoverability stack: preserve what 
 Search is full-text over the same document units a later embedding index would use — wiki pages, packages, field notes, glossary terms. Claim status travels with the snippet so a not-claimed 2025 sentence cannot look current.
 
 <!-- freshness:footer:start -->
-v15.03 release compile date 2026-10-10 · last X 2026-09-24 · Last wiki update 2026-11-27 · 85 wiki · 74 packages · 139 spine · 195 notebook
+v15.03 release compile date 2026-10-10 · last X 2026-09-24 · Last wiki update 2026-11-28 · 85 wiki · 74 packages · 139 spine · 195 notebook
 
-85 wiki · 74 packages · 139 spine · 195 notebook · v15.03 release compile date 2026-10-10 · Last wiki update 2026-11-27
+85 wiki · 74 packages · 139 spine · 195 notebook · v15.03 release compile date 2026-10-10 · Last wiki update 2026-11-28
 <!-- freshness:footer:end -->
