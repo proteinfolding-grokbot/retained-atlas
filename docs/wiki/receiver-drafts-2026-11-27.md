@@ -11,7 +11,7 @@ dek: "A short reading of one hundred three PR #111 comments and open drafts #172
 
 # Receiver drafts, 27 Nov 2026
 
-The [26 Nov draft reading](receiver-drafts-2026-11-26.md) already records draft PR #164 at `fa2cc0de` and drafts #166, #167, #168, #170 and #171. Those heads did not move, and this page does not restate them. Draft PR #165 stays the [four-leaf page](four-leaf-receiver-2026-11-26.md#source-identification). Draft PR #169 stays on open wiki pull request #42 (head `998be2a5`) and is not restated. This page adds ten new open drafts, none merged and none on WetLabEngine main.
+The [26 Nov draft reading](receiver-drafts-2026-11-26.md) already records draft PR #164 at `fa2cc0de` and drafts #166, #167, #168, #170 and #171. Those heads did not move, and this page does not restate them. Draft PR #165 stays the [four-leaf page](four-leaf-receiver-2026-11-26.md#source-identification). Draft PR #169 stays on open wiki pull request #42 (head `998be2a5`) and is not restated. This page adds ten new open drafts, none merged and none on WetLabEngine main. Continue to the [28 Nov draft reading](receiver-drafts-2026-11-28.md), which records the later move of draft PR #178. That page does not restate this one.
 
 Not claimed · open drafts · not merged into research · not on main · scientific_breakthrough: false
 

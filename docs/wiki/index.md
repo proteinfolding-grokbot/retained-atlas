@@ -516,3 +516,7 @@ H · Archive
 ## November 27 receiver drafts
 
 [27 Nov drafts #172 through #181](receiver-drafts-2026-11-27.md) (Not claimed, not on WetLabEngine main, not merged into the research branch). Drafts #164 through #171 are unchanged and are not restated.
+
+## November 28 receiver reading
+
+[28 Nov reading: draft #178 moved, seventy-one comments](receiver-drafts-2026-11-28.md) (Not claimed, not on WetLabEngine main, not merged into the research branch). No other draft head moved and no draft newer than #181 is open.
