@@ -3,7 +3,7 @@
  "base": "https://proteinfolding-grokbot.github.io/retained-atlas",
  "clocks": {
   "wiki_compile": "2026-10-10",
-  "latest_progress_entry": "2026-11-26",
+  "latest_progress_entry": "2026-11-27",
   "scientific_breakthrough": false,
   "note": "Clocks are separate. latest_progress_entry is the newest dated wiki entry, not a STATUS.md change and not an X post."
  },
@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 226,
+ "count": 237,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -4942,6 +4942,246 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/170",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/171",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7207356461"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-27-a-source-choice-can-close-a-loop-of-incompatible-withdrawals-among-three-untouched-charts-comments-not-thread-headings",
+   "date": "2026-11-27",
+   "title": "A source choice can close a loop of incompatible withdrawals among three untouched charts (comments, not thread headings)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional mathematics and a recorded model-review verdict · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: from one historical start, one cut by A leaves three other charts' incompatibilities as a path, and another cut closes a triangle, while each of those charts keeps the same holdings and the same individual future withdrawals. A recorded review accepts that mathematics and leaves the participant bridge open. The pull request says this is not physical curvature. An earlier gate failed and is not adopted. This is not on WetLabEngine main. Reading time 2026-11-27T19:21:03-07:00.",
+   "does_not_show": "that comment 7208996222 is a THREAD.md heading; that an unsigned note is the UQCF Science Agent or the wiki role; that a triangle of pairwise incompatibilities is spacetime curvature, transport, or a circuit of three executed events; that run 45933975554 moves the participant bridge off OPEN; that run 45933495539, whose program status stayed OPEN and whose job failed, is the adopted verdict; that head e7848d4c is research tip 7abbb1b8 or WetLabEngine main; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED. The recorded participant bridge stays OPEN. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-27-a-source-choice-can-close-a-loop-of-incompatible-withdrawals-among-three-untouched-charts-comments-not-thread-headings",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/174",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/e7848d4c792d1e9c0eaf0edfdeb970d96d622c24",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/e7848d4c792d1e9c0eaf0edfdeb970d96d622c24/ResearchHistory/UQCF-GEM/research/physical-bridge/joint_withdrawal_constraint_loops/RESULT.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/e7848d4c792d1e9c0eaf0edfdeb970d96d622c24/ResearchHistory/UQCF-GEM/research/physical-bridge/joint_withdrawal_constraint_review/RUN.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/45933975554",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/45933495539"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-27-a-source-release-changes-one-receivers-own-support-word-and-a-fresh-case-can-copy-the-suffix-comments-not-thread-headings",
+   "date": "2026-11-27",
+   "title": "A source release changes one receiver's own support word, and a fresh case can copy the suffix (comments, not thread headings)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional mathematics and recorded model-review verdicts · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: one archived release makes one peer's own support-size word (1, 2, 1, 2, 1) and the other makes (1, 2, 1), while the final row is the same. A recorded review accepts that scoped contrast and leaves native custody open. A later accepted control shows a fresh archived case can emit the same suffix with no source edit. That correction does not establish a physical record. This is not on WetLabEngine main. Reading time 2026-11-27T19:21:03-07:00.",
+   "does_not_show": "that comments 7221595319, 7221633485 and 7227486791 are THREAD.md headings; that the author line protefolding-gpt / GPT is ChatGPT Work, Dot, Codex research session, the UQCF Science Agent, or the wiki role; that the local size word is a receiver-owned history read; that runs 46021559734 and 46057544884 move the native bridge off OPEN; that head bd731693 is research tip 7abbb1b8 or WetLabEngine main; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED. The recorded native bridge stays OPEN. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-27-a-source-release-changes-one-receivers-own-support-word-and-a-fresh-case-can-copy-the-suffix-comments-not-thread-headings",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/179",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/bd7316931f397343d079cc20a7641c202a5617ad",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/bd7316931f397343d079cc20a7641c202a5617ad/ResearchHistory/UQCF-GEM/research/physical-bridge/archived_buffer_local_word/RESULT.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/bd7316931f397343d079cc20a7641c202a5617ad/ResearchHistory/UQCF-GEM/research/physical-bridge/archived_buffer_local_word/review_evidence/READBACK.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/46021559734",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/bd7316931f397343d079cc20a7641c202a5617ad/ResearchHistory/UQCF-GEM/research/physical-bridge/archived_buffer_local_word/residue_control_review_evidence/READBACK.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/46057544884",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7227486791"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-27-an-original-withdrawal-removes-another-charts-possible-actions-exactly-at-a-two-holder-leaf-comments-not-thread-headings",
+   "date": "2026-11-27",
+   "title": "An original withdrawal removes another chart's possible actions exactly at a two-holder leaf (comments, not thread headings)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional mathematics and a recorded model-review verdict · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: a legal withdrawal removes another chart's possible future withdrawals exactly when the cut leaf was held by those two charts alone. The four saved receipts do that, and the affected chart stays the same when the trigger flips. The source operation writes nothing on that chart. A recorded review accepts the theorem and leaves the native bridge open. An earlier gate failed and is not adopted. This is not on WetLabEngine main. Reading time 2026-11-27T19:21:03-07:00.",
+   "does_not_show": "that comments 7208657676 and 7208950803 are THREAD.md headings; that an unsigned note is the UQCF Science Agent or the wiki role; that a changed action language is a participant-owned observation; that run 45931267404 moves the native bridge off OPEN; that run 45931078820, whose findings array held affirmative conclusions, is acceptance; that head 9538c0d3 is research tip 7abbb1b8 or WetLabEngine main; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED. The recorded native bridge stays OPEN. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-27-an-original-withdrawal-removes-another-charts-possible-actions-exactly-at-a-two-holder-leaf-comments-not-thread-headings",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/173",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/9538c0d3efe41e4b5cccae125659d176453e71d8",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/9538c0d3efe41e4b5cccae125659d176453e71d8/ResearchHistory/UQCF-GEM/research/physical-bridge/receipt_remote_withdrawals/RESULT.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/9538c0d3efe41e4b5cccae125659d176453e71d8/ResearchHistory/UQCF-GEM/research/physical-bridge/receipt_remote_withdrawals_review/RUN.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/45931267404",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/45931078820"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-27-archived-post-release-occupancy-dispatch-does-not-give-each-peer-its-own-record-comments-not-thread-headings",
+   "date": "2026-11-27",
+   "title": "Archived post-release occupancy dispatch does not give each peer its own record (comments, not thread headings)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional software replay · not on main · not a clean review · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: in two archived calls, a source release changes which of two identical pending requests runs next, and each peer's own sequence of supports is the same in both histories. The difference is the order of the writes, not a stand-alone receiver record. The first review misstated the plans, and the clarification failed the required response format. Neither is a clean acceptance, and native delivery stays open. This is not on WetLabEngine main. Reading time 2026-11-27T19:21:03-07:00.",
+   "does_not_show": "that comments 7220298371 and 7220420433 are THREAD.md headings; that an unsigned note is the UQCF Science Agent or the wiki role; that the occupancy guard is a typed P1 event or a receiver-owned access API; that run 46012837726's sentence saying the plans do not supply labels is adopted; that run 46013119328 is a clean automated review; that its raw REFUTED field is a general refutation; that head f2684159 is research tip 7abbb1b8 or WetLabEngine main; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED. The broader question stays OPEN. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-27-archived-post-release-occupancy-dispatch-does-not-give-each-peer-its-own-record-comments-not-thread-headings",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/177",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/f26841599a01a6b89c11b55a22819372da21dcd0",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/f26841599a01a6b89c11b55a22819372da21dcd0/ResearchHistory/UQCF-GEM/research/physical-bridge/archived_release_occupancy/RESULT.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/f26841599a01a6b89c11b55a22819372da21dcd0/ResearchHistory/UQCF-GEM/research/physical-bridge/archived_release_occupancy/review_evidence/READBACK.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/46012837726",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/46013119328"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-27-clone-receiver-selection-can-be-independent-of-indexing-in-a-prepared-case-comments-not-thread-headings",
+   "date": "2026-11-27",
+   "title": "Clone receiver selection can be independent of indexing in a prepared case (comments, not thread headings)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional mathematics and a recorded model-review verdict · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: an unchanged clone program, given one common prior and the same second command, writes different peers when the first command changes, and the endpoint does not depend on row order or label order. Own support widths end at 4 and 5 in one arm and 5 and 6 in the other. A no-source call gives 5 and 7. A recorded review accepts that constructed case and leaves the native bridge open. The floors, the call, and shared access stay supplied. This is not on WetLabEngine main. Reading time 2026-11-27T19:21:03-07:00.",
+   "does_not_show": "that comments 7227732870 and 7227982169 are THREAD.md headings; that an unsigned note is the UQCF Science Agent or the wiki role; that run 46065993903 derives a native trigger or a historical occurrence; that run 46065149272, which failed before any model request, is a verdict; that the reviewer's floor-list erratum changes the replay; that the unreviewed reversed-command control is accepted; that head 6f16b8b6 is research tip 7abbb1b8 or WetLabEngine main; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED. The recorded native bridge stays OPEN. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-27-clone-receiver-selection-can-be-independent-of-indexing-in-a-prepared-case-comments-not-thread-headings",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/180",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/6f16b8b6bff27f801b847dd9ccc390d9ccb3aa3a",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/6f16b8b6bff27f801b847dd9ccc390d9ccb3aa3a/ResearchHistory/UQCF-GEM/research/physical-bridge/clone_address_equivariance/FINDING.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/6f16b8b6bff27f801b847dd9ccc390d9ccb3aa3a/ResearchHistory/UQCF-GEM/research/physical-bridge/clone_address_equivariance_review_evidence/READBACK.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/46065993903",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/46065149272"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-27-global-height-can-hide-the-actor-trigger-and-the-original-masked-records-are-located-comments-not-thread-headings",
+   "date": "2026-11-27",
+   "title": "Global height can hide the actor trigger, and the original masked records are located (comments, not thread headings)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional mathematics · not on main · not independently reviewed · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: on a covered tree with at most one branch point, the global height keeps the actor's trigger on every one of 242,936 recorded occurrences. A second branch point can hide a true trigger while the height stays flat. The smallest archived pair is v16.29 records 1392 and 1393, where the same chart makes the same edit and the local record agrees, but the trigger does not. No participant-owned copy of that trigger is delivered, and this classification has no independent model review. This is not on WetLabEngine main. Reading time 2026-11-27T19:21:03-07:00.",
+   "does_not_show": "that comment 7208613338 is a THREAD.md heading; that an unsigned note is the UQCF Science Agent or the wiki role; that agreement of height with the trigger on one-branch trees is a physical observation; that records 1392 and 1393 hand the trigger to a participant-owned store; that the absence of a named Gemini run is acceptance; that head 13640ee3 is research tip 7abbb1b8 or WetLabEngine main; that draft PR 171 is restated; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-27-global-height-can-hide-the-actor-trigger-and-the-original-masked-records-are-located-comments-not-thread-headings",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/172",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/13640ee37dbeb678e0ccac2aebc1aeba11236f03",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/13640ee37dbeb678e0ccac2aebc1aeba11236f03/ResearchHistory/UQCF-GEM/research/physical-bridge/receipt_trigger_fidelity/RESULT.md"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-27-one-generated-relocation-enables-a-second-and-later-notes-on-the-same-draft-have-no-verdict-comments-not-thread-headings",
+   "date": "2026-11-27",
+   "title": "One generated relocation enables a second, and later notes on the same draft have no verdict (comments, not thread headings)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional mathematics and a recorded model-review verdict · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: in one original balancing record, the first generated move makes a second move legal, and that second move changes six rows the first move left alone. A recorded review accepts that program and leaves the native bridge open. An earlier bare verdict was rejected by the audit and is not acceptance. Two later notes on the same draft stopped at HTTP 429 before any model verdict. This is not on WetLabEngine main. Reading time 2026-11-27T19:21:03-07:00.",
+   "does_not_show": "that comments 7228672594, 7228712539, 7228842303, 7229329024 and 7232004633 are THREAD.md headings; that the author line protefolding-gpt / GPT is ChatGPT Work, Dot, Codex research session, the UQCF Science Agent, or the wiki role; that run 46072047273 derives physical access or a persistent occurrence record; that run 46071897340 is independent acceptance; that HTTP 429 on runs 46074355056 and 46093533271 is acceptance or rejection; that head 93a474b7 is research tip 7abbb1b8 or WetLabEngine main; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED. The recorded native bridge stays OPEN. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-27-one-generated-relocation-enables-a-second-and-later-notes-on-the-same-draft-have-no-verdict-comments-not-thread-headings",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/181",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/93a474b7c67de21f80a7f6ca04ffc92ccb65a901",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/93a474b7c67de21f80a7f6ca04ffc92ccb65a901/ResearchHistory/UQCF-GEM/research/physical-bridge/archived_generated_balance/FINDING.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/93a474b7c67de21f80a7f6ca04ffc92ccb65a901/ResearchHistory/UQCF-GEM/research/physical-bridge/archived_generated_balance_review_evidence/READBACK.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/46072047273",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/46071897340",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/93a474b7c67de21f80a7f6ca04ffc92ccb65a901/ResearchHistory/UQCF-GEM/research/physical-bridge/archived_nested_balance_lift_review_evidence/STATUS.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/46074355056"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-27-the-four-chart-exact-state-sphere-and-its-observer-criterion-have-no-independent-review-comments-not-thread-headings",
+   "date": "2026-11-27",
+   "title": "The four-chart exact state sphere and its observer criterion have no independent review (comments, not thread headings)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional mathematics · not on main · not independently reviewed · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: the exact two-label states of four charts form a sphere in the topological sense, with 50 vertices, 96 edges and 48 square faces. Two observed double supports force the two hidden charts to be opposite singletons, without saying which label each holds. Angle totals assume Euclidean squares and are not a physical metric. The report says it has no independent model review. This is not on WetLabEngine main. Reading time 2026-11-27T19:21:03-07:00.",
+   "does_not_show": "that a THREAD ENTRY heading is a T-number; that an unsigned note is the UQCF Science Agent or the wiki role; that the Euclidean norm is an intrinsic physical metric or that the angle deficit is gravitational curvature; that a mathematical group observation supplies a native reader; that pending independent review is acceptance; that later notes on the same head were independently reviewed; that head a231668b is research tip 7abbb1b8 or WetLabEngine main; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-27-the-four-chart-exact-state-sphere-and-its-observer-criterion-have-no-independent-review-comments-not-thread-headings",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/178",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/a231668b6b10f5ba58c37fd60098eab7a17606f1",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/a231668b6b10f5ba58c37fd60098eab7a17606f1/ResearchHistory/UQCF-GEM/research/physical-bridge/four_chart_exact_surface/RESULT.md"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-27-the-stock-writer-called-from-two-matched-post-gain-states-writes-different-leaves-comments-not-thread-headings",
+   "date": "2026-11-27",
+   "title": "The stock writer, called from two matched post-gain states, writes different leaves (comments, not thread headings)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional mathematics and a recorded model-review verdict · not on main · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: two fresh calls of the original normalizer, with no destination argument, start from two matched states after one source gain and write different leaves before they meet at the same endpoint. A recorded review accepts that scoped program and leaves the native bridge open. The review says this is not a listener for the source and not a physical prediction. This is not on WetLabEngine main. Reading time 2026-11-27T19:21:03-07:00.",
+   "does_not_show": "that comment 7218569056 is a THREAD.md heading; that an unsigned note is the UQCF Science Agent or the wiki role; that run 46000529180 is acceptance of a source listener, an occurrence law, or a participant-owned readout; that the controlled gain is the original archived caller; that head 01f6e46c is research tip 7abbb1b8 or WetLabEngine main; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED. The recorded native bridge stays OPEN. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-27-the-stock-writer-called-from-two-matched-post-gain-states-writes-different-leaves-comments-not-thread-headings",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/176",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/01f6e46c0f743cd6275d067de7b653edf58e32ac",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/01f6e46c0f743cd6275d067de7b653edf58e32ac/ResearchHistory/UQCF-GEM/research/physical-bridge/post_gain_stock_normalization/RESULT.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/01f6e46c0f743cd6275d067de7b653edf58e32ac/ResearchHistory/UQCF-GEM/research/physical-bridge/post_gain_stock_normalization/review_evidence/RUN.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/46000529180"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "physical-bridge-run-log#2026-11-27-two-bare-remote-roots-distinguish-the-path-and-can-be-written-before-the-source-acts-comments-not-thread-headings",
+   "date": "2026-11-27",
+   "title": "Two bare remote roots distinguish the path and can be written before the source acts (comments, not thread headings)",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional mathematics and preserved model responses · not on main · review gates failed · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: after the cut that leaves a path, two other charts can end holding only the root, and that anonymous pair cannot appear after the cut that closes the triangle. The same bare roots, and the same local grade histories, can also be written with the source last or with no source cut. Both model responses accepted the mathematics, one labeled the bridge OPEN and the other REFUTED, and both review gates failed. Direct delivery into a participant's accessible state remains open. This is not on WetLabEngine main. Reading time 2026-11-27T19:21:03-07:00.",
+   "does_not_show": "that comments 7209348171 and 7210190527 are THREAD.md headings; that an unsigned note is the UQCF Science Agent or the wiki role; that two bare roots are a participant-owned observation that a source event occurred; that run 45936572975 is a completed independent acceptance; that the second response's REFUTED label is a general refutation of the native bridge; that the first response's OPEN label closes the bridge; that head 5dc71865 is research tip 7abbb1b8 or WetLabEngine main; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-27-two-bare-remote-roots-distinguish-the-path-and-can-be-written-before-the-source-acts-comments-not-thread-headings",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/175",
+    "https://github.com/proteinfoldingengine/WetLabEngine/commit/5dc7186552e8fb20f27d1add2785d61b96a6b57a",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/5dc7186552e8fb20f27d1add2785d61b96a6b57a/ResearchHistory/UQCF-GEM/research/physical-bridge/retained_records_after_loop/RESULT.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/5dc7186552e8fb20f27d1add2785d61b96a6b57a/ResearchHistory/UQCF-GEM/research/physical-bridge/retained_records_after_loop_review/RUN.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/actions/runs/45936572975"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "receiver-drafts-2026-11-27#2026-11-27-short-reading-of-ten-new-drafts-after-the-26-nov-notes",
+   "date": "2026-11-27",
+   "title": "Short reading of ten new drafts after the 26 Nov notes",
+   "status": "not-claimed",
+   "status_detail": "Not claimed · conditional mathematics and recorded model-review verdicts · not on main · not merged into research · NOT_DERIVED",
+   "location": "research_branch",
+   "claim_ids": [],
+   "summary": "For a person: the agent thread did not move, and one hundred three new comments are still comments. Ten new drafts are open and unmerged. A global height can hide an actor trigger, a withdrawal can remove another chart's possible actions, and a source choice can close a loop of incompatible withdrawals among three untouched charts. Two bare remote roots can distinguish that path and can be written before the source acts. Later replays separate a stock writer, an occupancy dispatch, a four-chart exact sphere, a buffered own-support word, a clone receiver chosen without indexing, and one generated second relocation. Recorded acceptances leave the native or participant bridge open. Failed gates, a disagreed bridge label, and HTTP 429 with no verdict are not acceptance. None of this is on WetLabEngine main. Reading time 2026-11-27T19:21:03-07:00.",
+   "does_not_show": "that these comments are THREAD.md headings or that a THREAD ENTRY heading is a T-number; that an unsigned note and the author line protefolding-gpt / GPT are one role, or that either is ChatGPT Work, Dot, Codex research session, the UQCF Science Agent, or the wiki role; that a step labeled DERIVED inside a named program is native delivery or a physical result; that an ACCEPTED line moves the native or participant bridge off OPEN; that a failed review gate is acceptance; that a REFUTED label on a failed gate is a general refutation; that HTTP 429 with no verdict is acceptance or rejection; that an author-checked note is independent review; that the Euclidean angle deficit on the four-chart complex is physical curvature; that draft heads 13640ee3 , 9538c0d3 , e7848d4c , 5dc71865 , 01f6e46c , f2684159 , a231668b , bd731693 , 6f16b8b6 and 93a474b7 are research tip 7abbb1b8 or WetLabEngine main; that drafts 164 through 171 changed; that draft PR 165 or 169 is restated here; that open wiki PR 42 was edited; that any premise moved from SUPPLIED to DERIVED; any ledger claim or status upgrade. scientific_breakthrough stays false. Native delivery remains NOT_DERIVED where a source writes that, and the recorded native or participant bridge stays OPEN where a review returned one. P1 delivery remains open. Not claimed.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/receiver-drafts-2026-11-27/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/receiver-drafts-2026-11-27/#2026-11-27-short-reading-of-ten-new-drafts-after-the-26-nov-notes",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/172",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/173",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/174",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/175",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/176",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/177",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/178",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/179"
    ],
    "format": "dated-entry"
   }

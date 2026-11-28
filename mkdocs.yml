@@ -23,4 +23,4 @@ extra_css:
 validation:
   links: {not_found: warn, unrecognized_links: info, anchors: warn}
   omitted_files: info
-copyright: "v15.03 release compile date 2026-10-10 from @aaronspradlin and proteinfoldingengine/WetLabEngine. Last wiki update 2026-11-26. Last ingested X 2026-09-24. Source-available for noncommercial research and evaluation only. No commercial, product, platform, or service use without written permission."
+copyright: "v15.03 release compile date 2026-10-10 from @aaronspradlin and proteinfoldingengine/WetLabEngine. Last wiki update 2026-11-27. Last ingested X 2026-09-24. Source-available for noncommercial research and evaluation only. No commercial, product, platform, or service use without written permission."
