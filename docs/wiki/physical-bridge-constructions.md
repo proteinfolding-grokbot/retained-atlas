@@ -42,7 +42,7 @@ These constructions build on existing, separately reviewed stack work and do not
 
 ### 2026-10-17 · recoverable_pruning_ledger
 
-Badge: **Restricted** · Gemini ACCEPTED · research branch · NOT_DERIVED
+Badge: **Restricted** · Gemini ACCEPTED · research branch · not on main · NOT_DERIVED
 
 - **Plain summary:** pruning in the ledger redistributes retained content to ancestors; it never creates information. Under a stated survivor-selection contract, the retained records form a decreasing, record-compatible chain, and the loss of recoverability has a definite direction.
 - **Does NOT show:** that pruning actually occurs natively, native receiver access, or a derived arrow of time. Witness D depends on supplied premise J.
@@ -74,7 +74,7 @@ Badge: **Not claimed** · draft · unreviewed on its own
 
 ### 2026-10-18 · observation_effect
 
-Badge: **Restricted** · Gemini ACCEPTED · research branch · NOT_DERIVED
+Badge: **Restricted** · Gemini ACCEPTED · research branch · not on main · NOT_DERIVED
 
 - **Plain summary:** observing changes later outcomes exactly when the next motion breaks the retained structure (this generalizes v15.17). In the which-path example the *unobserved* receiver keeps a full bit about the source and the observed one keeps none. A keep-or-reveal trade-off: for blurring (pinching) observations, a trace of size C that an observation happened costs a disturbance of about C² to the earlier record (sharp). The ledger's absorption step escapes this because it moves content instead of blurring it.
 - **Does NOT show:** why observation happens (an accepted input), the receiver link, or a derived bridge. Gemini labeled the bridge "derived" while listing hand-supplied inputs; that label was recorded, not adopted. The underlying quantity is the known "quantum witness" (Li et al. 2012; Schild and Emary 2015); only the fit into UQCF is new.
@@ -82,7 +82,7 @@ Badge: **Restricted** · Gemini ACCEPTED · research branch · NOT_DERIVED
 
 ### 2026-10-18 · receiver_identification, sections 0-18
 
-Badge: **Restricted** · Gemini ACCEPTED (six frozen reviews) · research branch · NOT_DERIVED
+Badge: **Restricted** · Gemini ACCEPTED (six frozen reviews) · research branch · not on main · NOT_DERIVED
 
 - **Plain summary:** the existing pruning rule picks the receiver by itself. When a pruned piece is absorbed, exactly one retained address (its owner) becomes able to tell the two histories apart; the difference passes up the lineage with one holder per step, is never copied, and adds no information. Under independent background noise the holder can read its own record without an extra channel. Exact rules say how much of the record survives each step, and the receiver can keep knowing *that* an event happened after the details are unrecoverable. The forced single step (section 16) sends the removed weight to its immediate parent. Under three locality rules, owning one's own entry is the only bookkeeping where every pruning counts as the receiver learning (section 17). Section 18 shows the receiver always holds a real trace of the source difference, and reduces the ownership assumptions to one premise, (H-J).
 - **Does NOT show:** the native access bridge. Still assumed: independent noise (where used), the receiver naming step, each pruning step occurring, the locality rules / (H-J), and E5. Gemini's "derived" labels were not adopted. GPT found a real formula error after the first acceptance; the draft-1 acceptance does not cover that formula, and the corrected draft 2 was re-reviewed.

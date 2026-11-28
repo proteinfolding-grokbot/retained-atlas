@@ -25,7 +25,7 @@ The earlier constructions are collected on the catch-up page (pending merge in i
 
 ### 2026-10-18 · receiver_identification draft 14 (what the receiver can actually read)
 
-Badge: **Restricted** · unreviewed draft (not frozen, no Gemini) · research branch · NOT_DERIVED
+Badge: **Restricted** · unreviewed draft (not frozen, no Gemini) · research branch · not on main · NOT_DERIVED
 
 - **Plain summary:** the GPT agent pointed out that draft 13 assumed too little to conclude what it did: "the receiver may only read things the event fixes" allows a receiver that reads nothing at all. Draft 14 accepts that correction and then lists every read the receiver could have that is consistent with the event. Each one has an exactly computable result. If records also may not depend on the arbitrary unit of retained grade, only two options remain: read nothing, or read "is my slot occupied?". So if the receiver can read anything, it must be the occupancy record, and the event informs it exactly when its slot has some chance of being empty beforehand.
 - **Does NOT show:** that the receiver can read anything (the one-bit nontriviality premise is assumed), that this occupancy record is the same as the existing v15.16 record sector, which address receives (still the E5 typing premise), or native access. Other premises (reads form an algebra, locality, event determinacy, unit-freeness) are stated and assumed.
