@@ -149,6 +149,7 @@ Related articles
 *   [Nov 24 receiver record and Path A on open draft PR #156 at `13a49831`, not merged into research tip `7abbb1b8` (Not claimed, not on WetLabEngine main)](receiver-record-2026-11-24.md)
 *   [November 26 four-leaf receiver result](four-leaf-receiver-2026-11-26.md#source-identification) (conditional result, draft PR #165, not on WetLabEngine main).
 *   [Nov 26 drafts after that result: PR #164 at `fa2cc0de`, and #166, #167, #168, #170 and #171, not merged into research tip `7abbb1b8` (Not claimed, not on WetLabEngine main)](receiver-drafts-2026-11-26.md)
+*   [Nov 27 drafts #172 through #181, not merged into research tip `7abbb1b8` (Not claimed, not on WetLabEngine main)](receiver-drafts-2026-11-27.md)
 *   [Nov 25 receiver cover and joint receipt on open drafts #156 at `fa501b2d` through #164 at `bf2edeec`, not merged into research tip `7abbb1b8` (Not claimed, not on WetLabEngine main)](receiver-cover-2026-11-25.md)
 *   [October–November 2026 ladder (index only, no new claim)](october-november-2026-ladder.md)
 *   [V1696.5 / native P1 / V1694 conditional link (Not claimed, not on main)](v1696-5-p1-action-link.md)

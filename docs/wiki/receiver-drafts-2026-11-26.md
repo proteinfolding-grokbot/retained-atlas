@@ -11,7 +11,7 @@ dek: "A short reading of eighty-nine PR #111 comments and open drafts #164 at fa
 
 # Receiver drafts after the four-leaf result, 26 Nov 2026
 
-The [four-leaf first-loss result](four-leaf-receiver-2026-11-26.md#source-identification) on draft PR #165 is already on this wiki. This page does not restate it. Draft PR #169 is recorded on open wiki pull request #42 (head `998be2a5`, branch `bot/nov26-receiver-research-follow-up`) and is not restated here. That pull request also drafts a human explanation of the equal-population triple reads. This page adds only the review archive that explanation does not name.
+The [four-leaf first-loss result](four-leaf-receiver-2026-11-26.md#source-identification) on draft PR #165 is already on this wiki. This page does not restate it. Draft PR #169 is recorded on open wiki pull request #42 (head `998be2a5`, branch `bot/nov26-receiver-research-follow-up`) and is not restated here. That pull request also drafts a human explanation of the equal-population triple reads. This page adds only the review archive that explanation does not name. Continue to the [27 Nov draft reading](receiver-drafts-2026-11-27.md). That page does not restate this one.
 
 Not claimed · open drafts · not merged into research · not on main · scientific_breakthrough: false
 
